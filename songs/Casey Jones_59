@@ -4,7 +4,6 @@
 <title>Casey Jones</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Casey Jones</div>
 
@@ -346,9 +345,7 @@
 <tr valign="top"><td>12/16/1992</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1992-12-16">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/27/1993</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Cassidy</td><td>&mdash;&mdash;</td><td align="center">20</td><td>[<a href="/1993-03-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

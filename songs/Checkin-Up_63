@@ -4,7 +4,6 @@
 <title>Checkin Up</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Checkin Up</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>6/6/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Me  and  My Unc</td><td>BIODTL</td><td align="center">422</td><td>[<a href="/1969-06-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

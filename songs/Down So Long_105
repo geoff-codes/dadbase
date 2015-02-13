@@ -4,7 +4,6 @@
 <title>Down So Long</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Down So Long</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>11/29/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Something On Yo</td><td align="center">-2574</td><td>[<a href="/1966-11-29">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SII</td><td>My Own Fault</td><td>Cold Rain</td><td align="center">2</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

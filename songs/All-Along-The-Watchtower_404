@@ -4,7 +4,6 @@
 <title>All Along The Watchtower</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">All Along The Watchtower</div>
 
@@ -138,9 +137,7 @@
 <tr valign="top"><td>5/28/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SII</td><td>Drumz</td><td>Black Peter</td><td align="center">11</td><td>[<a href="/1995-05-28">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Space</td><td>Black Peter</td><td align="center">9</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

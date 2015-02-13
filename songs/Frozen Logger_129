@@ -4,7 +4,6 @@
 <title>Frozen Logger</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Frozen Logger</div>
 
@@ -26,9 +25,7 @@
 <tr valign="top"><td>3/17/1975</td><td>Mill Valley, CA (Ace's)</td><td align="center">*</td><td>Music Never Sto</td><td>Jam</td><td align="center">1983</td><td>[<a href="/1975-03-17">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>9/7/1985</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Half Step</td><td align="center">-1163</td><td>[<a href="/1985-09-07">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

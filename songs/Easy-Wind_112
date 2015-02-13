@@ -4,7 +4,6 @@
 <title>Easy Wind</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Easy Wind</div>
 
@@ -60,9 +59,7 @@
 <tr valign="top"><td>2/21/1971</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>Loser</td><td>Playin</td><td align="center">2</td><td>[<a href="/1971-02-21">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/4/1971</td><td>New York, NY (Manhattan Center)</td><td align="center">SI</td><td>Loser</td><td>Bobby McGee</td><td align="center">13</td><td>[<a href="/1971-04-04">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

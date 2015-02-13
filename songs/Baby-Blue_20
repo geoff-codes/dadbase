@@ -4,7 +4,6 @@
 <title>Baby Blue</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Baby Blue</div>
 
@@ -161,9 +160,7 @@
 <tr valign="top" class="row2"><td>12/18/1994</td><td>Los Angeles, CA (Los Angeles Sports Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1994-12-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>2/19/1995</td><td>Salt Lake City, UT (Delta Center)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1995-02-19">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

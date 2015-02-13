@@ -4,7 +4,6 @@
 <title>Franklin's Tower</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Franklin's Tower</div>
 
@@ -235,9 +234,7 @@
 <tr valign="top" class="row2"><td>5/26/1995</td><td>Seattle, WA (Seattle Center Memorial Coliseum)</td><td align="center">SI</td><td>Slipknot</td><td>Same Thing</td><td align="center">12</td><td>[<a href="/1995-05-26">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Slipknot</td><td>Samba</td><td align="center">10</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

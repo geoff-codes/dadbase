@@ -4,7 +4,6 @@
 <title>Day Job</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Day Job</div>
 
@@ -77,9 +76,7 @@
 <tr valign="top" class="row2"><td>3/27/1986</td><td>Portland, ME (Cumberland County Civic Center)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1986-03-27">Setlist</a>]</td></tr>
 <tr valign="top"><td>4/4/1986</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>Greatest</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1986-04-04">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

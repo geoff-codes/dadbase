@@ -4,7 +4,6 @@
 <title>Kansas City</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Kansas City</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>10/28/1985</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SI</td><td>Sugaree</td><td>Peggy-O</td><td align="center">1592</td><td>[<a href="/1985-10-28">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>11/5/1985</td><td>Worcester, MA (The Centrum)</td><td align="center">SI</td><td>TLEO</td><td>Tennessee Jed</td><td align="center">6</td><td>[<a href="/1985-11-05">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

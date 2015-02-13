@@ -4,7 +4,6 @@
 <title>Midnight Hour</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Midnight Hour</div>
 
@@ -70,9 +69,7 @@
 <tr valign="top"><td>10/5/1994</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Cumberland</td><td align="center">13</td><td>[<a href="/1994-10-05">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>10/17/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">9</td><td>[<a href="/1994-10-17">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

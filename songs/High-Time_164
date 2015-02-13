@@ -4,7 +4,6 @@
 <title>High Time</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">High Time</div>
 
@@ -152,9 +151,7 @@
 <tr valign="top"><td>10/11/1994</td><td>Landover, MD (USAir Arena)</td><td align="center">SI</td><td>All Over Now</td><td>Shoe Fits</td><td align="center">25</td><td>[<a href="/1994-10-11">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/24/1995</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>Minglewood</td><td>Shoe Fits</td><td align="center">29</td><td>[<a href="/1995-03-24">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

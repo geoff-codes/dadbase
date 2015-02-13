@@ -4,7 +4,6 @@
 <title>Walkin Blues</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Walkin Blues</div>
 
@@ -155,9 +154,7 @@
 <tr valign="top" class="row2"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Touch</td><td>Roses</td><td align="center">8</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>H. C. Sunshine</td><td>Dire Wolf</td><td align="center">6</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

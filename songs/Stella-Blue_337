@@ -4,7 +4,6 @@
 <title>Stella Blue</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Stella Blue</div>
 
@@ -339,9 +338,7 @@
 <tr valign="top" class="row2"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SII</td><td>Other One</td><td>Throwing Stones</td><td align="center">4</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/6/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SII</td><td>Last Time</td><td>Around</td><td align="center">10</td><td>[<a href="/1995-07-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

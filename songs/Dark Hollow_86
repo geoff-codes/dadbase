@@ -4,7 +4,6 @@
 <title>Dark Hollow</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Dark Hollow</div>
 
@@ -47,9 +46,7 @@
 <tr valign="top" class="row2"><td>10/26/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>Iko Iko</td><td>Roses</td><td align="center">2</td><td>[<a href="/1980-10-26">Setlist</a>]</td></tr>
 <tr valign="top"><td>10/30/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>Deep Elem</td><td>All Around This</td><td align="center">3</td><td>[<a href="/1980-10-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Uncle John's Band</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Uncle John's Band</div>
 
@@ -341,9 +340,7 @@
 <tr valign="top" class="row2"><td>6/3/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SII</td><td>Playin</td><td>Drumz</td><td align="center">4</td><td>[<a href="/1995-06-03">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/28/1995</td><td>Auburn Hills, MI (The Palace)</td><td align="center">SII</td><td>Estimated</td><td>Drumz</td><td align="center">10</td><td>[<a href="/1995-06-28">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

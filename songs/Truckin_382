@@ -4,7 +4,6 @@
 <title>Truckin</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Truckin</div>
 
@@ -524,9 +523,7 @@
 <tr valign="top"><td>6/25/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SII</td><td>Ship Of Fools</td><td>Rollin  and  Tu</td><td align="center">6</td><td>[<a href="/1995-06-25">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/6/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SII</td><td>Samba</td><td>He's Gone</td><td align="center">6</td><td>[<a href="/1995-07-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

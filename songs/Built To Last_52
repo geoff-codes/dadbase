@@ -4,7 +4,6 @@
 <title>Built To Last</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Built To Last</div>
 
@@ -36,9 +35,7 @@
 <tr valign="top"><td>10/19/1989</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Victim</td><td>Blow Away</td><td align="center">2</td><td>[<a href="/1989-10-19">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/26/1990</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Victim</td><td align="center">26</td><td>[<a href="/1990-03-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Cream Puff War</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Cream Puff War</div>
 
@@ -28,9 +27,7 @@
 <tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SI</td><td>Me  and  My Unc</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/18/1967</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Golden Road</td><td>Same Thing*</td><td align="center">38</td><td>[<a href="/1967-03-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

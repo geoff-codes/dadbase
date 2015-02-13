@@ -4,7 +4,6 @@
 <title>Feedback</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Feedback</div>
 
@@ -73,9 +72,7 @@
 <tr valign="top" class="row2"><td>9/20/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Caution</td><td>We Bid You Good</td><td align="center">46</td><td>[<a href="/1970-09-20">Setlist</a>]</td></tr>
 <tr valign="top"><td>3/18/1971</td><td>St. Louis, MO (Fox Theatre)</td><td align="center">SII</td><td>Caution</td><td>Uncle John</td><td align="center">55</td><td>[<a href="/1971-03-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

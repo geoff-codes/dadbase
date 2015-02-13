@@ -4,7 +4,6 @@
 <title>Till The Morning Comes</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Till The Morning Comes</div>
 
@@ -25,9 +24,7 @@
 <tr valign="top" class="row2"><td>12/22/1970</td><td>Sacramento, CA (Sacramento Memorial Auditorium)</td><td align="center"></td><td></td><td></td><td align="center">20</td><td>[<a href="/1970-12-22">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/26/1970</td><td>El Monte, CA (Legion Stadium)</td><td align="center">SI</td><td>Easy Wind</td><td>Truckin </td><td align="center">2</td><td>[<a href="/1970-12-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

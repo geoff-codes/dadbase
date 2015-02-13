@@ -4,7 +4,6 @@
 <title>Wave To The Wind</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Wave To The Wind</div>
 
@@ -39,9 +38,7 @@
 <tr valign="top" class="row2"><td>9/30/1993</td><td>Boston, MA (Boston Garden)</td><td align="center">SII</td><td>Lucy In The Sky</td><td>Crazy Fingers</td><td align="center">18</td><td>[<a href="/1993-09-30">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/9/1993</td><td>Los Angeles, CA (Los Angeles Sports Arena)</td><td align="center">SII</td><td>Estimated</td><td>He's Gone</td><td align="center">2</td><td>[<a href="/1993-12-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

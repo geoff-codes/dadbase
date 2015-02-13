@@ -4,7 +4,6 @@
 <title>Cosmic Charlie</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Cosmic Charlie</div>
 
@@ -61,9 +60,7 @@
 <tr valign="top" class="row2"><td>7/16/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">SII</td><td>King Solomon's </td><td>Samson</td><td align="center">9</td><td>[<a href="/1976-07-16">Setlist</a>]</td></tr>
 <tr valign="top"><td>9/25/1976</td><td>Landover, MD (Capital Centre)</td><td align="center">SII</td><td>Dancin</td><td>Scarlet</td><td align="center">7</td><td>[<a href="/1976-09-25">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

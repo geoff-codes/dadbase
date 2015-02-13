@@ -4,7 +4,6 @@
 <title>Mona</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mona</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>10/27/1991</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SII</td><td>Iko Iko</td><td>Drumz</td><td align="center">2036</td><td>[<a href="/1991-10-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

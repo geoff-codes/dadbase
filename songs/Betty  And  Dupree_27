@@ -4,7 +4,6 @@
 <title>Betty  And  Dupree</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Betty  And  Dupree</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SI</td><td>Minglewood</td><td>Next Time</td><td align="center">103</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Something On Your Mind</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Something On Your Mind</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>11/29/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SII</td><td>Down So Long</td><td>Overseas Stomp</td><td align="center">101</td><td>[<a href="/1966-11-29">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SIII</td><td>Deep Elem</td><td>Big Boy Pete</td><td align="center">2</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

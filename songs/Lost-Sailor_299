@@ -4,7 +4,6 @@
 <title>Lost Sailor</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Lost Sailor</div>
 
@@ -160,9 +159,7 @@
 <tr valign="top"><td>2/14/1986</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SII</td><td>Keep On Growing</td><td>Saint</td><td align="center">9</td><td>[<a href="/1986-02-14">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/24/1986</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>High Time</td><td>Saint</td><td align="center">5</td><td>[<a href="/1986-03-24">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

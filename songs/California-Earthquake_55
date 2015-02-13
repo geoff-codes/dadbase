@@ -4,7 +4,6 @@
 <title>California Earthquake</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">California Earthquake</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>10/23/1989</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Stranger</td><td align="center">1883</td><td>[<a href="/1989-10-23">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

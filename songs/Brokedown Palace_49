@@ -4,7 +4,6 @@
 <title>Brokedown Palace</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Brokedown Palace</div>
 
@@ -229,9 +228,7 @@
 <tr valign="top" class="row2"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/25/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1995-06-25">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

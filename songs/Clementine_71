@@ -4,7 +4,6 @@
 <title>Clementine</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Clementine</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>11/5/1968</td><td>San Mateo, CA (Pacific Recording)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1968-11-05">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>1/26/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>Cryptical</td><td>Death Don't</td><td align="center">-2339</td><td>[<a href="/1969-01-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

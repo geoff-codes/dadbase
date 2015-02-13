@@ -4,7 +4,6 @@
 <title>Loser</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Loser</div>
 
@@ -362,9 +361,7 @@
 <tr valign="top"><td>6/21/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Bucket</td><td>Take Me</td><td align="center">25</td><td>[<a href="/1995-06-21">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/28/1995</td><td>Auburn Hills, MI (The Palace)</td><td align="center">SI</td><td>Schoolgirl</td><td>B. T. Wind</td><td align="center">5</td><td>[<a href="/1995-06-28">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

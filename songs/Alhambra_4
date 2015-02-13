@@ -4,7 +4,6 @@
 <title>Alhambra</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Alhambra</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>3/18/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Terrapin</td><td>Drums</td><td align="center">967</td><td>[<a href="/1977-03-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

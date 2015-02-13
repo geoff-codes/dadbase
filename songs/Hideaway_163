@@ -4,7 +4,6 @@
 <title>Hideaway</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hideaway</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>4/2/1975</td><td>Mill Valley, CA (Ace's)</td><td align="center">*</td><td>Music</td><td>Shuffle</td><td align="center">2048</td><td>[<a href="/1975-04-02">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/21/1989</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Touch</td><td align="center">-901</td><td>[<a href="/1989-06-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

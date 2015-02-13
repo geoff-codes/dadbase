@@ -4,7 +4,6 @@
 <title>I Hear A Voice Callin</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">I Hear A Voice Callin</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>7/30/1970</td><td>San Francisco, CA (The Matrix)</td><td align="center">*</td><td>Rosalie McFall</td><td>Swing Low</td><td align="center">26</td><td>[<a href="/1970-07-30">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/27/1970</td><td>Pasadena, CA (KPPC Studios)</td><td align="center">*</td><td>Cold Jordan</td><td>Swing Low</td><td align="center">2136</td><td>[<a href="/1970-12-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

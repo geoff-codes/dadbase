@@ -4,7 +4,6 @@
 <title>They Love Each Other</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">They Love Each Other</div>
 
@@ -243,9 +242,7 @@
 <tr valign="top" class="row2"><td>12/18/1993</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Jack Straw</td><td>Spoonful</td><td align="center">22</td><td>[<a href="/1993-12-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>9/27/1994</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Stranger</td><td>Minglewood</td><td align="center">57</td><td>[<a href="/1994-09-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

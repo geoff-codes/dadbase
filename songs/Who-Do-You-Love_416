@@ -4,7 +4,6 @@
 <title>Who Do You Love</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Who Do You Love</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>11/11/1970</td><td>Brooklyn, NY (46th Street Rock Palace)</td><td align="center">*</td><td>NFA</td><td>Drums</td><td align="center">622</td><td>[<a href="/1970-11-11">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>5/11/1972</td><td>Rotterdam, The Netherlands (Grote Zaal de Doel...)</td><td align="center">SII</td><td>Caution</td><td>Truckin</td><td align="center">123</td><td>[<a href="/1972-05-11">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

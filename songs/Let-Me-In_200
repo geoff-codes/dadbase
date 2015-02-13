@@ -4,7 +4,6 @@
 <title>Let Me In</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Let Me In</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>7/4/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">*</td><td>Doin' That Rag</td><td>Dire Wolf</td><td align="center">437</td><td>[<a href="/1969-07-04">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>11/21/1970</td><td>Boston, MA,  (WBCN Studios)</td><td align="center">*</td><td>Angie</td><td>&mdash;&mdash;</td><td align="center">2280</td><td>[<a href="/1970-11-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

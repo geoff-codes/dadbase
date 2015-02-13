@@ -4,7 +4,6 @@
 <title>Dire Wolf</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Dire Wolf</div>
 
@@ -244,9 +243,7 @@
 <tr valign="top"><td>5/29/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SI</td><td>Walking Blues</td><td>B. T. Wind</td><td align="center">52</td><td>[<a href="/1995-05-29">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Walking Blues</td><td>All Over Now</td><td align="center">14</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

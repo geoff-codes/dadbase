@@ -4,7 +4,6 @@
 <title>Smokestack Lightnin</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Smokestack Lightnin</div>
 
@@ -76,9 +75,7 @@
 <tr valign="top"><td>7/2/1994</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SII</td><td>Truckin</td><td>He's Gone</td><td align="center">36</td><td>[<a href="/1994-07-02">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>10/18/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SII</td><td>He's Gone</td><td>Truckin</td><td align="center">36</td><td>[<a href="/1994-10-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

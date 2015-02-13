@@ -4,7 +4,6 @@
 <title>Hey Pocky Way</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hey Pocky Way</div>
 
@@ -41,9 +40,7 @@
 <tr valign="top" class="row2"><td>3/28/1990</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SII</td><td>The Weight</td><td>Drumz</td><td align="center">5</td><td>[<a href="/1990-03-28">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/22/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SII</td><td>Samson</td><td>Estimated</td><td align="center">26</td><td>[<a href="/1990-07-22">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

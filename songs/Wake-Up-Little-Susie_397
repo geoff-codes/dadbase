@@ -4,7 +4,6 @@
 <title>Wake Up Little Susie</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Wake Up Little Susie</div>
 
@@ -31,9 +30,7 @@
 <tr valign="top" class="row2"><td>8/19/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Cumberland</td><td>New Speedway</td><td align="center">7</td><td>[<a href="/1970-08-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>FOTD</td><td>Uncle John</td><td align="center">27</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

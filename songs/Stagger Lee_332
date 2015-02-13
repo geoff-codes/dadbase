@@ -4,7 +4,6 @@
 <title>Stagger Lee</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Stagger Lee</div>
 
@@ -162,9 +161,7 @@
 <tr valign="top"><td>6/3/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Broken Arrow</td><td>Eternity</td><td align="center">11</td><td>[<a href="/1995-06-03">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/18/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Same Thing</td><td>Eternity</td><td align="center">3</td><td>[<a href="/1995-06-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

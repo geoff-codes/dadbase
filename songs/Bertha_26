@@ -4,7 +4,6 @@
 <title>Bertha</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Bertha</div>
 
@@ -409,9 +408,7 @@
 <tr valign="top" class="row2"><td>6/18/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Stranger</td><td>Same Thing</td><td align="center">2</td><td>[<a href="/1995-06-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/27/1995</td><td>Auburn Hills, MI (The Palace)</td><td align="center">SI</td><td>Greatest</td><td>Minglewood</td><td align="center">6</td><td>[<a href="/1995-06-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

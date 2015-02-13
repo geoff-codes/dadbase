@@ -4,7 +4,6 @@
 <title>Baby What You Want</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Baby What You Want</div>
 
@@ -23,9 +22,7 @@
 <tr valign="top" class="row2"><td>3/29/1985</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SII</td><td>GDTRFB</td><td>Drumz</td><td align="center">13</td><td>[<a href="/1985-03-29">Setlist</a>]</td></tr>
 <tr valign="top"><td>11/8/1985</td><td>Rochester, NY (Community War Memorial)</td><td align="center">SI</td><td>B. E. Women</td><td>Jack Straw</td><td align="center">48</td><td>[<a href="/1985-11-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

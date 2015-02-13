@@ -4,7 +4,6 @@
 <title>Spoonful</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Spoonful</div>
 
@@ -70,9 +69,7 @@
 <tr valign="top"><td>10/19/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Bertha</td><td>Jack A Roe</td><td align="center">8</td><td>[<a href="/1994-10-19">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>12/8/1994</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Bertha</td><td>Jack A Roe</td><td align="center">4</td><td>[<a href="/1994-12-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Ripple</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Ripple</div>
 
@@ -57,9 +56,7 @@
 <tr valign="top" class="row2"><td>10/16/1981</td><td>Amsterdam, The Netherlands (Melk Weg)</td><td align="center">SI</td><td>Race Is On</td><td>&mdash;&mdash;</td><td align="center">66</td><td>[<a href="/1981-10-16">Setlist</a>]</td></tr>
 <tr valign="top"><td>9/3/1988</td><td>Landover, MD (Capital Centre)</td><td align="center">Enc</td><td>Saturday Night</td><td>&mdash;&mdash;</td><td align="center">459</td><td>[<a href="/1988-09-03">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

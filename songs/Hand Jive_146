@@ -4,7 +4,6 @@
 <title>Hand Jive</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hand Jive</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>12/16/1986</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SII</td><td>Drumz</td><td>Iko Iko</td><td align="center">22</td><td>[<a href="/1986-12-16">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/4/1987</td><td>Worcester, MA (The Centrum)</td><td align="center">SII</td><td>Comes A Time</td><td>Drumz</td><td align="center">22</td><td>[<a href="/1987-04-04">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

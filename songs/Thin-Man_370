@@ -4,7 +4,6 @@
 <title>Thin Man</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Thin Man</div>
 
@@ -26,9 +25,7 @@
 <tr valign="top"><td>7/26/1987</td><td>Anaheim, CA (Anaheim Stadium)</td><td align="center">SIII</td><td>Memphis Blues</td><td>Rainy Day Women</td><td align="center">1</td><td>[<a href="/1987-07-26">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/27/1988</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Stagger Lee</td><td>Cumberland</td><td align="center">46</td><td>[<a href="/1988-03-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

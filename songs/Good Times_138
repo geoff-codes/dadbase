@@ -4,7 +4,6 @@
 <title>Good Times</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Good Times</div>
 
@@ -60,9 +59,7 @@
 <tr valign="top"><td>3/25/1990</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Jack A Roe</td><td align="center">8</td><td>[<a href="/1990-03-25">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/23/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SI</td><td>Picasso Moon</td><td>Stagger Lee</td><td align="center">29</td><td>[<a href="/1990-07-23">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

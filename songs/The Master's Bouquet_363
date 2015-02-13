@@ -4,7 +4,6 @@
 <title>The Master's Bouquet</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">The Master's Bouquet</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>12/26/1969</td><td>Dallas, TX (McFarlin Auditorium, S.M.U.)</td><td align="center">SI</td><td>All Around This</td><td>Black Peter</td><td align="center">493</td><td>[<a href="/1969-12-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

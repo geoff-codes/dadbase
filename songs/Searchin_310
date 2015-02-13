@@ -4,7 +4,6 @@
 <title>Searchin</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Searchin</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>New Orleans</td><td>Baby Blue</td><td align="center">166</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
 <tr valign="top"><td>4/27/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Dire Wolf</td><td>Riot In Cell Bl</td><td align="center">57</td><td>[<a href="/1971-04-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

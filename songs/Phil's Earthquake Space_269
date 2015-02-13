@@ -4,7 +4,6 @@
 <title>Phil's Earthquake Space</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Phil's Earthquake Space</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>4/18/1982</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SII</td><td>Drumz</td><td>Other One</td><td align="center">1366</td><td>[<a href="/1982-04-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Sunrise</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Sunrise</div>
 
@@ -48,9 +47,7 @@
 <tr valign="top"><td>5/6/1978</td><td>Burlington, VT (Patrick Gym, UVM)</td><td align="center">SII</td><td>Samson</td><td>Terrapin</td><td align="center">8</td><td>[<a href="/1978-05-06">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>9/16/1978</td><td>Cairo, Egypt (Gizah Sound and Light Theater)</td><td align="center">SII</td><td>All Over Now </td><td>Shakedown </td><td align="center">21</td><td>[<a href="/1978-09-16">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

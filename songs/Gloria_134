@@ -4,7 +4,6 @@
 <title>Gloria</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Gloria</div>
 
@@ -33,9 +32,7 @@
 <tr valign="top" class="row2"><td>9/18/1993</td><td>New York, NY (Madison Square Garden)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">22</td><td>[<a href="/1993-09-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/30/1995</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">143</td><td>[<a href="/1995-06-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

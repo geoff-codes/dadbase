@@ -4,7 +4,6 @@
 <title>Comes A Time</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Comes A Time</div>
 
@@ -84,9 +83,7 @@
 <tr valign="top"><td>3/27/1993</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Estimated</td><td>Corinna</td><td align="center">91</td><td>[<a href="/1993-03-27">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>10/9/1994</td><td>Landover, MD (USAir Arena)</td><td align="center">SII</td><td>Miracle</td><td>Throwing Stones</td><td align="center">127</td><td>[<a href="/1994-10-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

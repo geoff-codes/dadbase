@@ -4,7 +4,6 @@
 <title>It's All Over Now</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">It's All Over Now</div>
 
@@ -175,9 +174,7 @@
 <tr valign="top" class="row2"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Ramble On</td><td>Lazy River Road</td><td align="center">21</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Dire Wolf</td><td>Broken Arrow</td><td align="center">8</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

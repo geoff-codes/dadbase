@@ -4,7 +4,6 @@
 <title>The Rub</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">The Rub</div>
 
@@ -29,9 +28,7 @@
 <tr valign="top" class="row2"><td>7/2/1971</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Loser</td><td>Me  and  My Unc</td><td align="center">2</td><td>[<a href="/1971-07-02">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/1/1971</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>Jack Straw</td><td>Tennessee Jed</td><td align="center">29</td><td>[<a href="/1971-12-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

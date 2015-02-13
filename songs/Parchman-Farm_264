@@ -4,7 +4,6 @@
 <title>Parchman Farm</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Parchman Farm</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>1/7/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">*</td><td>Death Don't</td><td>Midnight Hour</td><td align="center">17</td><td>[<a href="/1966-01-07">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

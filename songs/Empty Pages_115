@@ -4,7 +4,6 @@
 <title>Empty Pages</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Empty Pages</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>8/26/1971</td><td>Bronx, NY (Gaelic Park)</td><td align="center">SI</td><td>Sugar Magnolia</td><td>Good Lovin</td><td align="center">692</td><td>[<a href="/1971-08-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

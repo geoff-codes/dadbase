@@ -4,7 +4,6 @@
 <title>Supplication</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Supplication</div>
 
@@ -123,9 +122,7 @@
 <tr valign="top" class="row2"><td>10/31/1984</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>Lazy Lightning</td><td>Don't Ease</td><td align="center">12</td><td>[<a href="/1984-10-31">Setlist</a>]</td></tr>
 <tr valign="top"><td>5/22/1993</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Broken Arrow</td><td>Stagger Lee</td><td align="center">597</td><td>[<a href="/1993-05-22">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

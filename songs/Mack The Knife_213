@@ -4,7 +4,6 @@
 <title>Mack The Knife</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mack The Knife</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>11/30/1981</td><td>Dayton, OH (Hara Arena)</td><td align="center">SI</td><td>Minglewood</td><td>Bird Song</td><td align="center">1335</td><td>[<a href="/1981-11-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

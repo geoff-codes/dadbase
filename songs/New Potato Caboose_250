@@ -4,7 +4,6 @@
 <title>New Potato Caboose</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">New Potato Caboose</div>
 
@@ -45,9 +44,7 @@
 <tr valign="top" class="row2"><td>3/1/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Cryptical</td><td>Doin That Rag</td><td align="center">24</td><td>[<a href="/1969-03-01">Setlist</a>]</td></tr>
 <tr valign="top"><td>5/9/1969</td><td>San Mateo, CA (Hall Of Flowers, County Fairgro...)</td><td align="center">*</td><td>Doin That Rag</td><td>Lovelight</td><td align="center">30</td><td>[<a href="/1969-05-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

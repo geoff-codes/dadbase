@@ -4,7 +4,6 @@
 <title>Box Of Rain</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Box Of Rain</div>
 
@@ -181,9 +180,7 @@
 <tr valign="top" class="row2"><td>6/30/1995</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SII</td><td>Rain</td><td>Samba</td><td align="center">3</td><td>[<a href="/1995-06-30">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/9/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">Enc</td><td>Black Muddy Riv</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1995-07-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

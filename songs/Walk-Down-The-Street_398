@@ -4,7 +4,6 @@
 <title>Walk Down The Street</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Walk Down The Street</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>4/18/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Roberta</td><td>The Flood</td><td align="center">547</td><td>[<a href="/1970-04-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

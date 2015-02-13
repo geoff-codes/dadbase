@@ -4,7 +4,6 @@
 <title>That Would Be Something</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">That Would Be Something</div>
 
@@ -35,9 +34,7 @@
 <tr valign="top" class="row2"><td>6/15/1995</td><td>Highgate, VT (Franklin County Field)</td><td align="center">SII</td><td>Rollin  and  Tu</td><td>He's Gone</td><td align="center">3</td><td>[<a href="/1995-06-15">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/24/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SII</td><td>New Speedway</td><td>Drumz</td><td align="center">5</td><td>[<a href="/1995-06-24">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

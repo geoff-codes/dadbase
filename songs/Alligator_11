@@ -4,7 +4,6 @@
 <title>Alligator</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Alligator</div>
 
@@ -77,9 +76,7 @@
 <tr valign="top" class="row2"><td>7/10/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Minglewood</td><td>Drums</td><td align="center">14</td><td>[<a href="/1970-07-10">Setlist</a>]</td></tr>
 <tr valign="top"><td>11/6/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SIII</td><td>&mdash;&mdash;</td><td>Jam</td><td align="center">34</td><td>[<a href="/1970-11-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

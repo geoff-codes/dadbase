@@ -4,7 +4,6 @@
 <title>Games People Play</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Games People Play</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>6/11/1969</td><td>San Francisco, CA (California Hall)</td><td align="center">SI</td><td>Dire Wolf</td><td>Race Is On</td><td align="center">425</td><td>[<a href="/1969-06-11">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>All Around This World</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">All Around This World</div>
 
@@ -36,9 +35,7 @@
 <tr valign="top"><td>12/6/1980</td><td>Mill Valley, CA (Recreation Center)</td><td align="center">*</td><td>On The Road Aga</td><td>Monkey  and  En</td><td align="center">6</td><td>[<a href="/1980-12-06">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>12/31/1980</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>Cassidy</td><td>Race Is On</td><td align="center">8</td><td>[<a href="/1980-12-31">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

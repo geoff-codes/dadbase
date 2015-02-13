@@ -4,7 +4,6 @@
 <title>Row Jimmy</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Row Jimmy</div>
 
@@ -290,9 +289,7 @@
 <tr valign="top"><td>5/28/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Masterpiece</td><td align="center">8</td><td>[<a href="/1995-05-28">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/21/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Take Me</td><td>Broken Arrow</td><td align="center">8</td><td>[<a href="/1995-06-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

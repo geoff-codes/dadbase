@@ -4,7 +4,6 @@
 <title>World To Give</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">World To Give</div>
 
@@ -23,9 +22,7 @@
 <tr valign="top" class="row2"><td>8/30/1978</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SII</td><td>Drumz</td><td>Iko Iko</td><td align="center">-1706</td><td>[<a href="/1978-08-30">Setlist</a>]</td></tr>
 <tr valign="top"><td>11/20/1978</td><td>Cleveland, OH (Cleveland Music Hall)</td><td align="center">SII</td><td>Shakedown</td><td>Playin</td><td align="center">16</td><td>[<a href="/1978-11-20">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

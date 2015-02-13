@@ -4,7 +4,6 @@
 <title>Louie Louie</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Louie Louie</div>
 
@@ -26,9 +25,7 @@
 <tr valign="top"><td>9/20/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Masterpiece</td><td>Music</td><td align="center">33</td><td>[<a href="/1988-09-20">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/9/1989</td><td>Louisville, KY (Freedom Hall)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Woman Smarter</td><td align="center">34</td><td>[<a href="/1989-04-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

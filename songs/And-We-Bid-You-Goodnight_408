@@ -4,7 +4,6 @@
 <title>And We Bid You Goodnight</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">And We Bid You Goodnight</div>
 
@@ -74,9 +73,7 @@
 <tr valign="top"><td>7/14/1990</td><td>Foxboro, MA (Foxboro Stadium)</td><td align="center">Enc</td><td>Last Time</td><td>&mdash;&mdash;</td><td align="center">16</td><td>[<a href="/1990-07-14">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>9/26/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">Enc</td><td>Brokedown</td><td>&mdash;&mdash;</td><td align="center">107</td><td>[<a href="/1991-09-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

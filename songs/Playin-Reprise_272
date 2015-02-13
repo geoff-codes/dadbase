@@ -4,7 +4,6 @@
 <title>Playin Reprise</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Playin Reprise</div>
 
@@ -35,9 +34,7 @@
 <tr valign="top" class="row2"><td>1/25/1993</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SII</td><td>Corinna</td><td>Uncle John</td><td align="center">2</td><td>[<a href="/1993-01-25">Setlist</a>]</td></tr>
 <tr valign="top"><td>9/29/1993</td><td>Boston, MA (Boston Garden)</td><td align="center">SII</td><td>Drumz</td><td>Stella Blue</td><td align="center">70</td><td>[<a href="/1993-09-29">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

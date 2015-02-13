@@ -4,7 +4,6 @@
 <title>Cathy's Clown</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Cathy's Clown</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>6/11/1969</td><td>San Francisco, CA (California Hall)</td><td align="center">SI</td><td>Mama Tried</td><td>Me  and  My Unc</td><td align="center">425</td><td>[<a href="/1969-06-11">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/17/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Mama Tried</td><td>Wake Up Little </td><td align="center">121</td><td>[<a href="/1970-04-17">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

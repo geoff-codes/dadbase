@@ -4,7 +4,6 @@
 <title>Satisfaction</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Satisfaction</div>
 
@@ -49,9 +48,7 @@
 <tr valign="top" class="row2"><td>6/18/1992</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">28</td><td>[<a href="/1992-06-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>8/1/1994</td><td>Auburn Hills, MI (The Palace)</td><td align="center">SII</td><td>Stella Blue</td><td>&mdash;&mdash;</td><td align="center">148</td><td>[<a href="/1994-08-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

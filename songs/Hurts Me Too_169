@@ -4,7 +4,6 @@
 <title>Hurts Me Too</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hurts Me Too</div>
 
@@ -71,9 +70,7 @@
 <tr valign="top" class="row2"><td>5/16/1972</td><td>Luxembourg, Luxembourg (La Grand Salle du Gran...)</td><td align="center">SI</td><td>BIODTL </td><td>Tennessee Jed</td><td align="center">1</td><td>[<a href="/1972-05-16">Setlist</a>]</td></tr>
 <tr valign="top"><td>5/18/1972</td><td>Muenchen, West Germany (Kongressaal, Deutsches...)</td><td align="center">SI</td><td>El Paso</td><td>You Win Again</td><td align="center">1</td><td>[<a href="/1972-05-18">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

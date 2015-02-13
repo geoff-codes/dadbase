@@ -4,7 +4,6 @@
 <title>Songs</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Songs</div>
 
@@ -912,9 +911,7 @@
 <tr class="song_detail"><!--<td>&nbsp;</td>--><td>[<a href="You-Won't-Find-Me_427">Every Time Played</a>]</td><td colspan="10">First Played: 12/12/1981</td><td colspan="22">Last Played:12/12/1981</td></tr>
 </table>
 
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

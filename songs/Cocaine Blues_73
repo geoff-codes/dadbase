@@ -4,7 +4,6 @@
 <title>Cocaine Blues</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Cocaine Blues</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>7/12/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Rosalie McFall</td><td>Wake Up Little </td><td align="center">585</td><td>[<a href="/1970-07-12">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>8/19/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Truckin</td><td>Rosalie McFall</td><td align="center">7</td><td>[<a href="/1970-08-19">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

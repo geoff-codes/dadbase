@@ -4,7 +4,6 @@
 <title>Around And Around</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Around And Around</div>
 
@@ -425,9 +424,7 @@
 <tr valign="top" class="row2"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Black Peter</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/6/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SII</td><td>Stella Blue</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1995-07-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

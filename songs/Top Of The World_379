@@ -4,7 +4,6 @@
 <title>Top Of The World</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Top Of The World</div>
 
@@ -63,9 +62,7 @@
 <tr valign="top" class="row2"><td>5/18/1972</td><td>Muenchen, West Germany (Kongressaal, Deutsches...)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Me  and  My Unc</td><td align="center">21</td><td>[<a href="/1972-05-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>5/25/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SII</td><td>El Paso</td><td>GDTRFB</td><td align="center">3</td><td>[<a href="/1972-05-25">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

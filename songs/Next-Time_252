@@ -4,7 +4,6 @@
 <title>Next Time</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Next Time</div>
 
@@ -96,9 +95,7 @@
 <tr valign="top"><td>5/23/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Jack Straw</td><td align="center">3</td><td>[<a href="/1972-05-23">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>5/26/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SI</td><td>Loser</td><td>El Paso</td><td align="center">3</td><td>[<a href="/1972-05-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

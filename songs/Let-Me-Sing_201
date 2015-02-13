@@ -4,7 +4,6 @@
 <title>Let Me Sing</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Let Me Sing</div>
 
@@ -22,9 +21,7 @@
 <tr valign="top"><td>9/15/1973</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SII</td><td>Eyes</td><td>WRS Prelude</td><td align="center">2</td><td>[<a href="/1973-09-15">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>9/17/1973</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SII</td><td>Half Step</td><td>Truckin </td><td align="center">1</td><td>[<a href="/1973-09-17">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

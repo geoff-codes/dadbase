@@ -4,7 +4,6 @@
 <title>Space</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Space</div>
 
@@ -64,9 +63,7 @@
 <tr valign="top"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SII</td><td>Jam</td><td>Other One</td><td align="center">24</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Jam</td><td>Watchtower</td><td align="center">2</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

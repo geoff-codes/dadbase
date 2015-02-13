@@ -4,7 +4,6 @@
 <title>Sugaree</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Sugaree</div>
 
@@ -373,9 +372,7 @@
 <tr valign="top" class="row2"><td>4/4/1995</td><td>Birmingham, AL (BJCC Coliseum)</td><td align="center">SI</td><td>Stranger</td><td>Minglewood</td><td align="center">5</td><td>[<a href="/1995-04-04">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/8/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">SI</td><td>Jack Straw</td><td>Wang Dang Doodl</td><td align="center">27</td><td>[<a href="/1995-07-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

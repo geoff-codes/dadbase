@@ -4,7 +4,6 @@
 <title>Heaven's Door</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Heaven's Door</div>
 
@@ -93,9 +92,7 @@
 <tr valign="top" class="row2"><td>6/19/1994</td><td>Eugene, OR (Autzen Stadium, U. of Oregon)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">53</td><td>[<a href="/1994-06-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/23/1994</td><td>Chicago, IL (Soldier Field)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">13</td><td>[<a href="/1994-07-23">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

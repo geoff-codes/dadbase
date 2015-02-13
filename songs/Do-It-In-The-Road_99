@@ -4,7 +4,6 @@
 <title>Do It In The Road</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Do It In The Road</div>
 
@@ -25,9 +24,7 @@
 <tr valign="top" class="row2"><td>4/13/1985</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">2</td><td>[<a href="/1985-04-13">Setlist</a>]</td></tr>
 <tr valign="top"><td>3/30/1986</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SII</td><td>Drumz</td><td>Stella Blue</td><td align="center">63</td><td>[<a href="/1986-03-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

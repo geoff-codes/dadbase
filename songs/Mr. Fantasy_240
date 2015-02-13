@@ -4,7 +4,6 @@
 <title>Mr. Fantasy</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mr. Fantasy</div>
 
@@ -74,9 +73,7 @@
 <tr valign="top"><td>7/12/1990</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SII</td><td>Watchtower</td><td>Hey Jude Finale</td><td align="center">11</td><td>[<a href="/1990-07-12">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/21/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SII</td><td>Playin Jam</td><td>Playin</td><td align="center">5</td><td>[<a href="/1990-07-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Looks Like Rain</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Looks Like Rain</div>
 
@@ -428,9 +427,7 @@
 <tr valign="top"><td>5/29/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SII</td><td>Shakedown</td><td>Samba</td><td align="center">13</td><td>[<a href="/1995-05-29">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/30/1995</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SII</td><td>Samba</td><td>Terrapin</td><td align="center">13</td><td>[<a href="/1995-06-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

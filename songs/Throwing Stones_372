@@ -4,7 +4,6 @@
 <title>Throwing Stones</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Throwing Stones</div>
 
@@ -281,9 +280,7 @@
 <tr valign="top" class="row2"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SII</td><td>Stella Blue</td><td>Lovelight</td><td align="center">4</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/5/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SII</td><td>GDTRFB</td><td>NFA</td><td align="center">9</td><td>[<a href="/1995-07-05">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

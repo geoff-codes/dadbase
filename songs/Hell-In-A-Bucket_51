@@ -4,7 +4,6 @@
 <title>Hell In A Bucket</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hell In A Bucket</div>
 
@@ -237,9 +236,7 @@
 <tr valign="top" class="row2"><td>6/21/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Loser</td><td align="center">5</td><td>[<a href="/1995-06-21">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/30/1995</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">6</td><td>[<a href="/1995-06-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

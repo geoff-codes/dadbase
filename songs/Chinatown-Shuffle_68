@@ -4,7 +4,6 @@
 <title>Chinatown Shuffle</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Chinatown Shuffle</div>
 
@@ -43,9 +42,7 @@
 <tr valign="top" class="row2"><td>5/25/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SII</td><td>Big RxR Blues</td><td>Ramble On</td><td align="center">2</td><td>[<a href="/1972-05-25">Setlist</a>]</td></tr>
 <tr valign="top"><td>5/26/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SI</td><td>Jack Straw </td><td>China Cat</td><td align="center">1</td><td>[<a href="/1972-05-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

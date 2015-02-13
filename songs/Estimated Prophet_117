@@ -4,7 +4,6 @@
 <title>Estimated Prophet</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Estimated Prophet</div>
 
@@ -397,9 +396,7 @@
 <tr valign="top" class="row2"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Samba</td><td>Terrapin</td><td align="center">12</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/28/1995</td><td>Auburn Hills, MI (The Palace)</td><td align="center">SII</td><td>Way To Go</td><td>Uncle John</td><td align="center">4</td><td>[<a href="/1995-06-28">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

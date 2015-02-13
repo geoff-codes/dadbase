@@ -4,7 +4,6 @@
 <title>I Will Take You Home</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">I Will Take You Home</div>
 
@@ -53,9 +52,7 @@
 <tr valign="top" class="row2"><td>6/17/1990</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SII</td><td>Drumz</td><td>Miracle</td><td align="center">8</td><td>[<a href="/1990-06-17">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/14/1990</td><td>Foxboro, MA (Foxboro Stadium)</td><td align="center">SII</td><td>Drumz</td><td>Miracle</td><td align="center">8</td><td>[<a href="/1990-07-14">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

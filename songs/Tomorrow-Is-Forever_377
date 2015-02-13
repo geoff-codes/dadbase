@@ -4,7 +4,6 @@
 <title>Tomorrow Is Forever</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Tomorrow Is Forever</div>
 
@@ -27,9 +26,7 @@
 <tr valign="top" class="row2"><td>11/19/1972</td><td>Houston, TX (Hofheinz Pavilion)</td><td align="center">SI</td><td>Box Of Rain</td><td>Big River</td><td align="center">5</td><td>[<a href="/1972-11-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/11/1972</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Deal</td><td>Sugar Magnolia</td><td align="center">5</td><td>[<a href="/1972-12-11">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

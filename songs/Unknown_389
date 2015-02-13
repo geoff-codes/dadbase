@@ -4,7 +4,6 @@
 <title>Unknown</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Unknown</div>
 
@@ -22,9 +21,7 @@
 <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
 <tr valign="top" class="row2"><td>7/21/1967</td><td>Santa Clara, CA (Continental Ballroom)</td><td align="center"></td><td></td><td></td><td align="center">138</td><td>[<a href="/1967-07-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

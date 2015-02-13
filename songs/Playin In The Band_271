@@ -4,7 +4,6 @@
 <title>Playin In The Band</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Playin In The Band</div>
 
@@ -582,9 +581,7 @@
 <tr valign="top"><td>6/21/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>All Too Much</td><td>Supplication Ja</td><td align="center">5</td><td>[<a href="/1995-06-21">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/5/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SII</td><td>Iko Iko</td><td>Crazy Fingers</td><td align="center">8</td><td>[<a href="/1995-07-05">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

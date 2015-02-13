@@ -4,7 +4,6 @@
 <title>Baba O'Riley</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Baba O'Riley</div>
 
@@ -29,9 +28,7 @@
 <tr valign="top" class="row2"><td>9/20/1993</td><td>New York, NY (Madison Square Garden)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>TNK</td><td align="center">35</td><td>[<a href="/1993-09-20">Setlist</a>]</td></tr>
 <tr valign="top"><td>11/29/1994</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SII</td><td>Uncle John</td><td>TNK</td><td align="center">90</td><td>[<a href="/1994-11-29">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

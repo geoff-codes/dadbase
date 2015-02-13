@@ -4,7 +4,6 @@
 <title>Visions Of Johanna</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Visions Of Johanna</div>
 
@@ -25,9 +24,7 @@
 <tr valign="top" class="row2"><td>4/7/1995</td><td>Tampa, FL (Tampa Stadium)</td><td align="center">SI</td><td>Masterpiece</td><td>Promised</td><td align="center">5</td><td>[<a href="/1995-04-07">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/8/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">SII</td><td>Other One</td><td>Saturday Night</td><td align="center">25</td><td>[<a href="/1995-07-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

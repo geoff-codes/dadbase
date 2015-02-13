@@ -4,7 +4,6 @@
 <title>Alice D. Millionaire</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Alice D. Millionaire</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>10/31/1966</td><td>San Francisco, CA (California Hall)</td><td align="center">*</td><td>Viola Lee Blues</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1966-10-31">Setlist</a>]</td></tr>
 <tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SI</td><td>One Kind Favor</td><td>Me  and  My Unc</td><td align="center">13</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Race Is On</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Race Is On</div>
 
@@ -79,9 +78,7 @@
 <tr valign="top" class="row2"><td>9/20/1993</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Row Jimmy</td><td>Dire Wolf</td><td align="center">172</td><td>[<a href="/1993-09-20">Setlist</a>]</td></tr>
 <tr valign="top"><td>5/20/1995</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>Half Step</td><td>Lazy River Road</td><td align="center">123</td><td>[<a href="/1995-05-20">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

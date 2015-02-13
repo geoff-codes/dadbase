@@ -4,7 +4,6 @@
 <title>Werewolves of London</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Werewolves of London</div>
 
@@ -29,9 +28,7 @@
 <tr valign="top" class="row2"><td>10/31/1990</td><td>London, England (Wembley Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">361</td><td>[<a href="/1990-10-31">Setlist</a>]</td></tr>
 <tr valign="top"><td>10/31/1991</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">84</td><td>[<a href="/1991-10-31">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

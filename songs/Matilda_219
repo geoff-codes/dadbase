@@ -4,7 +4,6 @@
 <title>Matilda</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Matilda</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>4/5/1995</td><td>Birmingham, AL (BJCC Coliseum)</td><td align="center">SII</td><td>Uncle John</td><td>Drumz</td><td align="center">5</td><td>[<a href="/1995-04-05">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SII</td><td>Corinna</td><td>Drumz</td><td align="center">15</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

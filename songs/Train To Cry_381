@@ -4,7 +4,6 @@
 <title>Train To Cry</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Train To Cry</div>
 
@@ -25,9 +24,7 @@
 <tr valign="top" class="row2"><td>9/22/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>C. C. Rider</td><td>Me  and  My Unc</td><td align="center">9</td><td>[<a href="/1991-09-22">Setlist</a>]</td></tr>
 <tr valign="top"><td>3/16/1992</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>C. C. Rider</td><td>B. T. Wind</td><td align="center">26</td><td>[<a href="/1992-03-16">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

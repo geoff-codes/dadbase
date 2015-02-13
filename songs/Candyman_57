@@ -4,7 +4,6 @@
 <title>Candyman</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Candyman</div>
 
@@ -289,9 +288,7 @@
 <tr valign="top" class="row2"><td>6/2/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Greatest</td><td>Schoolgirl</td><td align="center">13</td><td>[<a href="/1995-06-02">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/30/1995</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SI</td><td>Take Me</td><td>Masterpiece</td><td align="center">12</td><td>[<a href="/1995-06-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

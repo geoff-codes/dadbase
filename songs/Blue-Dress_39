@@ -4,7 +4,6 @@
 <title>Blue Dress</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Blue Dress</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>9/16/1987</td><td>New York, NY (Madison Square Garden)</td><td align="center">SII</td><td>Greatest<br>Good Golly</td><td>Good Golly<br>He's Gone</td><td align="center">5</td><td>[<a href="/1987-09-16">Setlist</a>]</td></tr>
 <tr valign="top"><td>10/4/1987</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SII</td><td>Bucket<br>Good Golly</td><td>Good Golly<br>Estimated</td><td align="center">9</td><td>[<a href="/1987-10-04">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

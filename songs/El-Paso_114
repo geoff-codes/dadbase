@@ -4,7 +4,6 @@
 <title>El Paso</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">El Paso</div>
 
@@ -407,9 +406,7 @@
 <tr valign="top" class="row2"><td>6/24/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>FOTD</td><td>So Many Roads</td><td align="center">5</td><td>[<a href="/1995-06-24">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/5/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SI</td><td>Childhood's End</td><td>Don't Ease</td><td align="center">6</td><td>[<a href="/1995-07-05">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

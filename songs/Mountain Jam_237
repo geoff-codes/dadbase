@@ -4,7 +4,6 @@
 <title>Mountain Jam</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mountain Jam</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>11/6/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SIII</td><td>GDTRFB</td><td>NFA</td><td align="center">617</td><td>[<a href="/1970-11-06">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/28/1973</td><td>Watkins Glen, NY (Grand Prix Racecourse)</td><td align="center">Enc2</td><td>NFA</td><td>Johnny B. Goode</td><td align="center">222</td><td>[<a href="/1973-07-28">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

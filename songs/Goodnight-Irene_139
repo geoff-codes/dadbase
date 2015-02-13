@@ -4,7 +4,6 @@
 <title>Goodnight Irene</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Goodnight Irene</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>12/31/1983</td><td>San Francisco, CA (San Francisco Civic Auditor...)</td><td align="center">SIII</td><td>Midnight Hour</td><td>&mdash;&mdash;</td><td align="center">-1351</td><td>[<a href="/1983-12-31">Setlist</a>]</td></tr>
 <tr valign="top"><td>4/20/1985</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">*</td><td>Drumz</td><td>Bucket</td><td align="center">1338</td><td>[<a href="/1985-04-20">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

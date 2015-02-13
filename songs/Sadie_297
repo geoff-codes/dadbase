@@ -4,7 +4,6 @@
 <title>Sadie</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Sadie</div>
 
@@ -23,9 +22,7 @@
 <tr valign="top" class="row2"><td>2/13/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Monkey  and  En</td><td>Wake Up Little </td><td align="center">12</td><td>[<a href="/1970-02-13">Setlist</a>]</td></tr>
 <tr valign="top"><td>10/31/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>Sage And Spirit</td><td>Monkey  and  En</td><td align="center">730</td><td>[<a href="/1980-10-31">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

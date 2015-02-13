@@ -4,7 +4,6 @@
 <title>Jack-A-Roe</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Jack-A-Roe</div>
 
@@ -134,9 +133,7 @@
 <tr valign="top"><td>5/29/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SI</td><td>LTGTR</td><td>Walking Blues</td><td align="center">14</td><td>[<a href="/1995-05-29">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/25/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Mama Tried</td><td align="center">10</td><td>[<a href="/1995-06-25">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

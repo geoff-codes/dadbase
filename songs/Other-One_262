@@ -4,7 +4,6 @@
 <title>Other One</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Other One</div>
 
@@ -593,9 +592,7 @@
 <tr valign="top" class="row2"><td>6/19/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SII</td><td>Space</td><td>Stella Blue</td><td align="center">11</td><td>[<a href="/1995-06-19">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/8/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">SII</td><td>Drumz</td><td>Visions Of Joha</td><td align="center">11</td><td>[<a href="/1995-07-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Rockin Pneumonia</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Rockin Pneumonia</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>9/3/1972</td><td>Boulder, CO (Folsom Field, University of Color...)</td><td align="center">SIII</td><td>Ramble On</td><td>NFA</td><td align="center">18</td><td>[<a href="/1972-09-03">Setlist</a>]</td></tr>
 <tr valign="top"><td>10/23/1972</td><td>Milwaukee, WI (Performing Arts Center)</td><td align="center">SI</td><td>BIODTL</td><td>Playin</td><td align="center">20</td><td>[<a href="/1972-10-23">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

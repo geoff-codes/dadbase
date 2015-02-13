@@ -4,7 +4,6 @@
 <title>Mason's Children</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mason's Children</div>
 
@@ -32,9 +31,7 @@
 <tr valign="top"><td>2/2/1970</td><td>St. Louis, MO (Fox Theatre)</td><td align="center">*</td><td>St. Stephen</td><td>Lovelight</td><td align="center">2</td><td>[<a href="/1970-02-02">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>2/14/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>NFA</td><td>Caution</td><td align="center">12</td><td>[<a href="/1970-02-14">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

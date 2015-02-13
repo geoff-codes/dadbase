@@ -4,7 +4,6 @@
 <title>Maybe You Know</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Maybe You Know</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>4/26/1983</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Mexicali</td><td>West L. A.</td><td align="center">4</td><td>[<a href="/1983-04-26">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/21/1986</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SII</td><td>Drumz</td><td>GDTRFB</td><td align="center">205</td><td>[<a href="/1986-04-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

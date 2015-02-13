@@ -4,7 +4,6 @@
 <title>Stir It Up</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Stir It Up</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>3/26/1988</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Sugaree</td><td>Minglewood</td><td align="center">1749</td><td>[<a href="/1988-03-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

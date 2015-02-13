@@ -4,7 +4,6 @@
 <title>Rain</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Rain</div>
 
@@ -2183,9 +2182,7 @@
 <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
 <tr valign="top"><td>7/9/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">Enc</td><td></td><td></td><td align="center">5</td><td>[<a href="/1995-07-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

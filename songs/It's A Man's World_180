@@ -4,7 +4,6 @@
 <title>It's A Man's World</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">It's A Man's World</div>
 
@@ -29,9 +28,7 @@
 <tr valign="top" class="row2"><td>9/18/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Brokedown</td><td>Till The Mornin</td><td align="center">6</td><td>[<a href="/1970-09-18">Setlist</a>]</td></tr>
 <tr valign="top"><td>2/21/1992</td><td>San Rafael, CA (Le Club Front)</td><td align="center">*</td><td>Topsy I</td><td>Wave To The Win</td><td align="center">2230</td><td>[<a href="/1992-02-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

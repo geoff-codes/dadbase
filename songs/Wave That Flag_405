@@ -4,7 +4,6 @@
 <title>Wave That Flag</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Wave That Flag</div>
 
@@ -33,9 +32,7 @@
 <tr valign="top" class="row2"><td>4/2/1973</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>L. L. Rain</td><td>Box Of Rain</td><td align="center">2</td><td>[<a href="/1973-04-02">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/10/1973</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Jack Straw</td><td>L. L. Rain</td><td align="center">5</td><td>[<a href="/1973-06-10">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

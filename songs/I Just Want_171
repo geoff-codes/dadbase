@@ -4,7 +4,6 @@
 <title>I Just Want</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">I Just Want</div>
 
@@ -22,9 +21,7 @@
 <tr valign="top"><td>10/8/1984</td><td>Worcester, MA (The Centrum)</td><td align="center">SII</td><td>Samson</td><td>Miracle</td><td align="center">3</td><td>[<a href="/1984-10-08">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>2/21/1995</td><td>Salt Lake City, UT (Delta Center)</td><td align="center">SII</td><td>Truckin</td><td>TWBS</td><td align="center">746</td><td>[<a href="/1995-02-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

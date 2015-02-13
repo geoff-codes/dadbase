@@ -4,7 +4,6 @@
 <title>Here Comes Sunshine</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Here Comes Sunshine</div>
 
@@ -82,9 +81,7 @@
 <tr valign="top"><td>6/15/1995</td><td>Highgate, VT (Franklin County Field)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Samba</td><td align="center">1</td><td>[<a href="/1995-06-15">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Walking Blues</td><td align="center">10</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

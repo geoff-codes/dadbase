@@ -4,7 +4,6 @@
 <title>Drums</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Drums</div>
 
@@ -402,9 +401,7 @@
 <tr valign="top"><td>2/27/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Iko Iko</td><td align="center">153</td><td>[<a href="/1990-02-27">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>2/26/1995</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Iko Iko</td><td align="center">374</td><td>[<a href="/1995-02-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

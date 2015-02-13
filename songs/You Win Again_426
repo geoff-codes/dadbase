@@ -4,7 +4,6 @@
 <title>You Win Again</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">You Win Again</div>
 
@@ -41,9 +40,7 @@
 <tr valign="top" class="row2"><td>9/16/1972</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>B. T. Wind</td><td>Big River</td><td align="center">12</td><td>[<a href="/1972-09-16">Setlist</a>]</td></tr>
 <tr valign="top"><td>9/26/1972</td><td>Jersey City, NJ (Stanley Theatre)</td><td align="center">SII</td><td>Playin</td><td>El Paso</td><td align="center">6</td><td>[<a href="/1972-09-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

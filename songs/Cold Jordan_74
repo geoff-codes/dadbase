@@ -4,7 +4,6 @@
 <title>Cold Jordan</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Cold Jordan</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>8/19/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>New Speedway</td><td>Swing Low</td><td align="center">1</td><td>[<a href="/1970-08-19">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>12/27/1970</td><td>Pasadena, CA (KPPC Studios)</td><td align="center">*</td><td>Silver Threads</td><td>I Hear A Voice </td><td align="center">2132</td><td>[<a href="/1970-12-27">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

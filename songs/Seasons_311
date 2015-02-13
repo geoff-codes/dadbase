@@ -4,7 +4,6 @@
 <title>Seasons</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Seasons</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>2/5/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Race is On</td><td align="center">4</td><td>[<a href="/1970-02-05">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>2/7/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Saw Mill </td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-02-07">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>My Babe</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">My Babe</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Mystery Train</td><td>Around</td><td align="center">619</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

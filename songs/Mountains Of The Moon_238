@@ -4,7 +4,6 @@
 <title>Mountains Of The Moon</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mountains Of The Moon</div>
 
@@ -34,9 +33,7 @@
 <tr valign="top"><td>6/7/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Dupree's</td><td>Dark Star</td><td align="center">22</td><td>[<a href="/1969-06-07">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/12/1969</td><td>Queens, NY (NY State Pavilion, Flushing Meadow...)</td><td align="center">*</td><td>Slewfoot</td><td>Doin That Rag</td><td align="center">21</td><td>[<a href="/1969-07-12">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

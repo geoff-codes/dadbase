@@ -4,7 +4,6 @@
 <title>You Don't Have To Ask</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">You Don't Have To Ask</div>
 
@@ -18,9 +17,7 @@
 	<td width="5%">Gap</td>
 	<td width="9%">&nbsp;</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

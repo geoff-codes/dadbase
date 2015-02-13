@@ -4,7 +4,6 @@
 <title>Hi-Heel Sneakers</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hi-Heel Sneakers</div>
 
@@ -23,9 +22,7 @@
 <tr valign="top" class="row2"><td>4/20/1985</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">*</td><td>Throwing Stones</td><td>She Belongs To </td><td align="center">2360</td><td>[<a href="/1985-04-20">Setlist</a>]</td></tr>
 <tr valign="top"><td>3/28/1995</td><td>Atlanta, GA (The Omni)</td><td align="center">*</td><td>Neighbor Neighb</td><td>Big Boy Pete x3</td><td align="center">22</td><td>[<a href="/1995-03-28">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

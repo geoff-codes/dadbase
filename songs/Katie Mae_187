@@ -4,7 +4,6 @@
 <title>Katie Mae</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Katie Mae</div>
 
@@ -28,9 +27,7 @@
 <tr valign="top"><td>5/15/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>She's Mine</td><td>I Hear A Voice </td><td align="center">14</td><td>[<a href="/1970-05-15">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/12/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Candyman</td><td>Bring Me My Sho</td><td align="center">23</td><td>[<a href="/1970-07-12">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

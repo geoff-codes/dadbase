@@ -4,7 +4,6 @@
 <title>Lazy River Road</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Lazy River Road</div>
 
@@ -84,9 +83,7 @@
 <tr valign="top"><td>6/27/1995</td><td>Auburn Hills, MI (The Palace)</td><td align="center">SI</td><td>Queen Jane</td><td>Eternity</td><td align="center">5</td><td>[<a href="/1995-06-27">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/9/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">SI</td><td>Rooster</td><td>Masterpiece</td><td align="center">7</td><td>[<a href="/1995-07-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

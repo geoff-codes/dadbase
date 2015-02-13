@@ -4,7 +4,6 @@
 <title>The Raven Space</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">The Raven Space</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>4/19/1982</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SII</td><td>Drumz</td><td>Wheel</td><td align="center">1367</td><td>[<a href="/1982-04-19">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

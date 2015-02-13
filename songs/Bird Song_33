@@ -4,7 +4,6 @@
 <title>Bird Song</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Bird Song</div>
 
@@ -316,9 +315,7 @@
 <tr valign="top"><td>6/2/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>El Paso</td><td>Promised</td><td align="center">5</td><td>[<a href="/1995-06-02">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/30/1995</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SI</td><td>Masterpiece</td><td>Promised</td><td align="center">12</td><td>[<a href="/1995-06-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

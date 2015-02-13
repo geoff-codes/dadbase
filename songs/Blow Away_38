@@ -4,7 +4,6 @@
 <title>Blow Away</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Blow Away</div>
 
@@ -41,9 +40,7 @@
 <tr valign="top" class="row2"><td>6/15/1990</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SII</td><td>Fire</td><td>Woman Smarter</td><td align="center">4</td><td>[<a href="/1990-06-15">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/16/1990</td><td>Orchard Park, NY (Rich Stadium)</td><td align="center">SI</td><td>Half Step</td><td>Mama Tried</td><td align="center">11</td><td>[<a href="/1990-07-16">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

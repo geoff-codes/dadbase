@@ -4,7 +4,6 @@
 <title>On The Road Again</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">On The Road Again</div>
 
@@ -56,9 +55,7 @@
 <tr valign="top"><td>4/19/1983</td><td>Orono, ME (Alfond Arena, U. of Maine)</td><td align="center">SI</td><td>Dupree's</td><td>West L. A.</td><td align="center">16</td><td>[<a href="/1983-04-19">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>10/12/1984</td><td>Augusta, ME (Augusta Civic Center)</td><td align="center">SI</td><td>Roses</td><td>Jack A Roe</td><td align="center">102</td><td>[<a href="/1984-10-12">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

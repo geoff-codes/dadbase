@@ -4,7 +4,6 @@
 <title>Things I Used To Do</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Things I Used To Do</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>6/8/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Lovelight</td><td>Who's Lovin You</td><td align="center">424</td><td>[<a href="/1969-06-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

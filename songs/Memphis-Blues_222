@@ -4,7 +4,6 @@
 <title>Memphis Blues</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Memphis Blues</div>
 
@@ -92,9 +91,7 @@
 <tr valign="top"><td>7/20/1994</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>High Time</td><td>Childhood's End</td><td align="center">58</td><td>[<a href="/1994-07-20">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/2/1995</td><td>Memphis, TN (The Pyramid)</td><td align="center">SI</td><td>Althea</td><td>Tennessee Jed</td><td align="center">60</td><td>[<a href="/1995-04-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

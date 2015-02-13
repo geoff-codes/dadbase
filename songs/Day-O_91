@@ -4,7 +4,6 @@
 <title>Day-O</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Day-O</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>7/6/1987</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SII</td><td>Iko Iko</td><td>Woman Smarter</td><td align="center">1697</td><td>[<a href="/1987-07-06">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>12/31/1987</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SIII</td><td>Iko Iko</td><td>Do You Wanna Da</td><td align="center">43</td><td>[<a href="/1987-12-31">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

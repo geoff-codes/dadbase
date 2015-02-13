@@ -4,7 +4,6 @@
 <title>The Eleven</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">The Eleven</div>
 
@@ -108,9 +107,7 @@
 <tr valign="top"><td>4/24/1970</td><td>Denver, CO (Mammoth Gardens)</td><td align="center">SII</td><td>St. Stephen</td><td>Drums</td><td align="center">26</td><td>[<a href="/1970-04-24">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>4/26/1970</td><td>Poynette, WI (York Farm)</td><td align="center">*</td><td>St. Stephen</td><td>Lovelight</td><td align="center">2</td><td>[<a href="/1970-04-26">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

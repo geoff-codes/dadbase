@@ -4,7 +4,6 @@
 <title>Pollution</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Pollution</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>3/25/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SI</td><td>You Been Runnin</td><td>Say Boss Man</td><td align="center">727</td><td>[<a href="/1972-03-25">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

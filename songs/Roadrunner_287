@@ -4,7 +4,6 @@
 <title>Roadrunner</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Roadrunner</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>3/21/1986</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dupree's</td><td align="center">1617</td><td>[<a href="/1986-03-21">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>3/31/1986</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>Half Step</td><td>West L. A.</td><td align="center">7</td><td>[<a href="/1986-03-31">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

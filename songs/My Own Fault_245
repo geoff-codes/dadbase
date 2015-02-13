@@ -4,7 +4,6 @@
 <title>My Own Fault</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">My Own Fault</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SII</td><td>Yonder's Wall</td><td>Down So Long</td><td align="center">103</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

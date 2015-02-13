@@ -4,7 +4,6 @@
 <title>Desolation Row</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Desolation Row</div>
 
@@ -74,9 +73,7 @@
 <tr valign="top"><td>10/10/1994</td><td>Landover, MD (USAir Arena)</td><td align="center">SI</td><td>Althea</td><td>Loose Lucy</td><td align="center">30</td><td>[<a href="/1994-10-10">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Broken Arrow</td><td>Tennessee Jed</td><td align="center">61</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

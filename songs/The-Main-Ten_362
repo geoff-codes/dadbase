@@ -4,7 +4,6 @@
 <title>The Main Ten</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">The Main Ten</div>
 
@@ -24,9 +23,7 @@
 <tr valign="top"><td>11/6/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Drums</td><td>Drums</td><td align="center">47</td><td>[<a href="/1970-11-06">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Dark Star</td><td>Dancin</td><td align="center">2</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

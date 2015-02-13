@@ -4,7 +4,6 @@
 <title>Little Light</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Little Light</div>
 
@@ -39,9 +38,7 @@
 <tr valign="top" class="row2"><td>7/12/1990</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Bertha</td><td>Queen Jane</td><td align="center">4</td><td>[<a href="/1990-07-12">Setlist</a>]</td></tr>
 <tr valign="top"><td>7/21/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SI</td><td>FOTD</td><td>Queen Jane</td><td align="center">5</td><td>[<a href="/1990-07-21">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

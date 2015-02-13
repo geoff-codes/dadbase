@@ -4,7 +4,6 @@
 <title>How Long Blues</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">How Long Blues</div>
 
@@ -22,9 +21,7 @@
 <tr valign="top"><td>8/19/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Monkey  and  En</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1970-08-19">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>2/12/1989</td><td>Inglewood, CA (Great Western Forum)</td><td align="center">SI</td><td>West L. A.</td><td>Gimme Some Lovi</td><td align="center">1234</td><td>[<a href="/1989-02-12">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

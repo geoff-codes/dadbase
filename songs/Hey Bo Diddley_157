@@ -4,7 +4,6 @@
 <title>Hey Bo Diddley</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Hey Bo Diddley</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>8/22/1972</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SII</td><td>GDTRFB</td><td>NFA</td><td align="center">9</td><td>[<a href="/1972-08-22">Setlist</a>]</td></tr>
 <tr valign="top"><td>2/11/1986</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">Enc</td><td>NFA</td><td>GDTRFB</td><td align="center">849</td><td>[<a href="/1986-02-11">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Cassidy</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Cassidy</div>
 
@@ -348,9 +347,7 @@
 <tr valign="top"><td>6/4/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Lazy River Road</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1995-06-04">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/6/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">13</td><td>[<a href="/1995-07-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

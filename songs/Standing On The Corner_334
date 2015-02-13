@@ -4,7 +4,6 @@
 <title>Standing On The Corner</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Standing On The Corner</div>
 
@@ -22,9 +21,7 @@
 <tr valign="top"><td>7/16/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">SI</td><td>Big Boss Man</td><td>BIODTL</td><td align="center">16</td><td>[<a href="/1966-07-16">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/30/1966</td><td>B.C., Canada (P.N.E. Garden Auditorium, Vancou...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>I Know You Ride</td><td align="center">3</td><td>[<a href="/1966-07-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

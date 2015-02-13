@@ -4,7 +4,6 @@
 <title>Close Encounters</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Close Encounters</div>
 
@@ -19,9 +18,7 @@
 	<td width="9%">&nbsp;</td></tr>
 <tr valign="top"><td>1/22/1978</td><td>Eugene, OR (McArthur Court, University of Oreg...)</td><td align="center">SII</td><td>Other One</td><td>St. Stephen</td><td align="center">1035</td><td>[<a href="/1978-01-22">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

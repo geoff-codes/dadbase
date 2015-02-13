@@ -4,7 +4,6 @@
 <title>Gimme Some Lovin</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Gimme Some Lovin</div>
 
@@ -104,9 +103,7 @@
 <tr valign="top"><td>7/22/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SII</td><td>Wheel</td><td>Stella Blue</td><td align="center">4</td><td>[<a href="/1990-07-22">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>9/15/1990</td><td>New York, NY (Madison Square Garden)</td><td align="center">SII</td><td>Drumz</td><td>Watchtower</td><td align="center">8</td><td>[<a href="/1990-09-15">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

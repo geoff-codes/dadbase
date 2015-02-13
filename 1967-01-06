@@ -4,7 +4,6 @@
 <title>Friday, January 6, 1967</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Friday, January 6, 1967</div>
 
@@ -13,7 +12,7 @@
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
+
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>
@@ -21,9 +20,7 @@
 	  <td width="12%" align="center">Every Time Played</td></tr>
 </table>
 
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

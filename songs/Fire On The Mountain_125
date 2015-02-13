@@ -4,7 +4,6 @@
 <title>Fire On The Mountain</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Fire On The Mountain</div>
 
@@ -258,9 +257,7 @@
 <tr valign="top"><td>6/21/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SII</td><td>Scarlet</td><td>Woman Smarter</td><td align="center">9</td><td>[<a href="/1995-06-21">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SII</td><td>Scarlet</td><td>Victim</td><td align="center">7</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

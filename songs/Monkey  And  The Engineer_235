@@ -4,7 +4,6 @@
 <title>Monkey  And  The Engineer</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Monkey  And  The Engineer</div>
 
@@ -48,9 +47,7 @@
 <tr valign="top"><td>10/16/1981</td><td>Amsterdam, The Netherlands (Melk Weg)</td><td align="center">SI</td><td>Dire Wolf</td><td>Bird Song</td><td align="center">66</td><td>[<a href="/1981-10-16">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>2/12/1989</td><td>Inglewood, CA (Great Western Forum)</td><td align="center">SII</td><td>Iko Iko</td><td>Alabama</td><td align="center">495</td><td>[<a href="/1989-02-12">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

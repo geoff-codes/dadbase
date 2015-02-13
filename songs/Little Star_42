@@ -4,7 +4,6 @@
 <title>Little Star</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Little Star</div>
 
@@ -21,9 +20,7 @@
 <tr valign="top" class="row2"><td>4/16/1983</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SII</td><td>Iko Iko</td><td>Other One</td><td align="center">1</td><td>[<a href="/1983-04-16">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/20/1983</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SII</td><td>Drumz</td><td>Other One</td><td align="center">12</td><td>[<a href="/1983-06-20">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

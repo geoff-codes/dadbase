@@ -4,7 +4,6 @@
 <title>Weather Report Suite Prelude</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Weather Report Suite Prelude</div>
 
@@ -64,9 +63,7 @@
 <tr valign="top"><td>9/14/1974</td><td>Muenchen, West Germany (Olympiahalle)</td><td align="center">SI</td><td>Row Jimmy</td><td>WRS Part 1</td><td align="center">2</td><td>[<a href="/1974-09-14">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>9/20/1974</td><td>Paris, France (Palais des Sports)</td><td align="center">SI</td><td>Row Jimmy</td><td>WRS Part 1</td><td align="center">2</td><td>[<a href="/1974-09-20">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

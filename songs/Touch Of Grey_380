@@ -4,7 +4,6 @@
 <title>Touch Of Grey</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Touch Of Grey</div>
 
@@ -230,9 +229,7 @@
 <tr valign="top"><td>6/22/1995</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Walking Blues</td><td align="center">4</td><td>[<a href="/1995-06-22">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/9/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Rooster</td><td align="center">10</td><td>[<a href="/1995-07-09">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

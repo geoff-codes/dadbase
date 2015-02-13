@@ -4,7 +4,6 @@
 <title>Gentlemen Start Your Engines</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Gentlemen Start Your Engines</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>6/26/1988</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SI</td><td>Cumberland</td><td>Big RxR Blues</td><td align="center">1776</td><td>[<a href="/1988-06-26">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/31/1988</td><td>Monterey, CA (Laguna Seca Recreation Area)</td><td align="center">SI</td><td>Ramble On</td><td>Masterpiece</td><td align="center">10</td><td>[<a href="/1988-07-31">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

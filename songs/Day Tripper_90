@@ -4,7 +4,6 @@
 <title>Day Tripper</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Day Tripper</div>
 
@@ -23,9 +22,7 @@
 <tr valign="top" class="row2"><td>6/25/1985</td><td>Cuyahoga Falls, OH (Blossom Music Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">17</td><td>[<a href="/1985-06-25">Setlist</a>]</td></tr>
 <tr valign="top"><td>8/24/1985</td><td>Donner's Summit, CA (Boreal Ridge Ski Resort)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1985-08-24">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -4,7 +4,6 @@
 <title>Liberty</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Liberty</div>
 
@@ -72,9 +71,7 @@
 <tr valign="top"><td>6/27/1995</td><td>Auburn Hills, MI (The Palace)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1995-06-27">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>7/6/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1995-07-06">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

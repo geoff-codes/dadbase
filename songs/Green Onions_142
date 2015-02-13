@@ -4,7 +4,6 @@
 <title>Green Onions</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Green Onions</div>
 
@@ -20,9 +19,7 @@
 <tr valign="top"><td>4/21/1985</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">*</td><td>NFA</td><td>Uncle John</td><td align="center">2813</td><td>[<a href="/1985-04-21">Setlist</a>]</td></tr>
 <tr valign="top" class="row2"><td>6/30/1988</td><td>Rochester, NY (Silver Stadium)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>China Cat</td><td align="center">-1035</td><td>[<a href="/1988-06-30">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

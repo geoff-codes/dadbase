@@ -4,7 +4,6 @@
 <title>Mama Tried</title>
 </head>
 <body>
-<div align="center">
 <div id="main">
 	<div class="page_title">Mama Tried</div>
 
@@ -325,9 +324,7 @@
 <tr valign="top" class="row2"><td>6/4/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Loose Lucy</td><td>Mexicali</td><td align="center">17</td><td>[<a href="/1995-06-04">Setlist</a>]</td></tr>
 <tr valign="top"><td>6/25/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Jack A Roe</td><td>Mexicali</td><td align="center">7</td><td>[<a href="/1995-06-25">Setlist</a>]</td></tr>
 </table>
-  </div>
-</div>
-</div>
+</div></div>
 </div>
 </body>
 </html>

@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Sunrise | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Sunrise_343&highlight=went">Shows I attended</a>
+		<a href="/songs/Sunrise_343&highlight=own">Shows I own</a>
+		<a href="/songs/Sunrise_343&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Sunrise_343&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Sunrise</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<tr valign="top"><td>2/17/1977</td><td>(unknown), CA ((unknown))</td><td align="center">*</td><td>Dancin</td><td>Passenger</td><td align="center">2777</td><td>[<a href="/1977-02-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/1/1977</td><td>New York, NY (The Palladium)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Samson</td><td align="center">-1800</td><td>[<a href="/1977-05-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/9/1977</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SI</td><td>Peggy-O</td><td>Music</td><td align="center">6</td><td>[<a href="/1977-05-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/12/1977</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SII</td><td>Estimated</td><td>Terrapin </td><td align="center">2</td><td>[<a href="/1977-05-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/17/1977</td><td>Tuscaloosa, AL (Memorial Coliseum, U. of Alaba...)</td><td align="center">SI</td><td>Big River</td><td>Scarlet</td><td align="center">3</td><td>[<a href="/1977-05-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/22/1977</td><td>Pembroke Pines, FL (Sportatorium)</td><td align="center">SII</td><td>Good Lovin</td><td>Estimated</td><td align="center">4</td><td>[<a href="/1977-05-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/26/1977</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SI</td><td>Mama Tried</td><td>Deal</td><td align="center">2</td><td>[<a href="/1977-05-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/8/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>Passenger</td><td>B. E. Women</td><td align="center">4</td><td>[<a href="/1977-06-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/9/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>Cassidy</td><td>Deal</td><td align="center">1</td><td>[<a href="/1977-06-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/2/1977</td><td>Portland, OR (Paramount Theater)</td><td align="center">SI</td><td>Jack Straw</td><td>B. E. Women</td><td align="center">5</td><td>[<a href="/1977-10-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/7/1977</td><td>Albuquerque, NM (University of New Mexico)</td><td align="center">SII</td><td>Samson</td><td>Ramble On</td><td align="center">2</td><td>[<a href="/1977-10-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/15/1977</td><td>Dallas, TX (Moody Coliseum, S.M.U.)</td><td align="center">SII</td><td>Samson</td><td>Terrapin</td><td align="center">5</td><td>[<a href="/1977-10-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/16/1977</td><td>Baton Rouge, LA (Assembly Center, La. State U.)</td><td align="center">SI</td><td>FOTD</td><td>Dire Wolf</td><td align="center">1</td><td>[<a href="/1977-10-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/28/1977</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SII</td><td>Candyman</td><td>Passenger</td><td align="center">1</td><td>[<a href="/1977-10-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/2/1977</td><td>Toronto, Canada (Field House, Seneca College)</td><td align="center">SII</td><td>Good Lovin</td><td>Scarlet</td><td align="center">4</td><td>[<a href="/1977-11-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/4/1977</td><td>Hamilton, NY (Cotterell Gym, Colgate University)</td><td align="center">SI</td><td>Roses</td><td>Minglewood</td><td align="center">1</td><td>[<a href="/1977-11-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/6/1977</td><td>Binghamton, NY (Broome County Arena)</td><td align="center">SII</td><td>Samson</td><td>Scarlet</td><td align="center">2</td><td>[<a href="/1977-11-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/29/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Roses</td><td>Playin</td><td align="center">2</td><td>[<a href="/1977-12-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/7/1978</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SI</td><td>Cassidy</td><td>Passenger</td><td align="center">4</td><td>[<a href="/1978-01-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/8/1978</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SI</td><td>Big River</td><td>All Over Now</td><td align="center">1</td><td>[<a href="/1978-01-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/10/1978</td><td>Los Angeles, CA (Shrine Auditorium)</td><td align="center">SI</td><td>Passenger</td><td>Deal</td><td align="center">1</td><td>[<a href="/1978-01-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/11/1978</td><td>Los Angeles, CA (Shrine Auditorium)</td><td align="center">SII</td><td>Samson</td><td>Terrapin</td><td align="center">1</td><td>[<a href="/1978-01-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/13/1978</td><td>Santa Barbara, CA (Arlington Theater)</td><td align="center">SII</td><td>Good Lovin</td><td>Dancin</td><td align="center">1</td><td>[<a href="/1978-01-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/15/1978</td><td>Fresno, CA (Selland Arena)</td><td align="center">SII</td><td>FOTD</td><td>Terrapin</td><td align="center">2</td><td>[<a href="/1978-01-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/1/1978</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Cassidy</td><td>Sugaree</td><td align="center">6</td><td>[<a href="/1978-02-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/5/1978</td><td>Cedar Falls, IA (Uni-Dome, U. of Northern Iowa)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Minglewood </td><td align="center">3</td><td>[<a href="/1978-02-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/11/1978</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SII</td><td>Fire</td><td>Terrapin</td><td align="center">5</td><td>[<a href="/1978-04-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/15/1978</td><td>Williamsburg, VA (College Of William and Mary)</td><td align="center">SII</td><td>Candyman</td><td>Playin</td><td align="center">3</td><td>[<a href="/1978-04-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/6/1978</td><td>Burlington, VT (Patrick Gym, UVM)</td><td align="center">SII</td><td>Samson</td><td>Terrapin</td><td align="center">8</td><td>[<a href="/1978-05-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/16/1978</td><td>Cairo, Egypt (Gizah Sound and Light Theater)</td><td align="center">SII</td><td>All Over Now </td><td>Shakedown </td><td align="center">21</td><td>[<a href="/1978-09-16">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

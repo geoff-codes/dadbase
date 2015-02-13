@@ -1,0 +1,536 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1980 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1980/setlists&highlight=went">Shows I attended</a>
+		<a href="/1980/setlists&highlight=own">Shows I own</a>
+		<a href="/1980/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1980/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1980 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>January:  <a href="#0113">13</a><br>
+March: <a href="#0329">29</a> <a href="#0330">30</a> <a href="#0331">31</a><br>
+April: <a href="#0401">1</a> <a href="#0402">2</a> <a href="#0405">5</a> <a href="#0406">6</a> <a href="#0407">7</a> <a href="#0428">28</a> <a href="#0429">29</a><br>
+May: <a href="#0501">1</a> <a href="#0502">2</a> <a href="#0504">4</a> <a href="#0506">6</a> <a href="#0507">7</a> <a href="#0508">8</a> <a href="#0510">10</a> <a href="#0511">11</a> <a href="#0512">12</a> <a href="#0514">14</a> <a href="#0515">15</a> <a href="#0516">16</a> <a href="#0529">29</a> <a href="#0530">30</a> <a href="#0531">31</a><br>
+June: <a href="#0605">5</a> <a href="#0607">7</a> <a href="#0608">8</a> <a href="#0612">12</a> <a href="#0613">13</a> <a href="#0614">14</a> <a href="#0619">19</a> <a href="#0620">20</a> <a href="#0621">21</a> <a href="#0629">29</a><br>
+July: <a href="#0701">1</a><br>
+August: <a href="#0816">16</a> <a href="#0817">17</a> <a href="#0819">19</a> <a href="#0820">20</a> <a href="#0821">21</a> <a href="#0823">23</a> <a href="#0824">24</a> <a href="#0826">26</a> <a href="#0827">27</a> <a href="#0829">29</a> <a href="#0830">30</a> <a href="#0831">31</a><br>
+September: <a href="#0902">2</a> <a href="#0903">3</a> <a href="#0904">4</a> <a href="#0906">6</a> <a href="#0914">14</a> <a href="#0925">25</a> <a href="#0926">26</a> <a href="#0927">27</a> <a href="#0929">29</a> <a href="#0930">30</a><br>
+October: <a href="#1002">2</a> <a href="#1003">3</a> <a href="#1004">4</a> <a href="#1006">6</a> <a href="#1007">7</a> <a href="#1009">9</a> <a href="#1010">10</a> <a href="#1011">11</a> <a href="#1013">13</a> <a href="#1014">14</a> <a href="#1018">18</a> <a href="#1019">19</a> <a href="#1022">22</a> <a href="#1023">23</a> <a href="#1025">25</a> <a href="#1026">26</a> <a href="#1027">27</a> <a href="#1029">29</a> <a href="#1030">30</a> <a href="#1031">31</a><br>
+November: <a href="#1126">26</a> <a href="#1128">28</a> <a href="#1129">29</a> <a href="#1130">30</a><br>
+December: <a href="#1206">6</a> <a href="#1212">12</a> <a href="#1213">13</a> <a href="#1214">14</a> <a href="#1226">26</a> <a href="#1227">27</a> <a href="#1228">28</a> <a href="#1230">30</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0113"></a><a href="/1980-01-13">1/13/1980 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-01-13*">Listen/Download</a>]<tr><td>Jack Straw > Franklin's, Minglewood, Tennessee Jed > L. L. Rain > Don't Ease, Playin > Drumz > NFA<span class="setlist_small">*</span> > Sugar Magnolia<span class="setlist_small">*</span></td></tr>
+<tr><td>E: U. S. Blues<span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>Cambodian refugee benefit. FM broadcast KSAN-San Francisco. Also: Jefferson Starship; Joan Baez; Beach Boys; Santana solo. *with John Cipollina and Carlos Santana. +with Greg Errico. "Amazing Grace" with Joan Baez, GD and the Beach Boys followed "U. S. Blues."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1980-03-29">3/29/1980 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-03-29*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0330"></a><a href="/1980-03-30">3/30/1980 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-03-30*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Peggy-O, Cassidy, Loser > El Paso, Far From Me, Tennessee Jed, Minglewood, Althea, Sailor > Saint</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Eyes > Drumz > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Far From Me''</i></td></tr>
+<tr class="notes"><td>*with John Belushi on vocals and cartwheels.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1980-03-31">3/31/1980 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-03-31*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Mama Tried > Mexicali, B. E. Women, Stranger, Far From Me, Althea, Sailor > Saint</td></tr>
+<tr><td>II: Don't Ease, Samson, Terrapin > Playin > Drumz > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>First ''Stranger''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1980-04-01">4/1/1980 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-01*">Listen/Download</a>]<tr><td>I: Promised<span class="setlist_small">*</span>, Promised, Candyman, Me  and  My Uncle > Big River, FOTD, All Over Now, Don't Ease, L. L. Rain > Deal</td></tr>
+<tr><td>II: Stranger, China Cat > I Know You Rider, Estimated > He's Gone > Other One > Drumz > Stella Blue > Around</td></tr>
+<tr><td>E: Shakedown</td></tr>
+<tr class="notes"><td>*April Fool's Promised: Bobby on keyboards, Brent  and  Jerry on drums, Billy on bass, Mickey on rhythm guitar and vocals, and Phil on lead guitar.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0402"></a><a href="/1980-04-02">4/2/1980 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This run was originally scheduled for April 1 & 2.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0405"></a><a href="/1980-04-05">4/5/1980 NBC Studios, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-05*">Listen/Download</a>]<tr><td>I: Alabama</td></tr>
+<tr><td>II: Saint</td></tr>
+<tr class="notes"><td>"Saturday Night Live" TV broadcast. Appears on the "Saturday Night Live: The Fifth Season" DVD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0406"></a><a href="/1980-04-06">4/6/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-06*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0407"></a><a href="/1980-04-07">4/7/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-07*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0428"></a><a href="/1980-04-28">4/28/1980 Boutwell Auditorium, Birmingham, AL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-28*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, El Paso, Althea, L. L. Rain, Tennessee Jed, Far From Me, Stranger, Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson, He's Gone > Other One > Drumz > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: GDTRFB</td></tr>
+<tr class="notes"><td>Previous ''GDTRFB'' 1/12/1979 [74 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0429"></a><a href="/1980-04-29">4/29/1980 Fox Theatre, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-04-29*">Listen/Download</a>]<tr><td>I: Jack Straw, FOTD, Mama Tried > Mexicali, Peggy-O, Passenger, B. E. Women, Far From Me, Music</td></tr>
+<tr><td>II: Don't Ease, Minglewood, Ramble On, Sailor > Saint > Terrapin > Drumz > Miracle > Bertha > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0501"></a><a href="/1980-05-01">5/1/1980 Greensboro Coliseum, Greensboro, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-01*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Candyman, Me  and  My Uncle > Big River, Althea, Easy To Love You, Minglewood, Sugaree, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Stranger, Don't Ease, Estimated > Uncle John > Drumz > Wharf Rat > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0502"></a><a href="/1980-05-02">5/2/1980 Hampton Coliseum, Hampton, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-02*">Listen/Download</a>]<tr><td>I: Minglewood, Loser, Mama Tried > Mexicali, FOTD, Far From Me, L. L. Rain, Althea, Music</td></tr>
+<tr><td>II: Alabama > Space > Stranger > Eyes > Drumz > NFA > Stella Blue > Miracle > Bertha > Good Lovin</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Soundcheck: "Morning Dew."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0504"></a><a href="/1980-05-04">5/4/1980 Baltimore Civic Center, Baltimore, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-04*">Listen/Download</a>]<tr><td>I: Half Step > Franklin's > Stranger, Althea, El Paso, Easy To Love You, B. E. Women, All Over Now, Don't Ease, Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Samson, Ship Of Fools, Playin > Drumz > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0506"></a><a href="/1980-05-06">5/6/1980 Recreation Hall, Penn. State U., State College, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-06*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, Peggy-O <span class="setlist_small">*</span>, Me  and  My Uncle <span class="setlist_small">*</span> > Big River <span class="setlist_small">*</span>, Loser <span class="setlist_small">*</span>, Far From Me, Lazy Lightning <span class="setlist_small">*</span> > Supplication <span class="setlist_small">*</span>, Althea <span class="setlist_small">*</span>, Sailor <span class="setlist_small">*</span> > Saint <span class="setlist_small">*</span></td></tr>
+<tr><td>II: China Cat <span class="setlist_small">*</span> > I Know You Rider <span class="setlist_small">*</span>, Stranger <span class="setlist_small">*</span> > He's Gone <span class="setlist_small">*</span> > Other One <span class="setlist_small">*</span> > Drumz <span class="setlist_small">*</span> > Wharf Rat <span class="setlist_small">*</span> > Around <span class="setlist_small">*</span> > Johnny B. Goode <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*appears on "Road Trips Vol. 3 No. 4."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0507"></a><a href="/1980-05-07">5/7/1980 Barton Hall, Cornell University, Ithaca, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-07*">Listen/Download</a>]<tr><td>I: Jack Straw <span class="setlist_small">*</span>, Tennessee Jed, Cassidy <span class="setlist_small">*</span>, Row Jimmy <span class="setlist_small">*</span> > El Paso, Easy To Love You, Althea, Stranger, Don't Ease</td></tr>
+<tr><td>II: Shakedown <span class="setlist_small">*</span> > Bertha <span class="setlist_small">*</span> > Playin <span class="setlist_small">*</span> > Terrapin <span class="setlist_small">*</span> > Drumz <span class="setlist_small">*</span> > Saint <span class="setlist_small">*</span> > Black Peter <span class="setlist_small">*</span> > Playin <span class="setlist_small">*</span> > Good Lovin <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Alabama</td></tr>
+<tr class="notes"><td>Bill Kreutzmann's 34th birthday. *appears on "Road Trips Vol. 3 No. 4." "Take A Step Back," and "Far Above Cayuga's Waters" (Cornell's alma mater) tuning before "Tennessee Jed."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0508"></a><a href="/1980-05-08">5/8/1980 Glens Falls Civic Center, Glens Falls, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-08*">Listen/Download</a>]<tr><td>I: Alabama > Promised, FOTD, Mama Tried > Mexicali, High Time, Lazy Lightning > Supplication, Ramble On, Sailor > Saint</td></tr>
+<tr><td>II: Uncle John > Estimated > Eyes > Drumz > Truckin > Stella Blue > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0510"></a><a href="/1980-05-10">5/10/1980 Hartford Civic Center, Hartford, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-10*">Listen/Download</a>]<tr><td>I: Minglewood, Peggy-O, Mexicali > El Paso, Althea, Passenger, Far From Me, Sailor > Saint > Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Stranger > Comes A Time > Estimated > He's Gone > Uncle John > Drumz > NFA > Sugar Magnolia</td></tr>
+<tr><td>E: Alabama > Saturday Night</td></tr>
+<tr class="notes"><td>Previous ''Comes A Time'' 2/9/1979 [71 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0511"></a><a href="/1980-05-11">5/11/1980 Cumberland County Civic Center, Portland, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-11*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, Cassidy, Loser, All Over Now, Easy To Love You, Big RxR Blues, L. L. Rain, Don't Ease > Music</td></tr>
+<tr><td>II: Scarlet > Fire, Stranger > Terrapin > Playin > Drumz > Black Peter > GDTRFB > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0512"></a><a href="/1980-05-12">5/12/1980 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-12*">Listen/Download</a>]<tr><td>I: Jack Straw > Alabama > El Paso, Althea, Lazy Lightning > Supplication, Far From Me > Minglewood, China Cat > I Know You Rider</td></tr>
+<tr><td>II: Stranger, Ship Of Fools, Estimated > He's Gone > Drumz > Saint > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0514"></a><a href="/1980-05-14">5/14/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-14*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Candyman, Mexicali > El Paso, Tennessee Jed, Let It Grow > Althea, Easy To Love You > Music</td></tr>
+<tr><td>II: Stranger > Sugaree > Sailor > Saint > Comes A Time > Other One > Drumz > Black Peter > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Don't Ease</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0515"></a><a href="/1980-05-15">5/15/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-15*">Listen/Download</a>]<tr><td>I: Jack Straw <span class="setlist_small">*</span> > Franklin's <span class="setlist_small">*</span>, Cassidy, TLEO, Lazy Lightning <span class="setlist_small">*</span> > Supplication <span class="setlist_small">*</span>, Peggy-O <span class="setlist_small">*</span>, Far From Me <span class="setlist_small">*</span>, Stranger > Deal</td></tr>
+<tr><td>II: Althea, Sailor > Saint > Terrapin > Playin <span class="setlist_small">*</span> > Uncle John <span class="setlist_small">*</span> > Drumz <span class="setlist_small">*</span> > NFA <span class="setlist_small">*</span> > GDTRFB <span class="setlist_small">*</span> > Good Lovin <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Alabama <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*appears on "Go to Nassau."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0516"></a><a href="/1980-05-16">5/16/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-16*">Listen/Download</a>]<tr><td>I: Alabama > Promised, High Time <span class="setlist_small">*</span>, Me  and  My Uncle > Big River, Row Jimmy, Minglewood <span class="setlist_small">*</span>, Ramble On > L. L. Rain <span class="setlist_small">*</span>, China Cat <span class="setlist_small">*</span> > I Know You Rider<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Stranger <span class="setlist_small">*</span> > Althea <span class="setlist_small">*</span> > Sailor <span class="setlist_small">*</span> > Saint <span class="setlist_small">*</span> > Eyes > Drumz > Truckin > Morning Dew > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*appears on "Go to Nassau."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0529"></a><a href="/1980-05-29">5/29/1980 Des Moines Civic Center, Des Moines, IA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-29*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, El Paso > Mexicali, Candyman, Minglewood, Althea, Far From Me, Let It Grow > Deal</td></tr>
+<tr><td>II: Stranger, Ship Of Fools, Estimated > Eyes > Drumz > Sailor > Saint > Comes A Time > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1980-05-30">5/30/1980 Milwaukee Auditorium, Milwaukee, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-30*">Listen/Download</a>]<tr><td>I: Jack Straw > Franklin's, Me  and  My Uncle > Big River, FOTD, Passenger, Easy To Love You, Althea, Music</td></tr>
+<tr><td>II: Scarlet > Fire > Playin > Drumz > NFA > Black Peter > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Alabama</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0531"></a><a href="/1980-05-31">5/31/1980 Metropolitan Center, Minneapolis, MN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-31*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Peggy-O, Cassidy, Loser, Minglewood, Far From Me, Althea > L. L. Rain > Deal</td></tr>
+<tr><td>II: Stranger, Ship Of Fools, Sailor > Saint > Jam > Wharf Rat > Other One > Drumz > Miracle > Bertha > Sugar Magnolia</td></tr>
+<tr><td>E1: U. S. Blues</td></tr>
+<tr><td>E2: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0605"></a><a href="/1980-06-05">6/5/1980 Compton Terrace Amphitheatre, Tempe, AZ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-05*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, Mexicali > El Paso, Tennessee Jed > Minglewood, Don't Ease, L. L. Rain, Easy To Love You > Althea, Stranger</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Sailor > Saint > Terrapin > Drumz > Truckin > Black Peter > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>also: Warren Zevon</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0607"></a><a href="/1980-06-07">6/7/1980 Folsom Field, University of Colorado, Boulder, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-07*">Listen/Download</a>]<tr><td>I: Jack Straw, FOTD > El Paso > Mama Tried, Ramble On, Passenger, Far From Me, Minglewood, Loser, Stranger, Deal</td></tr>
+<tr><td>II: Bertha > Greatest, Althea, Sailor > Saint > Jam > Drumz > NFA > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E1: Alabama > Saturday Night</td></tr>
+<tr><td>E2: U. S. Blues</td></tr>
+<tr class="notes"><td>official 15th anniversary celebration - also: Warren Zevon</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1980-06-08">6/8/1980 Folsom Field, University of Colorado, Boulder, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-08*">Listen/Download</a>]<tr><td>I: Uncle John > Playin > Uncle John, Me  and  My Uncle > Mexicali, Tennessee Jed, Samson, Easy To Love You > Althea > L. L. Rain > Deal</td></tr>
+<tr><td>II: Stranger, Ship Of Fools, Estimated > Eyes > Drumz > Saint > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Alabama > Brokedown</td></tr>
+<tr class="notes"><td>official 15th anniversary celebration - also: Warren Zevon</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0612"></a><a href="/1980-06-12">6/12/1980 Portland Memorial Coliseum, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-12*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Peggy-O > El Paso, B. E. Women, Cassidy, Far From Me, Althea > Sailor > Saint > Deal</td></tr>
+<tr><td>II: Drums > Scarlet > Fire, Estimated > Drumz > NFA > Black Peter > Around > Good Lovin</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Previous ''Drums'' 2/5/1978 [163 shows]</i></td></tr>
+<tr class="notes"><td>Mt. St. Helens erupted during "Fire On The Mountain."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0613"></a><a href="/1980-06-13">6/13/1980 Seattle Center Arena, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-13*">Listen/Download</a>]<tr><td>I: Minglewood, Sugaree, Mama Tried > Mexicali, Candyman, Passenger, Althea > Sailor > Saint > Deal</td></tr>
+<tr><td>II: Don't Ease, Let It Grow > China Cat > I Know You Rider > C. C. Rider, Terrapin > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Alabama</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1980-06-14">6/14/1980 Spokane Coliseum, Spokane, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-14*">Listen/Download</a>]<tr><td>I: Alabama > Promised, FOTD > El Paso, B. E. Women, Me  and  My Uncle > Big River, Far From Me, Big RxR Blues, L. L. Rain, Don't Ease</td></tr>
+<tr><td>II: Stranger, Ship Of Fools > Estimated > Eyes > Drumz > Sailor > Saint > Stella Blue > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1980-06-19">6/19/1980 West High Auditorium, Anchorage, AK</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-19*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO > El Paso, Tennessee Jed, Cassidy, Althea > L. L. Rain, Far From Me, Music</td></tr>
+<tr><td>II: China Cat > I Know You Rider > C. C. Rider, Peggy-O, Sailor > Saint > Drumz > Wharf Rat > Miracle > Bertha > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0620"></a><a href="/1980-06-20">6/20/1980 West High Auditorium, Anchorage, AK</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-20*">Listen/Download</a>]<tr><td>I: Jack Straw > Franklin's > Mama Tried > Mexicali, FOTD, Let It Grow > Althea, Easy To Love You, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Alabama > Greatest, Ship Of Fools, Estimated > Other One > Drumz > NFA > Black Peter > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Don't Ease</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1980-06-21">6/21/1980 West High Auditorium, Anchorage, AK</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-21*">Listen/Download</a>]<tr><td>I: Sugaree > Minglewood, Candyman, Me  and  My Uncle > Big River, Loser, Lazy Lightning > Supplication, Far From Me, Ramble On, Stranger</td></tr>
+<tr><td>II: Big RxR Blues, Samson, Terrapin > Playin > Drumz > Truckin > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Saturday Night > Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0629"></a><a href="/1980-06-29">6/29/1980 Pauley Pavilion, U.C.L.A., Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-06-29*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Loser, Minglewood, Althea, L. L. Rain, Easy To Love You, Big RxR Blues > Sailor > Saint > Deal</td></tr>
+<tr><td>II: Stranger, Don't Ease, Estimated > Scarlet > Fire > Drumz<span class="setlist_small">*</span> > Other One<span class="setlist_small">*</span> > Black Peter<span class="setlist_small">*</span> > Sugar Magnolia<span class="setlist_small">*</span></td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>*with Lee Oskar</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0701"></a><a href="/1980-07-01">7/1/1980 San Diego Sports Arena, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-07-01*">Listen/Download</a>]<tr><td>I: Jack Straw > Franklin's > El Paso, Tennessee Jed, Lazy Lightning > Supplication, Althea > Sailor > Saint</td></tr>
+<tr><td>II: China Cat > I Know You Rider > C. C. Rider, Peggy-O, Far From Me, Uncle John > Playin > Drumz > Truckin > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: Alabama > Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0816"></a><a href="/1980-08-16">8/16/1980 Mississippi River Festival, Edwardsville, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-16*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, Me  and  My Uncle > El Paso, Althea > L. L. Rain, Tennessee Jed, Easy To Love You, Minglewood, Deal</td></tr>
+<tr><td>II: C. C. Rider > China Cat > I Know You Rider, Ship Of Fools, Estimated > He's Gone > Drumz > Other One > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Iko Iko, Saturday Night</td></tr>
+<tr class="notes"><td>Previous ''Iko Iko'' 2/4/1979 [94 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0817"></a><a href="/1980-08-17">8/17/1980 Kansas City Municipal Auditorium Arena, Kansas City, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-17*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Mama Tried > Mexicali, Peggy-O, Minglewood, FOTD, Far From Me > Sailor > Saint</td></tr>
+<tr><td>II: Don't Ease, Samson, Scarlet > Fire > Drumz > Wheel > Truckin > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Previous ''Wheel'' 2/17/1979 [89 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0819"></a><a href="/1980-08-19">8/19/1980 Uptown Theatre, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-19*">Listen/Download</a>]<tr><td>I: Half Step > Franklin's > Minglewood, Dire Wolf, Cassidy, Row Jimmy, Me  and  My Uncle > Big River, Althea, Easy To Love You, Stranger</td></tr>
+<tr><td>II: Rooster > China Cat > I Know You Rider > Estimated > Eyes > Drumz > Playin > Comes A Time > Playin > Around > Alabama</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>First ''Rooster''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0820"></a><a href="/1980-08-20">8/20/1980 Uptown Theatre, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-20*">Listen/Download</a>]<tr><td>I: Jack Straw, Loser, BIODTL, Ramble On > El Paso, Big RxR Blues > L. L. Rain, Far From Me, Let It Grow > Deal</td></tr>
+<tr><td>II: Greatest > Althea > Sailor > Saint > Terrapin > Drumz > NFA > Morning Dew > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0821"></a><a href="/1980-08-21">8/21/1980 Uptown Theatre, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-21*">Listen/Download</a>]<tr><td>I: Cold Rain, Minglewood, High Time, Mama Tried > Mexicali, Peggy-O, All Over Now, Easy To Love You, Shakedown > Promised</td></tr>
+<tr><td>II: Drums > Uncle John > Truckin > Other One > Drumz > Wheel > Uncle John > Sugar Magnolia</td></tr>
+<tr><td>E: Alabama</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0823"></a><a href="/1980-08-23">8/23/1980 Alpine Valley Music Theatre, East Troy, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-23*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Candyman, Me  and  My Uncle > Big River, Tennessee Jed, Lazy Lightning > Supplication, Althea, Music</td></tr>
+<tr><td>II: Don't Ease, Sailor > Saint > He's Gone > Drumz > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0824"></a><a href="/1980-08-24">8/24/1980 Grand Center, Grand Rapids, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-24*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Cassidy, B. E. Women, Passenger, Peggy-O, L. L. Rain, Althea, Let It Grow > Deal</td></tr>
+<tr><td>II: Samson, Ship Of Fools, Stranger, China Cat > I Know You Rider > Drumz > NFA > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Don't Ease</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0826"></a><a href="/1980-08-26">8/26/1980 Cleveland Public Hall, Cleveland, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-26*">Listen/Download</a>]<tr><td>I: Sugaree > El Paso, Loser, BIODTL, Althea, Lazy Lightning > Supplication, Deal</td></tr>
+<tr><td>II: Don't Ease, Rooster, Far From Me, Uncle John > Playin > Drumz > Comes A Time > Sailor > Saint > Casey Jones</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0827"></a><a href="/1980-08-27">8/27/1980 Pine Knob Music Theatre, Clarkston, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-27*">Listen/Download</a>]<tr><td>I: Promised, TLEO, Mama Tried > Mexicali, Tennessee Jed, Minglewood, Althea, L. L. Rain, Big RxR Blues, Stranger</td></tr>
+<tr><td>II: China Cat > I Know You Rider, C. C. Rider, High Time, Estimated > Eyes > Drumz > NFA > Stella Blue > Miracle > Bertha > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0829"></a><a href="/1980-08-29">8/29/1980 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-29*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Candyman, Me  and  My Uncle > Big River, Row Jimmy > Rooster, B. E. Women, Far From Me, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Greatest > Althea, Let It Grow > He's Gone > Other One > Drumz > Wharf Rat > GDTRFB > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0830"></a><a href="/1980-08-30">8/30/1980 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-30*">Listen/Download</a>]<tr><td>I: Stranger, Peggy-O, Cassidy, FOTD, Minglewood, Cold Rain > L. L. Rain, Easy To Love You, Althea, Jack Straw</td></tr>
+<tr><td>II: Scarlet > Fire, C. C. Rider, Ramble On, Estimated > Eyes > Drumz > NFA > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0831"></a><a href="/1980-08-31">8/31/1980 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-08-31*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, Mama Tried > Mexicali, Althea, Rooster, Tennessee Jed, Far From Me <span class="setlist_small">*</span>, Lazy Lightning > Supplication, Deal</td></tr>
+<tr><td>II: Greatest > Uncle John > Sailor > Saint > Comes A Time > Truckin > Drumz > Other One > Stella Blue > Miracle > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*appears on the "Beyond Description (1973-1989)" bonus disc.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0902"></a><a href="/1980-09-02">9/2/1980 Community War Memorial, Rochester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-02*">Listen/Download</a>]<tr><td>I: Minglewood, Sugaree > El Paso, FOTD, All Over Now, China Cat > I Know You Rider > Sailor > Saint > Don't Ease</td></tr>
+<tr><td>II: Althea, C. C. Rider, Ship Of Fools, Estimated > Terrapin > Playin > Drumz <span class="setlist_small">*</span> > Iko Iko <span class="setlist_small">*</span> > Morning Dew <span class="setlist_small">*</span> > Sugar Magnolia</td></tr>
+<tr><td>E: Alabama</td></tr>
+<tr class="notes"><td>*appears on "Dick’s Picks Volume 21."; Brent Mydland's 100th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0903"></a><a href="/1980-09-03">9/3/1980 Springfield Civic Center Arena, Springfield, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-03*">Listen/Download</a>]<tr><td>I: Half Step > Franklin's > Mama Tried > Mexicali, Althea > Rooster, Candyman, Easy To Love You, Let It Grow > Deal</td></tr>
+<tr><td>II: Stranger, High Time, Sailor > Saint > Drumz > He's Gone > Truckin > Black Peter > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Next ''Easy To Love You'' 3/15/1990 [673 shows]</i></td></tr>
+<tr class="notes"><td>Entire show appears on "Grateful Dead Download Series Volume 7."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0904"></a><a href="/1980-09-04">9/4/1980 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-04*">Listen/Download</a>]<tr><td>I: Stranger, Peggy-O, Cassidy, Dire Wolf, Minglewood, Althea, L. L. Rain, Far From Me, China Cat > I Know You Rider</td></tr>
+<tr><td>II: Samson, Ramble On, Supplication Jam <span class="setlist_small">*</span> > Estimated <span class="setlist_small">*</span> > Eyes <span class="setlist_small">*</span> > Drumz <span class="setlist_small">*</span> > Other One <span class="setlist_small">*</span> > Wharf Rat <span class="setlist_small">*</span> > GDTRFB <span class="setlist_small">*</span> > Good Lovin <span class="setlist_small">*</span></td></tr>
+<tr><td>E: U. S. Blues <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>appears on "Grateful Dead Download Series Volume 7."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0906"></a><a href="/1980-09-06">9/6/1980 State Fairgrounds, Lewiston, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-06*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, Sugaree, Me  and  My Uncle > Mexicali, Tennessee Jed, Stranger, FOTD, Far From Me > Rooster, China Cat > I Know You Rider > Promised</td></tr>
+<tr><td>II: Shakedown, Sailor > Saint, Althea, Playin > Uncle John > Drumz > NFA > Wheel > Uncle John > Playin > Sugar Magnolia</td></tr>
+<tr><td>E: Saturday Night > Brokedown</td></tr>
+<tr class="notes"><td>Next ''Far From Me'' 10/15/1981 [103 shows]</i></td></tr>
+<tr class="notes"><td>Roy Buchanan, then The Cate Brothers  and  Levon Helm opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0914"></a><a href="/1980-09-14">9/14/1980 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-14*">Listen/Download</a>]<tr><td>To Lay Me Down</td></tr>
+<tr class="notes"><td>Rehearsal. Appears as a "Reckoning" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0925"></a><a href="/1980-09-25">9/25/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-25*">Listen/Download</a>]<tr><td>I: Bird Song<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@*</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@*</span></td></tr>
+<tr><td>II: Alabama > Greatest, FOTD, Mama Tried > Mexicali, Loser, Rooster, Althea, Jack Straw, Deal</td></tr>
+<tr><td>III: China Cat > I Know You Rider, Samson, Ship Of Fools, Playin > Drumz > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>First ''Ain't No Lie''; Previous ''All Around This World'' 2/14/1970 [704 shows]; Previous ''Bird Song'' 9/15/1973 [382 shows]; Previous ''Dark Hollow'' 4/29/1971 [550 shows]; Previous ''Jack A Roe'' 12/3/1979 [60 shows]; Previous ''Monkey  and  Engineer'' 12/31/1970 [589 shows]; Previous ''Ripple'' 4/29/1971 [550 shows]; Previous ''Rosalie McFall'' 11/8/1970 [609 shows]; Previous ''Roses'' 1/12/1979 [118 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Reckoning."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0926"></a><a href="/1980-09-26">9/26/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-26*">Listen/Download</a>]<tr><td>I: To Lay Me Down<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Stranger, Sugaree, Me  and  My Uncle > Big River, Peggy-O, Minglewood, Candyman, L. L. Rain, Tennessee Jed > Sailor > Saint</td></tr>
+<tr><td>III: Scarlet > Fire, Estimated > Eyes > Drumz > NFA > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Previous ''China Doll'' 5/8/1979 [99 shows]; Previous ''On The Road Again'' 12/1/1966 [1128 shows]; Previous ''To Lay Me Down'' 10/19/1974 [311 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0927"></a><a href="/1980-09-27">9/27/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-27*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Half Step > Franklin's, Mama Tried > Mexicali, Row Jimmy, Rooster, Althea > Let It Grow, Deal</td></tr>
+<tr><td>III: Cold Rain > C. C. Rider, Ramble On, He's Gone > Other One > Drumz > Stella Blue > Miracle > GDTRFB > Johnny B. Goode</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Previous ''Race Is On'' 10/19/1974 [312 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1980-09-29">9/29/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-29*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Jack Straw, TLEO, El Paso, B. E. Women, All Over Now, Candyman, Minglewood, China Cat > I Know You Rider</td></tr>
+<tr><td>III: Althea, Sailor > Saint > Terrapin > Drumz > Truckin > Wharf Rat > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>First ''Heaven Help The Fool''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1980-09-30">9/30/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-09-30*">Listen/Download</a>]<tr><td>I: On The Road Again<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@*</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Promised, Peggy-O, BIODTL, FOTD, Lazy Lightning > Supplication, Loser, Rooster, Big RxR Blues</td></tr>
+<tr><td>III: Stranger > Franklin's, Samson, He's Gone > Estimated > Drumz > Other One > Black Peter > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*appears on "Reckoning."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1002"></a><a href="/1980-10-02">10/2/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-02*">Listen/Download</a>]<tr><td>I: Dark Hollow<span class="setlist_small">@</span>, Iko Iko<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@*</span>, To Lay Me Down<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Bertha > Greatest, Peggy-O, Mama Tried > Mexicali, Roses, All Over Now, Loser, L. L. Rain, China Cat > I Know You Rider</td></tr>
+<tr><td>III: Drums > Comes A Time > Sailor > Saint > Terrapin > Playin > Drumz > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Alabama</td></tr>
+<tr class="notes"><td>Next ''Drums'' 2/11/1986 [379 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Reckoning."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1003"></a><a href="/1980-10-03">10/3/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-03*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Jack Straw, Sugaree, Me  and  My Uncle > Big River, Row Jimmy, Minglewood, Tennessee Jed, Music</td></tr>
+<tr><td>III: Scarlet > Fire, Samson, Ship Of Fools, Playin > Drumz > Wheel > Playin > Black Peter > Good Lovin</td></tr>
+<tr><td>E: Brokedown <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*appears on "Dead Set."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1004"></a><a href="/1980-10-04">10/4/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-04*">Listen/Download</a>]<tr><td>I: Deep Elem<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Greatest, Candyman, Mama Tried > Mexicali, High Time, Passenger, Althea, Rooster, Ramble On, Let It Grow > Deal <span class="setlist_small">*</span></td></tr>
+<tr><td>III: Stranger <span class="setlist_small">*</span> > Franklin's > Estimated > Eyes > Drumz > NFA <span class="setlist_small">+</span> > Wharf Rat > Miracle > Johnny B. Goode</td></tr>
+<tr><td>E: Uncle John > Saturday Night</td></tr>
+<tr class="notes"><td>Previous ''Deep Elem'' 12/28/1970 [597 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Dead Set." +appears as a "Dead Set" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1006"></a><a href="/1980-10-06">10/6/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-06*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: China Cat > I Know You Rider > Minglewood, TLEO, BIODTL, Peggy-O, Lazy Lightning > Supplication, B. E. Women, L. L. Rain, Deal</td></tr>
+<tr><td>III: Samson, Roses, Sailor > Saint > Terrapin > Drumz > Truckin > Other One > Black Peter > Sugar Magnolia > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1007"></a><a href="/1980-10-07">10/7/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-07*">Listen/Download</a>]<tr><td>I: Iko Iko<span class="setlist_small">@+</span>, Dark Hollow<span class="setlist_small">@*</span>, Rosalie McFall<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Deep Elem<span class="setlist_small">@</span>, El Paso<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Cold Rain > Minglewood, Loser, Me  and  My Uncle > Big River, Althea, Rooster, Don't Ease, Let It Grow > Deal</td></tr>
+<tr><td>III: Shakedown <span class="setlist_small">#</span>, Estimated > He's Gone > Drumz > Wheel > Stella Blue > Miracle > Good Lovin</td></tr>
+<tr><td>E: Alabama</td></tr>
+<tr class="notes"><td>*appears on "Reckoning." +appears as a "Reckoning" bonus track in "Beyond Description (1973-1989)." #appears as a "Dead Set" bonus track in "Beyond Description (1973-1989)." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1009"></a><a href="/1980-10-09">10/9/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-09*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Stranger, FOTD, Mama Tried > Mexicali, Peggy-O, Rooster, B. E. Women, L. L. Rain, Tennessee Jed, Music</td></tr>
+<tr><td>III: Alabama > Greatest <span class="setlist_small">*</span>, High Time, Sailor > Saint > Terrapin > Drumz > NFA > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+<tr class="notes"><td>*appears on "Dead Set."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1010"></a><a href="/1980-10-10">10/10/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-10*">Listen/Download</a>]<tr><td>I: On The Road Again<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@*</span>, Dark Hollow<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Half Step > Franklin's, Me  and  My Uncle > Big River, Candyman, BIODTL, Row Jimmy <span class="setlist_small">#</span>, Minglewood <span class="setlist_small">+</span>, Althea, Jack Straw <span class="setlist_small">#</span></td></tr>
+<tr><td>III: Scarlet > Fire, Samson <span class="setlist_small">+</span>, Big RxR Blues, Estimated <span class="setlist_small">%</span> > Eyes > Drumz > Truckin > Nobody's Jam > Black Peter > Around > Promised</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>*appears on "Reckoning." +appears on "Dead Set." #appears as a "Dead Set" bonus track in "Beyond Description (1973-1989)." %appears on the "Beyond Description (1973-1989)" bonus disc.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1011"></a><a href="/1980-10-11">10/11/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-11*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@+</span>, Dark Hollow<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Deep Elem<span class="setlist_small">@+</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Stranger, TLEO, Mama Tried > Mexicali, Loser <span class="setlist_small">#</span>, Passenger <span class="setlist_small">#</span>, Ramble On, L. L. Rain, Althea > Sailor > Saint</td></tr>
+<tr><td>III: China Cat > I Know You Rider, Let It Grow > Drumz > NFA<span class="setlist_small">*</span> > Wharf Rat<span class="setlist_small">*</span> > GDTRFB<span class="setlist_small">*</span> > Saturday Night<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*with John Cipollina. +appears on "Reckoning." #appears on "Dead Set." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1013"></a><a href="/1980-10-13">10/13/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-13*">Listen/Download</a>]<tr><td>I: On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, El Paso<span class="setlist_small">@*</span>, To Lay Me Down<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, Deep Elem<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Sugaree > Minglewood, Peggy-O, C. C. Rider <span class="setlist_small">+</span>, Big RxR Blues, Lazy Lightning <span class="setlist_small">+</span> > Supplication <span class="setlist_small">+</span>, Deal</td></tr>
+<tr><td>III: Cold Rain, Samson, Ship Of Fools, Sailor > Saint > Drumz > He's Gone > Other One > Stella Blue > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+<tr class="notes"><td>*appears as a "Reckoning" bonus track in "Beyond Description (1973-1989)." +appears as a "Dead Set" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1014"></a><a href="/1980-10-14">10/14/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-14*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@*</span>, All Around This World<span class="setlist_small">@*</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@*</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Greatest, FOTD, Me  and  My Uncle > Mexicali, Candyman, Rooster, Tennessee Jed > Let It Grow > Wheel > Music <span class="setlist_small">+</span></td></tr>
+<tr><td>III: Scarlet > Fire, Estimated > Terrapin > Playin > Drumz > Miracle > Uncle John > Morning Dew > Playin > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues, Brokedown</td></tr>
+<tr class="notes"><td>Next ''Morning Dew'' 8/12/1981 [65 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Reckoning." +appears on "So Many Roads (1965-1995)." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1018"></a><a href="/1980-10-18">10/18/1980 Saenger Performing Arts Center, New Orleans, LA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-18*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Greatest, FOTD, Me  and  My Uncle > Big River, Loser, Minglewood, Althea > Sailor > Saint > Deal</td></tr>
+<tr><td>III: China Cat > I Know You Rider, Stranger, Ship Of Fools, Estimated > Eyes > Drumz > NFA > Black Peter > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1019"></a><a href="/1980-10-19">10/19/1980 Saenger Performing Arts Center, New Orleans, LA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-19*">Listen/Download</a>]<tr><td>I: On The Road Again<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Jack Straw, TLEO, Mama Tried > Mexicali, Candyman, Passenger, Row Jimmy > L. L. Rain, Tennessee Jed > Promised</td></tr>
+<tr><td>III: Scarlet > Fire, Samson, Terrapin > Drumz > Truckin > Wharf Rat > Sugar Magnolia > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1022"></a><a href="/1980-10-22">10/22/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-22*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Greatest, FOTD, Me  and  My Uncle > Big River, Peggy-O, Minglewood, China Cat > I Know You Rider</td></tr>
+<tr><td>III: Scarlet > Fire > Sailor > Saint > Drumz > NFA > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1023"></a><a href="/1980-10-23">10/23/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-23*">Listen/Download</a>]<tr><td>I: On The Road Again<span class="setlist_small">@</span>, Roses<span class="setlist_small">@*</span>, Dark Hollow<span class="setlist_small">@*</span>, Jack A Roe<span class="setlist_small">@*</span>, Cassidy<span class="setlist_small">@*</span>, China Doll<span class="setlist_small">@*</span>, Monkey  and  Engineer<span class="setlist_small">@*</span>, Ain't No Lie<span class="setlist_small">@*</span> > Ripple<span class="setlist_small">@*</span></td></tr>
+<tr><td>II: Stranger, Tennessee Jed, Mama Tried > Mexicali, Althea <span class="setlist_small">+</span>, Rooster, Big RxR Blues, Music</td></tr>
+<tr><td>III: Samson, Ship Of Fools, Estimated > Terrapin > Drumz > Wheel > Truckin > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+<tr class="notes"><td>*appears as a "Reckoning" bonus track in "Beyond Description (1973-1989)." +appears as a "Go to Heaven" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1025"></a><a href="/1980-10-25">10/25/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-25*">Listen/Download</a>]<tr><td>I: Deep Elem<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>,  To Lay Me Down<span class="setlist_small">@*</span> > El Paso<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@%</span>, Dire Wolf<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Half Step > Franklin's <span class="setlist_small">+</span>, Me  and  My Uncle > Big River, High Time <span class="setlist_small">$</span>, Minglewood, Ramble On > L. L. Rain, Deal</td></tr>
+<tr><td>III: Cold Rain > Sailor <span class="setlist_small">#</span> > Saint <span class="setlist_small">#</span> > Uncle John > Playin > Drumz > Other One > Black Peter > Around > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>*appears on "Reckoning." +appears on "Dead Set." #appears as a "Go to Heaven" bonus track in "Beyond Description (1973-1989).# %appears as a "Reckoning" bonus track in "Beyond Description (1973-1989)." $appears as a "Dead Set" bonus track in "Beyond Description (1973-1989)." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1026"></a><a href="/1980-10-26">10/26/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-26*">Listen/Download</a>]<tr><td>I: Iko Iko<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, Roses<span class="setlist_small">@*</span>, On The Road Again<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, China Doll<span class="setlist_small">@*</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Jack Straw > Sugaree <span class="setlist_small">+</span>, Rooster, B. E. Women, Let It Grow <span class="setlist_small">+</span> > Don't Ease</td></tr>
+<tr><td>III: Jam > Samson, Althea, Estimated > He's Gone > Drumz > NFA > Stella Blue > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>False start for "Estimated." *appears on "Reckoning." +appear as a "Dead Set" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1027"></a><a href="/1980-10-27">10/27/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-27*">Listen/Download</a>]<tr><td>I: Race Is On<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@*</span>, To Lay Me Down<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Rosalie McFall<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Greatest, FOTD <span class="setlist_small">+</span>, Minglewood, Peggy-O, Passenger, Row Jimmy, Sailor > Saint > Deal</td></tr>
+<tr><td>III: Truckin > Scarlet > Fire > Drumz > Wharf Rat > Miracle > Bertha > Johnny B. Goode</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+<tr class="notes"><td>Final ''Rosalie McFall''</i></td></tr>
+<tr class="notes"><td>*appears on "Reckoning." +appears on "Dead Set."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1029"></a><a href="/1980-10-29">10/29/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-29*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Heaven Help The Fool<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Stranger > Franklin's, Me  and  My Uncle > Big River, Candyman <span class="setlist_small">*</span> > Rooster <span class="setlist_small">*</span>, Tennessee Jed, L. L. Rain, Althea > Music</td></tr>
+<tr><td>III: China Cat <span class="setlist_small">+</span> > I Know You Rider <span class="setlist_small">+</span> > Estimated > Terrapin > Drumz > Wheel > Saint > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>*appears on "Dead Set." +appears in the DVD included with the deluxe edition of the "Grateful Dead Scrapbook."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1980-10-30">10/30/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-30*">Listen/Download</a>]<tr><td>I: Deep Elem<span class="setlist_small">@</span>, Dark Hollow<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@+#</span>, To Lay Me Down<span class="setlist_small">@#</span>, Heaven Help The Fool<span class="setlist_small">@%</span>, Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Promised, Peggy-O, Mama Tried > Mexicali, Loser, Minglewood, Althea > Sailor > Saint</td></tr>
+<tr><td>III: Shakedown <span class="setlist_small">%</span>, Samson <span class="setlist_small">%</span>, He's Gone <span class="setlist_small">%</span> > Truckin <span class="setlist_small">%</span> > Drumz<span class="setlist_small">*</span> > Other One > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Final ''Dark Hollow''</i></td></tr>
+<tr class="notes"><td>*with Billy Cobham. +appears on Reckoning. #appears in the "Dead Ahead" video. %appears as a "Dead Ahead" video bonus song.     </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1980-10-31">10/31/1980 Radio City Music Hall, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-31*">Listen/Download</a>]<tr><td>I: Heaven Help The Fool<span class="setlist_small">@</span>, Sage And Spirit<span class="setlist_small">@#</span>, Sadie<span class="setlist_small">@#</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Roses<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@*</span> > Ripple<span class="setlist_small">@*</span></td></tr>
+<tr><td>II: Jack Straw, Cold Rain, Me  and  My Uncle <span class="setlist_small">*</span> > Mexicali <span class="setlist_small">*</span>, Ramble On <span class="setlist_small">*</span> > Rooster <span class="setlist_small">*</span>, B. E. Women > L. L. Rain > Deal</td></tr>
+<tr><td>III: Don't Ease <span class="setlist_small">*</span> > Sailor <span class="setlist_small">*</span> > Saint <span class="setlist_small">*</span> > Franklin's <span class="setlist_small">*</span> > Drumz <span class="setlist_small">*+</span> > Fire <span class="setlist_small">*+</span> > NFA <span class="setlist_small">*</span> > Stella Blue > GDTRFB > Good Lovin <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Uncle John <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Previous ''Sadie'' 2/28/1970 [722 shows]; Previous ''Sage And Spirit'' 8/13/1975 [330 shows]; Final ''Heaven Help The Fool''; Final ''Sadie''; Final ''Sage And Spirit''</i></td></tr>
+<tr class="notes"><td>Closed circuit TV on the East Coast. FM broadcast. No Phil until "Roses" due to technical problems. *appears in the "Dead Ahead" video. +appears on "Dead Set." #appears as a "Reckoning" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1126"></a><a href="/1980-11-26">11/26/1980 Sportatorium, Pembroke Pines, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-11-26*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, FOTD, On The Road Again, Jack A Roe, Minglewood, Roses, Race Is On, Althea > Sailor > Saint > Deal</td></tr>
+<tr><td>II: Cold Rain, Samson, China Cat > I Know You Rider > Estimated > Eyes > Drumz > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: Satisfaction</td></tr>
+<tr class="notes"><td>First ''Satisfaction''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1128"></a><a href="/1980-11-28">11/28/1980 Lakeland Civic Center Arena, Lakeland, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-11-28*">Listen/Download</a>]<tr><td>I: Jack Straw, Peggy-O, Rooster, Tennessee Jed, Passenger, Deep Elem, L. L. Rain, Deal</td></tr>
+<tr><td>II: Stranger, To Lay Me Down > Let It Grow > Terrapin > Drumz > NFA > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1129"></a><a href="/1980-11-29">11/29/1980 Alligator Alley Gym, U. of Fl., Gainesville, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-11-29*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Candyman, Minglewood, Row Jimmy, Mama Tried > Mexicali, Althea > Sailor > Saint > Don't Ease</td></tr>
+<tr><td>II: Shakedown > Franklin's > Estimated > He's Gone > Truckin > Drumz > Other One > Stella Blue > Good Lovin</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1130"></a><a href="/1980-11-30">11/30/1980 Fox Theatre, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-11-30*">Listen/Download</a>]<tr><td>I: Stranger, Loser, Cassidy, Ramble On, Rooster, Bird Song, Me  and  My Uncle > Big River, Roses, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Samson, Ship Of Fools, Playin > Drumz > Wheel > China Doll > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Uncle John</td></tr>
+<tr class="notes"><td>Last electric "Bird Song": 09-15-73 [410].</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1206"></a><a href="/1980-12-06">12/6/1980 Recreation Center, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-06*">Listen/Download</a>]<tr><td>Dire Wolf<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span>, Ain't No Lie<span class="setlist_small">@</span>, Ripple<span class="setlist_small">@</span></td></tr>
+<tr class="notes"><td>Next ''Ain't No Lie'' 10/16/1981 [74 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1212"></a><a href="/1980-12-12">12/12/1980 Swing Auditorium, San Bernardino, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-12*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, FOTD, Mama Tried > Mexicali, Althea > Rooster, Peggy-O > L. L. Rain > Tennessee Jed > Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Estimated > He's Gone > Eyes > Drumz > Truckin > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: Don't Ease</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1213"></a><a href="/1980-12-13">12/13/1980 Long Beach Arena, Long Beach, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-13*">Listen/Download</a>]<tr><td>I: Stranger > Sugaree > C. C. Rider, To Lay Me Down > Minglewood, Ramble On, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Playin > Drumz<span class="setlist_small">*</span> > NFA > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>*with Flora Purim and Airto Moreira.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1214"></a><a href="/1980-12-14">12/14/1980 Long Beach Arena, Long Beach, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-14*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Althea > Rooster<span class="setlist_small">*</span>, Loser, Me  and  My Uncle > Big River, Bird Song, Passenger, Candyman > L. L. Rain, Don't Ease</td></tr>
+<tr><td>II: Cold Rain > Samson, Roses, Estimated > Wheel > Drumz<span class="setlist_small">+</span> > Other One > Stella Blue > Around<span class="setlist_small">*</span> > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*with Matt Kelly.  +with Flora Purim and Airto Moreira.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1226"></a><a href="/1980-12-26">12/26/1980 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-26*">Listen/Download</a>]<tr><td>I: Alabama > Promised, TLEO, C. C. Rider, Althea, Cassidy, Peggy-O, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Samson, Ship Of Fools, Playin > Drumz > NFA > Black Peter > Around > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>SEVA benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1227"></a><a href="/1980-12-27">12/27/1980 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-27*">Listen/Download</a>]<tr><td>I: Stranger, Sugaree > Minglewood, Loser, L. L. Rain, Tennessee Jed, Passenger, Roses, Music</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Estimated > Eyes > Drumz > Wheel > Truckin > Wharf Rat > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1980-12-28">12/28/1980 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-28*">Listen/Download</a>]<tr><td>I: Half Step > Franklin's, Me  and  My Uncle > Big River, Bird Song, Rooster, Althea, Jack Straw</td></tr>
+<tr><td>II: Don't Ease, Sailor > Saint > Terrapin > Drumz > Other One > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1980-12-30">12/30/1980 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-30*">Listen/Download</a>]<tr><td>I: Minglewood, FOTD, Mama Tried > Mexicali, B. E. Women, BIODTL, Althea, Let It Grow > Deal</td></tr>
+<tr><td>II: Shakedown, Samson, He's Gone > Truckin > Drumz > NFA > China Doll > Around > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Soundcheck: Baby Blue, To Lay Me Down, Youngblood, Searchin.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1980-12-31">12/31/1980 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-12-31*">Listen/Download</a>]<tr><td>I: Dire Wolf<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, To Lay Me Down<span class="setlist_small">@</span>, Monkey  and  Engineer<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Alabama > Greatest, TLEO, Rooster<span class="setlist_small">*</span>, China Cat > I Know You Rider, L. L. Rain, Althea > Sailor > Saint > Deal</td></tr>
+<tr><td>III: Sugar Magnolia > Scarlet > Fire<span class="setlist_small">+</span>, Estimated > Drumz > Other One > Wharf Rat<span class="setlist_small">+</span> > Around<span class="setlist_small">+</span> > Sunshine Daydream<span class="setlist_small">+</span></td></tr>
+<tr><td>E: Satisfaction > Brokedown</td></tr>
+<tr class="notes"><td>Next ''Sunshine Daydream'' 9/25/1981 [53 shows]; Final ''All Around This World''</i></td></tr>
+<tr class="notes"><td>Bill Graham rides in at midnight on top of a giant skull. *with Matt Kelly. +with John Cipollina.</i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

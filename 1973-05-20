@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Sunday, May 20, 1973 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1973-05-20&highlight=went">Shows I attended</a>
+		<a href="/1973-05-20&highlight=own">Shows I own</a>
+		<a href="/1973-05-20&highlight=looking">Shows I'm looking for</a>
+		<a href="/1973-05-20&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Sunday, May 20, 1973</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0520"></a><a href="/1973-05-20">5/20/1973 Campus Stadium, U.C.S.B., Santa Barbara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1973-05-20*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Box Of Rain, Deal, L. L. Rain, Tennessee Jed, Race Is On, China Cat > I Know You Rider, BIODTL, TLEO, Playin</td></tr>
+<tr><td>II: Promised, B. E. Women, Mexicali, Row Jimmy, Jack Straw, Big RxR Blues, Greatest, H. C. Sunshine, Big River, Loser, El Paso, Casey Jones</td></tr>
+<tr><td>III: Truckin > Nonody's Jam > Other One > Eyes > Stella Blue, Sugar Magnolia</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Afternoon concert. Also: NRPS</i></td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('73)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">30</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">48</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
+<tr valign="top"><td>Box Of Rain</td><td>10/9/1972</td><td>7/9/1995</td><td align="center">161</td><td align="center">29</td><td align="center">[<a href="/songs/Box Of Rain_47">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">32</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
+<tr valign="top"><td>Looks Like Rain</td><td>3/21/1972</td><td>6/30/1995</td><td align="center">417</td><td align="center">50</td><td align="center">[<a href="/songs/Looks Like Rain_190">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Tennessee Jed</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">433</td><td align="center">38</td><td align="center">[<a href="/songs/Tennessee Jed_355">ETP</a>]</td></tr>
+<tr valign="top"><td>Race Is On</td><td>6/11/1969</td><td>5/20/1995</td><td align="center">59</td><td align="center">27</td><td align="center">[<a href="/songs/Race Is On_278">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">52</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
+<tr valign="top"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">53</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">48</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
+<tr valign="top"><td>They Love Each Other</td><td>2/9/1973</td><td>9/27/1994</td><td align="center">227</td><td align="center">46</td><td align="center">[<a href="/songs/They Love Each Other_348">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">51</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
+<tr valign="top"><td>Promised Land</td><td>5/29/1971</td><td>7/9/1995</td><td align="center">427</td><td align="center">48</td><td align="center">[<a href="/songs/Promised Land_275">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Brown-Eyed Women</td><td>8/23/1971</td><td>7/6/1995</td><td align="center">347</td><td align="center">37</td><td align="center">[<a href="/songs/Brown Eyed Women_16">ETP</a>]</td></tr>
+<tr valign="top"><td>Mexicali Blues</td><td>10/19/1971</td><td>6/25/1995</td><td align="center">435</td><td align="center">57</td><td align="center">[<a href="/songs/Mexicali Blues_223">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Row Jimmy</td><td>2/9/1973</td><td>6/21/1995</td><td align="center">273</td><td align="center">60</td><td align="center">[<a href="/songs/Row Jimmy_294">ETP</a>]</td></tr>
+<tr valign="top"><td>Jack Straw</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">472</td><td align="center">51</td><td align="center">[<a href="/songs/Jack Straw_183">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Big Railroad Blues</td><td>9/7/1969</td><td>6/28/1995</td><td align="center">175</td><td align="center">10</td><td align="center">[<a href="/songs/Big Railroad Blues_32">ETP</a>]</td></tr>
+<tr valign="top"><td>Greatest Story Ever Told</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">280</td><td align="center">31</td><td align="center">[<a href="/songs/Greatest Story Ever Told_140">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Here Comes Sunshine</td><td>2/9/1973</td><td>7/2/1995</td><td align="center">64</td><td align="center">31</td><td align="center">[<a href="/songs/Here Comes Sunshine_143">ETP</a>]</td></tr>
+<tr valign="top"><td>Big River</td><td>12/31/1971</td><td>7/6/1995</td><td align="center">395</td><td align="center">58</td><td align="center">[<a href="/songs/Big River_31">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Loser</td><td>2/18/1971</td><td>6/28/1995</td><td align="center">344</td><td align="center">24</td><td align="center">[<a href="/songs/Loser_207">ETP</a>]</td></tr>
+<tr valign="top"><td>El Paso</td><td>7/14/1970</td><td>7/5/1995</td><td align="center">387</td><td align="center">65</td><td align="center">[<a href="/songs/El Paso_114">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">35</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
+<tr valign="top"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">48</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">21</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
+<tr valign="top"><td>Eyes Of The World</td><td>2/9/1973</td><td>7/6/1995</td><td align="center">382</td><td align="center">49</td><td align="center">[<a href="/songs/Eyes Of The World_120">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Stella Blue</td><td>6/17/1972</td><td>7/6/1995</td><td align="center">328</td><td align="center">31</td><td align="center">[<a href="/songs/Stella Blue_337">ETP</a>]</td></tr>
+<tr valign="top"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">49</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Johnny B. Goode</td><td>9/7/1969</td><td>4/5/1995</td><td align="center">284</td><td align="center">19</td><td align="center">[<a href="/songs/Johnny B. Goode_185">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

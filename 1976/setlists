@@ -1,0 +1,315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1976 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1976/setlists&highlight=went">Shows I attended</a>
+		<a href="/1976/setlists&highlight=own">Shows I own</a>
+		<a href="/1976/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1976/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1976 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>April:  <a href="#0420">20</a><br>
+May: <a href="#0506">6</a> <a href="#0517">17</a> <a href="#0518">18</a> <a href="#0520">20</a> <a href="#0528">28</a> <a href="#0529">29</a> <a href="#0530">30</a><br>
+June: <a href="#0603">3</a> <a href="#0604">4</a> <a href="#0609">9</a> <a href="#0610">10</a> <a href="#0611">11</a> <a href="#0612">12</a> <a href="#0614">14</a> <a href="#0615">15</a> <a href="#0617">17</a> <a href="#0618">18</a> <a href="#0619">19</a> <a href="#0621">21</a> <a href="#0622">22</a> <a href="#0623">23</a> <a href="#0624">24</a> <a href="#0626">26</a> <a href="#0627">27</a> <a href="#0628">28</a> <a href="#0629">29</a> <a href="#0630">30</a><br>
+July: <a href="#0701">1</a> <a href="#0712">12</a> <a href="#0713">13</a> <a href="#0714">14</a> <a href="#0716">16</a> <a href="#0717">17</a> <a href="#0718">18</a><br>
+August: <a href="#0802">2</a> <a href="#0804">4</a> <a href="#0829">29</a><br>
+September: <a href="#0923">23</a> <a href="#0924">24</a> <a href="#0925">25</a> <a href="#0927">27</a> <a href="#0928">28</a> <a href="#0930">30</a><br>
+October: <a href="#1001">1</a> <a href="#1002">2</a> <a href="#1003">3</a> <a href="#1009">9</a> <a href="#1010">10</a> <a href="#1014">14</a> <a href="#1015">15</a><br>
+November: <a href="#1102">2</a><br>
+December: <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0420"></a><a href="/1976-04-20">4/20/1976 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-04-20*">Listen/Download</a>]<tr><td>Lazy Lightning x11, Born Cross-Eyed, FOTD x2</td></tr>
+<tr class="notes"><td>Rehearsal. Listed in the "Grateful Dead Taping Compendium Volume II;" recording does not currently circulate.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0506"></a><a href="/1976-05-06">5/6/1976 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-06*">Listen/Download</a>]<tr><td>Jam, Cosmic Charlie Jams, Let It Grow.</td></tr>
+<tr class="notes"><td>Rehearsal. Recording does not currently circulate.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0517"></a><a href="/1976-05-17">5/17/1976 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-17*">Listen/Download</a>]<tr><td>Attics</td></tr>
+<tr class="notes"><td>Rehearsal. Listed in the "Grateful Dead Taping Compendium Volume II;" recording does not currently circulate.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0518"></a><a href="/1976-05-18">5/18/1976 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-18*">Listen/Download</a>]<tr><td>Peanut Butter, Might As Well, Blues Jam</td></tr>
+<tr class="notes"><td>Rehearsal. Listed in the "Grateful Dead Taping Compendium Volume II;" recording does not currently circulate.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0520"></a><a href="/1976-05-20">5/20/1976 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-20*">Listen/Download</a>]<tr><td>St. Stephen</td></tr>
+<tr class="notes"><td>Rehearsal. Listed in the "Grateful Dead Taping Compendium Volume II;" recording does not currently circulate.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0528"></a><a href="/1976-05-28">5/28/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-28*">Listen/Download</a>]<tr><td>Lazy Lightning x2, Attics x3, Cassidy x2, Cosmic Charlie</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0529"></a><a href="/1976-05-29">5/29/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-29*">Listen/Download</a>]<tr><td>Eyes, Playin x2, Eyes x2</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1976-05-30">5/30/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-30*">Listen/Download</a>]<tr><td>Wharf Rat x2, Wheel, Lazy Lightning > Supplication, Candyman</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0603"></a><a href="/1976-06-03">6/3/1976 Paramount Theater, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-03*">Listen/Download</a>]<tr><td>I: Might As Well, Cassidy, Row Jimmy, L. L. Rain, TLEO, Lazy Lightning > Supplication, Candyman, Music, Scarlet, Dancin</td></tr>
+<tr><td>II: Samson, Crazy Fingers > Wharf Rat > Let It Grow > Drums > Let It Grow, Roses, Around, Help > Slipknot > Franklin's, Saturday Night</td></tr>
+<tr><td>E: Wheel</td></tr>
+<tr class="notes"><td>First ''Lazy Lightning''; First ''Might As Well''; First ''Samson''; First ''Supplication''; First ''Wheel''; Previous ''Dancin'' 12/31/1971 [203 shows]</i></td></tr>
+<tr class="notes"><td>Soundcheck: "St. Stephen."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0604"></a><a href="/1976-06-04">6/4/1976 Paramount Theater, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-04*">Listen/Download</a>]<tr><td>I: Promised, FOTD, Mama Tried, Sugaree, Cassidy, Candyman, Big River, B. E. Women, Lazy Lightning > Supplication, Mission, L. L. Rain, Help > Slipknot > Franklin's</td></tr>
+<tr><td>II: Playin, Might As Well, Samson, Cosmic Charlie > Let It Grow > Drums > Let It Grow > Stella Blue, Dancin, U. S. Blues</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>First ''Mission''; Previous ''Cosmic Charlie'' 1/21/1971 [285 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1976-06-09">6/9/1976 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-09*">Listen/Download</a>]<tr><td>I: Cold Rain, Cassidy, Scarlet, Music <span class="setlist_small">*</span>, Crazy Fingers <span class="setlist_small">*</span>, Big River, TLEO, L. L. Rain, Ship Of Fools, Promised</td></tr>
+<tr><td>II: St. Stephen > Eyes > Let It Grow > Drums > Let It Grow, B. E. Women, Lazy Lightning > Supplication, High Time, Samson, Roses, Dancin > Wharf Rat > Around</td></tr>
+<tr><td>E: Franklin's</td></tr>
+<tr class="notes"><td>Previous ''High Time'' 7/12/1970 [341 shows]; Previous ''St. Stephen'' 10/31/1971 [224 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Spirit of ’76: Live at the Cow Palace Bonus Disc." Entire show appears on "Road Trips Vol. 4 No. 5." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0610"></a><a href="/1976-06-10">6/10/1976 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-10*">Listen/Download</a>]<tr><td>I: Promised, Sugaree, Cassidy, TLEO, Music, B. E. Women, Lazy Lightning > Supplication, Row Jimmy, Big River, Mission, L. L. Rain, Might As Well</td></tr>
+<tr><td>II: Samson, Help > Slipknot > Franklin's, Let It Grow > Drums > Let It Grow, FOTD, Playin > Dancin > U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0611"></a><a href="/1976-06-11">6/11/1976 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-11*">Listen/Download</a>]<tr><td>I: Might As Well, Mama Tried, Tennessee Jed, Cassidy, Candyman, Big River, Scarlet > L. L. Rain, Roses, Lazy Lightning > Supplication, B. E. Women, Promised</td></tr>
+<tr><td>II: St. Stephen > Dancin > Music, Ship Of Fools, Samson, Sugaree, Sugar Magnolia > Eyes > Stella Blue > Sunshine Daydream</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0612"></a><a href="/1976-06-12">6/12/1976 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-12*">Listen/Download</a>]<tr><td>I: Samson, Row Jimmy, Music, B. E. Women, Big River, Mission <span class="setlist_small">*</span>, L. L. Rain, FOTD, Lazy Lightning > Supplication, High Time, Promised</td></tr>
+<tr><td>II: Wheel <span class="setlist_small">*</span>, Cassidy, Tennessee Jed > Let It Grow > Drums > Let It Grow > Wharf Rat > Comes A Time <span class="setlist_small">*</span>, Dancin > Around</td></tr>
+<tr><td>E: Sugar Magnolia <span class="setlist_small">*</span> > U. S. Blues <span class="setlist_small">*</span> > Sunshine Daydream <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Previous ''Comes A Time'' 10/19/1972 [144 shows]</i></td></tr>
+<tr class="notes"><td>FM broadcast WBCN-Boston. * appears on "Road Trips Vol. 4 No. 5." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1976-06-14">6/14/1976 Beacon Theatre, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-14*">Listen/Download</a>]<tr><td>I: Cold Rain, Mama Tried, Row Jimmy, Cassidy, B. E. Women, Big River, Might As Well, Lazy Lightning > Supplication, Tennessee Jed, Playin</td></tr>
+<tr><td>II: Wheel, Samson, High Time, Music, Crazy Fingers > Drums > Dancin > Cosmic Charlie, Help > Slipknot > Franklin's, Around</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1976-06-15">6/15/1976 Beacon Theatre, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-15*">Listen/Download</a>]<tr><td>I: Promised, Sugaree, Cassidy, Candyman, Music, Roses, L. L. Rain, Tennessee Jed, Let It Grow > Might As Well</td></tr>
+<tr><td>II: St. Stephen > NFA > Drums > Stella Blue, Samson, FOTD, Dancin > Wheel > Sugar Magnolia > Scarlet > Sunshine Daydream</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0617"></a><a href="/1976-06-17">6/17/1976 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-17*">Listen/Download</a>]<tr><td>I: Cold Rain, Big River, TLEO, Cassidy, Tennessee Jed, L. L. Rain, Row Jimmy, Music, Scarlet, Promised</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Dancin > Samson, Ship Of Fools, Lazy Lightning > Supplication, FOTD, Let It Grow > Drums > Let It Grow > Wharf Rat > Around</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0618"></a><a href="/1976-06-18">6/18/1976 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-18*">Listen/Download</a>]<tr><td>I: Music, Sugaree, Mama Tried, Crazy Fingers, Big River, B. E. Women, L. L. Rain, Row Jimmy, Cassidy, Mission, Promised</td></tr>
+<tr><td>II: Samson, Tennessee Jed, St. Stephen > NFA > St. Stephen > Eyes > Drums > Wheel > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Entire show except "Tennessee Jed" appears on "Grateful Dead Download Series Volume 4."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1976-06-19">6/19/1976 Capitol Theatre, Passaic, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-19*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's > Music, B. E. Women, Cassidy, TLEO, L. L. Rain, Tennessee Jed, Playin</td></tr>
+<tr><td>II: Might As Well, Samson, High Time, Let It Grow > Drums > Let It Grow > Dancin > Cosmic Charlie, Around > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: NFA</td></tr>
+<tr class="notes"><td>FM broadcast  WOUR-Utica  and  WNEW-New York.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1976-06-21">6/21/1976 Tower Theatre, Upper Darby, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-21*">Listen/Download</a>]<tr><td>I: Music, Sugaree, Mama Tried, B. E. Women, Cassidy, Row Jimmy, L. L. Rain, Scarlet <span class="setlist_small">*</span>, Lazy Lightning <span class="setlist_small">*</span> > Supplication <span class="setlist_small">*</span>, Candyman <span class="setlist_small">*</span>, Promised</td></tr>
+<tr><td>II: Wheel, Samson, Help > Slipknot > Franklin's, Dancin > Wharf Rat > Around</td></tr>
+<tr><td>E: Roses, Johnny B. Goode</td></tr>
+<tr class="notes"><td>*appears on "Grateful Dead Download Series Volume 4."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0622"></a><a href="/1976-06-22">6/22/1976 Tower Theatre, Upper Darby, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-22*">Listen/Download</a>]<tr><td>I: U. S. Blues, Music, Crazy Fingers > Comes A Time, Big River, Tennessee Jed, L. L. Rain, TLEO, Cassidy, Ship Of Fools, Promised</td></tr>
+<tr><td>II: Playin <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Wheel <span class="setlist_small">*</span> > Playin <span class="setlist_small">*</span> </td></tr>
+<tr><td>III: Samson, Eyes > Dancin, Around > GDTRFB > Saturday Night</td></tr>
+<tr class="notes"><td>*appears on "Grateful Dead Download Series Volume 4."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0623"></a><a href="/1976-06-23">6/23/1976 Tower Theatre, Upper Darby, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-23*">Listen/Download</a>]<tr><td>I: Music, Sugaree, Mama Tried, Row Jimmy, Big River, High Time, L. L. Rain, B. E. Women, Lazy Lightning > Supplication, FOTD, Promised</td></tr>
+<tr><td>II: Samson, Might As Well, Let It Grow > Drums > Let It Grow > Cosmic Charlie, St. Stephen > NFA > St. Stephen > Drums > Dancin > Wheel, Johnny B. Goode</td></tr>
+<tr class="notes"><td>Robert Hunter's 35th birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1976-06-24">6/24/1976 Tower Theatre, Upper Darby, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-24*">Listen/Download</a>]<tr><td>I: Cold Rain, Big River, FOTD, Cassidy, Roses, Lazy Lightning > Supplication, Tennessee Jed, L. L. Rain, Scarlet, Promised</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Samson, Wharf Rat > Dancin > Sugar Magnolia</td></tr>
+<tr class="notes"><td>FM broadcast WMMR-Philadelphia.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0626"></a><a href="/1976-06-26">6/26/1976 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-26*">Listen/Download</a>]<tr><td>I: Promised, Sugaree, Cassidy, Row Jimmy, Mama Tried, Tennessee Jed, L. L. Rain, Scarlet, Lazy Lightning > Supplication, Peggy-O, Music</td></tr>
+<tr><td>II: Playin > St. Stephen > Wheel > Playin, Samson, Crazy Fingers > Stella Blue, Around > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0627"></a><a href="/1976-06-27">6/27/1976 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-27*">Listen/Download</a>]<tr><td>I: Cold Rain, Cassidy, B. E. Women, Big River, Ship Of Fools, Lazy Lightning > Supplication, FOTD, L. L. Rain, Might As Well</td></tr>
+<tr><td>II: Let It Grow > Drums > Let It Grow > Wharf Rat, Samson, Help > Slipknot > Franklin's, Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0628"></a><a href="/1976-06-28">6/28/1976 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-28*">Listen/Download</a>]<tr><td>I: Promised, TLEO, Cassidy, Tennessee Jed, L. L. Rain, Scarlet, Lazy Lightning > Supplication, High Time <span class="setlist_small">*</span>, Music</td></tr>
+<tr><td>II: Eyes > Jam > Happiness Is Drumming > Wharf Rat > Drums > Dancin > Wheel > Around</td></tr>
+<tr><td>E: NFA</td></tr>
+<tr class="notes"><td>Only ''Happiness Is Drumming''</i></td></tr>
+<tr class="notes"><td>Only "Happiness Is Drumming." *appears on "Grateful Dead Download Series Volume 4."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0629"></a><a href="/1976-06-29">6/29/1976 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-29*">Listen/Download</a>]<tr><td>I: Tennessee Jed, Cassidy, Peggy-O, Mama Tried, Mission, L. L. Rain, B. E. Women, Lazy Lightning > Supplication, Row Jimmy, Music > Might As Well</td></tr>
+<tr><td>II: Samson, Candyman, Playin > Wheel <span class="setlist_small">*</span> > Playin, St. Stephen > NFA > St. Stephen > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Final ''Mission''</i></td></tr>
+<tr class="notes"><td>FM broadcast WXRT. *appears on "So Many Roads (1965-1995)." ; Keith Godchaux's 250th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0630"></a><a href="/1976-06-30">6/30/1976 Syria Mosque, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-06-30*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>These shows were cancelled reportedly so the Dead could play Roosevelt Stadium, which they did not do until August 4. When the Pittsburgh shows were blown off June 29 was added to the Chicago run. In addition, the Dead originally had planned five nights at Winterland in early June before the tour began, which were cancelled and the two nights in Portland added at the last minute. Besides all that, rumors circulated at this time of the Dead playing a free show in San Francisco, either in Union Square or Golden Gate Park. This was supposed to have taken place anytime from early June until right before the Orpheum run, but most commonly predicted for the Bicentennial on the 4th of July. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0701"></a><a href="/1976-07-01">7/1/1976 Syria Mosque, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>These shows were cancelled reportedly so the Dead could play Roosevelt Stadium, which they did not do until August 4. When the Pittsburgh shows were blown off June 29 was added to the Chicago run. In addition, the Dead originally had planned five nights at Winterland in early June before the tour began, which were cancelled and the two nights in Portland added at the last minute. Besides all that, rumors circulated at this time of the Dead playing a free show in San Francisco, either in Union Square or Golden Gate Park. This was supposed to have taken place anytime from early June until right before the Orpheum run, but most commonly predicted for the Bicentennial on the 4th of July. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0712"></a><a href="/1976-07-12">7/12/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-12*">Listen/Download</a>]<tr><td>I: Music, B. E. Women, Cassidy, Tennessee Jed, Minglewood, Candyman, L. L. Rain, Row Jimmy, Lazy Lightning > Supplication, Deal, Promised</td></tr>
+<tr><td>II: Sugaree, Samson, Help > Slipknot > Franklin's, Dancin > Wharf Rat > Drums > Wheel > Around</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Previous ''Minglewood'' 4/29/1971 [265 shows]</i></td></tr>
+<tr class="notes"><td>Soundcheck: "Dancin," "TLEO," "Music" (x2), "Stella Blue," "Stella Blue" "shines," "Stella Blue," "Let It Grow Jam", Jam > "Eyes."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0713"></a><a href="/1976-07-13">7/13/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-13*">Listen/Download</a>]<tr><td>I: Half Step, Big River, Peggy-O, Cassidy, Crazy Fingers > Let It Grow > Drums > Space > Let It Grow > Might As Well</td></tr>
+<tr><td>II: Music, Roses, Samson, High Time, St. Stephen > NFA > St. Stephen > Sugar Magnolia > Stella Blue > Sunshine Daydream</td></tr>
+<tr><td>E: Dancin</td></tr>
+<tr class="notes"><td>Next ''Sunshine Daydream'' 12/31/1978 [160 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0714"></a><a href="/1976-07-14">7/14/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-14*">Listen/Download</a>]<tr><td>I: Promised, Sugaree, Minglewood, Scarlet, L. L. Rain, TLEO, Mama Tried, Ship Of Fools, Playin > Drums > Wheel > Space > Playin</td></tr>
+<tr><td>II: B. E. Women > Samson, FOTD, Let It Grow > Eyes > Wharf Rat > Other One > Music</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1976-07-16">7/16/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-16*">Listen/Download</a>]<tr><td>I: Cold Rain, Cassidy, Deal, Mama Tried, Row Jimmy, Big River, B. E. Women, L. L. Rain, Peggy-O, Music > Scarlet</td></tr>
+<tr><td>II: Playin > King Solomon's Marbles > Cosmic Charlie > Samson > Spanish Jam > Drums > Wheel > Playin > Around, High Time, Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Final ''Stronger Than Dirt''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0717"></a><a href="/1976-07-17">7/17/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-17*">Listen/Download</a>]<tr><td>I: Promised, Half Step, Mama Tried, Deal, Minglewood, Peggy-O, Big River, Sugaree, Johnny B. Goode</td></tr>
+<tr><td>II: Samson, Comes A Time > Drums > Other One > Eyes > Other One > GDTRFB > Saturday Night</td></tr>
+<tr><td>E1: U. S. Blues</td></tr>
+<tr><td>E2: NFA</td></tr>
+<tr class="notes"><td>Donna was absent after "Deal." The jam out of "Comes a Time" goes in and out of an "Eleven" beat. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0718"></a><a href="/1976-07-18">7/18/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-07-18*">Listen/Download</a>]<tr><td>I: Half Step, Cassidy, Row Jimmy, Mama Tried, Scarlet, L. L. Rain, Tennessee Jed, Minglewood, Loser, Music</td></tr>
+<tr><td>II: Might As Well, Samson, Candyman, Lazy Lightning > Supplication > Let It Grow > Drums > Let It Grow > Jam > Wharf Rat > Drums > Other One > St. Stephen > NFA > St. Stephen > Wheel > Other One > Stella Blue, Sugar Magnolia</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>FM broadcast KSAN-San Francisco. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0802"></a><a href="/1976-08-02">8/2/1976 Colt Park, Hartford, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-08-02*">Listen/Download</a>]<tr><td>I: Promised, Half Step, Mama Tried, Deal, Cassidy, Tennessee Jed, Big River, B. E. Women, Minglewood, TLEO, L. L. Rain, Loser, Lazy Lightning > Supplication</td></tr>
+<tr><td>II: Might As Well > Samson, Candyman, Playin > Wharf Rat > Drums > GDTRFB > Playin > Around</td></tr>
+<tr><td>E1: U. S. Blues</td></tr>
+<tr><td>E2: Sugar Magnolia</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0804"></a><a href="/1976-08-04">8/4/1976 Roosevelt Stadium, Jersey City, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-08-04*">Listen/Download</a>]<tr><td>I: Sugaree, Minglewood, Row Jimmy, Big River, Loser, L. L. Rain, TLEO, Music, Scarlet</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Dancin > Wheel > Samson, Roses, NFA > Drums > Other One > Ship Of Fools, Sugar Magnolia</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0829"></a><a href="/1976-08-29">8/29/1976 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-08-29*">Listen/Download</a>]<tr><td>Dancin</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0923"></a><a href="/1976-09-23">9/23/1976 Cameron Indoor Stadium, Duke U., Durham, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-23*">Listen/Download</a>]<tr><td>I: Half Step, Minglewood, Ramble On, Cassidy, B. E. Women, Lazy Lightning > Supplication, Crazy Fingers > El Paso, Roses, Music</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, L. L. Rain, Eyes > Samson, High Time, Dancin > Wharf Rat > Drums > Other One > Morning Dew</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0924"></a><a href="/1976-09-24">9/24/1976 College Of William and Mary, Williamsburg, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-24*">Listen/Download</a>]<tr><td>I: Promised, Deal, Cassidy, Sugaree, L. L. Rain, Row Jimmy, Big River, Tennessee Jed, Playin <span class="setlist_small">*</span> > Supplication <span class="setlist_small">*</span> > Playin <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Might As Well, Samson, Loser, Minglewood, Help > Slipknot > Drums > Slipknot > Franklin's > Music > Stella Blue, Around</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>*appears on "Spirit of ’76: Live at the Cow Palace Bonus Disc." Entire show released as "Dave's Picks Volume 4."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0925"></a><a href="/1976-09-25">9/25/1976 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-25*">Listen/Download</a>]<tr><td>I: Bertha, Minglewood, Ramble On, Cassidy, B. E. Women, Mama Tried, Peggy-O, All Over Now, Loser, Let It Grow, Sugaree</td></tr>
+<tr><td>II: Lazy Lightning > Supplication, Half Step, Dancin > Cosmic Charlie, Scarlet, St. Stephen > NFA > Drums > Cloud Nine Jam > St. Stephen > Sugar Magnolia</td></tr>
+<tr class="notes"><td>Previous ''All Over Now'' 11/20/1970 [326 shows]; Final ''Cosmic Charlie''</i></td></tr>
+<tr class="notes"><td>Soundcheck: "All Over Now." Entire show except "It’s All Over Now" appears on "Dick’s Picks Volume 20." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0927"></a><a href="/1976-09-27">9/27/1976 Community War Memorial, Rochester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-27*">Listen/Download</a>]<tr><td>I: Promised, TLEO, El Paso, Deal, L. L. Rain, Row Jimmy, All Over Now, Loser, Lazy Lightning > Supplication, B. E. Women, Music</td></tr>
+<tr><td>II: Might As Well, Samson, Help > Slipknot > Drums > Other One > Wharf Rat > Slipknot > Franklin's > Around</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0928"></a><a href="/1976-09-28">9/28/1976 Onondaga County War Memorial, Syracuse, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-28*">Listen/Download</a>]<tr><td>I: Cold Rain, Big River, Bertha, Cassidy, Tennessee Jed, Minglewood, Candyman, All Over Now, FOTD, Let It Grow > GDTRFB</td></tr>
+<tr><td>II: Playin > Wheel > Samson > Jam > Comes A Time > Drums > Eyes > Orange Tango Jam > Dancin > Playin</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Next ''Cold Rain'' 11/4/1977 [63 shows]</i></td></tr>
+<tr class="notes"><td>The "Orange Tango Jam" resembles "Viva Tirado" by El Chicano. Entire show except "Bertha" appears on "Dick’s Picks Volume 20."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1976-09-30">9/30/1976 St. John Arena, Columbus, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-30*">Listen/Download</a>]<tr><td>I: Music, Sugaree, Minglewood, Ramble On, L. L. Rain, Peggy-O, El Paso, Crazy Fingers > All Over Now, Scarlet <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Lazy Lightning > Supplication, Roses, Samson, St. Stephen > NFA > Drums > Wharf Rat > NFA > St. Stephen > Around</td></tr>
+<tr><td>E: Morning Dew</td></tr>
+<tr class="notes"><td>Next ''Crazy Fingers'' 7/18/1982 [417 shows]</i></td></tr>
+<tr class="notes"><td>this show was originally booked for the Mershon Auditorium at Ohio State U., but was moved to the larger arena (capacity 12,376 for basketball) three blocks away. *appears on "Spirit of ’76: Live at the Cow Palace Bonus Disc." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1001"></a><a href="/1976-10-01">10/1/1976 Market Square Arena, Indianapolis, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-01*">Listen/Download</a>]<tr><td>I: Bertha, Mama Tried, Deal, Cassidy, FOTD, Big River, B. E. Women, All Over Now, Scarlet, Promised</td></tr>
+<tr><td>II: Might As Well, Samson, Help > Slipknot > Franklin's, Dancin > Drums > Wheel > Jam > Ship Of Fools > Dancin > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>The jam between "The Wheel" and "Ship of Fools" contains hints of "dancin in the Streets" and "Crazy Fingers." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1002"></a><a href="/1976-10-02">10/2/1976 River Front Coliseum, Cincinnati, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-02*">Listen/Download</a>]<tr><td>I: Promised, TLEO, Minglewood, Row Jimmy, El Paso, Tennessee Jed, All Over Now, B. E. Women, Let It Grow <span class="setlist_small">*</span>, Might As Well <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Music, Candyman, Samson, Roses, Big River, FOTD, Dancin > Drums > Other One > Stella Blue > Other One > Sugar Magnolia</td></tr>
+<tr class="notes"><td>*appears on "Spirit of ’76: Live at the Cow Palace Bonus Disc."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1003"></a><a href="/1976-10-03">10/3/1976 Cobo Arena, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-03*">Listen/Download</a>]<tr><td>I: Sugaree, Minglewood, Ramble On, L. L. Rain, Loser, El Paso, Scarlet, Music</td></tr>
+<tr><td>II: Samson, Roses, Playin > Drums > Wheel > Good Lovin > Jam > Comes A Time > Dancin > NFA > Dancin > Around</td></tr>
+<tr class="notes"><td>"China Cat" tease and short "Drums" toward the end of "Not Fade Away."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1009"></a><a href="/1976-10-09">10/9/1976 Oakland Coliseum Stadium, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-09*">Listen/Download</a>]<tr><td>I: Promised, Half Step, Cassidy, Tennessee Jed, L. L. Rain, TLEO, Minglewood, Scarlet, Lazy Lightning > Supplication, Sugaree</td></tr>
+<tr><td>II: St. Stephen > NFA > St. Stephen > Help > Slipknot > Drums > Samson > Slipknot > Franklin's > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>"Day On The Green #8" - 11:00 AM. Billing: The Who; GD. "Hitchcock Theme" tuning before "St. Stephen." Entire show appears on "Dick’s Picks Volume 33."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1010"></a><a href="/1976-10-10">10/10/1976 Oakland Coliseum Stadium, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-10*">Listen/Download</a>]<tr><td>I: Might As Well, Mama Tried, Ramble On, Cassidy, Deal, El Paso, Loser, Promised, FOTD, Dancin > Wharf Rat > Dancin</td></tr>
+<tr><td>II: Samson, B. E. Women, Playin > Drums > Wheel > Space > Other One > Stella Blue > Playin > Sugar Magnolia</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>"Day On The Green #9"- 11:00 AM. Billing: The Who; GD. The Grateful Dead opened for The Who on this day as well as the day before, contrary to what has occasionally been reported. Entire show appears on "Dick’s Picks Volume 33."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1014"></a><a href="/1976-10-14">10/14/1976 Shrine Auditorium, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-14*">Listen/Download</a>]<tr><td>I: Promised, TLEO, Cassidy, Peggy-O, Big River, Ramble On, L. L. Rain, Deal, El Paso, Tennessee Jed, Music, Scarlet</td></tr>
+<tr><td>II: Minglewood, Half Step, Samson, Ship Of Fools, Dancin > Wharf Rat > Dancin > Around</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1015"></a><a href="/1976-10-15">10/15/1976 Shrine Auditorium, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-15*">Listen/Download</a>]<tr><td>I: Might As Well, Mama Tried, Row Jimmy, All Over Now, Loser, Minglewood, Bertha, Lazy Lightning > Supplication, Sugaree, Promised</td></tr>
+<tr><td>II: Eyes > Music, Roses, Samson, He's Gone > Drums > Other One > Comes A Time > Franklin's > Sugar Magnolia</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1102"></a><a href="/1976-11-02">11/2/1976 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-11-02*">Listen/Download</a>]<tr><td>Peggy-O, Try a Little Tenderness</td></tr>
+<tr class="notes"><td>Studio session. Both appear as "Terrapin Station" bonus tracks on "Beyond Description (1973-1989)," but only part of "Try a Little Tenderness," which is titled “The Ascent” on the release.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1976-12-31">12/31/1976 Cow Palace, Daly City, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-12-31*">Listen/Download</a>]<tr><td>I: Promised, Bertha, Mama Tried, TLEO, L. L. Rain, Deal, Playin</td></tr>
+<tr><td>II: Sugar Magnolia > Eyes > Wharf Rat > Drums > Good Lovin > Samson, Scarlet, Around > Help > Slipknot > Drums and Bass > NFA > Morning Dew</td></tr>
+<tr><td>E1: Saturday Night</td></tr>
+<tr><td>E2: Uncle John > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''We Bid You Goodnight'' 12/31/1978 [140 shows]</i></td></tr>
+<tr class="notes"><td>Soundcheck: "River Deep Mountain High." FM broadcast KSAN-San Francisco. Bill Graham appeared out of a giant hour glass. Billing: GD; Santana; Sons of Champlin, but Soundhole (with Mario Cipollina on bass and his brother John guesting on guitar)substituted for the Sons. The Dead's sets released as "Live at the Cow Palace, New Year’s Eve 1976." </i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

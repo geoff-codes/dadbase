@@ -1,0 +1,489 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1990 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1990/setlists&highlight=went">Shows I attended</a>
+		<a href="/1990/setlists&highlight=own">Shows I own</a>
+		<a href="/1990/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1990/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1990 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>February:  <a href="#0225">25</a> <a href="#0226">26</a> <a href="#0227">27</a><br>
+March: <a href="#0314">14</a> <a href="#0315">15</a> <a href="#0316">16</a> <a href="#0318">18</a> <a href="#0319">19</a> <a href="#0321">21</a> <a href="#0322">22</a> <a href="#0324">24</a> <a href="#0325">25</a> <a href="#0326">26</a> <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0330">30</a><br>
+April: <a href="#0401">1</a> <a href="#0402">2</a> <a href="#0403">3</a><br>
+May: <a href="#0505">5</a> <a href="#0506">6</a><br>
+June: <a href="#0608">8</a> <a href="#0609">9</a> <a href="#0610">10</a> <a href="#0615">15</a> <a href="#0616">16</a> <a href="#0617">17</a> <a href="#0623">23</a> <a href="#0623">23</a> <a href="#0624">24</a> <a href="#0624">24</a><br>
+July: <a href="#0704">4</a> <a href="#0706">6</a> <a href="#0708">8</a> <a href="#0710">10</a> <a href="#0712">12</a> <a href="#0714">14</a> <a href="#0716">16</a> <a href="#0718">18</a> <a href="#0719">19</a> <a href="#0721">21</a> <a href="#0722">22</a> <a href="#0723">23</a><br>
+August: <a href="#0831">31</a><br>
+September: <a href="#0901">1</a> <a href="#0902">2</a> <a href="#0907">7</a> <a href="#0908">8</a> <a href="#0910">10</a> <a href="#0911">11</a> <a href="#0912">12</a> <a href="#0914">14</a> <a href="#0915">15</a> <a href="#0916">16</a> <a href="#0918">18</a> <a href="#0919">19</a> <a href="#0920">20</a> <a href="#0928">28</a> <a href="#09xx">xx</a><br>
+October: <a href="#1013">13</a> <a href="#1017">17</a> <a href="#1019">19</a> <a href="#1020">20</a> <a href="#1022">22</a> <a href="#1024">24</a> <a href="#1027">27</a> <a href="#1028">28</a> <a href="#1030">30</a> <a href="#1031">31</a><br>
+November: <a href="#1101">1</a><br>
+December: <a href="#1203">3</a> <a href="#1204">4</a> <a href="#1208">8</a> <a href="#1209">9</a> <a href="#1212">12</a> <a href="#1213">13</a> <a href="#1214">14</a> <a href="#1227">27</a> <a href="#1228">28</a> <a href="#1230">30</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0225"></a><a href="/1990-02-25">2/25/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-02-25*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Jack A Roe, Rooster, Stagger Lee, Queen Jane, Last Time, Cassidy, Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Little Light, Estimated > Eyes > Drumz > Wheel > Gimme Some Lovin > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>First ''Last Time''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0226"></a><a href="/1990-02-26">2/26/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-02-26*">Listen/Download</a>]<tr><td>I: Bucket, Peggy-O, Walking Blues, Ramble On, Tom Thumb Blues, Music > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire, Playin > Terrapin > Drumz > Miracle > Stella Blue > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Balafon Marimba Ensemble opened</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0227"></a><a href="/1990-02-27">2/27/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-02-27*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, Sugaree, Victim, Half Step, Masterpiece, Bird Song</td></tr>
+<tr><td>II: Drums<span class="setlist_small">*</span> > Iko Iko<span class="setlist_small">*</span> > Woman Smarter<span class="setlist_small">*</span>, SOTM, Truckin > Spoonful > Drumz > Other One > Morning Dew > Throwing Stones > NFA</td></tr>
+<tr><td>E: We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''Drums'' 2/26/1995 [374 shows]; Previous ''Spoonful'' 4/29/1989 [52 shows]</i></td></tr>
+<tr class="notes"><td>Michael Doucet and Beausoleil opened. *with Michael Doucet and Beausoleil.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0314"></a><a href="/1990-03-14">3/14/1990 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-14*">Listen/Download</a>]<tr><td>I: Cold Rain, Stranger, Good Times, Mama Tried > Big River, Loose Lucy, Memphis Blues, Row Jimmy, Let It Grow <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Crazy Fingers > Playin > Uncle John > Playin > Drumz > Mr. Fantasy > Miracle > Black Peter > Lovelight</td></tr>
+<tr><td>E: Black Muddy River</td></tr>
+<tr class="notes"><td>Previous ''Loose Lucy'' 10/19/1974 [979 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Without a Net."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0315"></a><a href="/1990-03-15">3/15/1990 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-15*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Easy To Love You, Walking Blues <span class="setlist_small">*</span>, Althea <span class="setlist_small">*</span>, Tom Thumb Blues, Tennessee Jed, Cassidy > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson > Terrapin > Jam > Drumz > Take You Home > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Revolution</td></tr>
+<tr class="notes"><td>Previous ''Easy To Love You'' 9/3/1980 [673 shows]; Previous ''Revolution'' 11/8/1985 [298 shows]</i></td></tr>
+<tr class="notes"><td>Phil Lesh's 50th birthday. *appears on "Without A Net" - Entire show released as "Terrapin Station: 3/15/90 Capital Centre, Landover, MD."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0316"></a><a href="/1990-03-16">3/16/1990 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-16*">Listen/Download</a>]<tr><td>I: LTGTR, Touch, Minglewood, Peggy-O, Queen Jane, Loser, B. T. Wind, Bird Song, Blow Away</td></tr>
+<tr><td>II: Scarlet > Estimated > Ship Of Fools > Woman Smarter, Jam > Drumz > Other One > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Last Time</td></tr>
+<tr class="notes"><td>Previous ''B. T. Wind'' 10/19/1974 [981 shows]</i></td></tr>
+<tr class="notes"><td>Entire show appears on "Grateful Dead Spring 1990."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1990-03-18">3/18/1990 Hartford Civic Center, Hartford, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-18*">Listen/Download</a>]<tr><td>I: Shakedown > Rooster, Stagger Lee, Me  and  My Uncle > Mexicali, FOTD, Little Light, Masterpiece, Ramble On, Music</td></tr>
+<tr><td>II: Iko Iko, L. L. Rain, He's Gone > Truckin > Spoonful > Drumz > Wheel > Watchtower > Morning Dew</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0319"></a><a href="/1990-03-19">3/19/1990 Hartford Civic Center, Hartford, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-19*">Listen/Download</a>]<tr><td>I: Bucket, Bertha, We Can Run, Jack A Roe, Picasso Moon, B. E. Women, All Over Now > Deal</td></tr>
+<tr><td>II: Box Of Rain, Foolish Heart > Playin > Eyes > Drumz > China Doll > Gimme Some Lovin > GDTRFB > Around</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>FM broadcast WHCN-Hartford. Entire show appears on "Grateful Dead Spring 1990."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1990-03-21">3/21/1990 Copps Coliseum, Hamilton, Ontario, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-21*">Listen/Download</a>]<tr><td>I: Half Step <span class="setlist_small">*</span>, Minglewood, Far From Me, Queen Jane, Loose Lucy, Victim > SOTM > Promised</td></tr>
+<tr><td>II: Hey Pocky Way, Crazy Fingers > Cumberland, Estimated > He's Gone > Drumz > Miracle > Wharf Rat > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>*appears on "Without a Net."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0322"></a><a href="/1990-03-22">3/22/1990 Copps Coliseum, Hamilton, Ontario, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-22*">Listen/Download</a>]<tr><td>I: Stranger, West L. A., Easy To Love You, BIODTL, Roses, Last Time, Picasso Moon, Don't Ease</td></tr>
+<tr><td>II: Scarlet <span class="setlist_small">*</span> > Fire <span class="setlist_small">*</span>, Samson, Believe It, Truckin > Drumz > Other One > Hey Jude > Mr. Fantasy > Hey Jude Finale > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue <span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>Previous ''Believe It'' 10/21/1988 [89 shows]; Previous ''Hey Jude'' 3/1/1969 [1522 shows]; Previous ''Roses'' 4/9/1989 [67 shows]; Final ''Believe It''; Final ''Hey Jude''</i></td></tr>
+<tr class="notes"><td>*appears on "So Many Roads (1965-1995)." +appears on "Garcia Plays Dylan." Entire show appears on "Grateful Dead Spring 1990."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1990-03-24">3/24/1990 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-24*">Listen/Download</a>]<tr><td>I: LTGTR <span class="setlist_small">%</span> > Help <span class="setlist_small">%</span> > Slipknot <span class="setlist_small">%</span> > Franklin's <span class="setlist_small">%</span>, Walking Blues<span class="setlist_small">*</span>, Loser <span class="setlist_small">%</span>, Desolation Row <span class="setlist_small">#</span>, Tennessee Jed <span class="setlist_small">%</span> > Saturday Night <span class="setlist_small">+</span></td></tr>
+<tr><td>II: Playin<span class="setlist_small">*</span> > Uncle John<span class="setlist_small">*</span> > Terrapin<span class="setlist_small">*</span> > Mind Left Body Jam<span class="setlist_small">*</span> > Drumz<span class="setlist_small">*</span> > Wheel<span class="setlist_small">*</span> > Watchtower<span class="setlist_small">*</span> > Stella Blue<span class="setlist_small">*</span> > NFA<span class="setlist_small">*</span></td></tr>
+<tr><td>E: We Bid You Goodnight<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Next ''Mind Left Body Jam'' 6/8/1992 [171 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Dozin' At The Knick" +appears on "Without a Net." #appears on "Postcards from the Hanging.%appears on "Grateful Dead Spring 1990."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0325"></a><a href="/1990-03-25">3/25/1990 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-25*">Listen/Download</a>]<tr><td>I: Greatest > Touch, Wang Dang Doodle, Good Times<span class="setlist_small">*</span>, Jack A Roe<span class="setlist_small">*</span>, Masterpiece<span class="setlist_small">*</span>, Bird Song, Let It Grow</td></tr>
+<tr><td>II: Eyes > Samson > Crazy Fingers > Truckin > Spoonful > Drumz<span class="setlist_small">*</span> > Take You Home<span class="setlist_small">*</span> > GDTRFB<span class="setlist_small">*</span> > Black Peter<span class="setlist_small">*</span> > Around<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>*appears on "Dozin' At The Knick"</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0326"></a><a href="/1990-03-26">3/26/1990 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-26*">Listen/Download</a>]<tr><td>I: Bucket<span class="setlist_small">*</span>, Dupree's<span class="setlist_small">*</span>, Little Light<span class="setlist_small">*</span>, B. T. Wind, Big RxR Blues, Picasso Moon, Row Jimmy<span class="setlist_small">*</span>, Blow Away<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Built To Last, Victim > China Cat > I Know You Rider > Woman Smarter > Drumz > Miracle > Mr. Fantasy > Gimme Some Lovin > Morning Dew</td></tr>
+<tr><td>E: Brokedown<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Next ''Dupree's'' 10/13/1994 [342 shows]; Final ''Built To Last''</i></td></tr>
+<tr class="notes"><td>FM broadcast WPYX. *appears on "Dozin' At The Knick." Entire show appears on "Grateful Dead Spring 1990."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1990-03-28">3/28/1990 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-28*">Listen/Download</a>]<tr><td>I: Cold Rain > Minglewood, Easy To Love You, High Time, Queen Jane, Loose Lucy, Cassidy > Deal</td></tr>
+<tr><td>II: Foolish Heart > L. L. Rain <span class="setlist_small">*</span> > Cumberland > The Weight, Hey Pocky Way > Drumz > Other One > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E: Revolution</td></tr>
+<tr class="notes"><td>First ''The Weight''; Previous ''High Time'' 12/9/1988 [92 shows]; Final ''Revolution''</i></td></tr>
+<tr class="notes"><td>*appears on "Without A Net."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1990-03-29">3/29/1990 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-29*">Listen/Download</a>]<tr><td>I: Jack Straw > Bertha, We Can Run, Ramble On, Masterpiece, Bird Song<span class="setlist_small">*#</span> > Promised</td></tr>
+<tr><td>II: Eyes<span class="setlist_small">*+</span> > Estimated<span class="setlist_small">*</span> > Dark Star<span class="setlist_small">*</span> > Drumz<span class="setlist_small">*</span> > Dark Star<span class="setlist_small">*</span> > Wheel<span class="setlist_small">*</span> > Throwing Stones<span class="setlist_small">*</span> > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Heaven's Door<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*with Branford Marsalis. +appears on "Without A Net." #appears on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0330"></a><a href="/1990-03-30">3/30/1990 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-03-30*">Listen/Download</a>]<tr><td>I: Help <span class="setlist_small">*</span> > Slipknot <span class="setlist_small">*</span> > Franklin's <span class="setlist_small">*</span>, Rooster, Dire Wolf, All Over Now, Tom Thumb Blues, Picasso Moon, Don't Ease</td></tr>
+<tr><td>II: Iko Iko, Playin > China Doll > Uncle John > Terrapin > Drumz > Miracle > Gimme Some Lovin > SOTM > NFA</td></tr>
+<tr><td>E: Attics</td></tr>
+<tr class="notes"><td>Next ''Attics'' 9/8/1991 [112 shows]</i></td></tr>
+<tr class="notes"><td>FM broadcast WNEW-New York. *appears on "Without A Net." Entire show appears on "Grateful Dead Spring 1990."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1990-04-01">4/1/1990 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-04-01*">Listen/Download</a>]<tr><td>I: Touch > Walking Blues, Little Light, Candyman, Me  and  My Uncle > Big River, Althea, Victim > To Lay Me Down > Music</td></tr>
+<tr><td>II: China Cat <span class="setlist_small">*</span> > I Know You Rider <span class="setlist_small">*</span>, Ship Of Fools > Woman Smarter > Drumz > Mr. Fantasy <span class="setlist_small">*</span> > Hey Jude Finale > Truckin > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''To Lay Me Down'' 7/13/1989 [52 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Without a Net."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0402"></a><a href="/1990-04-02">4/2/1990 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-04-02*">Listen/Download</a>]<tr><td>I: Stranger, Half Step > The Weight, Queen Jane, Easy To Love You, B. E. Women, Let It Grow</td></tr>
+<tr><td>II: Foolish Heart > L. L. Rain > He's Gone > Last Time > Drumz > Other One > Death Don't > Around > Good Lovin</td></tr>
+<tr><td>E: Black Muddy River</td></tr>
+<tr class="notes"><td>Final ''Death Don't''</i></td></tr>
+<tr class="notes"><td>Entire show appears on "Grateful Dead Spring 1990."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0403"></a><a href="/1990-04-03">4/3/1990 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-04-03*">Listen/Download</a>]<tr><td>I: Shakedown, Bucket > Sugaree, We Can Run, Masterpiece, Row Jimmy, Picasso Moon > Tennessee Jed > Promised</td></tr>
+<tr><td>II: Estimated > Scarlet > Crazy Fingers > Playin > Drumz > Take You Home > GDTRFB > Throwing Stones > NFA</td></tr>
+<tr><td>E: We Bid You Goodnight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0505"></a><a href="/1990-05-05">5/5/1990 California State U. Dominguez Hills, Carson, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-05-05*">Listen/Download</a>]<tr><td>I: LTGTR, Race Is On<span class="setlist_small">*</span>, Help > Slipknot > Franklin's, Queen Jane, Loser, Me  and  My Uncle > Mexicali, Loose Lucy, Saturday Night</td></tr>
+<tr><td>II: Truckin > Crazy Fingers > Playin > Uncle John > Drumz > Miracle > Mr. Fantasy > GDTRFB > Around</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>Next ''Race Is On'' 5/4/1991 [79 shows]</i></td></tr>
+<tr class="notes"><td>FM broadcast KPFK. *Kentucky Derby day.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0506"></a><a href="/1990-05-06">5/6/1990 California State U. Dominguez Hills, Carson, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-05-06*">Listen/Download</a>]<tr><td>I: Half Step > Stranger, Easy To Love You, West L. A., Masterpiece, Candyman, Victim > Foolish Heart</td></tr>
+<tr><td>II: Iko Iko, Samson, The Weight, Blow Away, Terrapin > Drumz > Other One > SOTM > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Last Time</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1990-06-08">6/8/1990 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-08*">Listen/Download</a>]<tr><td>I: Cold Rain, Walking Blues, Easy To Love You, Jack A Roe, Queen Jane, High Time, All Over Now, Bird Song</td></tr>
+<tr><td>II: Uncle John > China Cat > I Know You Rider, Estimated > Foolish Heart > Drumz > Wheel > Miracle > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1990-06-09">6/9/1990 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-09*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, Peggy-O, Me  and  My Uncle > Mexicali, Loser, Masterpiece, Loose Lucy, Cassidy > Don't Ease</td></tr>
+<tr><td>II: Victim > Touch > L. L. Rain > Terrapin > Drumz > Mr. Fantasy > Hey Jude Finale > Watchtower > Stella Blue > Lovelight</td></tr>
+<tr><td>E: Black Muddy River</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0610"></a><a href="/1990-06-10">6/10/1990 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-10*">Listen/Download</a>]<tr><td>I: Bertha, Jack Straw, Dire Wolf, Wang Dang Doodle, Row Jimmy, Picasso Moon, Tennessee Jed > Promised</td></tr>
+<tr><td>II: Box Of Rain, Eyes > Playin > Crazy Fingers > Playin Jam > Drumz > Gimme Some Lovin > SOTM > Throwing Stones > NFA</td></tr>
+<tr><td>E: Last Time</td></tr>
+<tr class="notes"><td>Next ''Dire Wolf'' 3/29/1991 [63 shows]</i></td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1990-06-15">6/15/1990 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-15*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Minglewood, Little Light, Stagger Lee, Desolation Row, Ramble On, Bucket</td></tr>
+<tr><td>II: Scarlet > Fire, Blow Away > Woman Smarter > He's Gone > Drumz > Other One > Wharf Rat > Around</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0616"></a><a href="/1990-06-16">6/16/1990 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-16*">Listen/Download</a>]<tr><td>I: LTGTR > Truckin > Touch, Mama Tried > Big River, FOTD, Cassidy, Big Boss Man, Saturday Night</td></tr>
+<tr><td>II: China Cat > I Know You Rider > We Can Run, Estimated > Terrapin > Jam > Drumz > China Doll > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Next ''Big Boss Man'' 7/6/1995 [390 shows]</i></td></tr>
+<tr class="notes"><td>Entire show appears in the "View from the Vault III" DVD and its accompanying CD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0617"></a><a href="/1990-06-17">6/17/1990 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-17*">Listen/Download</a>]<tr><td>I: Shakedown > Rooster, Jack A Roe, Easy To Love You, Queen Jane, Bird Song > Promised</td></tr>
+<tr><td>II: Iko Iko, Picasso Moon, Ship Of Fools, Playin > Eyes > Drumz > Take You Home > Miracle > Stella Blue > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0623"></a><a href="/1990-06-23">6/23/1990 Autzen Stadium, U. of Oregon, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-23*">Listen/Download</a>]<tr><td>I: Stranger, West L. A., Me  and  My Uncle > Cumberland, Far From Me, TLEO, Cassidy, Tennessee Jed > Promised</td></tr>
+<tr><td>II: Eyes > L. L. Rain > Crazy Fingers > Playin > Uncle John > Playin > Drumz > Wheel > Miracle > Morning Dew</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Previous ''TLEO'' 5/6/1989 [75 shows]</i></td></tr>
+<tr class="notes"><td>Little Feat opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0623"></a><a href="/1990-06-23">6/23/1990 (unknown), Mammoth Mountain, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-23*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Cancelled due to fire danger.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1990-06-24">6/24/1990 Autzen Stadium, U. of Oregon, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-24*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Masterpiece, Loose Lucy, Little Light, Picasso Moon, Candyman, Let It Grow</td></tr>
+<tr><td>II: Foolish Heart > Woman Smarter > SOTM, Box Of Rain, Estimated > He's Gone > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Little Feat opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1990-06-24">6/24/1990 (unknown), Mammoth Mountain, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-06-24*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Cancelled due to fire danger.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0704"></a><a href="/1990-07-04">7/4/1990 Sandstone Amphitheatre, Bonner Springs, KS</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-04*">Listen/Download</a>]<tr><td>I: Cold Rain > Walking Blues, Half Step, Queen Jane, Loose Lucy, All Over Now, Loser > Promised</td></tr>
+<tr><td>II: Victim > Foolish Heart > Little Light > Scarlet > Fire > Drumz > Wheel > Gimme Some Lovin > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0706"></a><a href="/1990-07-06">7/6/1990 Cardinal Stadium, Louisville, KY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-06*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Easy To Love You, Peggy-O, Desolation Row, West L. A., Picasso Moon, Ramble On, Music</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Woman Smarter > SOTM <span class="setlist_small">*</span> > He's Gone <span class="setlist_small">*</span> > Jam <span class="setlist_small">*</span> > Drumz > Truckin > Wharf Rat > GDTRFB > Around</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Bruce Hornsby and The Range opened. *appears in the DVD of "View from the Vault" and its accompanying CD, but not in the VHS release.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0708"></a><a href="/1990-07-08">7/8/1990 Three Rivers Stadium, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-08*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Jack A Roe, Minglewood, Row Jimmy, Mama Tried > Mexicali, Tom Thumb Blues, Let It Grow</td></tr>
+<tr><td>II: Samson > Eyes > Estimated > Terrapin > Drumz > Miracle > Wang Dang Doodle > Black Peter > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Next ''Tom Thumb Blues'' 4/1/1991 [57 shows]</i></td></tr>
+<tr class="notes"><td>Crosby, Stills  and  Nash opened. *Entire show appears in the DVD and on the CD of "View from the Vault." Entire show except "Row Jimmy" and "Mama Tried > Mexicali" appear in the "View from the Vault" VHS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0710"></a><a href="/1990-07-10">7/10/1990 Carter-Finley Stadium, Raleigh, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-10*">Listen/Download</a>]<tr><td>I: Jack Straw<span class="setlist_small">*</span>, Loser, We Can Run, Me  and  My Uncle > Big River, FOTD<span class="setlist_small">*</span>, Masterpiece<span class="setlist_small">*</span>, Bird Song<span class="setlist_small">*</span> > Promised<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Iko Iko<span class="setlist_small">*</span>, Playin<span class="setlist_small">*</span> > Uncle John<span class="setlist_small">*</span> > Playin Jam > Drumz > Other One > Stella Blue > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Final ''We Can Run''</i></td></tr>
+<tr class="notes"><td>Bruce Hornsby  and  The Range opened. *with Bruce Hornsby. "Promised" was interrupted by a power failure.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0712"></a><a href="/1990-07-12">7/12/1990 Robert F. Kennedy Stadium, Washington, DC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-12*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, Bertha, Little Light, Queen Jane, Stagger Lee, Cassidy, Tennessee Jed > Music</td></tr>
+<tr><td>II: Box Of Rain <span class="setlist_small">*</span> > Victim <span class="setlist_small">*+</span> > Foolish Heart <span class="setlist_small">*+</span> > Dark Star <span class="setlist_small">*+</span> > Drumz > Watchtower > Mr. Fantasy > Hey Jude Finale > Touch</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Final ''Hey Jude Finale''</i></td></tr>
+<tr class="notes"><td>Edie Brickell  and  The New Bohemians opened. "Funiculi Funicula" tuning before "Bertha." "Take A Step Back" before "Box Of Rain." *appears in the "View from the Vault II" DVD. +appears on the "View from the Vault II" CD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0714"></a><a href="/1990-07-14">7/14/1990 Foxboro Stadium, Foxboro, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-14*">Listen/Download</a>]<tr><td>I: Shakedown, Walking Blues, Far From Me, Candyman, Memphis Blues, Ramble On, Saturday Night</td></tr>
+<tr><td>II: Eyes > Estimated > Crazy Fingers > Uncle John > Drumz > Take You Home > Miracle > GDTRFB > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Last Time > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''We Bid You Goodnight'' 9/26/1991 [107 shows]; Final ''Take You Home''</i></td></tr>
+<tr class="notes"><td>Edie Brickell  and  The New Bohemians opened. "Addams Family" tuning, "Take A Step Back" before "Eyes." Venue used to be called "Sullivan Stadium." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1990-07-16">7/16/1990 Rich Stadium, Orchard Park, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-16*">Listen/Download</a>]<tr><td>I: Bucket, Half Step, Blow Away, Mama Tried > Mexicali, Loose Lucy, All Over Now, High Time, Let It Grow > Don't Ease</td></tr>
+<tr><td>II: Sugar Magnolia > Scarlet > Woman Smarter, Ship Of Fools, Truckin > Jam <span class="setlist_small">*</span> > Drumz > Wheel > Gimme Some Lovin > Wharf Rat > Around > Sunshine Daydream</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Next ''Sunshine Daydream'' 4/28/1991 [61 shows]; Final ''Blow Away''</i></td></tr>
+<tr class="notes"><td>Crosby, Stills  and  Nash opened. *includes brief "Mind Left Body" theme.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0718"></a><a href="/1990-07-18">7/18/1990 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-18*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Minglewood, Easy To Love You, Peggy-O, Masterpiece, B. E. Women, Cassidy, Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider > L. L. Rain, Terrapin > Jam > Drumz > Other One > Morning Dew</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Final ''Easy To Love You''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0719"></a><a href="/1990-07-19">7/19/1990 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-19*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Desolation Row, Row Jimmy, Picasso Moon, Althea > Promised</td></tr>
+<tr><td>II: Victim > Foolish Heart > Playin > China Doll > Uncle John > Drumz > Watchtower > Black Peter > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0721"></a><a href="/1990-07-21">7/21/1990 World Music Theatre, Tinley Park, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-21*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Jack A Roe, Walking Blues, FOTD, Little Light, Queen Jane, Bird Song</td></tr>
+<tr><td>II: Scarlet > Fire, Playin > He's Gone > Drumz > Miracle > Crazy Fingers > Playin Jam > Mr. Fantasy > Playin > Saturday Night</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>Final ''Little Light''; Final ''Mr. Fantasy''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0722"></a><a href="/1990-07-22">7/22/1990 World Music Theatre, Tinley Park, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-22*">Listen/Download</a>]<tr><td>I: Box Of Rain, Stranger, Loser, BIODTL, West L. A., Masterpiece, Far From Me, Tennessee Jed, Bucket</td></tr>
+<tr><td>II: Samson, Hey Pocky Way, Estimated > Eyes > Drumz > Wheel > Gimme Some Lovin > Stella Blue > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Final ''Far From Me''; Final ''Hey Pocky Way''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0723"></a><a href="/1990-07-23">7/23/1990 World Music Theatre, Tinley Park, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-07-23*">Listen/Download</a>]<tr><td>I: Cold Rain, Picasso Moon, Good Times, Stagger Lee, Cassidy, Truckin > Smokestack</td></tr>
+<tr><td>II: Victim > Foolish Heart > Woman Smarter, Terrapin > Drumz > Watchtower > SOTM > Around > Good Lovin</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Previous ''Smokestack'' 9/30/1989 [64 shows]; Final ''Good Times''</i></td></tr>
+<tr class="notes"><td>Brent Mydland's last show. 10th anniversary of Keith Godchaux's death. Short "Nobody's Fault Jam" after "Truckin."  ; Brent Mydland's Last Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0831"></a><a href="/1990-08-31">8/31/1990 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-08-31*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Cancelled due to Brent Mydland's death.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0901"></a><a href="/1990-09-01">9/1/1990 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Cancelled due to Brent Mydland's death.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0902"></a><a href="/1990-09-02">9/2/1990 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Cancelled due to Brent Mydland's death.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0907"></a><a href="/1990-09-07">9/7/1990 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-07*">Listen/Download</a>]<tr><td>I: Cold Rain > Walking Blues, Ramble On, Me  and  My Uncle > Big River, Althea, Masterpiece, Bird Song, Picasso Moon, U. S. Blues</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Truckin > Crazy Fingers > Playin > Drumz > Miracle > Black Peter > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Vince Welnick's first show. Jerry introduces Vince after Bird Song.; Vince Welnick's First Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0908"></a><a href="/1990-09-08">9/8/1990 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-08*">Listen/Download</a>]<tr><td>I: Bucket, Sugaree, Minglewood, FOTD, Queen Jane, Loser, Cassidy > Deal</td></tr>
+<tr><td>II: Eyes > Estimated > Terrapin > Jam <span class="setlist_small">*</span> > Drumz > Watchtower > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>*appears on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0910"></a><a href="/1990-09-10">9/10/1990 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-10*">Listen/Download</a>]<tr><td>I: Shakedown, Rooster, Peggy-O, Mama Tried > Mexicali, Row Jimmy, Memphis Blues, Foolish Heart > Promised</td></tr>
+<tr><td>II: Victim > Scarlet > Fire > Woman Smarter > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0911"></a><a href="/1990-09-11">9/11/1990 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-11*">Listen/Download</a>]<tr><td>I: Jack Straw, Bertha > Greatest, Candyman, Queen Jane, B. E. Women, All Over Now, Tennessee Jed, Bucket</td></tr>
+<tr><td>II: China Cat > I Know You Rider, L. L. Rain > He's Gone > Spoonful > Jam > Drumz > Wheel > Miracle > Black Peter > Around</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0912"></a><a href="/1990-09-12">9/12/1990 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-12*">Listen/Download</a>]<tr><td>I: Half Step > Walking Blues, TLEO, Me  and  My Uncle > Big River, High Time, Masterpiece, Althea, Let It Grow</td></tr>
+<tr><td>II: Iko Iko, Playin > Crazy Fingers > Uncle John > Drumz > Two Soldiers Jam > Morning Dew > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0914"></a><a href="/1990-09-14">9/14/1990 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-14*">Listen/Download</a>]<tr><td>I: Stranger, Sugaree, Minglewood, Ramble On, B. T. Wind, Jack A Roe, Cassidy > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire, Truckin > Terrapin > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0915"></a><a href="/1990-09-15">9/15/1990 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-15*">Listen/Download</a>]<tr><td>I: Touch > Walking Blues, Candyman, Mama Tried > Mexicali, West L. A., Masterpiece, Bird Song, Box Of Rain</td></tr>
+<tr><td>II: The Weight, Playin > Crazy Fingers > Uncle John > Drumz > Gimme Some Lovin > Watchtower > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Final ''Gimme Some Lovin''</i></td></tr>
+<tr class="notes"><td>Bruce Hornsby's first show.; Bruce Hornsby's First Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0916"></a><a href="/1990-09-16">9/16/1990 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-16*">Listen/Download</a>]<tr><td>I: Bucket, Cold Rain, Rooster, Stagger Lee, Queen Jane, Tennessee Jed, Cassidy, Deal</td></tr>
+<tr><td>II: Samson, Iko Iko, L. L. Rain, He's Gone > Jam > Drumz > SOTM > Space > Miracle > Morning Dew</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Space'' 10/15/1988 [132 shows]</i></td></tr>
+<tr class="notes"><td>Entire show released as "Dick's Picks Vol 9."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0918"></a><a href="/1990-09-18">9/18/1990 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-18*">Listen/Download</a>]<tr><td>I: Half Step <span class="setlist_small">#</span>, Minglewood, Loser, Picasso Moon <span class="setlist_small">#</span>, Row Jimmy, Desolation Row, To Lay Me Down <span class="setlist_small">#</span> > Promised</td></tr>
+<tr><td>II: Eyes <span class="setlist_small">#</span> > Estimated <span class="setlist_small">#</span> > Foolish Heart <span class="setlist_small">#</span> > Jam <span class="setlist_small">*#</span> > Drumz > Other One > Wheel > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door <span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>20th anniversary of James Marshall Hendrix's death. *appears on "So Many Roads (1965-1995)." +appears on "Road Trips Vol. 2 No. 1." #released as the "Road Trips Vol. 2 No. 1" bonus disc.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0919"></a><a href="/1990-09-19">9/19/1990 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-19*">Listen/Download</a>]<tr><td>I: Jack Straw, Bertha, Me  and  My Uncle > Big River, Roses, Memphis Blues, Help > Slipknot > Franklin's</td></tr>
+<tr><td>II: Playin <span class="setlist_small">*</span> > Ship Of Fools <span class="setlist_small">*</span> > Jam <span class="setlist_small">*</span> > Playin Jam <span class="setlist_small">*</span> > Uncle John <span class="setlist_small">*</span> > Let It Grow <span class="setlist_small">*</span> > Jam <span class="setlist_small">*</span> > Drumz > GDTRFB > Stella Blue > Around</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>Last second-set "Let It Grow": 12-31-86 [289]. *appears on "Road Trips Vol. 2 No. 1." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0920"></a><a href="/1990-09-20">9/20/1990 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-20*">Listen/Download</a>]<tr><td>I: Stranger, Althea, All Over Now, Ramble On, El Paso, B. E. Women, Greatest, U. S. Blues</td></tr>
+<tr><td>II: Truckin <span class="setlist_small">*</span> > China Cat <span class="setlist_small">*</span> > I Know You Rider <span class="setlist_small">*</span> > Woman Smarter > Drumz > Dark Star <span class="setlist_small">*</span> > Playin Reprise <span class="setlist_small">*</span> > Dark Star <span class="setlist_small">*</span> > Throwing Stones <span class="setlist_small">*</span> > Touch <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Lovelight <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Next ''El Paso'' 5/12/1991 [51 shows]; Previous ''Playin Reprise'' 7/4/1989 [92 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Road Trips Vol. 2 No. 1."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0928"></a><a href="/1990-09-28">9/28/1990 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-28*">Listen/Download</a>]<tr><td>Saint x3, Stander x4, Valley Road x3</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="09xx"></a><a href="/1990-09-xx">9/xx/1990 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-09-xx*">Listen/Download</a>]<tr><td>Goodnight Irene</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1013"></a><a href="/1990-10-13">10/13/1990 Ice Stadium, Stockholm, Sweden</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-13*">Listen/Download</a>]<tr><td>I: Cold Rain, Stranger, Candyman, Walking Blues, Loser, Queen Jane, Bird Song > Promised</td></tr>
+<tr><td>II: Touch, Estimated > Crazy Fingers > Playin > Drumz > Watchtower > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1017"></a><a href="/1990-10-17">10/17/1990 Grugahalle, Essen, Germany</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-17*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Minglewood, Ramble On, Me  and  My Uncle > Maggie's Farm, High Time, Cassidy, Tennessee Jed, Picasso Moon</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Truckin > He's Gone > Drumz > Wheel > Miracle > Black Peter > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Previous ''Maggie's Farm'' 11/14/1987 [212 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1019"></a><a href="/1990-10-19">10/19/1990 Internationales Congress Centrum, Berlin, Germany</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-19*">Listen/Download</a>]<tr><td>I: LTGTR, Shakedown > Rooster, B. E. Women, Mama Tried > Mexicali, Row Jimmy, Memphis Blues, Deal</td></tr>
+<tr><td>II: Scarlet > Fire, L. L. Rain > Terrapin > Drumz > Other One > Wharf Rat > Around > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1020"></a><a href="/1990-10-20">10/20/1990 Internationales Congress Centrum, Berlin, Germany</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-20*">Listen/Download</a>]<tr><td>I: Jack Straw, Half Step > Walking Blues, FOTD, B. T. Wind, Jack A Roe, Masterpiece, Let It Grow > Jam > Box Of Rain</td></tr>
+<tr><td>II: Eyes > Samson, Ship Of Fools, Dark Star > Drumz > Dark Star > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>FM broadcast Radio 4 U. A portion of "Dark Star" appears on "Infrared Roses." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1022"></a><a href="/1990-10-22">10/22/1990 Festhalle, Frankfurt, Germany</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-22*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Peggy-O, Wang Dang Doodle, Foolish Heart > Desolation Row, Bird Song, Valley Road</td></tr>
+<tr><td>II: Victim > SOTM > Playin > Uncle John > Drumz > Watchtower > Stella Blue > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>First ''Valley Road''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1024"></a><a href="/1990-10-24">10/24/1990 Sporthalle, Hamburg, Germany</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-24*">Listen/Download</a>]<tr><td>I: Stranger, Cold Rain, Rooster, TLEO, Me  and  My Uncle > Big River, West L. A., Queen Jane > Iko Iko</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Truckin > He's Gone > Drumz > Miracle > Wheel > GDTRFB > Around</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1027"></a><a href="/1990-10-27">10/27/1990 Zenith, Paris, France</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-27*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Minglewood, Jack A Roe, B. T. Wind, Ramble On, Masterpiece, Bird Song > Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Saint > Crazy Fingers > Playin > Drumz > Playin > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Previous ''Saint'' 6/18/1989 [103 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1028"></a><a href="/1990-10-28">10/28/1990 Zenith, Paris, France</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-28*">Listen/Download</a>]<tr><td>I: Touch > Walking Blues, Candyman, Box Of Rain, Mexicali > Maggie's Farm, Althea, Cassidy, Tennessee Jed, Stander</td></tr>
+<tr><td>II: Victim > Eyes > Estimated > Uncle John > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>First ''Stander''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1990-10-30">10/30/1990 Wembley Arena, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-30*">Listen/Download</a>]<tr><td>I: Jack Straw > Bertha > Wang Dang Doodle, B. E. Women, Queen Jane, Row Jimmy, Let It Grow > Jam > Valley Road</td></tr>
+<tr><td>II: Picasso Moon > Foolish Heart > L. L. Rain > Terrapin > Drumz > Wheel > Miracle > Black Peter > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Venue used to be called the "Wembley Empire Pool." Telephone conversations during "Drumz."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1990-10-31">10/31/1990 Wembley Arena, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-10-31*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Rooster, Loose Lucy, Me  and  My Uncle > Big River, Roses, Masterpiece, Bird Song > Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Truckin > He's Gone > Drumz > Watchtower > Stella Blue > Around > Good Lovin</td></tr>
+<tr><td>E: Werewolves</td></tr>
+<tr class="notes"><td>Next ''Werewolves'' 10/31/1991 [84 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1101"></a><a href="/1990-11-01">11/1/1990 Wembley Arena, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-11-01*">Listen/Download</a>]<tr><td>I: Bucket, FOTD, Walking Blues, Cold Rain, Mama Tried > Maggie's Farm, Cassidy, Stander</td></tr>
+<tr><td>II: Victim > Touch, Playin > Dark Star > Drumz > Jam > Dark Star > Playin > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Hornsby Piano Jam after Drumz. "SOTM" intro before "Wharf Rat."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1203"></a><a href="/1990-12-03">12/3/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-03*">Listen/Download</a>]<tr><td>I: Touch, Stranger, West L. A., Queen Jane, Ramble On, Cassidy, Althea, Stander</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Terrapin > Drumz<span class="setlist_small">*</span> > Wheel > Miracle > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Final ''Stander''</i></td></tr>
+<tr class="notes"><td>*with Sikiru Adepoju. The San Francisco 49ers played the New York Giants at Candlestick Park this same night, meaning that the all-time record for number of people watching TV during a show may have been set.   </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1204"></a><a href="/1990-12-04">12/4/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-04*">Listen/Download</a>]<tr><td>I: Jack Straw, Half Step > Walking Blues, Candyman, Me  and  My Uncle > Big River, B. E. Women, Masterpiece, Bird Song, Valley Road</td></tr>
+<tr><td>II: Eyes > Saint > Ship Of Fools, Truckin > Smokestack > Drumz > Other One > Wharf Rat > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>*with Huey Lewis on harmonica.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1208"></a><a href="/1990-12-08">12/8/1990 Compton Terrace Amphitheatre, Chandler, AZ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-08*">Listen/Download</a>]<tr><td>I: Cold Rain, Picasso Moon, Loser, Minglewood, Row Jimmy, Desolation Row, Tennessee Jed, Music</td></tr>
+<tr><td>II: Victim > Foolish Heart > Playin > Uncle John > Jam > Drumz > Watchtower > Black Peter > Around > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1209"></a><a href="/1990-12-09">12/9/1990 Compton Terrace Amphitheatre, Chandler, AZ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-09*">Listen/Download</a>]<tr><td>I: Bucket > Bertha, Rooster, Jack A Roe, Maggie's Farm, B. T. Wind, Bird Song, Valley Road</td></tr>
+<tr><td>II: Samson, Scarlet > Fire, Truckin > Spoonful > He's Gone > Drumz > Wheel > Playin Reprise > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1212"></a><a href="/1990-12-12">12/12/1990 McNichols Sports Arena, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-12*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Candyman, Walking Blues, Loose Lucy, Mexicali > Maggie's Farm, Queen Jane, Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider > L. L. Rain, Iko Iko, Dark Star > Terrapin > Drumz > Watchtower > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>"Dark Star" is first verse only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1213"></a><a href="/1990-12-13">12/13/1990 McNichols Sports Arena, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-13*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Wang Dang Doodle, FOTD, Me  and  My Uncle > Big River, Ramble On, Memphis Blues, Valley Road</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Saint, Eyes > Drumz > Other One > Morning Dew, Box Of Rain</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1214"></a><a href="/1990-12-14">12/14/1990 McNichols Sports Arena, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-14*">Listen/Download</a>]<tr><td>I: Shakedown, Picasso Moon, Peggy-O, Rooster, Stagger Lee, Masterpiece, To Lay Me Down > Let It Grow</td></tr>
+<tr><td>II: Victim > Foolish Heart > Woman Smarter > He's Gone > Drumz > Dark Star > Miracle > Wharf Rat > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Next ''To Lay Me Down'' 6/28/1992 [125 shows]</i></td></tr>
+<tr class="notes"><td>Without Bruce Hornsby. "Dark Star" is second verse only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1227"></a><a href="/1990-12-27">12/27/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-27*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Minglewood, Roses, Queen Jane, Loose Lucy, Cassidy > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Comes A Time > Drumz > Ollin Arageed <span class="setlist_small">*</span> > Miracle > Wheel > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Comes A Time'' 7/8/1987 [265 shows]</i></td></tr>
+<tr class="notes"><td>*with Hamza El-Din.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1990-12-28">12/28/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-28*">Listen/Download</a>]<tr><td>I: Cold Rain, Walking Blues, FOTD, All Over Now, B. E. Women, Victim > Foolish Heart</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Saint > He's Gone > Jam > Drumz > Watchtower > Stella Blue > Around</td></tr>
+<tr><td>E: Black Muddy River</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1990-12-30">12/30/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-30*">Listen/Download</a>]<tr><td>I: Bertha, Stranger, Candyman, Me  and  My Uncle > Maggie's Farm, High Time, Memphis Blues, Tennessee Jed, Valley Road</td></tr>
+<tr><td>II: Half Step > L. L. Rain, Crazy Fingers > Playin > Drumz > Terrapin > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Final ''Valley Road''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1990-12-31">12/31/1990 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1990-12-31*">Listen/Download</a>]<tr><td>I: Bucket, Jack A Roe, Wang Dang Doodle, Row Jimmy, Mexicali > Big River, Bird Song<span class="setlist_small">*</span> > Promised<span class="setlist_small">*</span></td></tr>
+<tr><td>II: NFA<span class="setlist_small">*</span> > Eyes<span class="setlist_small">*</span> > Dark Star<span class="setlist_small">*</span> > Drumz > Ollin Arrageed <span class="setlist_small">+</span> > Other One<span class="setlist_small">*</span> > Wharf Rat<span class="setlist_small">*</span> > NFA<span class="setlist_small">*</span></td></tr>
+<tr><td>E1: The Weight<span class="setlist_small">*</span></td></tr>
+<tr><td>E2: Johnny B. Goode<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Previous ''Johnny B. Goode'' 12/27/1989 [77 shows]</i></td></tr>
+<tr class="notes"><td>FM broadcast-KFOG, San Francisco. Rebirth Brass Band, then Branford Marsalis opened. Ken Nordine performed on the radio between sets. Bill Graham lowered to stage at midnight dressed as a witch doctor, accompanied by fire-eaters. *with Branford Marsalis.  +with Hamza El-Din. "Drumz" before "NFA" for New Year's countdown. </i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

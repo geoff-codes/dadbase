@@ -1,0 +1,595 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1968 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1968/setlists&highlight=went">Shows I attended</a>
+		<a href="/1968/setlists&highlight=own">Shows I own</a>
+		<a href="/1968/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1968/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1968 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>January:  <a href="#0117">17</a> <a href="#0120">20</a> <a href="#0122">22</a> <a href="#0126">26</a> <a href="#0127">27</a> <a href="#0129">29</a> <a href="#0130">30</a><br>
+February: <a href="#0202">2</a> <a href="#0203">3</a> <a href="#0204">4</a> <a href="#0214">14</a> <a href="#0215">15</a> <a href="#0217">17</a> <a href="#0222">22</a> <a href="#0223">23</a> <a href="#0224">24</a><br>
+March: <a href="#0301">1</a> <a href="#0302">2</a> <a href="#0303">3</a> <a href="#0307">7</a> <a href="#0308">8</a> <a href="#0309">9</a> <a href="#0309">9</a> <a href="#0311">11</a> <a href="#0315">15</a> <a href="#0316">16</a> <a href="#0317">17</a> <a href="#0318">18</a> <a href="#0320">20</a> <a href="#0322">22</a> <a href="#0323">23</a> <a href="#0324">24</a> <a href="#0326">26</a> <a href="#0329">29</a> <a href="#0330">30</a> <a href="#0331">31</a><br>
+April: <a href="#0403">3</a> <a href="#0407">7</a> <a href="#0412">12</a> <a href="#0413">13</a> <a href="#0414">14</a> <a href="#0414">14</a> <a href="#0419">19</a> <a href="#0420">20</a> <a href="#0421">21</a> <a href="#0426">26</a> <a href="#0427">27</a> <a href="#0428">28</a><br>
+May: <a href="#0503">3</a> <a href="#0504">4</a> <a href="#0505">5</a> <a href="#0507">7</a> <a href="#0507">7</a> <a href="#0508">8</a> <a href="#0508">8</a> <a href="#0509">9</a> <a href="#0509">9</a> <a href="#0511">11</a> <a href="#0517">17</a> <a href="#0518">18</a> <a href="#0518">18</a> <a href="#0524">24</a> <a href="#0525">25</a> <a href="#0530">30</a> <a href="#0531">31</a><br>
+June: <a href="#0601">1</a> <a href="#0601">1</a> <a href="#0606">6</a> <a href="#0607">7</a> <a href="#0608">8</a> <a href="#0609">9</a> <a href="#0609">9</a> <a href="#0612">12</a> <a href="#0613">13</a> <a href="#0614">14</a> <a href="#0614">14</a> <a href="#0615">15</a> <a href="#0615">15</a> <a href="#0616">16</a> <a href="#0619">19</a> <a href="#0622">22</a><br>
+July: <a href="#0711">11</a> <a href="#0712">12</a> <a href="#0713">13</a> <a href="#07xx">xx</a> <a href="#07yy">yy</a><br>
+August: <a href="#0802">2</a> <a href="#0803">3</a> <a href="#0804">4</a> <a href="#0813">13</a> <a href="#0820">20</a> <a href="#0821">21</a> <a href="#0822">22</a> <a href="#0823">23</a> <a href="#0824">24</a> <a href="#0828">28</a> <a href="#0830">30</a> <a href="#0831">31</a><br>
+September: <a href="#0901">1</a> <a href="#0901">1</a> <a href="#0902">2</a> <a href="#0905">5</a> <a href="#0906">6</a> <a href="#0910">10</a> <a href="#0911">11</a> <a href="#0913">13</a> <a href="#0920">20</a> <a href="#0921">21</a> <a href="#0922">22</a> <a href="#0926">26</a> <a href="#0929">29</a><br>
+October: <a href="#1002">2</a> <a href="#1003">3</a> <a href="#1004">4</a> <a href="#1005">5</a> <a href="#1007">7</a> <a href="#1008">8</a> <a href="#1009">9</a> <a href="#1010">10</a> <a href="#1010">10</a> <a href="#1011">11</a> <a href="#1011">11</a> <a href="#1012">12</a> <a href="#1012">12</a> <a href="#1013">13</a> <a href="#1018">18</a> <a href="#1019">19</a> <a href="#1020">20</a> <a href="#1022">22</a> <a href="#1029">29</a> <a href="#1030">30</a> <a href="#1031">31</a><br>
+November: <a href="#1101">1</a> <a href="#1104">4</a> <a href="#1105">5</a> <a href="#1107">7</a> <a href="#1108">8</a> <a href="#1109">9</a> <a href="#1110">10</a> <a href="#1115">15</a> <a href="#1116">16</a> <a href="#1117">17</a> <a href="#1117">17</a> <a href="#1122">22</a> <a href="#1123">23</a> <a href="#1124">24</a> <a href="#1127">27</a> <a href="#1128">28</a><br>
+December: <a href="#1201">1</a> <a href="#1206">6</a> <a href="#1207">7</a> <a href="#1213">13</a> <a href="#1214">14</a> <a href="#1220">20</a> <a href="#1221">21</a> <a href="#1223">23</a> <a href="#1228">28</a> <a href="#1229">29</a> <a href="#1231">31</a> <a href="#12xx">xx</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0117"></a><a href="/1968-01-17">1/17/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-17*">Listen/Download</a>]<tr><td>I: Lovelight, Dark Star > China Cat > The Eleven > Feedback, New Potato Caboose > Born Cross-Eyed > Feedback > Spanish Jam</td></tr>
+<tr><td>II: BIODTL, Morning Dew, Cryptical > Other One > Cryptical > Schoolgirl</td></tr>
+<tr class="notes"><td>First ''Born Cross-Eyed''; First ''China Cat''; First ''The Eleven''</i></td></tr>
+<tr class="notes"><td>"Ben Franklin's Birthday." Also: QMS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0120"></a><a href="/1968-01-20">1/20/1968 Eureka Municipal Auditorium, Eureka, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-20*">Listen/Download</a>]<tr><td>Viola Lee Blues <span class="setlist_small">*</span>, Schoolgirl <span class="setlist_small">**</span>, Clementine > New Potato Caboose > Born Cross-Eyed > Feedback > Spanish Jam > Caution > Dark Star</td></tr>
+<tr class="notes"><td>First ''Clementine''</i></td></tr>
+<tr class="notes"><td>"The Quick  and  The Dead" tour of the Great Pacific Northwest begins. Also: QMS. * appears on "Road Trips Vol. 2 No. 2" ** appears on the "Road Trips Vol. 2 No. 2" bonus disc. Both tunes might have been played elsewhere in the set.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0122"></a><a href="/1968-01-22">1/22/1968 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-22*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Evidence suggests that the Dead played the Eagles Auditorium on the 26th and 27th rather than the 22nd and 23rd.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0126"></a><a href="/1968-01-26">1/26/1968 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-26*">Listen/Download</a>]<tr><td>Alligator > Drums > Alligator, Cryptical > Other One > Cryptical > New Potato Caboose > Born Cross-Eyed > Feedback > Spanish Jam > Dark Star > China Cat > The Eleven > Caution > Feedback</td></tr>
+<tr class="notes"><td>Also: QMS. Above is from a vault tape labeled Seattle and dated 1-22-68. However, contemporary Seattle newspaper ads only mention shows on the 26th and 27th, as does the poster. In addition, the Anthem of the Sun source dates for its live material only list Seattle shows for the 26th and 27th and not the 22nd and 23rd. The We Bid You Goodnight formerly listed here (that often circulates with this show) actually belongs to 03-31-68. The circulating tape of this show cuts in the middle of Caution.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0127"></a><a href="/1968-01-27">1/27/1968 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-27*">Listen/Download</a>]<tr><td>Viola Lee Blues <span class="setlist_small">**</span>, BIODTL <span class="setlist_small">*</span>, Hurts Me Too <span class="setlist_small">*</span>, Cryptical > Other One > Cryptical > Clementine > New Potato Caboose > Born Cross-Eyed > Spanish Jam, Dark Star <span class="setlist_small">**</span> > China Cat <span class="setlist_small">**</span> > The Eleven <span class="setlist_small">**</span> > Turn On Your Lovelight <span class="setlist_small">**</span></td></tr>
+<tr class="notes"><td>Also: QMS. * appears on "Road Trips Vol. 2 No. 2." ** appears on the "Road Trips Vol. 2 No. 2" bonus disc. This material might have been performed elsewhere in the set. The above is from a vault tape labeled Seattle and dated 1-23-68. However, contemporary Seattle newspaper ads only mention shows on the 26th and 27th, as does the poster. In addition, the Anthem of the Sun source dates for its live material only list Seattle shows for the 26th and 27th and not the 22nd and 23rd. Also, the Spanish jam is cut in the middle-the second half comes from a circulating fragment dated 1-27-68 that could be a continuation of the first half, albeit from a different generational source.
+</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0129"></a><a href="/1968-01-29">1/29/1968 Portland State College, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-29*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: QMS; PH Phactor Jug Band.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0130"></a><a href="/1968-01-30">1/30/1968 Erb Memorial Union, U. of Oregon, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-01-30*">Listen/Download</a>]<tr><td>Gloria, Cryptical > Other One > Cryptical, New Potato Caboose <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Gloria''; Next ''Gloria'' 10/16/1981 [1090 shows]</i></td></tr>
+<tr class="notes"><td>* appears on the "Road Trips Vol. 2 No. 2" bonus disc.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0202"></a><a href="/1968-02-02">2/2/1968 Crystal Ballroom, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-02*">Listen/Download</a>]<tr><td>Viola Lee Blues, Cryptical > Other One > Cryptical > Clementine <span class="setlist_small">*</span> > Schoolgirl, Dark Star <span class="setlist_small">**</span> </td></tr>
+<tr class="notes"><td>Next ''Clementine'' 1/26/1969 [117 shows]</i></td></tr>
+<tr class="notes"><td>* appears on "So Many Roads (1965-1995)." ** appears on "Road Trips Vol. 2 No. 2."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0203"></a><a href="/1968-02-03">2/3/1968 Crystal Ballroom, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-03*">Listen/Download</a>]<tr><td>Cryptical > Other One > Cryptical > New Potato Caboose, Hurts Me Too, Born Cross-Eyed > Jam, Schoolgirl, Dark Star > China Cat > The Eleven > Jam > Feedback</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0204"></a><a href="/1968-02-04">2/4/1968 Gym, South Oregon College, Ashland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-04*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: QMS. Admission $3.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0214"></a><a href="/1968-02-14">2/14/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-14*">Listen/Download</a>]<tr><td>I: Morning Dew, Schoolgirl, Dark Star > China Cat > The Eleven > Lovelight</td></tr>
+<tr><td>II: Cryptical > Other One > Cryptical > New Potato Caboose > Born Cross-Eyed > Spanish Jam, Alligator > Drums > Alligator > Caution > Feedback</td></tr>
+<tr><td>E: Midnight Hour</td></tr>
+<tr class="notes"><td>Next ''Midnight Hour'' 8/21/1968 [60 shows]</i></td></tr>
+<tr class="notes"><td>Carousel Ballroom official opening- "St. Valentine's Day, Be Mine" poster. Also: Country Joe  and  The Fish. Second set dedicated to the memory of Neal Cassidy. FM broadcast KMPX, San Francisco. Entire show appears on "Road Trips Vol. 2 No. 2."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0215"></a><a href="/1968-02-15">2/15/1968 San Quentin State Prison, San Quentin, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-15*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This perfomance was formerly thought to have taken place on March 7th.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0217"></a><a href="/1968-02-17">2/17/1968 Selland Arena, Fresno, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-17*">Listen/Download</a>]<tr><td>Schoolgirl, Lovelight</td></tr>
+<tr class="notes"><td>Also: Country Joe  and  The Fish. DeadLists has the above tunes comprising the entire set, according to the show’s promoter.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0222"></a><a href="/1968-02-22">2/22/1968 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-22*">Listen/Download</a>]<tr><td>Morning Dew, BIODTL, Dark Star > China Cat  > The Eleven > Caution</td></tr>
+<tr class="notes"><td>Also: Morning Glory.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0223"></a><a href="/1968-02-23">2/23/1968 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-23*">Listen/Download</a>]<tr><td>Viola Lee Blues, Hurts Me Too, Dark Star > China Cat  > The Eleven > Lovelight, Born Cross-Eyed > Spanish Jam</td></tr>
+<tr class="notes"><td>Also: Morning Glory. Entire set appears on "Dick’s Picks Vol. 22."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0224"></a><a href="/1968-02-24">2/24/1968 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-02-24*">Listen/Download</a>]<tr><td>Morning Dew, Schoolgirl, Cryptical > Other One > Cryptical > New Potato Caboose, Alligator > China Cat > The Eleven > drums > Alligator > Caution > Feedback </td></tr>
+<tr class="notes"><td>Also: Morning Glory. Entire set appears on "Dick’s Picks Vol. 22."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0301"></a><a href="/1968-03-01">3/1/1968 1300 Boulevard Way, Walnut Creek, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Looking Glass. Since some confusion still exists about these gigs, clarification is necessary. The eyewitness who reported this at first mistakenly identified the venue as “The Looking Glass,” but then realized it was the name of the band that opened for the Dead (or perhaps he was initially misunderstood). The venue’s address was 1300 Boulevard Way in Walnut Creek, with the name still unknown. But these shows definitely took place.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0302"></a><a href="/1968-03-02">3/2/1968 1300 Boulevard Way, Walnut Creek, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Looking Glass.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0303"></a><a href="/1968-03-03">3/3/1968 Haight Street, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-03*">Listen/Download</a>]<tr><td>Viola Lee Blues, Smokestack, Lovelight, Hurts Me Too, Cryptical > Other One > Cryptical, Dancin</td></tr>
+<tr class="notes"><td>Next ''Smokestack'' 5/7/1969 [157 shows]</i></td></tr>
+<tr class="notes"><td>Afternoon concert. List incomplete - batteries were running down so the taper, Steve Brown, only recorded certain songs. The set-closing "Dancin" comes from an eyewitness. Pieces of indeterminate 1969 shows have circulated under this date in the past-any recording with this date containing different songs than listed above is erroneous. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0307"></a><a href="/1968-03-07">3/7/1968 San Quentin State Prison, San Quentin, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This performance actually took place on 2-15-68. The recording now correctly identified as 10-12-68 has been misidentified as this show in the past.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0308"></a><a href="/1968-03-08">3/8/1968 MelodyLand Theater , Anaheim, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane. The Dead played this venue on March 8 and 9 and not on the 26th.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0309"></a><a href="/1968-03-09">3/9/1968 MelodyLand Theater , Anaheim, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show. Also: Jefferson Airplane. The Dead played this venue on March 8 and 9 and not on the 26th.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0309"></a><a href="/1968-03-09">3/9/1968 MelodyLand Theater , Anaheim, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show. Also: Jefferson Airplane. The Dead played this venue on March 8 and 9 and not on the 26th.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0311"></a><a href="/1968-03-11">3/11/1968 Sacramento Memorial Auditorium, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-11*">Listen/Download</a>]<tr><td>Cryptical > Other One > Cryptical > New Potato Caboose > Born Cross-Eyed > Caution Jam</td></tr>
+<tr class="notes"><td>Also: Cream. With Tom Constanten.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0315"></a><a href="/1968-03-15">3/15/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-15*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane. Phil Lesh's 28th birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0316"></a><a href="/1968-03-16">3/16/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-16*">Listen/Download</a>]<tr><td>I: Dark Star <span class="setlist_small">*</span>  > China Cat <span class="setlist_small">*</span> > The Eleven <span class="setlist_small">*</span> > Schoolgirl</td></tr>
+<tr><td>II: Morning Dew, Hurts Me Too, Cryptical > Other One > Cryptical, Alligator > Drums > Alligator > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>First ''We Bid You Goodnight''; Next ''Hurts Me Too'' 12/7/1968 [87 shows]</i></td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane. Appears on "So Many Roads (1965-1995)." DeadLists has Morning Dew as the encore, which is incorrect.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1968-03-17">3/17/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-17*">Listen/Download</a>]<tr><td>I: Dark Star > Born Cross-Eyed, Lovelight</td></tr>
+<tr><td>II: Cryptical > Other One > Cryptical > New Potato Caboose > China Cat > The Eleven > Caution > Feedback</td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane. Reel 2 of this show (Lovelight onwards) was released as "Grateful Dead Download Series Vol. 6." Reel 1 is no longer playable due to experiments conducted upon it for "Anthem of the Sun."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1968-03-18">3/18/1968 50 Green Street, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-18*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Lost Live Dead blog reports that, according to Dennis McNally (and we can’t find the source for this), the Dead played outside the KMPX studios at 3AM. It is certain that Garcia and Hart sat in with Traffic, since photos of them doing so exist. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0320"></a><a href="/1968-03-20">3/20/1968 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-20*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>KMPX-FM Strike benefit.; The Grateful Dead's 250th Show; Jerry Garcia's 250th Show; Bob Weir's 250th Show; Bill Kreutzmann's 250th Show; Ron McKernan's 250th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0322"></a><a href="/1968-03-22">3/22/1968 State Fair Coliseum, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-22*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Eric Burdon  and  The Animals; Eire Apparent; Apostles; Jagged Edge.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0323"></a><a href="/1968-03-23">3/23/1968 Grande Ballroom, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-23*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Eric Burdon  and  The Animals; Eire Apparent; Apostles; Jagged Edge. According to the Lost Live Dead blog, this show was moved from the State Fair Coliseum in Detroit due to lack of ticket sales.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1968-03-24">3/24/1968 Fountain Church, Grand Rapids, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-24*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0326"></a><a href="/1968-03-26">3/26/1968 MelodyLand Theater , Anaheim, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-26*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Previous ''Top Of The World'' 7/30/1966 [204 shows]</i></td></tr>
+<tr class="notes"><td>The MelodyLand shows actually took place on 3-8 and 9-68. The tape long dated 03-26-68 and identified as “MelodyLand Theatre” or “unknown location” is, judging by Dick Latvala’s notes, actually the first part of 03-29-68. This misread tape is the only evidence of a gig on 03-26.; Phil Lesh's 250th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1968-03-29">3/29/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-29*">Listen/Download</a>]<tr><td>Schoolgirl, Death Don’t, Top of the World, Dark Star, Morning Dew, Lovelight > Cryptical > Other One > Cryptical > New Potato Caboose > Born Cross-Eyed</td></tr>
+<tr class="notes"><td>Also: Chuck Berry; Curly Cook's Hurdy-Gurdy Band. The first four tunes are from a tape long misidentified as 03-26-68, and judging by Dick Latvala’s notes actually form the first part of 03-29-68. A sonic comparison of both recordings confirms this</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0330"></a><a href="/1968-03-30">3/30/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-30*">Listen/Download</a>]<tr><td>Morning Dew, Cryptical > Other One > Cryptical  > Dark Star > China Cat > The Eleven > Turn On Your Lovelight, Born Cross-Eyed > Spanish Jam > Death Don’t </td></tr>
+<tr class="notes"><td>Next ''Dancin'' 5/7/1969 [146 shows]</i></td></tr>
+<tr class="notes"><td>Also: Chuck Berry; Curly Cook's Hurdy-Gurdy Band. Judging by Dick Latvala’s notes, the songs after Death Don’t Have No Mercy long included on taped with this date actually opened the following night, and a sonic comparison confirms this. DeadLists has a set break after Lovelight, but no such announcement can be heard on this recording. Evidence points toward the Dead having played only one set each night during this run. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1968-03-31">3/31/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-03-31*">Listen/Download</a>]<tr><td>Lovelight, BIODTL, Dancin, Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Also: Chuck Berry; Curly Cook's Hurdy-Gurdy Band. The first three tunes have long circulated as the end of 03-30-68, but Dick Latvala’s notes place them during 03-31 and a sonic comparison confirms this. We Bid You Goodnight often appears on the Seattle tape misdated as 1-22-68.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0403"></a><a href="/1968-04-03">4/3/1968 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-03*">Listen/Download</a>]<tr><td>Cryptical > Other One > Cryptical > New Potato Caboose > Born Cross-Eyed, Alligator > Caution</td></tr>
+<tr class="notes"><td>Final ''Born Cross-Eyed''</i></td></tr>
+<tr class="notes"><td>KMPX-FM Strike benefit. Also: Moby Grape; Electric Flag; The Youngbloods; Mother Earth; It's A Beautiful Day. List, from an eyewitness, may be incomplete and out of order. One of the undated June 1968 Carousel Ballroom tapes sometimes circulates under this date, but no substantive proof exists to support this.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0407"></a><a href="/1968-04-07">4/7/1968 , , </a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>No Grateful Dead performance is known to have taken place on this date. The recording now correctly identified as 10-12-68 has been misdated as such.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0412"></a><a href="/1968-04-12">4/12/1968 Thee Image, Miami Beach, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-12*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Apparently the Dead played two consecutive weekends at this venue, since a poster exists for the first, and the poster for the second bears the notation “held over.”</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0413"></a><a href="/1968-04-13">4/13/1968 Thee Image, Miami Beach, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-13*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Apparently the Dead played two consecutive weekends at this venue, since a poster exists for the first, and the poster for the second bears the notation “held over.”</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0414"></a><a href="/1968-04-14">4/14/1968 Thee Image, Miami Beach, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-14*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Apparently the Dead played two consecutive weekends at this venue, since a poster exists for the first, and the poster for the second bears the notation “held over.”</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0414"></a><a href="/1968-04-14">4/14/1968 Greynolds Park, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-14*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Free afternoon concert. With Blues Image. According to the Lost Live Dead blog, this was reported over wire services the next day.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0419"></a><a href="/1968-04-19">4/19/1968 Thee Image, Miami Beach, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-19*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Blues Image; Kollektions; The Bangles. Apparently the Dead played two consecutive weekends at this venue, since a poster exists for the first, and the poster for the second bears the notation “held over.”</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0420"></a><a href="/1968-04-20">4/20/1968 Thee Image, Miami Beach, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-20*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Blues Image; Kollektions; The Bangles. Apparently the Dead played two consecutive weekends at this venue, since a poster exists for the first, and the poster for the second bears the notation “held over.”</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0421"></a><a href="/1968-04-21">4/21/1968 Thee Image, Miami Beach, Miami, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-21*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Blues Image; Kollektions; The Bangles. Apparently the Dead played two consecutive weekends at this venue, since a poster exists for the first, and the poster for the second bears the notation “held over.”</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0426"></a><a href="/1968-04-26">4/26/1968 Electric Factory, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-26*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0427"></a><a href="/1968-04-27">4/27/1968 Electric Factory, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-27*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0428"></a><a href="/1968-04-28">4/28/1968 Electric Factory, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-04-28*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0503"></a><a href="/1968-05-03">5/3/1968 Low Library Plaza, Columbia U., New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-03*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Next ''Top Of The World'' 4/18/1969 [126 shows]</i></td></tr>
+<tr class="notes"><td>Cold Rain and Snow and Sittin’ on Top of the World do indeed appear in the film "Columbia Revolt," but they are the album renditions used as a soundtrack over footage of the Dead playing this gig. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0504"></a><a href="/1968-05-04">5/4/1968 Gym, S.U.N.Y., Stony Brook, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-04*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Incredible String Band.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0505"></a><a href="/1968-05-05">5/5/1968 Central Park, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-05*">Listen/Download</a>]<tr><td>Morning Dew</td></tr>
+<tr class="notes"><td>Afternoon concert. Paul Butterfield Blues Band, then Jefferson Airplane opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0507"></a><a href="/1968-05-07">5/7/1968 Electric Circus, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show. Bill Kreutzmann's 22nd birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0507"></a><a href="/1968-05-07">5/7/1968 Electric Circus, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show. Bill Kreutzmann's 22nd birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0508"></a><a href="/1968-05-08">5/8/1968 Electric Circus, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0508"></a><a href="/1968-05-08">5/8/1968 Electric Circus, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-08*">Listen/Download</a>]<tr><td>Viola Lee Blues</td></tr>
+<tr class="notes"><td>Next ''Viola Lee Blues'' 4/6/1969 [114 shows]</i></td></tr>
+<tr class="notes"><td>Late show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0509"></a><a href="/1968-05-09">5/9/1968 Electric Circus, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0509"></a><a href="/1968-05-09">5/9/1968 Electric Circus, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-09*">Listen/Download</a>]<tr><td>Just A Hand To Hold</td></tr>
+<tr class="notes"><td>Next ''He Was A Friend'' 12/7/1968 [63 shows]</i></td></tr>
+<tr class="notes"><td>Late show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0511"></a><a href="/1968-05-11">5/11/1968 The Dome, Virginia Beach, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-11*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0517"></a><a href="/1968-05-17">5/17/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-17*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Steve Miller Band; Taj Mahal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0518"></a><a href="/1968-05-18">5/18/1968 Santa Clara County Fairgrounds, San Jose, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-18*">Listen/Download</a>]<tr><td>Alligator > Drums> Alligator > Caution > Feedback</td></tr>
+<tr class="notes"><td>Northern California Folk-Rock Festival. Afternoon concert. Also: The Doors; Eric Burdon  and  The Animals; Big Brother  and  The Holding Co.; The Youngbloods; Electric Flag; Jefferson Airplane; Kaleidoscope; Country Joe  and  The Fish; Taj Mahal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0518"></a><a href="/1968-05-18">5/18/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-18*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Steve Miller Band; Taj Mahal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0524"></a><a href="/1968-05-24">5/24/1968 National Guard Armory, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-24*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>First ''St. Stephen''</i></td></tr>
+<tr class="notes"><td>Billing: Iron Butterfly; GD. Setlist formerly listed with this date is actually from 02-05-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0525"></a><a href="/1968-05-25">5/25/1968 National Guard Armory, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-25*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: Iron Butterfly; GD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1968-05-30">5/30/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-30*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>"Memorial." Also: Charlie Musselwhite; Petrus.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0531"></a><a href="/1968-05-31">5/31/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-05-31*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>"Memorial." Also: Charlie Musselwhite; Petrus.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0601"></a><a href="/1968-06-01">6/1/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-01*">Listen/Download</a>]<tr><td>St. Stephen > Cryptical > Other One > Cryptical > New Potato Caboose > Alligator > Drums > Alligator > Caution</td></tr>
+<tr class="notes"><td>"Memorial." Also: Charlie Musselwhite; Petrus. Setlist is from compilation reels in vault identified as “Carousel Ballroom” with no date. This performance also circulates as Winterland 4-3-68, but no substantive proof exists to support that date, which is too early for St. Stephen anyway.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0601"></a><a href="/1968-06-01">6/1/1968 Panhandle, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>According to the Lost Live Dead blog, the Dead, Charlie Musselwhite, and Petris, who were all playing the Carousel Ballroom that weekend, did a free gig in the Panhandle the afternoon of the last show. The blog has not yet cited specifically where it got this information, only that it has been “alluded to in various places.” It should be stated that bands were not generally known to be playing the Panhandle at this time.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0606"></a><a href="/1968-06-06">6/6/1968 , , </a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-06*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>No Grateful Dead performance is known to have taken place on this date. The recording now correctly identified as 10-12-68 has been misdated as such in the past.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0607"></a><a href="/1968-06-07">6/7/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-07*">Listen/Download</a>]<tr><td>St. Stephen > Dark Star</td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane; Fleetwood Mac. The songs listed above opened one night of this stand, according to an eyewitness.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1968-06-08">6/8/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-08*">Listen/Download</a>]<tr><td>St. Stephen > Cryptical > Other One > Cryptical > Lovelight</td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane; Fleetwood Mac. Setlist from compilation reels in vault identified as “Carousel Ballroom” with no date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1968-06-09">6/9/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-09*">Listen/Download</a>]<tr><td>Morning Dew, Hurts Me Too, Dark Star > St. Stephen > Lovelight</td></tr>
+<tr class="notes"><td>Also: Jefferson Airplane; Fleetwood Mac. Setlist from compilation reels in vault identified as “Carousel Ballroom” with no date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1968-06-09">6/9/1968 Speedway Meadows, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Jefferson Airplane and the Grateful Dead attempted to play a memorial concert for the late Robert F. Kennedy but were prevented from doing so by the San Francisco Police Department due to lack of a permit, according to the June 10, 1968 Hayward Daily Review.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0612"></a><a href="/1968-06-12">6/12/1968 Paradise Theater, Staten Island, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-12*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0613"></a><a href="/1968-06-13">6/13/1968 Paradise Theater, Staten Island, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-13*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1968-06-14">6/14/1968 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-14*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show. Billing: GD; Jeff Beck Group; Seventh Sons - Jeff Beck Group was Rod Stewart's American debut.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1968-06-14">6/14/1968 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-14*">Listen/Download</a>]<tr><td>Feedback > The Eleven > St. Stephen, Alligator > drums > Lovelight > Caution <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Caution <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Drums''</i></td></tr>
+<tr class="notes"><td>Late show. Billing: GD; Jeff Beck Group; Seventh Sons. * appears on the "Fillmore West 1969" bonus disc.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1968-06-15">6/15/1968 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-15*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show. Billing: GD; Jeff Beck Group; Seventh Sons.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1968-06-15">6/15/1968 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-15*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show. Billing: GD; Jeff Beck Group; Seventh Sons. The setlist formerly shown here was from a recording that proved to be the 6-14-68 late show scrambled.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0616"></a><a href="/1968-06-16">6/16/1968 Village Gate, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-16*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>DeadLists has the Dead playing this gig in the early afternoon or late evening as part of a 4-day benefit for former addicts, according to an ad in the New York Times. More research is warranted to determine if the Dead actually played it.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1968-06-19">6/19/1968 Carousel Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-19*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>First ''NFA''; First ''The Main Ten''; Next ''The Main Ten'' 11/8/1969 [183 shows]</i></td></tr>
+<tr class="notes"><td>Black Man's Free Store benefit. Also: Richie Havens. The setlist for the recording long ascribed to this date has been moved to 2-19-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0622"></a><a href="/1968-06-22">6/22/1968 Phoenix Travelodge Theater, Phoenix, AZ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-06-22*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>With Ten Years After and Thackeray Rocke. DeadLists has the band playing this gig according to the Arizona Republic and subsequently confirmed by a short review in the same newspaper.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0711"></a><a href="/1968-07-11">7/11/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-07-11*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Blue Cheer.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0712"></a><a href="/1968-07-12">7/12/1968 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-07-12*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Working Class.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0713"></a><a href="/1968-07-13">7/13/1968 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-07-13*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Working Class.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="07xx"></a><a href="/1968-07-xx">7/xx/1968 Honolulu International Center, Honolulu , HI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-07-xx*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The August 10, 1968 issue of Billboard reported that scheduled July dates for the Dead in Honolulu had been rescheduled for the following January, which did not take place either. This sounds suspiciously like what happened in July of 1969 and January of 1970.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="07yy"></a><a href="/1968-07-yy">7/yy/1968 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-07-yy*">Listen/Download</a>]<tr><td>Caution jam</td></tr>
+<tr class="notes"><td>Studio session</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0802"></a><a href="/1968-08-02">8/2/1968 The Hippodrome, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Curly Cook's Hurdy-Gurdy Band; Maya.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0803"></a><a href="/1968-08-03">8/3/1968 The Hippodrome, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-03*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Curly Cook's Hurdy-Gurdy Band; Maya.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0804"></a><a href="/1968-08-04">8/4/1968 Orange County Fairgrounds, Costa Mesa, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-04*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>"First Annual Newport Pop Festival." Also: Jefferson Airplane; Eric Burdon  and  The Animals; The Byrds; Big Brother  and  The Holding Co.; Electric Flag; Canned Heat; Iron Butterfly; QMS; The Charles Lloyd Quartet; Things To Come; Country Joe  and  The Fish; Illinois Speed Press. Sonny  and  Cher cancelled.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0813"></a><a href="/1968-08-13">8/13/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-13*">Listen/Download</a>]<tr><td>Clementine jam, Nobody's Spoonful jam, The Eleven jam</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa." All three tunes appear as "Aoxomoxoa" bonus tracks on "The Golden Road (1965-1973)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0820"></a><a href="/1968-08-20">8/20/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-20*">Listen/Download</a>]<tr><td>Dark Star > St. Stephen > The Eleven > Death Don't</td></tr>
+<tr class="notes"><td>Venue formerly the Carousel Ballroom. Billing: GD; Kaleidoscope; Albert Collins. No recording of this performance circulates.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0821"></a><a href="/1968-08-21">8/21/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-21*">Listen/Download</a>]<tr><td>I: Cryptical > Other One > Cryptical, Schoolgirl, Alligator > Drums > Jam > Alligator >Feedback</td></tr>
+<tr><td>II: Dark Star > St. Stephen > The Eleven > Death Don't, Lovelight</td></tr>
+<tr><td>E: Midnight Hour</td></tr>
+<tr class="notes"><td>Previous ''Midnight Hour'' 2/14/1968 [60 shows]</i></td></tr>
+<tr class="notes"><td>Billing: GD; Kaleidoscope; Albert Collins. "Alligator" contains "We Bid You Goodnight" theme. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0822"></a><a href="/1968-08-22">8/22/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-22*">Listen/Download</a>]<tr><td>I: St. Stephen > The Eleven > Death Don't, Lovelight</td></tr>
+<tr><td>II: Dark Star, Cryptical > Other One > Cryptical > New Potato Caboose, Alligator > Drums > Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Billing: GD; Kaleidoscope; Albert Collins.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0823"></a><a href="/1968-08-23">8/23/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-23*">Listen/Download</a>]<tr><td>Cryptical > Other One > Cryptical, Dark Star > St. Stephen > The Eleven > Death Don't, Alligator <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Alligator <span class="setlist_small">*</span> > Caution <span class="setlist_small">*</span> > Feedback <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>* appears as an "Anthem of the Sun" bonus track on "The Golden Road (1965-1973)," and also on the 2007 re-release of "Two From the Vault." The recording now correctly identified as 10-12-68 has circulated under this date in the past.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0824"></a><a href="/1968-08-24">8/24/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-24*">Listen/Download</a>]<tr><td>Schoolgirl, Dark Star > St. Stephen > The Eleven > Death Don't, Cryptical > Other One > Cryptical > New Potato Caboose > Lovelight</td></tr>
+<tr><td>E: Morning Dew</td></tr>
+<tr class="notes"><td>Entire show released as "Two From The Vault." The recording now correctly identified as 10-12-68 has circulated under this date in the past.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0828"></a><a href="/1968-08-28">8/28/1968 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-28*">Listen/Download</a>]<tr><td>Dark Star > St. Stephen > The Eleven > Death Don't, Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0830"></a><a href="/1968-08-30">8/30/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-30*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Preservation Hall Jazz Band; Sons Of Champlin.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0831"></a><a href="/1968-08-31">8/31/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-08-31*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Preservation Hall Jazz Band; Sons Of Champlin.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0901"></a><a href="/1968-09-01">9/1/1968 Palace of Fine Arts Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Afternoon concert. Haight-Ashbury Medical Clinic benefit. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0901"></a><a href="/1968-09-01">9/1/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Preservation Hall Jazz Band; Sons Of Champlin.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0902"></a><a href="/1968-09-02">9/2/1968 Betty Nelson's Organic Raspberry Farm, Sultan, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-02*">Listen/Download</a>]<tr><td>Dark Star > St. Stephen > The Eleven > Jam > Death Don't, Cryptical > Other One > Cryptical, Alligator > drums > Alligator > Caution > Feedback</td></tr>
+<tr class="notes"><td>Sky River Festival. The "Midnight Hour" that has circulated under this date is actually the 09-03-67 rendition.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0905"></a><a href="/1968-09-05">9/5/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-05*">Listen/Download</a>]<tr><td>St. Stephen</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0906"></a><a href="/1968-09-06">9/6/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-06*">Listen/Download</a>]<tr><td>St. Stephen (x2), What's Become Of The Baby</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0910"></a><a href="/1968-09-10">9/10/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-10*">Listen/Download</a>]<tr><td>St. Stephen</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0911"></a><a href="/1968-09-11">9/11/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-11*">Listen/Download</a>]<tr><td>St. Stephen, What's Become Of The Baby</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0913"></a><a href="/1968-09-13">9/13/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-13*">Listen/Download</a>]<tr><td>St. Stephen</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0920"></a><a href="/1968-09-20">9/20/1968 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-20*">Listen/Download</a>]<tr><td>Schoolgirl, St. Stephen > The Eleven > Drums<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*with Shankar Ghosh and Vince Delgado.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0921"></a><a href="/1968-09-21">9/21/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-21*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0922"></a><a href="/1968-09-22">9/22/1968 Del Mar Fairgrounds, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-22*">Listen/Download</a>]<tr><td>Cryptical > Other One > Cryptical, Schoolgirl, New Potato Caboose, Alligator > Drums > Alligator > Caution > Feedback, Midnight Hour</td></tr>
+<tr class="notes"><td>also: Buddy Miles Express; Taj Mahal; QMS; Sons Of Champlin; Mother Earth - Curly Cook's Hurdy-Gurdy Band; The Youngbloods; Ace Of Cups; Phoenix.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0926"></a><a href="/1968-09-26">9/26/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-26*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1968-09-29">9/29/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-09-29*">Listen/Download</a>]<tr><td>St. Stephen</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1002"></a><a href="/1968-10-02">10/2/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-02*">Listen/Download</a>]<tr><td>What's Become Of The Baby (outtakes)</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1003"></a><a href="/1968-10-03">10/3/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-03*">Listen/Download</a>]<tr><td>Barbed Wire Whipping Party, What's Become Of The Baby, Barbed Wire Whipping Party</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1004"></a><a href="/1968-10-04">10/4/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-04*">Listen/Download</a>]<tr><td>Clementine, Barbed Wire Whipping Party (chorus)</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1005"></a><a href="/1968-10-05">10/5/1968 Sacramento Memorial Auditorium, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-05*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: The Youngbloods.; Mickey Hart's 100th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1007"></a><a href="/1968-10-07">10/7/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-07*">Listen/Download</a>]<tr><td>Clementine, Barbed Wire Whipping Party</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1008"></a><a href="/1968-10-08">10/8/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-08*">Listen/Download</a>]<tr><td>I: Clementine Jam > The Eleven Jam > Death Don’t Have No Mercy, The Seven, Dark Star Jam > Cosmic Charlie</td></tr>
+<tr><td>II: Next Time You See Me Jam, Jam, Other One Jam > Jam <span class="setlist_small">*</span></td></tr>
+<tr><td>III: Jam, Jam, Jam,  Prisoner Blues <span class="setlist_small">**</span>, Jam <span class="setlist_small">***</span></td></tr>
+<tr class="notes"><td>First ''Cosmic Charlie''; First ''Prisoner Blues''; First ''Space''; First ''The Seven''; Next ''Space'' 8/21/1972 [444 shows]</i></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats. *with Jack Casady  **also with Elvin Bishop  ***Hart, Bishop, and Casady.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1009"></a><a href="/1968-10-09">10/9/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Next ''The Seven'' 9/29/1969 [143 shows]; Previous ''Yonder's Wall'' 12/1/1966 [218 shows]; Final ''Yonder's Wall''</i></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1010"></a><a href="/1968-10-10">10/10/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-10*">Listen/Download</a>]<tr><td>Jam, It’s a Sin, Next Time You See Me Jam <span class="setlist_small">*</span>, Rub Jam <span class="setlist_small">*</span>, Yonder’s Wall <span class="setlist_small">*</span>, Jam > Lovelight Jam > Drums > Jam > Death Don’t, Dark Star Jam > The Eleven Jam> The Seven</td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats. *with Paul Butterfield and Elvin Bishop. Set breaks are uncertain. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1010"></a><a href="/1968-10-10">10/10/1968 Revolution Club, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-10*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This was included on a list of Grateful Dead European Tour dates reported in the October 12, 1968 issue of Billboard, all of which was subsequently cancelled.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1011"></a><a href="/1968-10-11">10/11/1968 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-11*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Lee Michaels; Linn County; Mance Lipscomb. Since Pig Pen did not perform the other two nights of this run, it is probably safe to assume that he did not on this night as well.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1011"></a><a href="/1968-10-11">10/11/1968 Middle Earth Club, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-11*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This was included on a list of Grateful Dead European Tour dates reported in the October 12, 1968 issue of Billboard, all of which was subsequently cancelled.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1012"></a><a href="/1968-10-12">10/12/1968 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-12*">Listen/Download</a>]<tr><td>I: Dark Star > St. Stephen > The Eleven > Death Don't</td></tr>
+<tr><td>II: Cryptical > Other One > Cryptical > New Potato Caboose > Jam > Drums > Jam > Feedback</td></tr>
+<tr class="notes"><td>Also: Lee Michaels; Linn County; Mance Lipscomb. Pig Pen did not perform. This show was not broadcast live on the radio at the time of its performance, but a recording of it aired on KSAN as part of a San Francisco Music anniversary celebration in early 1976 along with the 11-19-66 Cold Rain and Snow and a Morning Dew of earlier origin, which have thus sometimes been included as part of this show. This recording circulated for years primarily as 10-13-68 but also as 03-07-68, 04-07-68, 06-06-68, 08-23-68, 08-24-68, 10-22-68, and 06-07-69. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1012"></a><a href="/1968-10-12">10/12/1968 Middle Earth Club, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-12*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This was included on a list of Grateful Dead European Tour dates reported in the October 12, 1968 issue of Billboard, all of which was subsequently cancelled. Further, non-specific dates included October 13-21 in London, Birmingham, Leicester, and Liverpool, October 22-25 in Belgium and Holland, October 26-31 in Sweden and Denmark, and November 1-5 in England. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1013"></a><a href="/1968-10-13">10/13/1968 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-13*">Listen/Download</a>]<tr><td>I: Dark Star > St. Stephen > The Eleven > Death Don’t</td></tr>
+<tr><td>II: Cryptical > Other One > Cryptical > New Potato Caboose > Drums > Jam > Feedback</td></tr>
+<tr class="notes"><td>Also: Lee Michaels; Linn County; Mance Lipscomb. Pig Pen did not perform. This is the actual 10-13-68, and while the setlist is almost identical to that of the previous night it is in fact a different performance, and was not broadcast on the radio. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1018"></a><a href="/1968-10-18">10/18/1968 The Bank, Torrance, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-18*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Cleveland Wrecking Company.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1019"></a><a href="/1968-10-19">10/19/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-19*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Mickey Hart & the Hartbeats did not prerform on this date-the venue was otherwise booked.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1020"></a><a href="/1968-10-20">10/20/1968 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-20*">Listen/Download</a>]<tr><td>Schoolgirl, Lovelight, Dark Star > St. Stephen > The Eleven > Caution > Feedback</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1022"></a><a href="/1968-10-22">10/22/1968 , , </a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-22*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>No Grateful Dead performance is known to have taken place on this date. The recording now correctly identified as 10-12-68 has sometimes circulated as such.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1029"></a><a href="/1968-10-29">10/29/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-29*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1968-10-30">10/30/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-30*">Listen/Download</a>]<tr><td>Dark Star jam > Death Letter Blues, Other One jam, St. Stephen jam > jam, Lovelight jam, jam, jam > Eleven jam > Death Don’t Have No Mercy > Jam <span class="setlist_small">*</span>, Prisoner Blues <span class="setlist_small">*</span>, blues jam, Baby Please Come Back To Me, jam, Dark Star jam <span class="setlist_small">+</span>.</td></tr>
+<tr class="notes"><td>Only ''Death Letter Blues''; Final ''Prisoner Blues''</i></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats. *with Elvin Bishop +with Jack Casady. Set breaks are uncertain.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1968-10-31">10/31/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-31*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1101"></a><a href="/1968-11-01">11/1/1968 Silver Dollar Fairgrounds, Chico, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-01*">Listen/Download</a>]<tr><td>Dark Star > Cryptical > Other One > Cryptical > New Potato Caboose > Alligator > Caution > Feedback > We Bid You Goodnight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1104"></a><a href="/1968-11-04">11/4/1968 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-04*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1105"></a><a href="/1968-11-05">11/5/1968 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-05*">Listen/Download</a>]<tr><td>Clementine</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1107"></a><a href="/1968-11-07">11/7/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: QMS; GD; Linn County.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1108"></a><a href="/1968-11-08">11/8/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: QMS; GD; Linn County.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1109"></a><a href="/1968-11-09">11/9/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: QMS; GD; Linn County.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1110"></a><a href="/1968-11-10">11/10/1968 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-10*">Listen/Download</a>]<tr><td>Morning Dew</td></tr>
+<tr class="notes"><td>Billing: QMS; GD; Linn County. "Morning Dew" opened the show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1115"></a><a href="/1968-11-15">11/15/1968 Oregon State University, Corvallis, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-15*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Mint Tattoo; City Blue. A poster exists for this show. However, the following night in Vancouver was cancelled, so this show might have been also.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1116"></a><a href="/1968-11-16">11/16/1968 (unknown), Vancouver, BC, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-16*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1117"></a><a href="/1968-11-17">11/17/1968 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-17*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>3PM show. Native American Fund benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1117"></a><a href="/1968-11-17">11/17/1968 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-17*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>9PM show. Native American Fund benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1122"></a><a href="/1968-11-22">11/22/1968 Veterans Hall, Columbus, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-22*">Listen/Download</a>]<tr><td>Morning Dew, Schoolgirl, Dark Star > St. Stephen > The Eleven > Lovelight, Cryptical > Other One > Cryptical > New Potato Caboose, We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Bill Kreutzmann was absent due to illness.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1123"></a><a href="/1968-11-23">11/23/1968 Memorial Auditorium, Ohio University, Athens, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-23*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>First concert with Tom Constanten.; Tom Constanten's First Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1124"></a><a href="/1968-11-24">11/24/1968 Hyde Park Teen Center, Cincinnati, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-24*">Listen/Download</a>]<tr><td>Dark Star, St. Stephen, Lovelight</td></tr>
+<tr class="notes"><td>Also: The Lemon Pipers. Tom Constanten and Pigpen both played keyboards the entire night.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1127"></a><a href="/1968-11-27">11/27/1968 The Kinetic Playground, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-27*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Procol Harum.DeadLists has Cryptical Envelopment>The Other One>Cryptical Envelopment and Alligator being performed this night according to an eyewitness, who also remembered Doin’ That Rag, Dupree’s Diamond Blues, Dark Star>St. Stephen>The Eleven>Turn On Your Lovelight, and Feedback from this two-night run. Doin’ That Rag and Dupree’s, however, had not been performed live yet, which makes this information somewhat suspect. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1128"></a><a href="/1968-11-28">11/28/1968 The Kinetic Playground, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-11-28*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Procol Harum.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1201"></a><a href="/1968-12-01">12/1/1968 Grande Ballroom, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-01*">Listen/Download</a>]<tr><td>We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Also: Popcorn Blizzard.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1206"></a><a href="/1968-12-06">12/6/1968 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-06*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Quaker City Rock Festival.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1207"></a><a href="/1968-12-07">12/7/1968 Bellarmine College, Louisville, KY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-07*">Listen/Download</a>]<tr><td>I: Dark Star > St. Stephen > The Eleven > Death Don't, Cryptical > Other One > Cryptical > New Potato Caboose</td></tr>
+<tr><td>II: Rosemary <span class="setlist_small">*</span>, Just A Hand To Hold, Hurts Me Too, Morning Dew > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''Unknown'' 3/25/1972 [384 shows]</i></td></tr>
+<tr class="notes"><td>*Garcia solo acoustic. Bill Kreutzmann was absent. DeadBase has received criticism online for not knowing the name of the first set opening tune in previous editions, which took the form of casting negative aspersions on our knowledge of the Grateful Dead. When we first got this list the recording of this show did not yet circulate, and our source was apparently not familiar with or did not recognize "Rosemary.'</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1213"></a><a href="/1968-12-13">12/13/1968 The Bank, Torrance, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-13*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Magic Sam; Turnquist Remedy.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1214"></a><a href="/1968-12-14">12/14/1968 The Bank, Torrance, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-14*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Magic Sam; Turnquist Remedy.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1220"></a><a href="/1968-12-20">12/20/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-20*">Listen/Download</a>]<tr><td>The Eleven, Mountains Of The Moon<span class="setlist_small">*</span>, Lovelight</td></tr>
+<tr class="notes"><td>First ''Mountains Of The Moon''</i></td></tr>
+<tr class="notes"><td>Also: Country Joe  and  The Fish; Spirit; Pulse; Sir Douglas Quintet; Mint Tatoo. Setlist incomplete, from end of show. *Garcia solo acoustic </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1221"></a><a href="/1968-12-21">12/21/1968 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-21*">Listen/Download</a>]<tr><td>Lovelight, Cryptical > Other One > Cryptical > Hurts Me Too, Alligator > Drums > Alligator > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''Hurts Me Too'' 4/26/1969 [56 shows]</i></td></tr>
+<tr class="notes"><td>Also: Country Joe  and  The Fish; Spirit; Pulse; Sir Douglas Quintet; Mint Tatoo.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1223"></a><a href="/1968-12-23">12/23/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-23*">Listen/Download</a>]<tr><td>I: </td></tr>
+<tr><td>II: St. Stephen > Lovelight > Jam > Lovelight > Death Don't > Dark Star > Cosmic Charlie > Jam > Dark Star > The One You Love > Cryptical > Other One > Cryptical > Jam > The Eleven > Death Don't > Jam</td></tr>
+<tr class="notes"><td>Only ''The One You Love''</i></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats. First set blues jam with Jack Casady, Spencer Dryden.  Second set with Jack Casady, David Getz. Third set with Harvey Mandel, George Chambers. The circulating recording labeled as the Hartbeats from this month contains the tunes “The Creator Has a Master Plan,” and “Hartbeat Blues” into “Last jam.” Where this fits into the above is uncertain; one school of thought places the three tunes during the following night when Garcia supposedly jammed with the Harvey Mandel Band. In fact, where the above tunes actually belong is a mystery as well.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1968-12-28">12/28/1968 The Catacombs, Houston, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-28*">Listen/Download</a>]<tr><td>Cryptical > Other One > Cryptical, Jam, Morning Dew</td></tr>
+<tr class="notes"><td>Above tunes plus venue name from DeadLists according to an eyewitness.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1229"></a><a href="/1968-12-29">12/29/1968 Gulfstream Park Racetrack, Hallandale, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-29*">Listen/Download</a>]<tr><td>Lovelight > Dark Star > St. Stephen > The Eleven > Drums > Other One > Cryptical > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Miami Pop Festival.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1968-12-31">12/31/1968 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-31*">Listen/Download</a>]<tr><td>Midnight Hour, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Next ''Midnight Hour'' 11/2/1969 [127 shows]</i></td></tr>
+<tr class="notes"><td>"The Fillmore Scene at Winterland" - 9:00 PM to 9:00 AM - "Includes Breakfast." Billing: GD; QMS; It's A Beautiful Day; Santana. Tunes listed above were reported by an eyewitness. "Midnight Hour" was played at midnight-a mystery version of this tune was found tacked onto the end of a recording of 2-14-70 which could possibly be from this show, or just as possibly not. Tapes of 05-03-69 have sometimes circulated misdated 12-31-68. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="12xx"></a><a href="/1968-12-xx">12/xx/1968 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-12-xx*">Listen/Download</a>]<tr><td>Lovelight <span class="setlist_small">*</span>, Dark Star, St. Stephen > The Eleven x 5, the Eleven, St. Stephen, St. Stephen > The Eleven, The Eleven x2, jam > The Eleven, drums > The Eleven x2 </td></tr>
+<tr class="notes"><td>Rehearsal with Tom Constanten. *Garcia on vocals. Much of the above is fragmentary.</i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

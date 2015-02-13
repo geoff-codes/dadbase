@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Friday, April 15, 1988 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1988-04-15&highlight=went">Shows I attended</a>
+		<a href="/1988-04-15&highlight=own">Shows I own</a>
+		<a href="/1988-04-15&highlight=looking">Shows I'm looking for</a>
+		<a href="/1988-04-15&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Friday, April 15, 1988</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0415"></a><a href="/1988-04-15">4/15/1988 Rosemont Horizon, Rosemont, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1988-04-15*">Listen/Download</a>]<tr><td>I: Scarlet > Fire, Walking Blues, Candyman, Louie Louie > Cumberland, Memphis Blues > Deal</td></tr>
+<tr><td>II: Bucket > Crazy Fingers, L. L. Rain, Terrapin > Drumz > Other One > Miracle > Mr. Fantasy > Hey Jude Finale > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Drummers birthdays' joke before "Heaven's Door."</i></td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('88)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>Scarlet Begonias</td><td>3/23/1974</td><td>7/2/1995</td><td align="center">316</td><td align="center">14</td><td align="center">[<a href="/songs/Scarlet Begonias_308">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Fire On The Mountain</td><td>3/18/1977</td><td>7/2/1995</td><td align="center">253</td><td align="center">12</td><td align="center">[<a href="/songs/Fire On The Mountain_125">ETP</a>]</td></tr>
+<tr valign="top"><td>Walkin Blues</td><td>5/28/1982</td><td>7/2/1995</td><td align="center">138</td><td align="center">23</td><td align="center">[<a href="/songs/Walkin Blues_399">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Candyman</td><td>4/3/1970</td><td>6/30/1995</td><td align="center">276</td><td align="center">12</td><td align="center">[<a href="/songs/Candyman_57">ETP</a>]</td></tr>
+<tr valign="top"><td>Louie Louie</td><td>5/18/1967</td><td>4/9/1989</td><td align="center">8</td><td align="center">5</td><td align="center">[<a href="/songs/Louie Louie_208">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Cumberland Blues</td><td>11/8/1969</td><td>7/9/1995</td><td align="center">223</td><td align="center">9</td><td align="center">[<a href="/songs/Cumberland Blues_84">ETP</a>]</td></tr>
+<tr valign="top"><td>Memphis Blues</td><td>3/17/1988</td><td>4/2/1995</td><td align="center">70</td><td align="center">22</td><td align="center">[<a href="/songs/Memphis Blues_222">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">9</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
+<tr valign="top"><td>Hell In A Bucket</td><td>5/13/1983</td><td>6/30/1995</td><td align="center">216</td><td align="center">24</td><td align="center">[<a href="/songs/Hell In A Bucket_51">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">15</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
+<tr valign="top"><td>Looks Like Rain</td><td>3/21/1972</td><td>6/30/1995</td><td align="center">417</td><td align="center">14</td><td align="center">[<a href="/songs/Looks Like Rain_190">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Terrapin Station</td><td>2/26/1977</td><td>7/8/1995</td><td align="center">302</td><td align="center">20</td><td align="center">[<a href="/songs/Terrapin Station_356">ETP</a>]</td></tr>
+<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">80</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">23</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
+<tr valign="top"><td>I Need A Miracle</td><td>8/30/1978</td><td>6/30/1995</td><td align="center">271</td><td align="center">26</td><td align="center">[<a href="/songs/I Need A Miracle_230">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Mr. Fantasy</td><td>6/14/1984</td><td>7/21/1990</td><td align="center">58</td><td align="center">17</td><td align="center">[<a href="/songs/Mr. Fantasy_240">ETP</a>]</td></tr>
+<tr valign="top"><td>Hey Jude Finale</td><td>9/7/1985</td><td>7/12/1990</td><td align="center">28</td><td align="center">14</td><td align="center">[<a href="/songs/Hey Jude Finale_159">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Turn On Your Lovelight</td><td>8/5/1967</td><td>6/19/1995</td><td align="center">341</td><td align="center">23</td><td align="center">[<a href="/songs/Turn On Your Lovelight_210">ETP</a>]</td></tr>
+<tr valign="top"><td>Heaven's Door</td><td>7/4/1987</td><td>7/23/1994</td><td align="center">75</td><td align="center">16</td><td align="center">[<a href="/songs/Heaven's Door_153">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

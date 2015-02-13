@@ -1,0 +1,490 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1993 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1993/setlists&highlight=went">Shows I attended</a>
+		<a href="/1993/setlists&highlight=own">Shows I own</a>
+		<a href="/1993/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1993/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1993 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>January:  <a href="#0124">24</a> <a href="#0125">25</a> <a href="#0126">26</a><br>
+February: <a href="#0209">9</a> <a href="#0210">10</a> <a href="#0216">16</a> <a href="#0218">18</a> <a href="#0221">21</a> <a href="#0222">22</a> <a href="#0223">23</a><br>
+March: <a href="#0309">9</a> <a href="#0310">10</a> <a href="#0311">11</a> <a href="#0313">13</a> <a href="#0314">14</a> <a href="#0316">16</a> <a href="#0317">17</a> <a href="#0318">18</a> <a href="#0320">20</a> <a href="#0321">21</a> <a href="#0322">22</a> <a href="#0324">24</a> <a href="#0325">25</a> <a href="#0327">27</a> <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0331">31</a><br>
+April: <a href="#0401">1</a> <a href="#0402">2</a> <a href="#0404">4</a> <a href="#0405">5</a><br>
+May: <a href="#0514">14</a> <a href="#0515">15</a> <a href="#0516">16</a> <a href="#0521">21</a> <a href="#0522">22</a> <a href="#0523">23</a> <a href="#0525">25</a> <a href="#0526">26</a> <a href="#0527">27</a><br>
+June: <a href="#0605">5</a> <a href="#0606">6</a> <a href="#0608">8</a> <a href="#0609">9</a> <a href="#0611">11</a> <a href="#0613">13</a> <a href="#0615">15</a> <a href="#0616">16</a> <a href="#0618">18</a> <a href="#0619">19</a> <a href="#0621">21</a> <a href="#0622">22</a> <a href="#0623">23</a> <a href="#0625">25</a> <a href="#0626">26</a><br>
+August: <a href="#0821">21</a> <a href="#0822">22</a> <a href="#0825">25</a> <a href="#0826">26</a> <a href="#0827">27</a><br>
+September: <a href="#0908">8</a> <a href="#0909">9</a> <a href="#0910">10</a> <a href="#0912">12</a> <a href="#0913">13</a> <a href="#0914">14</a> <a href="#0916">16</a> <a href="#0917">17</a> <a href="#0918">18</a> <a href="#0920">20</a> <a href="#0921">21</a> <a href="#0922">22</a> <a href="#0924">24</a> <a href="#0925">25</a> <a href="#0926">26</a> <a href="#0928">28</a> <a href="#0929">29</a> <a href="#0930">30</a><br>
+December: <a href="#1208">8</a> <a href="#1209">9</a> <a href="#1210">10</a> <a href="#1212">12</a> <a href="#1213">13</a> <a href="#1217">17</a> <a href="#1218">18</a> <a href="#1219">19</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0124"></a><a href="/1993-01-24">1/24/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-01-24*">Listen/Download</a>]<tr><td>I: Jack Straw, Sugaree, Walking Blues, Loser, Queen Jane, Bird Song</td></tr>
+<tr><td>II: Playin > Crazy Fingers > Samson > He's Gone > Drumz > Last Time > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0125"></a><a href="/1993-01-25">1/25/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-01-25*">Listen/Download</a>]<tr><td>I: Shakedown, Same Thing, Althea, Mama Tried > Maggie's Farm, Loose Lucy, Music</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Way To Go > Corinna > Playin Reprise > Uncle John > Jam > Drumz > Watchtower > Wharf Rat > Around</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Next ''Playin Reprise'' 9/29/1993 [70 shows]</i></td></tr>
+<tr class="notes"><td>"Corinna" tease after "I Know You Rider."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0126"></a><a href="/1993-01-26">1/26/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-01-26*">Listen/Download</a>]<tr><td>I: Picasso Moon, Row Jimmy, Wang Dang Doodle, B. E. Women, Desolation Row, Ramble On > Promised</td></tr>
+<tr><td>II: Woman Smarter, Eyes > Estimated > Terrapin > Drumz<span class="setlist_small">*</span> > Jam<span class="setlist_small">*</span> > Other One<span class="setlist_small">*</span> > Stella Blue<span class="setlist_small">*</span> > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Gloria<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Chinese acrobats opened. *with Carlos Santana. Dragon parade during "Drumz."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0209"></a><a href="/1993-02-09">2/9/1993 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-09*">Listen/Download</a>]<tr><td>Jam <span class="setlist_small">*</span> > Days Between</td></tr>
+<tr class="notes"><td>Rehearsal. *appears on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0210"></a><a href="/1993-02-10">2/10/1993 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-10*">Listen/Download</a>]<tr><td>Days Between x2</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0216"></a><a href="/1993-02-16">2/16/1993 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-16*">Listen/Download</a>]<tr><td>Whiskey In The Jar</td></tr>
+<tr class="notes"><td>Rehearsal. Appears on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0218"></a><a href="/1993-02-18">2/18/1993 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-18*">Listen/Download</a>]<tr><td>Lazy River Road, Eternity, Days Between</td></tr>
+<tr class="notes"><td>Rehearsal. All appear on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0221"></a><a href="/1993-02-21">2/21/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-21*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Lazy River Road, Eternity, Ramble On, Queen Jane, Row Jimmy > Promised</td></tr>
+<tr><td>II: Liberty > Corinna, Crazy Fingers, Estimated > Samson > Drumz > Wheel > Miracle > Morning Dew</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>First ''Eternity''; First ''Lazy River Road''; First ''Liberty''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0222"></a><a href="/1993-02-22">2/22/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-22*">Listen/Download</a>]<tr><td>I: Bucket, Sugaree, Walking Blues, Althea, Masterpiece, So Many Roads, Cassidy > Don't Ease</td></tr>
+<tr><td>II: Saint, Scarlet > Fire > Wave To The Wind > Drumz > Days Between > Throwing Stones > NFA</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>First ''Days Between''</i></td></tr>
+<tr class="notes"><td>Soundcheck: "Days Between," "Lazy River Road."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0223"></a><a href="/1993-02-23">2/23/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-23*">Listen/Download</a>]<tr><td>I: Cold Rain, Wang Dang Doodle, Loser, Memphis Blues, Broken Arrow, Way To Go, Johnny B. Goode</td></tr>
+<tr><td>II: Iko Iko, Corinna, Lazy River Road > Playin > Drumz<span class="setlist_small">*+</span> > Other One<span class="setlist_small">*</span> > Stella Blue<span class="setlist_small">*</span> > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Brokedown<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Broken Arrow''</i></td></tr>
+<tr class="notes"><td>Ornette Coleman opened, Jerry played on the last song of his set. Mardi Gras parade during "Iko Iko." *with Ornette Coleman. +with Graham Wiggins on didgeridoo. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0309"></a><a href="/1993-03-09">3/9/1993 Rosemont Horizon, Rosemont, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-09*">Listen/Download</a>]<tr><td>I: H. C. Sunshine > Wang Dang Doodle, Loose Lucy, Me  and  My Uncle > Mexicali, Broken Arrow, Row Jimmy, Eternity, Liberty</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Victim > Ship Of Fools, Playin > Drumz > Last Time > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0310"></a><a href="/1993-03-10">3/10/1993 Rosemont Horizon, Rosemont, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-10*">Listen/Download</a>]<tr><td>I: Stranger, Stagger Lee, Same Thing, Peggy-O, Queen Jane, Ramble On, Let It Grow</td></tr>
+<tr><td>II: Eyes > Way To Go, Lazy River Road, Corinna > Mind Left Body Jam > Drumz > Wheel > Watchtower > SOTM > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Next ''Baby Blue'' 9/17/1994 [127 shows]; Final ''Mind Left Body Jam''</i></td></tr>
+<tr class="notes"><td>Soundcheck: Lazy River Road, Wave To The Wind, Days Between.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0311"></a><a href="/1993-03-11">3/11/1993 Rosemont Horizon, Rosemont, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-11*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Rooster, Althea, Masterpiece, So Many Roads > Music</td></tr>
+<tr><td>II: Iko Iko, Wave To The Wind > Truckin > Spoonful > He's Gone > Drumz<span class="setlist_small">*</span> > Other One > Days Between > Around</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>*with Ken Nordine, who recited "Flibberty Jib" and "The Island." Soundcheck: Lazy River Road, Wave To The Wind, Days Between.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0313"></a><a href="/1993-03-13">3/13/1993 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-13*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Cancelled due to snowstorm.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0314"></a><a href="/1993-03-14">3/14/1993 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-14*">Listen/Download</a>]<tr><td>I: Cold Rain, Walking Blues, B. E. Women, Tom Thumb Blues, Lazy River Road, Eternity > Don't Ease</td></tr>
+<tr><td>II: Touch, Samson, Way To Go, Corinna > Terrapin > Drumz > Miracle > Stella Blue > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>First ''IFTL''</i></td></tr>
+<tr class="notes"><td>Soundcheck: IFTL, Rain.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0316"></a><a href="/1993-03-16">3/16/1993 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-16*">Listen/Download</a>]<tr><td>I: Jack Straw, Row Jimmy, Minglewood, So Many Roads, Cassidy, Tennessee Jed > Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Woman Smarter, Uncle John > Jam > Drumz > Last Time > Morning Dew > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Soundcheck: Lucy In The Sky, IFTL.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1993-03-17">3/17/1993 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-17*">Listen/Download</a>]<tr><td>I: Shakedown, Wang Dang Doodle, Lazy River Road, Desolation Row, Ramble On, Eternity, Liberty</td></tr>
+<tr><td>II: Picasso Moon, Crazy Fingers > Playin > Jam > Dark Star > Drumz > Two Soldiers Jam > Other One > Days Between > Good Lovin</td></tr>
+<tr><td>E: Lucy In The Sky</td></tr>
+<tr class="notes"><td>First ''Lucy In The Sky''</i></td></tr>
+<tr class="notes"><td>"Dark Star" is first verse only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1993-03-18">3/18/1993 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-18*">Listen/Download</a>]<tr><td>I: Bucket, Sugaree, Walking Blues, Broken Arrow, Loose Lucy, Masterpiece, FOTD, Music</td></tr>
+<tr><td>II: China Cat<span class="setlist_small">*</span> > I Know You Rider<span class="setlist_small">*</span>, Way To Go<span class="setlist_small">*</span>, Wave To The Wind > Estimated<span class="setlist_small">*</span> > Terrapin<span class="setlist_small">*</span> > Drumz > Corinna<span class="setlist_small">*</span> > Wharf Rat<span class="setlist_small">*</span> > Throwing Stones<span class="setlist_small">*</span> > NFA<span class="setlist_small">*</span></td></tr>
+<tr><td>E: IFTL<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*with Bruce Hornsby. Soundcheck: Broken Arrow, IFTL.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0320"></a><a href="/1993-03-20">3/20/1993 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-20*">Listen/Download</a>]<tr><td>I: Half Step, All Over Now, So Many Roads, Me  and  My Uncle > Maggie's Farm, Bird Song > Promised</td></tr>
+<tr><td>II: Eyes > L. L. Rain, Lazy River Road, Truckin > Smokestack > Drumz > Wheel > Watchtower > SOTM > Saturday Night</td></tr>
+<tr><td>E: Liberty</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1993-03-21">3/21/1993 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-21*">Listen/Download</a>]<tr><td>I: Stranger, West L. A., B. T. Wind, Candyman, Queen Jane, B. E. Women, Eternity > Liberty</td></tr>
+<tr><td>II: Samson, Way To Go, Broken Arrow, Saint > He's Gone > Drumz > Miracle > Days Between > Around</td></tr>
+<tr><td>E: Baba O'Riley > TNK</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0322"></a><a href="/1993-03-22">3/22/1993 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-22*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Rooster, Althea, BIODTL, Tom Thumb Blues, Lazy River Road, Picasso Moon</td></tr>
+<tr><td>II: Wave To The Wind > Iko Iko, Corinna > Uncle John > China Doll > Drumz > Last Time > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1993-03-24">3/24/1993 Dean Smith Center, UNC, Chapel Hill, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-24*">Listen/Download</a>]<tr><td>I: Jack Straw, Stagger Lee, Wang Dang Doodle, Roses, Memphis Blues, Tennessee Jed, Let It Grow</td></tr>
+<tr><td>II: H. C. Sunshine, Playin > Box Of Rain > Crazy Fingers > Playin Jam > Drumz > Spanish Jam > GDTRFB > Throwing Stones > NFA</td></tr>
+<tr><td>E: Lucy In The Sky</td></tr>
+<tr class="notes"><td>"Crazy Fingers" fake before "Box Of Rain." Soundcheck: Whiskey In The Jar, H. C. Sunshine, Lucy In The Sky. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0325"></a><a href="/1993-03-25">3/25/1993 Dean Smith Center, UNC, Chapel Hill, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-25*">Listen/Download</a>]<tr><td>I: Touch > Greatest, So Many Roads, Minglewood, Lazy River Road, Mexicali > Big River, FOTD, Eternity, Liberty</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter, Wave To The Wind > Terrapin > Drumz > Way To Go > Other One > Morning Dew</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Soundcheck: Space, Wave To The Wind.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0327"></a><a href="/1993-03-27">3/27/1993 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-27*">Listen/Download</a>]<tr><td>I: Bucket, Bertha, Same Thing, Peggy-O, Queen Jane, Broken Arrow, Loose Lucy, Cassidy, Casey Jones</td></tr>
+<tr><td>II: Eyes > Estimated, Comes A Time, Corinna > Drumz > Wheel > Watchtower > Days Between > Saturday Night</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Next ''Comes A Time'' 10/9/1994 [127 shows]; Final ''Casey Jones''</i></td></tr>
+<tr class="notes"><td>Soundcheck: Attics, Days Between.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1993-03-28">3/28/1993 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-28*">Listen/Download</a>]<tr><td>I: Half Step, Walking Blues, So Many Roads, Masterpiece, High Time, Eternity, Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Samson, Ship Of Fools, Wave To The Wind > Truckin > Drumz > Way To Go, Attics > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Soundcheck: Whiskey In The Jar, Alabama, Big Boy Pete, Attics, Wave To The Wind, Jack A Roe, IFTL.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1993-03-29">3/29/1993 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-29*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, Loser, Rooster, Ramble On, B. T. Wind, Lazy River Road, Johnny B. Goode</td></tr>
+<tr><td>II: H. C. Sunshine, L. L. Rain, Box Of Rain > He's Gone > Drumz > Last Time > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Soundcheck: Foolish Heart (just Jerry))*</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1993-03-31">3/31/1993 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-03-31*">Listen/Download</a>]<tr><td>I: Cold Rain > Wang Dang Doodle, Althea, All Over Now, Row Jimmy, Let It Grow</td></tr>
+<tr><td>II: Cumberland, Truckin > Lazy River Road, Playin > Uncle John > Drumz > Miracle > SOTM > Sugar Magnolia</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Soundcheck: Cumberland, Lazy River Road.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1993-04-01">4/1/1993 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-04-01*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Minglewood, Candyman, Desolation Row, Stagger Lee, Eternity, Liberty</td></tr>
+<tr><td>II: Iko Iko<span class="setlist_small">*</span>, Saint, Crazy Fingers > Wave To The Wind > Drumz > Way To Go > Days Between > Lovelight</td></tr>
+<tr><td>E: Rain</td></tr>
+<tr class="notes"><td>*with Barney the purple dinosaur on bass.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0402"></a><a href="/1993-04-02">4/2/1993 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-04-02*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's > Same Thing, Jack A Roe, Queen Jane, B. E. Women, Picasso Moon</td></tr>
+<tr><td>II: Scarlet > Fire, Woman Smarter > Terrapin > Corinna > Drumz > Last Time > Black Peter > Around</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0404"></a><a href="/1993-04-04">4/4/1993 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-04-04*">Listen/Download</a>]<tr><td>I: Midnight Hour, Sugaree > Walking Blues, Dire Wolf, Masterpiece, So Many Roads, Eternity > Bird Song</td></tr>
+<tr><td>II: Eyes > Samson, Broken Arrow, Estimated > Drumz<span class="setlist_small">*</span> > Other One > Attics > Throwing Stones > NFA</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Next ''Midnight Hour'' 7/31/1994 [105 shows]</i></td></tr>
+<tr class="notes"><td>*with Baba Olatunji and guest.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0405"></a><a href="/1993-04-05">4/5/1993 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-04-05*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Lazy River Road, Tom Thumb Blues, B. T. Wind, Tennessee Jed, Music > Deal</td></tr>
+<tr><td>II: IFTL, Way To Go > Corinna > He's Gone > Drumz > Miracle > Wharf Rat > Gloria</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0514"></a><a href="/1993-05-14">5/14/1993 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-14*">Listen/Download</a>]<tr><td>I: Cold Rain > Wang Dang Doodle, Lazy River Road, Queen Jane, Ramble On, B. T. Wind, Liberty</td></tr>
+<tr><td>II: Scarlet > Fire, Way To Go, Corinna > Uncle John > Drumz > Miracle > SOTM > Sugar Magnolia</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Sting opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0515"></a><a href="/1993-05-15">5/15/1993 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-15*">Listen/Download</a>]<tr><td>I: Picasso Moon, Peggy-O, Same Thing, Tennessee Jed, Broken Arrow, Bird Song</td></tr>
+<tr><td>II: H. C. Sunshine, Playin > Crazy Fingers > Playin > Drumz > Watchtower > Days Between > Saturday Night</td></tr>
+<tr><td>E: Lucy In The Sky</td></tr>
+<tr class="notes"><td>Sting opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0516"></a><a href="/1993-05-16">5/16/1993 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-16*">Listen/Download</a>]<tr><td>I: Touch, Walking Blues, Althea, Masterpiece, Row Jimmy, Cassidy</td></tr>
+<tr><td>II: Samson, Help > Slipknot > Franklin's, L. L. Rain > Terrapin > Drumz > Other One > Wharf Rat > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Sting opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0521"></a><a href="/1993-05-21">5/21/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-21*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, FOTD, Me  and  My Uncle > Big River, West L. A., Eternity, Liberty</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Way To Go, Estimated > He's Gone > Drumz > Watchtower > Morning Dew</td></tr>
+<tr><td>E: Baba O'Riley > TNK</td></tr>
+<tr class="notes"><td>Next ''West L. A.'' 3/21/1994 [62 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0522"></a><a href="/1993-05-22">5/22/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-22*">Listen/Download</a>]<tr><td>I: Half Step, Rooster, B. E. Women, Broken Arrow, Supplication, Stagger Lee, Promised</td></tr>
+<tr><td>II: Foolish Heart, Woman Smarter, Ship Of Fools, Corinna > Drumz > Last Time > Stella Blue > Saturday Night</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Previous ''Foolish Heart'' 6/11/1992 [53 shows]; Previous ''Supplication'' 10/31/1984 [597 shows]; Final ''Supplication''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0523"></a><a href="/1993-05-23">5/23/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-23*">Listen/Download</a>]<tr><td>I: Jack Straw, Loser, All Over Now, Tom Thumb Blues, Bird Song, Music</td></tr>
+<tr><td>II: Iko Iko, Wave To The Wind > Saint > Terrapin > Drumz > Miracle > Days Between > NFA</td></tr>
+<tr><td>E: Lucy In The Sky</td></tr>
+<tr class="notes"><td>Soundcheck: "Lazy River Road," "Attics."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0525"></a><a href="/1993-05-25">5/25/1993 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-25*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Jack A Roe, Wang Dang Doodle, Loose Lucy, Queen Jane, Lazy River Road, Let It Grow > Don't Ease</td></tr>
+<tr><td>II: Eyes > L. L. Rain, Way To Go, Truckin > Drumz > Wheel > Throwing Stones > GDTRFB > Johnny B. Goode</td></tr>
+<tr><td>E: Rain</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0526"></a><a href="/1993-05-26">5/26/1993 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-26*">Listen/Download</a>]<tr><td>I: Samson <span class="setlist_small">*</span>, H. C. Sunshine <span class="setlist_small">*</span>, Walking Blues <span class="setlist_small">*</span>, Broken Arrow <span class="setlist_small">+</span>, Ramble On <span class="setlist_small">+</span>, Memphis Blues <span class="setlist_small">+</span> > Deal <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Box Of Rain <span class="setlist_small">*</span>, Victim <span class="setlist_small">*</span> > Crazy Fingers <span class="setlist_small">*</span> > Playin <span class="setlist_small">*</span> > Drumz <span class="setlist_small">*</span> > Corinna <span class="setlist_small">*</span> > Playin <span class="setlist_small">*</span> > China Doll <span class="setlist_small">*</span> > Around <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Liberty <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Rex Foundaton benefit - 20th anniversary of Rock Med. *appears on "Road Trips Vol. 2 No. 4." +appears on the "Road Trips Vo. 2 No. 4" bonus disc.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0527"></a><a href="/1993-05-27">5/27/1993 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-05-27*">Listen/Download</a>]<tr><td>I: Shakedown <span class="setlist_small">*</span>, Same Thing <span class="setlist_small">*</span>, Dire Wolf <span class="setlist_small">*</span>, BIODTL, High Time <span class="setlist_small">*</span>, Masterpiece <span class="setlist_small">*</span>, Cumberland, Promised</td></tr>
+<tr><td>II: Picasso Moon <span class="setlist_small">+</span> > Fire <span class="setlist_small">+</span> > Wave To The Wind, Cassidy <span class="setlist_small">+</span> > Uncle John <span class="setlist_small">+</span> > Cassidy <span class="setlist_small">+</span> > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Gloria <span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>Rex benefit. *appears on "Road Trips Vol. 2 No. 4." +appears on the "Road Trips Vol. 2 No. 4" bonus disc.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0605"></a><a href="/1993-06-05">6/5/1993 Giants Stadium, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-05*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Wang Dang Doodle, Peggy-O, Eternity, Candyman, Music > Easy Answers > Music</td></tr>
+<tr><td>II: Scarlet > Fire, Way To Go, Crazy Fingers > Estimated > Drumz > Other One > Stella Blue > Saturday Night</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>First ''Easy Answers''</i></td></tr>
+<tr class="notes"><td>Sting opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0606"></a><a href="/1993-06-06">6/6/1993 Giants Stadium, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-06*">Listen/Download</a>]<tr><td>I: H. C. Sunshine, Minglewood, Ramble On, Broken Arrow, Masterpiece, Lazy River Road, Let It Grow</td></tr>
+<tr><td>II: Bertha > Good Lovin, Uncle John > Playin > Jam > Drumz > Corinna > Attics > Throwing Stones > NFA</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Sting opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1993-06-08">6/8/1993 The Palace, Auburn Hills, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-08*">Listen/Download</a>]<tr><td>I: Picasso Moon, Althea, Queen Jane, Roses, All Over Now, Bird Song</td></tr>
+<tr><td>II: Truckin > New Speedway > TWBS > Way To Go, Saint > He's Gone > Drumz > Last Time > SOTM > Lovelight</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Next ''New Speedway'' 3/21/1994 [54 shows]; Previous ''TWBS'' 9/25/1991 [103 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1993-06-09">6/9/1993 The Palace, Auburn Hills, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-09*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's > Rooster, Loose Lucy, Easy Answers, Bertha</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter, Wave To The Wind > Terrapin > Drumz > Miracle > Wharf Rat > Around</td></tr>
+<tr><td>E: Liberty</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0611"></a><a href="/1993-06-11">6/11/1993 Buckeye Lake Music Center, Hebron, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-11*">Listen/Download</a>]<tr><td>I: Jack Straw, Foolish Heart > Same Thing, Lazy River Road, Tom Thumb Blues > Masterpiece, So Many Roads, Promised</td></tr>
+<tr><td>II: Eyes, Playin > Uncle John > Corinna > Drumz > Wheel > Watchtower > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Sting opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0613"></a><a href="/1993-06-13">6/13/1993 Rich Stadium, Orchard Park, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-13*">Listen/Download</a>]<tr><td>I: Touch, Minglewood, Loser, Me  and  My Uncle > Mexicali, Broken Arrow, Tennessee Jed, Cassidy, Deal</td></tr>
+<tr><td>II: Samson, Lazy River Road, L. L. Rain<span class="setlist_small">@</span>, Way To Go, Truckin > Drumz > Other One > Days Between > Johnny B. Goode</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Sting opened. @with Bob Weir on acoustic guitar.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1993-06-15">6/15/1993 Freedom Hall, Louisville, KY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-15*">Listen/Download</a>]<tr><td>I: Stranger, Althea, Wang Dang Doodle, FOTD, Desolation Row, Don't Ease</td></tr>
+<tr><td>II: Victim > Crazy Fingers > Estimated > Spoonful > He's Gone > Drumz > Last Time > Morning Dew</td></tr>
+<tr><td>E: Gloria</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0616"></a><a href="/1993-06-16">6/16/1993 Freedom Hall, Louisville, KY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-16*">Listen/Download</a>]<tr><td>I: Cold Rain > Same Thing, Peggy-O, Tom Thumb Blues, Ramble On, Eternity, B. E. Women, Easy Answers > Don't Ease</td></tr>
+<tr><td>II: Foolish Heart, Saint > Lazy River Road, Corinna > Drumz > Miracle > Stella Blue > Good Lovin</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0618"></a><a href="/1993-06-18">6/18/1993 Soldier Field, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-18*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Walking Blues, Stagger Lee, Queen Jane, Row Jimmy, Music</td></tr>
+<tr><td>II: Box Of Rain > Iko Iko, Playin > Uncle John > Playin Jam > Drumz<span class="setlist_small">*</span> > Watchtower > China Doll > Lovelight</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Sting opened. *with NBA championship audio.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1993-06-19">6/19/1993 Soldier Field, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-19*">Listen/Download</a>]<tr><td>I: Touch > Rooster, Lazy River Road, Me  and  My Uncle > Maggie's Farm, Broken Arrow, Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Way To Go, Truckin > Smokestack > Drumz > Other One > SOTM > Throwing Stones > Saturday Night</td></tr>
+<tr><td>E: Rain</td></tr>
+<tr class="notes"><td>Sting opened. Short jam, "Spoonful" tease after "Smokestack."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1993-06-21">6/21/1993 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-21*">Listen/Download</a>]<tr><td>I: Jack Straw > FOTD, Spoonful, Jack A Roe, B. T. Wind, Loose Lucy, Eternity, So Many Roads, Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Woman Smarter, Ship Of Fools, Corinna > Drumz > Last Time > Black Peter > Around</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0622"></a><a href="/1993-06-22">6/22/1993 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-22*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's > Wang Dang Doodle, High Time, All Over Now, Tom Thumb Blues, Tennessee Jed, Picasso Moon</td></tr>
+<tr><td>II: Victim > Crazy Fingers > L. L. Rain > He's Gone > Drumz > Miracle > Days Between > Johnny B. Goode</td></tr>
+<tr><td>E: Liberty</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0623"></a><a href="/1993-06-23">6/23/1993 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-23*">Listen/Download</a>]<tr><td>I: LTGTR, Bucket, Lazy River Road, Memphis Blues, Loser, Broken Arrow, Easy Answers</td></tr>
+<tr><td>II: Samson, Way To Go, Wave To The Wind > Terrapin > Drumz > Dark Star > Wheel > Good Lovin</td></tr>
+<tr><td>E: Lucy In The Sky</td></tr>
+<tr class="notes"><td>"Dark Star" is first verse only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0625"></a><a href="/1993-06-25">6/25/1993 Robert F. Kennedy Stadium, Washington, DC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-25*">Listen/Download</a>]<tr><td>I: Half Step, Rooster, Tom Thumb Blues, Althea, Cassidy, Cumberland, Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Saint > Uncle John > Corinna > Drumz > Miracle > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Sting opened. With Bruce Hornsby on accordion. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0626"></a><a href="/1993-06-26">6/26/1993 Robert F. Kennedy Stadium, Washington, DC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-06-26*">Listen/Download</a>]<tr><td>I: Stranger, B. E. Women, Spoonful, Lazy River Road, Masterpiece, Bird Song, Picasso Moon</td></tr>
+<tr><td>II: Iko Iko, Way To Go, Playin > Terrapin > Drumz > Last Time > Days Between > Throwing Stones > Saturday Night</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Sting opened. With Bruce Hornsby on accordion.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0821"></a><a href="/1993-08-21">8/21/1993 Autzen Stadium, U. of Oregon, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-08-21*">Listen/Download</a>]<tr><td>I: H. C. Sunshine, Walking Blues, Lazy River Road, Queen Jane, Bird Song > Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Way To Go, Truckin > Schoolgirl<span class="setlist_small">*</span> > Smokestack<span class="setlist_small">*</span> > Drumz > Last Time<span class="setlist_small">*</span> > SOTM > Saturday Night</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Next ''Schoolgirl'' 3/30/1995 [130 shows]</i></td></tr>
+<tr class="notes"><td>Indigo Girls opened. *with Huey Lewis on harmonica. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0822"></a><a href="/1993-08-22">8/22/1993 Autzen Stadium, U. of Oregon, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-08-22*">Listen/Download</a>]<tr><td>I: Jack Straw, Bertha, Rooster, Broken Arrow, Althea, Masterpiece, Tennessee Jed, Music</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Samson, Ship Of Fools, Corinna > Drumz > Wheel > Miracle > Days Between > NFA</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Indigo Girls opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0825"></a><a href="/1993-08-25">8/25/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-08-25*">Listen/Download</a>]<tr><td>I: Touch, Greatest, Peggy-O, Same Thing, FOTD, Easy Answers, So Many Roads, Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Terrapin > Drumz > Watchtower > Attics > Sugar Magnolia</td></tr>
+<tr><td>E: Lucy In The Sky</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0826"></a><a href="/1993-08-26">8/26/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-08-26*">Listen/Download</a>]<tr><td>I: Bucket > Bertha, Wang Dang Doodle, Candyman, Tom Thumb Blues, Let It Grow > Don't Ease</td></tr>
+<tr><td>II: Crazy Fingers > Saint, Way To Go, He's Gone > Drumz > Other One > Stella Blue > Around</td></tr>
+<tr><td>E: Rain</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0827"></a><a href="/1993-08-27">8/27/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-08-27*">Listen/Download</a>]<tr><td>I: Half Step > Minglewood, Lazy River Road, Broken Arrow, Eternity, Loose Lucy, Johnny B. Goode</td></tr>
+<tr><td>II: Iko Iko, Wave To The Wind > Playin > Uncle John > Corinna > Drumz > Jam > Miracle > Days Between > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0908"></a><a href="/1993-09-08">9/8/1993 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-08*">Listen/Download</a>]<tr><td>I: Stranger, Peggy-O, Wang Dang Doodle, B. E. Women, Masterpiece, Liberty > Johnny B. Goode</td></tr>
+<tr><td>II: Foolish Heart, Estimated > Eyes > Drumz > Miracle > SOTM Jam > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Only "SOTM Jam."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0909"></a><a href="/1993-09-09">9/9/1993 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-09*">Listen/Download</a>]<tr><td>I: H. C. Sunshine, Spoonful, Stagger Lee, Queen Jane, Tennessee Jed, Easy Answers > Don't Ease</td></tr>
+<tr><td>II: Victim > Crazy Fingers > Saint > Terrapin > Drumz > Last Time > Morning Dew</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0910"></a><a href="/1993-09-10">9/10/1993 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-10*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Rooster, Tom Thumb Blues, Ramble On, B. T. Wind, Bertha</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Way To Go, Corinna > Uncle John > Drumz > Wheel > Watchtower > Attics > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0912"></a><a href="/1993-09-12">9/12/1993 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-12*">Listen/Download</a>]<tr><td>I: Touch, Walking Blues, Loser, Desolation Row, Cumberland, Eternity, Loose Lucy, Picasso Moon</td></tr>
+<tr><td>II: Samson, Lazy River Road, Truckin > He's Gone > Drumz > Other One > Stella Blue > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Next ''Heaven's Door'' 6/19/1994 [53 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0913"></a><a href="/1993-09-13">9/13/1993 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-13*">Listen/Download</a>]<tr><td>I: Bucket, Jack A Roe, Same Thing, Stagger Lee, B. T. Wind, Dire Wolf, Let It Grow</td></tr>
+<tr><td>II: Scarlet > Fire > Playin > Dark Star > Terrapin > Drumz > Jam > Easy Answers > Days Between > Good Lovin</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0914"></a><a href="/1993-09-14">9/14/1993 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-14*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Minglewood, Broken Arrow, B. E. Women > Masterpiece, Bird Song</td></tr>
+<tr><td>II: Iko Iko, L. L. Rain, Way To Go > Crazy Fingers > Corinna > Drumz > Last Time > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0916"></a><a href="/1993-09-16">9/16/1993 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-16*">Listen/Download</a>]<tr><td>I: Rain, Shakedown > Wang Dang Doodle, Cold Rain, Queen Jane, Althea, Eternity, Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Eyes > Drumz > Way To Go > Days Between > Throwing Stones > NFA</td></tr>
+<tr><td>E: Liberty</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0917"></a><a href="/1993-09-17">9/17/1993 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-17*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Walking Blues, Ramble On, Tom Thumb Blues, Easy Answers, Lazy River Road, Promised</td></tr>
+<tr><td>II: Foolish Heart > Woman Smarter, Ship Of Fools, Saint > Jam > Drumz > Miracle > TWBS > SOTM > Lovelight</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0918"></a><a href="/1993-09-18">9/18/1993 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-18*">Listen/Download</a>]<tr><td>I: Half Step > Rooster, Althea, Masterpiece, B. E. Women, Cassidy, Loose Lucy</td></tr>
+<tr><td>II: Iko Iko, Victim > Uncle John > Corinna > Drumz > Wheel > Watchtower > China Doll > Saturday Night</td></tr>
+<tr><td>E: Gloria</td></tr>
+<tr class="notes"><td>Next ''Gloria'' 6/30/1995 [143 shows]</i></td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0920"></a><a href="/1993-09-20">9/20/1993 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-20*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Row Jimmy, Race Is On > Dire Wolf, Memphis Blues > Lazy River Road > Johnny B. Goode</td></tr>
+<tr><td>II: Samson, So Many Roads, Truckin > He's Gone > Drumz<span class="setlist_small">*</span> > Other One<span class="setlist_small">*</span> > GDTRFB<span class="setlist_small">*</span> > Morning Dew</td></tr>
+<tr><td>E: Baba O'Riley > TNK</td></tr>
+<tr class="notes"><td>Next ''TNK'' 11/29/1994 [90 shows]</i></td></tr>
+<tr class="notes"><td>*with Edie Brickell  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0921"></a><a href="/1993-09-21">9/21/1993 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-21*">Listen/Download</a>]<tr><td>I: Bucket, Bertha > Same Thing, Peggy-O, Broken Arrow, Tennessee Jed, Music</td></tr>
+<tr><td>II: H. C. Sunshine, Way To Go, Playin > Terrapin > Drumz > Last Time > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0922"></a><a href="/1993-09-22">9/22/1993 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-22*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's > Minglewood, Ramble On, Masterpiece, Bird Song<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Easy Answers<span class="setlist_small">*</span>, Lazy River Road<span class="setlist_small">*</span>, Estimated<span class="setlist_small">*</span> > Dark Star<span class="setlist_small">*</span> > Drumz<span class="setlist_small">*</span> > Wharf Rat<span class="setlist_small">*</span> > Throwing Stones<span class="setlist_small">*+</span> > Lovelight<span class="setlist_small">*+</span></td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>*with David Murray.  +with James Cotton. "Shangri-La" tuning before "Ramble On."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0924"></a><a href="/1993-09-24">9/24/1993 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-24*">Listen/Download</a>]<tr><td>I: Stranger, Jack A Roe, Rooster, Stagger Lee, Queen Jane, Loose Lucy, Picasso Moon</td></tr>
+<tr><td>II: Scarlet > Fire, Woman Smarter, Way To Go, He's Gone > Drumz > Last Time > Days Between > Around</td></tr>
+<tr><td>E: Liberty</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0925"></a><a href="/1993-09-25">9/25/1993 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-25*">Listen/Download</a>]<tr><td>I: Cold Rain > Wang Dang Doodle, Loser, All Over Now, Tom Thumb Blues, Cassidy > Deal</td></tr>
+<tr><td>II: Foolish Heart, Box Of Rain > Crazy Fingers > Corinna > Drumz > Wheel > Watchtower > Black Peter > Saturday Night</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0926"></a><a href="/1993-09-26">9/26/1993 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-26*">Listen/Download</a>]<tr><td>I: Jack Straw, Althea, Walking Blues, High Time, Me  and  My Uncle<span class="setlist_small">@</span> > Maggie's Farm<span class="setlist_small">@</span>, Lazy River Road, Easy Answers > Don't Ease</td></tr>
+<tr><td>II: Iko Iko, Saint > Ship Of Fools, Truckin > Drumz > Miracle > SOTM</td></tr>
+<tr><td>E: Rain</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0928"></a><a href="/1993-09-28">9/28/1993 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-28*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Row Jimmy, Minglewood, So Many Roads, Masterpiece, Bird Song</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson, Uncle John > Playin > Drumz > Attics > Throwing Stones > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1993-09-29">9/29/1993 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-29*">Listen/Download</a>]<tr><td>I: Bucket, Sugaree, Same Thing, Loose Lucy, B. T. Wind, Dire Wolf, Eternity, Tennessee Jed</td></tr>
+<tr><td>II: Eyes, L. L. Rain<span class="setlist_small">@</span>, Way To Go, Terrapin > Drumz > Playin Reprise > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Previous ''Playin Reprise'' 1/25/1993 [70 shows]; Final ''Playin Reprise''</i></td></tr>
+<tr class="notes"><td>"Terrapin" fake before "Way To Go." Soundcheck: acoustic "L. L. Rain."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1993-09-30">9/30/1993 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-09-30*">Listen/Download</a>]<tr><td>I: H. C. Sunshine, Spoonful, Candyman, El Paso<span class="setlist_small">@</span>, Broken Arrow, Stagger Lee, Easy Answers > Don't Ease</td></tr>
+<tr><td>II: Lucy In The Sky, Wave To The Wind > Crazy Fingers > Estimated > He's Gone > Drumz > Other One > Wharf Rat > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Previous ''El Paso'' 6/28/1992 [84 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1208"></a><a href="/1993-12-08">12/8/1993 Los Angeles Sports Arena, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-08*">Listen/Download</a>]<tr><td>I: Rain > LTGTR, King Bee, Stagger Lee, Me  and  My Uncle > Mexicali, Lazy River Road, Masterpiece, Row Jimmy, Picasso Moon</td></tr>
+<tr><td>II: Iko Iko, Way To Go, Playin > Uncle John > Jam > Drumz > Last Time > Morning Dew > Sugar Magnolia</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Previous ''King Bee'' 12/15/1971 [1453 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1209"></a><a href="/1993-12-09">12/9/1993 Los Angeles Sports Arena, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-09*">Listen/Download</a>]<tr><td>I: Touch > Wang Dang Doodle, Peggy-O, Queen Jane, Broken Arrow, Loose Lucy, Easy Answers > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Wave To The Wind > He's Gone > Drumz<span class="setlist_small">*+</span> > Other One<span class="setlist_small">*</span> > Wharf Rat<span class="setlist_small">*</span> > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Liberty</td></tr>
+<tr class="notes"><td>Final ''Wave To The Wind''</i></td></tr>
+<tr class="notes"><td>*with Ornette Coleman.  +with Airto Moreira and Flora Purim.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1210"></a><a href="/1993-12-10">12/10/1993 Los Angeles Sports Arena, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-10*">Listen/Download</a>]<tr><td>I: Bucket<span class="setlist_small">*</span>, Loser<span class="setlist_small">*</span>, Rooster<span class="setlist_small">*</span>, So Many Roads<span class="setlist_small">*</span>, Tom Thumb Blues<span class="setlist_small">*</span>, Eternity<span class="setlist_small">*</span>, Bertha<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Scarlet<span class="setlist_small">*</span> > Fire<span class="setlist_small">*</span>, Corinna > Terrapin<span class="setlist_small">*</span> > Drumz<span class="setlist_small">*</span> > Miracle<span class="setlist_small">*</span> > SOTM<span class="setlist_small">*</span> > NFA<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Brokedown<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*with Branford Marsalis.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1212"></a><a href="/1993-12-12">12/12/1993 San Diego Sports Arena, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-12*">Listen/Download</a>]<tr><td>I: Cold Rain, Minglewood, FOTD, B. T. Wind, Althea, BIODTL, Bird Song > Promised</td></tr>
+<tr><td>II: Shakedown, Samson, Ship Of Fools, Truckin > Nobody's Fault > TWBS > Drumz > Wheel > Watchtower > Stella Blue > Around</td></tr>
+<tr><td>E: IFTL</td></tr>
+<tr class="notes"><td>Next ''Nobody's Fault'' 12/19/1994 [88 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1213"></a><a href="/1993-12-13">12/13/1993 San Diego Sports Arena, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-13*">Listen/Download</a>]<tr><td>I: Stranger, Ramble On, Same Thing, B. E. Women, Broken Arrow, Easy Answers > Half Step</td></tr>
+<tr><td>II: Lucy In The Sky, Woman Smarter, Way To Go, Eyes > Drumz > Last Time > Days Between > Throwing Stones</td></tr>
+<tr><td>E: Liberty</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1217"></a><a href="/1993-12-17">12/17/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-17*">Listen/Download</a>]<tr><td>I: H. C. Sunshine, Walking Blues, Jack A Roe, Desolation Row, Ramble On, Broken Arrow, Lazy River Road, Music</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Saint > Crazy Fingers > Corinna > Drumz > Last Time > Attics > Good Lovin</td></tr>
+<tr><td>E: IFTL</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1218"></a><a href="/1993-12-18">12/18/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-18*">Listen/Download</a>]<tr><td>I: Jack Straw > TLEO, Spoonful, FOTD, Masterpiece, Tennessee Jed, Easy Answers > Deal</td></tr>
+<tr><td>II: Way To Go, China Cat > I Know You Rider, Playin > Uncle John > Jam > Drumz > Miracle > Stella Blue > Saturday Night</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Next ''TLEO'' 9/27/1994 [57 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1219"></a><a href="/1993-12-19">12/19/1993 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-12-19*">Listen/Download</a>]<tr><td>I: Bertha > Wang Dang Doodle, Loose Lucy, Queen Jane, Roses, All Over Now, Bird Song > Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > So Many Roads > Truckin > Smokestack > Drumz > Other One > Days Between > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

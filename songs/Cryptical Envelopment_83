@@ -1,0 +1,212 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Cryptical Envelopment | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Cryptical%20Envelopment_83&highlight=went">Shows I attended</a>
+		<a href="/songs/Cryptical%20Envelopment_83&highlight=own">Shows I own</a>
+		<a href="/songs/Cryptical%20Envelopment_83&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Cryptical%20Envelopment_83&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Cryptical Envelopment</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<tr valign="top"><td>10/22/1967</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>BIODTL<br>Other One</td><td>Other One<br>&mdash;&mdash;</td><td align="center">222</td><td>[<a href="/1967-10-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/10/1967</td><td>Los Angeles, CA (Shrine Exhibition Hall)</td><td align="center">*</td><td>Schoolgirl<br>Other One</td><td>Other One<br>Alligator</td><td align="center">2</td><td>[<a href="/1967-11-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/11/1967</td><td>Los Angeles, CA (Shrine Exhibition Hall)</td><td align="center">*</td><td>Schoolgirl<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1967-11-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/12/1967</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Caution</td><td>Other One</td><td align="center">1</td><td>[<a href="/1967-11-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/17/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">SII</td><td>Morning Dew<br>Other One</td><td>Other One<br>Schoolgirl</td><td align="center">9</td><td>[<a href="/1968-01-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/26/1968</td><td>Seattle, WA (Eagles Auditorium)</td><td align="center">*</td><td>Alligator<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">3</td><td>[<a href="/1968-01-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/27/1968</td><td>Seattle, WA (Eagles Auditorium)</td><td align="center">*</td><td>Hurts Me Too <br>Other One</td><td>Other One<br>Clementine</td><td align="center">1</td><td>[<a href="/1968-01-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/30/1968</td><td>Eugene, OR (Erb Memorial Union, U. of Oregon)</td><td align="center">*</td><td>Gloria<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">2</td><td>[<a href="/1968-01-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/2/1968</td><td>Portland, OR (Crystal Ballroom)</td><td align="center">*</td><td>Viola Lee Blues<br>Other One</td><td>Other One<br>Clementine </td><td align="center">1</td><td>[<a href="/1968-02-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/3/1968</td><td>Portland, OR (Crystal Ballroom)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1968-02-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/14/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">2</td><td>[<a href="/1968-02-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/24/1968</td><td>Lake Tahoe, CA (King's Beach Bowl, North Shore)</td><td align="center">*</td><td>Schoolgirl<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">4</td><td>[<a href="/1968-02-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/3/1968</td><td>San Francisco, CA (Haight Street)</td><td align="center">*</td><td>Hurts Me Too<br>Other One</td><td>Other One<br>Dancin</td><td align="center">3</td><td>[<a href="/1968-03-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/11/1968</td><td>Sacramento, CA (Sacramento Memorial Auditorium)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">2</td><td>[<a href="/1968-03-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/16/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">SII</td><td>Hurts Me Too<br>Other One</td><td>Other One<br>Alligator</td><td align="center">2</td><td>[<a href="/1968-03-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/17/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1968-03-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/29/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">*</td><td>Lovelight<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">5</td><td>[<a href="/1968-03-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/30/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">*</td><td>Morning Dew</td><td>Other One</td><td align="center">1</td><td>[<a href="/1968-03-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/3/1968</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">2</td><td>[<a href="/1968-04-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/1/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">*</td><td>St. Stephen<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">24</td><td>[<a href="/1968-06-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/8/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">*</td><td>St. Stephen<br>Other One</td><td>Other One<br>Lovelight</td><td align="center">2</td><td>[<a href="/1968-06-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/21/1968</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>Schoolgirl</td><td align="center">14</td><td>[<a href="/1968-08-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/22/1968</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Dark Star<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1968-08-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/23/1968</td><td>Los Angeles, CA (Shrine Exhibition Hall)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>Dark Star</td><td align="center">1</td><td>[<a href="/1968-08-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/24/1968</td><td>Los Angeles, CA (Shrine Exhibition Hall)</td><td align="center">*</td><td>Death Don't<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1968-08-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/2/1968</td><td>Sultan, WA (Betty Nelson's Organic Raspberry F...)</td><td align="center">*</td><td>Death Don't<br>Other One</td><td>Other One<br>Alligator</td><td align="center">6</td><td>[<a href="/1968-09-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/22/1968</td><td>San Diego, CA (Del Mar Fairgrounds)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>Schoolgirl</td><td align="center">2</td><td>[<a href="/1968-09-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/12/1968</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">6</td><td>[<a href="/1968-10-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/13/1968</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1968-10-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/1/1968</td><td>Chico, CA (Silver Dollar Fairgrounds)</td><td align="center">*</td><td>Dark Star<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">6</td><td>[<a href="/1968-11-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/22/1968</td><td>Columbus, OH (Veterans Hall)</td><td align="center">*</td><td>Lovelight<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">7</td><td>[<a href="/1968-11-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/7/1968</td><td>Louisville, KY (Bellarmine College)</td><td align="center">SI</td><td>Death Don't<br>Other One</td><td>Other One<br>New Potato Cabo</td><td align="center">7</td><td>[<a href="/1968-12-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/21/1968</td><td>Los Angeles, CA (Shrine Exhibition Hall)</td><td align="center">*</td><td>Lovelight<br>Other One</td><td>Other One<br>Hurts Me Too</td><td align="center">5</td><td>[<a href="/1968-12-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/23/1968</td><td>San Francisco, CA (The Matrix)</td><td align="center">SII</td><td>The One You Lov<br>Other One</td><td>Other One<br>Jam</td><td align="center">-2</td><td>[<a href="/1968-12-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/28/1968</td><td>Houston, TX (The Catacombs)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>Jam</td><td align="center">3</td><td>[<a href="/1968-12-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/29/1968</td><td>Hallandale, FL (Gulfstream Park Racetrack)</td><td align="center">*</td><td>Other One</td><td>Feedback</td><td align="center">1</td><td>[<a href="/1968-12-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/17/1969</td><td>Santa Barbara, CA ((unknown))</td><td align="center">*</td><td>Death Don't<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">6</td><td>[<a href="/1969-01-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/24/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1969-01-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/26/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>Clementine</td><td align="center">2</td><td>[<a href="/1969-01-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/2/1969</td><td>Minneapolis, MN (Labor Temple)</td><td align="center">*</td><td>Death Don't<br>Other One</td><td>Drums<br>Lovelight</td><td align="center">3</td><td>[<a href="/1969-02-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/4/1969</td><td>Omaha, NE (The Music Box)</td><td align="center">*</td><td>Death Don't</td><td>Drums</td><td align="center">2035</td><td>[<a href="/1969-02-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/5/1969</td><td>Kansas City, MO ((unknown))</td><td align="center">*</td><td>Lovelight<br>Other One</td><td>Drums<br>Dark Star</td><td align="center">-2034</td><td>[<a href="/1969-02-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/6/1969</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">*</td><td>Lovelight<br>Other One</td><td>Drums<br>Feedback</td><td align="center">1</td><td>[<a href="/1969-02-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/7/1969</td><td>Pittsburgh, PA (Stanley Theatre)</td><td align="center">*</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>Death Don't</td><td align="center">2</td><td>[<a href="/1969-02-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/11/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Schoolgirl<br>Other One</td><td>Drums<br>Doin That Rag</td><td align="center">3</td><td>[<a href="/1969-02-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/14/1969</td><td>Philadelphia, PA (Electric Factory)</td><td align="center">SII</td><td>Morning Dew<br>Other One</td><td>Drums<br>Death Don't</td><td align="center">4</td><td>[<a href="/1969-02-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/15/1969</td><td>Philadelphia, PA (Electric Factory)</td><td align="center">SI</td><td>Doin That Rag<br>Other One</td><td>Drums<br>Morning Dew</td><td align="center">1</td><td>[<a href="/1969-02-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/22/1969</td><td>Napa, CA (Dream Bowl)</td><td align="center">SI</td><td>Dark Star<br>Other One</td><td>Drums<br>Death Don't</td><td align="center">3</td><td>[<a href="/1969-02-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/28/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>Dark Star </td><td align="center">3</td><td>[<a href="/1969-02-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/1/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>New Potato Cabo</td><td align="center">1</td><td>[<a href="/1969-03-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/28/1969</td><td>Modesto, CA (Student Center, Modesto Jr. Colle...)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Drums</td><td align="center">7</td><td>[<a href="/1969-03-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/4/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>Doin That Rag<br>Other One</td><td>Drums<br>Death Don't</td><td align="center">2</td><td>[<a href="/1969-04-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/5/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>Doin That Rag<br>Other One</td><td>Drums<br>The Eleven</td><td align="center">1</td><td>[<a href="/1969-04-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/6/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>Death Don't</td><td align="center">1</td><td>[<a href="/1969-04-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/11/1969</td><td>Tucson, AZ (University Auditorium, U. of Az.)</td><td align="center">*</td><td>Top Of The Worl<br>Other One</td><td>Drums<br>It's A Sin</td><td align="center">1</td><td>[<a href="/1969-04-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/12/1969</td><td>Salt Lake City, UT (Student Union Ballrm, U. o...)</td><td align="center">*</td><td>Just A Hand To <br>Other One</td><td>Drums<br>Dark Star</td><td align="center">1</td><td>[<a href="/1969-04-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/15/1969</td><td>Omaha, NE (The Music Box)</td><td align="center">SII</td><td>Top Of The Worl<br>Other One</td><td>Drums<br>Dark Star</td><td align="center">2</td><td>[<a href="/1969-04-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/17/1969</td><td>St. Louis, MO (Washington University)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>Caution</td><td align="center">1</td><td>[<a href="/1969-04-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/18/1969</td><td>Lafayette, IN (Memorial Union Ballroom, Purdue...)</td><td align="center">*</td><td>Morning Dew<br>Other One</td><td>Drums<br>Top Of The Worl</td><td align="center">1</td><td>[<a href="/1969-04-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/21/1969</td><td>Boston, MA (The Ark)</td><td align="center">SI</td><td>Morning Dew<br>Other One</td><td>Drums<br>Top Of The Worl</td><td align="center">2</td><td>[<a href="/1969-04-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/22/1969</td><td>Boston, MA (The Ark)</td><td align="center">SI</td><td>Doin That Rag<br>Other One</td><td>Drums<br>Death Don't</td><td align="center">1</td><td>[<a href="/1969-04-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/23/1969</td><td>Boston, MA (The Ark)</td><td align="center">SI</td><td>St. Stephen<br>Other One</td><td>Drums<br>Top Of The Worl</td><td align="center">1</td><td>[<a href="/1969-04-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/3/1969</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>Just A Hand To <br>Other One</td><td>Drums<br>Doin That Rag</td><td align="center">6</td><td>[<a href="/1969-05-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/11/1969</td><td>San Diego, CA (Aztec Bowl, San Diego State U.)</td><td align="center">*</td><td>Morning Dew<br>Other One</td><td>Drums<br>Schoolgirl</td><td align="center">5</td><td>[<a href="/1969-05-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/28/1969</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>St. Stephen<br>Other One</td><td>Drums<br>Lovelight</td><td align="center">4</td><td>[<a href="/1969-05-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/31/1969</td><td>Eugene, OR (McArthur Court, University of Oreg...)</td><td align="center">SI</td><td>Me  and  My Unc<br>Other One</td><td>Drums<br>Top Of The Worl</td><td align="center">3</td><td>[<a href="/1969-05-31">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/5/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Cosmic Charlie<br>Other One</td><td>Drums<br>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1969-06-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/8/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Who's Lovin You</td><td>Drums</td><td align="center">3</td><td>[<a href="/1969-06-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/21/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Other One</td><td>Slewfoot</td><td align="center">6</td><td>[<a href="/1969-06-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/4/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">*</td><td>Silver Threads</td><td>Drums</td><td align="center">7</td><td>[<a href="/1969-07-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/10/1969</td><td>Norwalk, CT (Gallagher Estate)</td><td align="center">*</td><td>Dark Star<br>Other One</td><td>Other One<br>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1969-07-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/2/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Big Boss Man<br>Other One</td><td>Drums<br>Lovelight</td><td align="center">4</td><td>[<a href="/1969-08-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/21/1969</td><td>Seattle, WA (Green Lake Aqua Theatre)</td><td align="center">*</td><td>Top Of The Worl<br>Other One</td><td>Drums<br>Dark Star</td><td align="center">3</td><td>[<a href="/1969-08-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/24/1969</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>I Know You Ride<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">24</td><td>[<a href="/1969-10-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/31/1969</td><td>San Jose, CA (Loma Prieta Room, Student Union,...)</td><td align="center">*</td><td>Hurts Me Too<br>Other One</td><td>Drums<br>China Cat</td><td align="center">3</td><td>[<a href="/1969-10-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/7/1969</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">*</td><td>Dark Star</td><td>Drums</td><td align="center">3</td><td>[<a href="/1969-11-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/5/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Cumberland<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">5</td><td>[<a href="/1969-12-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/10/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>drums<br>Cosmic Charlie</td><td align="center">2</td><td>[<a href="/1969-12-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/11/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>Easy Wind</td><td>Drums</td><td align="center">1</td><td>[<a href="/1969-12-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/19/1969</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">SII</td><td>Good Lovin<br>Other One</td><td>Drums<br>Uncle John</td><td align="center">3</td><td>[<a href="/1969-12-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/30/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SI</td><td>Cumberland</td><td>Drums</td><td align="center">6</td><td>[<a href="/1969-12-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/2/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Cumberland<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">2</td><td>[<a href="/1970-01-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/3/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Mason's Childre<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">3</td><td>[<a href="/1970-01-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/16/1970</td><td>Portland, OR (Springer's Inn)</td><td align="center">SII</td><td>Easy Wind <br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">2</td><td>[<a href="/1970-01-16">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/23/1970</td><td>Honolulu, HI (Honolulu Civic Auditorium)</td><td align="center">*</td><td>Good Lovin</td><td>Drums</td><td align="center">4</td><td>[<a href="/1970-01-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/30/1970</td><td>New Orleans, LA (The Warehouse)</td><td align="center">*</td><td>Good Lovin<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">2</td><td>[<a href="/1970-01-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/1/1970</td><td>New Orleans, LA (The Warehouse)</td><td align="center">*</td><td>Dire Wolf</td><td>Drums</td><td align="center">2</td><td>[<a href="/1970-02-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/6/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>High Time<br>Other One</td><td>Drums<br>Black Peter</td><td align="center">4</td><td>[<a href="/1970-02-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/11/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Uncle John<br>Other One</td><td>Drums<br>Dire Wolf</td><td align="center">3</td><td>[<a href="/1970-02-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/13/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Dark Star<br>Other One</td><td>Drums<br>Lovelight</td><td align="center">4</td><td>[<a href="/1970-02-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/1/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">SI</td><td>Me  and  My Unc<br>Other One</td><td>Drums<br>Black Peter</td><td align="center">9</td><td>[<a href="/1970-03-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/3/1970</td><td>Cincinnati, OH (Field House, U. of Cincinnati)</td><td align="center">*</td><td>Good Lovin<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">9</td><td>[<a href="/1970-04-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/9/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Cowboy Song <br>Other One</td><td>Drums<br>NFA</td><td align="center">1</td><td>[<a href="/1970-04-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/15/1970</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Cumberland Blue<br>Other One</td><td>Drums<br>Dire Wolf</td><td align="center">4</td><td>[<a href="/1970-04-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/26/1970</td><td>Poynette, WI (York Farm)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Drums</td><td align="center">6</td><td>[<a href="/1970-04-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/1/1970</td><td>Alfred, NY (Alfred College)</td><td align="center">SII</td><td>Hard To Handle</td><td>Drums</td><td align="center">1</td><td>[<a href="/1970-05-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/2/1970</td><td>Binghamton, NY (Harpur College, S.U.N.Y.)</td><td align="center">SII</td><td>St. Stephen<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">1</td><td>[<a href="/1970-05-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/7/1970</td><td>Cambridge, MA (Dupont Gymnasium, M.I.T.)</td><td align="center">SII</td><td>High Time<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">3</td><td>[<a href="/1970-05-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/24/1970</td><td>Newcastle-Under-Lyme, England ((unknown))</td><td align="center">*</td><td>Me  and  My Unc<br>Other One</td><td>Drums<br>Attics</td><td align="center">9</td><td>[<a href="/1970-05-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/5/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Mama Tried<br>Other One</td><td>Drums<br>Attics</td><td align="center">3</td><td>[<a href="/1970-06-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/7/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>Jam</td><td align="center">2</td><td>[<a href="/1970-06-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/12/1970</td><td>Honolulu, HI (Honolulu Civic Auditorium)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Drums</td><td align="center">1</td><td>[<a href="/1970-06-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/24/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">*</td><td>High Time<br>Other One</td><td>drums<br>Cosmic Charlie</td><td align="center">4</td><td>[<a href="/1970-06-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/10/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Other One</td><td>Cosmic Charlie</td><td align="center">8</td><td>[<a href="/1970-07-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/12/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>It's A Man's Wo</td><td>Drums</td><td align="center">2</td><td>[<a href="/1970-07-12">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/14/1970</td><td>San Rafael, CA (Euphoria Ballroom)</td><td align="center">SII</td><td>Me  and  My Unc<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">1</td><td>[<a href="/1970-07-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/18/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Mama Tried<br>Other One</td><td>Drums<br>Sugar Magnolia</td><td align="center">5</td><td>[<a href="/1970-08-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/18/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Candyman<br>Other One</td><td>Drums<br>Brokedown</td><td align="center">6</td><td>[<a href="/1970-09-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/10/1970</td><td>Queens, NY (Colden Auditorium, Queens College)</td><td align="center">SI</td><td>Candyman</td><td>Drums</td><td align="center">7</td><td>[<a href="/1970-10-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/17/1970</td><td>Cleveland, OH (Cleveland Music Hall)</td><td align="center">SI</td><td>Truckin<br>Other One</td><td>drums<br>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1970-10-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/31/1970</td><td>Stony Brook, NY (Gym, S.U.N.Y.)</td><td align="center">*</td><td>Next Time<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">8</td><td>[<a href="/1970-10-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/11/1970</td><td>Brooklyn, NY (46th Street Rock Palace)</td><td align="center">*</td><td>Hurts Me Too<br>Other One</td><td>Drums<br>Sugar Magnolia</td><td align="center">7</td><td>[<a href="/1970-11-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/21/1970</td><td>Boston, MA (Sargent Gym, Boston University)</td><td align="center">*</td><td>St. Stephen<br>Other One</td><td>Drums<br>Cosmic Charlie</td><td align="center">6</td><td>[<a href="/1970-11-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/12/1970</td><td>Santa Rosa, CA (Santa Rosa Fairgrounds)</td><td align="center">SII</td><td>Dire Wolf<br>Other One</td><td>Drums<br>NFA</td><td align="center">5</td><td>[<a href="/1970-12-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/28/1970</td><td>El Monte, CA (Legion Stadium)</td><td align="center">SI</td><td>I Know You Ride<br>Other One</td><td>Drums<br>Sugar Magnolia</td><td align="center">5</td><td>[<a href="/1970-12-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/31/1970</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Dire Wolf</td><td>Drums</td><td align="center">1</td><td>[<a href="/1970-12-31">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/21/1971</td><td>Davis, CA (Freeborn Hall, U. of California)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Drums</td><td align="center">1</td><td>[<a href="/1971-01-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/19/1971</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Deal</td><td>Drums</td><td align="center">4</td><td>[<a href="/1971-02-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/20/1971</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>Big Boss Man</td><td>Drums</td><td align="center">1</td><td>[<a href="/1971-02-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/14/1971</td><td>Lewisburg, PA (Bucknell University)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Drums</td><td align="center">22</td><td>[<a href="/1971-04-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/28/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Hard To Handle</td><td>Drums </td><td align="center">10</td><td>[<a href="/1971-04-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/21/1971</td><td>Herouville, France (Chateau d'Herouville)</td><td align="center">SII</td><td>Casey Jones</td><td>Drums</td><td align="center">4</td><td>[<a href="/1971-06-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/2/1971</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Mama Tried</td><td>Drums</td><td align="center">1</td><td>[<a href="/1971-07-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/5/1971</td><td>Hollywood, CA (Hollywood Palladium)</td><td align="center">SI</td><td>El Paso</td><td>Drums</td><td align="center">3</td><td>[<a href="/1971-08-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/19/1971</td><td>Minneapolis, MN (Northrop Auditorium, U. of Mi...)</td><td align="center">SII</td><td>Brokedown<br>Other One</td><td>Drums<br>Wharf Rat</td><td align="center">8</td><td>[<a href="/1971-10-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/22/1971</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SII</td><td>Cumberland<br>Other One</td><td>Drums<br>Deal</td><td align="center">2</td><td>[<a href="/1971-10-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/29/1971</td><td>Cleveland, OH (Allan Theater)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Drums<br>Deal</td><td align="center">5</td><td>[<a href="/1971-10-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/6/1971</td><td>San Francisco, CA (Harding Theater)</td><td align="center">SII</td><td>Bobby McGee<br>Other One</td><td>Drums<br>Comes A Time</td><td align="center">3</td><td>[<a href="/1971-11-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/12/1971</td><td>San Antonio, TX (San Antonio Civic Auditorium)</td><td align="center">SII</td><td>Me  and  My Unc<br>Other One</td><td>Drums<br>Big RxR Blues</td><td align="center">3</td><td>[<a href="/1971-11-12">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/17/1971</td><td>Albuquerque, NM (Albuquerque Civic Auditorium)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Drums</td><td align="center">3</td><td>[<a href="/1971-11-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/1/1971</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Big Boss Man</td><td>Drums</td><td align="center">2</td><td>[<a href="/1971-12-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/6/1971</td><td>New York, NY (Felt Forum, Madison Square Garden)</td><td align="center">SII</td><td>Playin</td><td>Drums</td><td align="center">4</td><td>[<a href="/1971-12-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/14/1971</td><td>Ann Arbor, MI (Hill Auditorium)</td><td align="center">SII</td><td>Big Boss Man</td><td>Drums</td><td align="center">4</td><td>[<a href="/1971-12-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/23/1972</td><td>Waterbury, CT (The Palace Theater)</td><td align="center">SII</td><td>Baby Blue</td><td>Drums</td><td align="center">56</td><td>[<a href="/1972-09-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/20/1985</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Day Job</td><td align="center">2037</td><td>[<a href="/1985-04-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/16/1985</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SII</td><td>Samson<br>Other One</td><td>Other One<br>Drumz</td><td align="center">-1246</td><td>[<a href="/1985-06-16">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/24/1985</td><td>Cincinnati, OH (River Bend Music Center)</td><td align="center">SII</td><td>Smokestack<br>Other One</td><td>Drumz<br>Wharf Rat</td><td align="center">3</td><td>[<a href="/1985-06-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/30/1985</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SII</td><td>He's Gone</td><td>Drumz</td><td align="center">4</td><td>[<a href="/1985-06-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/13/1985</td><td>Ventura, CA (County Fairgrounds)</td><td align="center">SII</td><td>Wheel</td><td>Other One</td><td align="center">3</td><td>[<a href="/1985-07-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/3/1985</td><td>Kansas City, MO (Starlight Theatre)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Other One</td><td>Other One<br>Eyes</td><td align="center">6</td><td>[<a href="/1985-09-03">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Saturday, July 16, 1966 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1966-07-16&highlight=went">Shows I attended</a>
+		<a href="/1966-07-16&highlight=own">Shows I own</a>
+		<a href="/1966-07-16&highlight=looking">Shows I'm looking for</a>
+		<a href="/1966-07-16&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Saturday, July 16, 1966</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1966-07-16">7/16/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-16*">Listen/Download</a>]<tr><td>I: I Know You Rider, Big Boss Man<span class="setlist_small">*</span>, Standing On The Corner<span class="setlist_small">*</span>, BIODTL, In The Pines<span class="setlist_small">*</span>, No Left Turn Unstoned, Nobody's Fault<span class="setlist_small">*</span>, Next Time<span class="setlist_small">*</span>, Just A Hand To Hold<span class="setlist_small">*</span>, Cream Puff War<span class="setlist_small">**</span></td></tr>
+<tr><td>II: Viola Lee Blues<span class="setlist_small">*</span>, Don't Ease<span class="setlist_small">*</span> > Pain In My Heart<span class="setlist_small">*</span>, Minglewood > Top Of The World<span class="setlist_small">*</span>, Otis<span class="setlist_small">**</span>, Cold Rain > Schoolgirl, Baby Blue<span class="setlist_small">*</span>, Dancin </td></tr>
+<tr><td>III: Midnight Hour<span class="setlist_small">***</span></td></tr>
+<tr class="notes"><td>First ''Don't Ease''; First ''Pain In My Heart''; Next ''Don't Ease'' 6/6/1967 [118 shows]</i></td></tr>
+<tr class="notes"><td>Billing: Jefferson Airplane; GD.***with Joan Baez  and  Mimi Farina. * appears on Birth of the Dead. ** appears on So Many Roads (1965-1995). Encore is not on circulating tape and may have been performed on another date.  </i></td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('66)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">7</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Big Boss Man</td><td>7/3/1966</td><td>7/6/1995</td><td align="center">70</td><td align="center">4</td><td align="center">[<a href="/songs/Big Boss Man_28">ETP</a>]</td></tr>
+<tr valign="top"><td>Standing On The Corner</td><td>5/19/1966</td><td>7/30/1966</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Standing On The Corner_334">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">8</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
+<tr valign="top"><td>In The Pines</td><td>7/17/1966</td><td>7/17/1966</td><td align="center">1</td><td align="center">1</td><td align="center">[<a href="/songs/In The Pines_178">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Nobody's Fault</td><td>7/17/1966</td><td>12/19/1994</td><td align="center">16</td><td align="center">1</td><td align="center">[<a href="/songs/Nobody's Fault_253">ETP</a>]</td></tr>
+<tr valign="top"><td>Next Time</td><td>2/25/1966</td><td>5/26/1972</td><td align="center">72</td><td align="center">7</td><td align="center">[<a href="/songs/Next Time_252">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Cream Puff War</td><td>5/19/1966</td><td>3/18/1967</td><td align="center">7</td><td align="center">6</td><td align="center">[<a href="/songs/Cream Puff War_82">ETP</a>]</td></tr>
+<tr valign="top"><td>Viola Lee Blues</td><td>3/12/1966</td><td>10/31/1970</td><td align="center">32</td><td align="center">8</td><td align="center">[<a href="/songs/Viola Lee Blues_392">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Don't Ease</td><td>7/16/1966</td><td>7/8/1995</td><td align="center">315</td><td align="center">1</td><td align="center">[<a href="/songs/Don't Ease_102">ETP</a>]</td></tr>
+<tr valign="top"><td>Pain In My Heart</td><td>7/16/1966</td><td>11/19/1966</td><td align="center">2</td><td align="center">2</td><td align="center">[<a href="/songs/Pain In My Heart_263">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Minglewood Blues</td><td>5/19/1966</td><td>6/27/1995</td><td align="center">434</td><td align="center">5</td><td align="center">[<a href="/songs/Minglewood Blues_229">ETP</a>]</td></tr>
+<tr valign="top"><td>Top Of The World</td><td>5/19/1966</td><td>5/25/1972</td><td align="center">44</td><td align="center">4</td><td align="center">[<a href="/songs/Top Of The World_379">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Cold Rain And Snow</td><td>2/25/1966</td><td>6/19/1995</td><td align="center">240</td><td align="center">8</td><td align="center">[<a href="/songs/Cold Rain And Snow_75">ETP</a>]</td></tr>
+<tr valign="top"><td>Good Morning Little Schoolgirl</td><td>11/30/1999</td><td>6/28/1995</td><td align="center">62</td><td align="center">5</td><td align="center">[<a href="/songs/Good Morning Little Schoolgirl_309">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Baby Blue</td><td>1/7/1966</td><td>2/19/1995</td><td align="center">141</td><td align="center">5</td><td align="center">[<a href="/songs/Baby Blue_20">ETP</a>]</td></tr>
+<tr valign="top"><td>Dancin In The Streets</td><td>7/3/1966</td><td>4/6/1987</td><td align="center">123</td><td align="center">5</td><td align="center">[<a href="/songs/Dancin In The Streets_85">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Midnight Hour</td><td>1/7/1966</td><td>10/17/1994</td><td align="center">46</td><td align="center">6</td><td align="center">[<a href="/songs/Midnight Hour_224">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

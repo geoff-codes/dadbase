@@ -1,0 +1,304 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Feel Like A Stranger | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Feel%20Like%20A%20Stranger_339&highlight=went">Shows I attended</a>
+		<a href="/songs/Feel%20Like%20A%20Stranger_339&highlight=own">Shows I own</a>
+		<a href="/songs/Feel%20Like%20A%20Stranger_339&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Feel%20Like%20A%20Stranger_339&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Feel Like A Stranger</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top"><td>3/21/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SII</td><td></td><td></td><td align="center">724</td><td>[<a href="/1972-03-21">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top" class="row2"><td>3/22/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SI</td><td></td><td></td><td align="center">1</td><td>[<a href="/1972-03-22">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top"><td>3/23/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SII</td><td></td><td></td><td align="center">1</td><td>[<a href="/1972-03-23">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top" class="row2"><td>3/26/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SII</td><td></td><td></td><td align="center">2</td><td>[<a href="/1972-03-26">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top"><td>3/27/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SII</td><td></td><td></td><td align="center">1</td><td>[<a href="/1972-03-27">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top" class="row2"><td>3/28/1972</td><td>New York, NY (Academy of Music)</td><td align="center">SII</td><td></td><td></td><td align="center">1</td><td>[<a href="/1972-03-28">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top"><td>5/4/1972</td><td>Paris, France (Olympia Theater)</td><td align="center">SI</td><td></td><td></td><td align="center">12</td><td>[<a href="/1972-05-04">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top" class="row2"><td>5/10/1972</td><td>Amsterdam, The Netherlands (Concertgebouw)</td><td align="center">SII</td><td></td><td></td><td align="center">2</td><td>[<a href="/1972-05-10">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top"><td>5/11/1972</td><td>Rotterdam, The Netherlands (Grote Zaal de Doel...)</td><td align="center">SII</td><td></td><td></td><td align="center">1</td><td>[<a href="/1972-05-11">Setlist</a>]</td></tr>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
+<tr valign="top" class="row2"><td>5/26/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SI</td><td></td><td></td><td align="center">7</td><td>[<a href="/1972-05-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/31/1980</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SI</td><td>B. E. Women</td><td>Far From Me</td><td align="center">430</td><td>[<a href="/1980-03-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/1/1980</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>China Cat</td><td align="center">1</td><td>[<a href="/1980-04-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/28/1980</td><td>Birmingham, AL (Boutwell Auditorium)</td><td align="center">SI</td><td>Far From Me</td><td>Deal</td><td align="center">1</td><td>[<a href="/1980-04-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/1/1980</td><td>Greensboro, NC (Greensboro Coliseum)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1980-05-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/2/1980</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SII</td><td>Space</td><td>Eyes</td><td align="center">1</td><td>[<a href="/1980-05-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/4/1980</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SI</td><td>Franklin's</td><td>Althea</td><td align="center">1</td><td>[<a href="/1980-05-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/7/1980</td><td>Ithaca, NY (Barton Hall, Cornell University)</td><td align="center">SI</td><td>Althea</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1980-05-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/10/1980</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SII</td><td>I Know You Ride</td><td>Comes A Time</td><td align="center">2</td><td>[<a href="/1980-05-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/11/1980</td><td>Portland, ME (Cumberland County Civic Center)</td><td align="center">SII</td><td>Fire</td><td>Terrapin</td><td align="center">1</td><td>[<a href="/1980-05-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/12/1980</td><td>Boston, MA (Boston Garden)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">1</td><td>[<a href="/1980-05-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/14/1980</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">1</td><td>[<a href="/1980-05-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/15/1980</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Far From Me </td><td>Deal</td><td align="center">1</td><td>[<a href="/1980-05-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/29/1980</td><td>Des Moines, IA (Des Moines Civic Center)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">2</td><td>[<a href="/1980-05-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/31/1980</td><td>Minneapolis, MN (Metropolitan Center)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">2</td><td>[<a href="/1980-05-31">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/5/1980</td><td>Tempe, AZ (Compton Terrace Amphitheatre)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1980-06-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/7/1980</td><td>Boulder, CO (Folsom Field, University of Color...)</td><td align="center">SI</td><td>Loser</td><td>Deal</td><td align="center">1</td><td>[<a href="/1980-06-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/8/1980</td><td>Boulder, CO (Folsom Field, University of Color...)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">1</td><td>[<a href="/1980-06-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/14/1980</td><td>Spokane, WA (Spokane Coliseum)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">3</td><td>[<a href="/1980-06-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/21/1980</td><td>Anchorage, AK (West High Auditorium)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1980-06-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/29/1980</td><td>Los Angeles, CA (Pauley Pavilion, U.C.L.A.)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Don't Ease</td><td align="center">1</td><td>[<a href="/1980-06-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/19/1980</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Easy To Love Yo</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1980-08-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/24/1980</td><td>Grand Rapids, MI (Grand Center)</td><td align="center">SII</td><td>Ship Of Fools</td><td>China Cat</td><td align="center">4</td><td>[<a href="/1980-08-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/27/1980</td><td>Clarkston, MI (Pine Knob Music Theatre)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1980-08-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/30/1980</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">2</td><td>[<a href="/1980-08-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/3/1980</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>High Time</td><td align="center">3</td><td>[<a href="/1980-09-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/4/1980</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">1</td><td>[<a href="/1980-09-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/6/1980</td><td>Lewiston, ME (State Fairgrounds)</td><td align="center">SI</td><td>Tennessee Jed</td><td>FOTD</td><td align="center">1</td><td>[<a href="/1980-09-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/26/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">2</td><td>[<a href="/1980-09-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/30/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SIII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">3</td><td>[<a href="/1980-09-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/9/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1980-10-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/11/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">2</td><td>[<a href="/1980-10-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/18/1980</td><td>New Orleans, LA (Saenger Performing Arts Center)</td><td align="center">SIII</td><td>I Know You Ride</td><td>Ship Of Fools</td><td align="center">3</td><td>[<a href="/1980-10-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/23/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Tennessee Jed</td><td align="center">3</td><td>[<a href="/1980-10-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/29/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1980-10-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/28/1980</td><td>Lakeland, FL (Lakeland Civic Center Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>To Lay Me Down</td><td align="center">4</td><td>[<a href="/1980-11-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/30/1980</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Loser</td><td align="center">2</td><td>[<a href="/1980-11-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/13/1980</td><td>Long Beach, CA (Long Beach Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">3</td><td>[<a href="/1980-12-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/27/1980</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">3</td><td>[<a href="/1980-12-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/26/1981</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Althea</td><td align="center">4</td><td>[<a href="/1981-02-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/3/1981</td><td>Cleveland, OH (Cleveland Music Hall)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">4</td><td>[<a href="/1981-03-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/9/1981</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Althea</td><td align="center">4</td><td>[<a href="/1981-03-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/14/1981</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">4</td><td>[<a href="/1981-03-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/20/1981</td><td>London, England (Rainbow Theater)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">1</td><td>[<a href="/1981-03-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/1/1981</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">6</td><td>[<a href="/1981-05-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/5/1981</td><td>Glens Falls, NY (Glens Falls Civic Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">3</td><td>[<a href="/1981-05-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/9/1981</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Franklin's</td><td>Bird Song</td><td align="center">3</td><td>[<a href="/1981-05-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/16/1981</td><td>Ithaca, NY (Barton Hall, Cornell University)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1981-05-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/4/1981</td><td>Austin, TX (Manor Downs)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Bird Song</td><td align="center">3</td><td>[<a href="/1981-07-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/8/1981</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">SI</td><td>Half Step</td><td>Peggy-O</td><td align="center">3</td><td>[<a href="/1981-07-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/13/1981</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">3</td><td>[<a href="/1981-07-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/16/1981</td><td>Eugene, OR (McArthur Court, University of Oreg...)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Scarlet</td><td align="center">5</td><td>[<a href="/1981-08-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/31/1981</td><td>Las Vegas, NV (Aladdin Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Jack A Roe</td><td align="center">4</td><td>[<a href="/1981-08-31">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/11/1981</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">1</td><td>[<a href="/1981-09-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/30/1981</td><td>Edinburgh, Scotland (The Playhouse)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">6</td><td>[<a href="/1981-09-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/3/1981</td><td>London, England (Rainbow Theater)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">2</td><td>[<a href="/1981-10-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/8/1981</td><td>Copenhagen, Denmark (The Forum Theater)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">3</td><td>[<a href="/1981-10-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/2/1981</td><td>Champaign-Urbana, IL (Assembly Hall, U. of Il.)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">10</td><td>[<a href="/1981-12-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/30/1981</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SII</td><td>Barbara Allen </td><td>Ramble On</td><td align="center">10</td><td>[<a href="/1981-12-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/13/1982</td><td>Reno, NV (Centennial Coliseum)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">7</td><td>[<a href="/1982-03-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/8/1982</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">6</td><td>[<a href="/1982-04-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/19/1982</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">8</td><td>[<a href="/1982-04-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/29/1982</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SI</td><td>Loser</td><td>Tennessee Jed</td><td align="center">10</td><td>[<a href="/1982-07-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/4/1982</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">4</td><td>[<a href="/1982-08-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/10/1982</td><td>Iowa City, IA (Fieldhouse, University of Iowa)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">4</td><td>[<a href="/1982-08-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/9/1982</td><td>New Orleans, LA (Saenger Performing Arts Center)</td><td align="center">SI</td><td>Franklin's</td><td>West L. A.</td><td align="center">4</td><td>[<a href="/1982-09-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/30/1982</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>Big RxR Blues</td><td>Dupree's</td><td align="center">18</td><td>[<a href="/1982-12-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/31/1983</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">7</td><td>[<a href="/1983-03-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/15/1983</td><td>Rochester, NY (Community War Memorial)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Samson</td><td align="center">5</td><td>[<a href="/1983-04-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/22/1983</td><td>New Haven, CT (Veterans Memorial Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bird Song</td><td align="center">5</td><td>[<a href="/1983-04-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/14/1983</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1983-05-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/22/1983</td><td>Harrisburg, PA (City Island)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1983-06-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/28/1983</td><td>Hoffman Estates, IL (Poplar Creek Music Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dire Wolf</td><td align="center">4</td><td>[<a href="/1983-06-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/30/1983</td><td>Eugene, OR (Silva Hall, Hult Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Candyman</td><td align="center">8</td><td>[<a href="/1983-08-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/8/1983</td><td>Richmond, VA (Richmond Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">12</td><td>[<a href="/1983-10-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/15/1983</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dire Wolf</td><td align="center">5</td><td>[<a href="/1983-10-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/28/1983</td><td>San Francisco, CA (San Francisco Civic Auditor...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dire Wolf</td><td align="center">9</td><td>[<a href="/1983-12-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/31/1984</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">SI</td><td>Alabama</td><td>Dupree's</td><td align="center">5</td><td>[<a href="/1984-03-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/7/1984</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">3</td><td>[<a href="/1984-04-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/14/1984</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">2</td><td>[<a href="/1984-04-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/20/1984</td><td>Philadelphia, PA (Civic Convention Hall Audito...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">4</td><td>[<a href="/1984-04-20">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/29/1984</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1984-04-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/10/1984</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">6</td><td>[<a href="/1984-06-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/26/1984</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SI</td><td>Casey Jones</td><td>Althea</td><td align="center">7</td><td>[<a href="/1984-06-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/4/1984</td><td>Cedar Rapids, IA (Five Seasons Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1984-07-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/5/1984</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>B. E. Women</td><td>Might As Well</td><td align="center">8</td><td>[<a href="/1984-10-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/12/1984</td><td>Augusta, ME (Augusta Civic Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Roses</td><td align="center">5</td><td>[<a href="/1984-10-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/18/1984</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Candyman</td><td align="center">4</td><td>[<a href="/1984-10-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/3/1984</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Cumberland</td><td align="center">7</td><td>[<a href="/1984-11-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/10/1985</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">8</td><td>[<a href="/1985-03-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/22/1985</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">4</td><td>[<a href="/1985-03-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/6/1985</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">10</td><td>[<a href="/1985-04-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/27/1985</td><td>Saratoga, NY (Saratoga Performing Arts Center)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Eyes</td><td align="center">14</td><td>[<a href="/1985-06-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/24/1985</td><td>Donner's Summit, CA (Boreal Ridge Ski Resort)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>China Cat</td><td align="center">7</td><td>[<a href="/1985-08-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/3/1985</td><td>Kansas City, MO (Starlight Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">4</td><td>[<a href="/1985-09-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/29/1985</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">11</td><td>[<a href="/1985-10-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/10/1985</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1985-11-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/14/1986</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">13</td><td>[<a href="/1986-02-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/25/1986</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Tennessee Jed</td><td align="center">6</td><td>[<a href="/1986-03-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/31/1986</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Ship Of Fools</td><td align="center">4</td><td>[<a href="/1986-03-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/19/1986</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Stagger Lee</td><td align="center">7</td><td>[<a href="/1986-04-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/30/1986</td><td>Cincinnati, OH (River Bend Music Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">13</td><td>[<a href="/1986-06-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/2/1987</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">16</td><td>[<a href="/1987-03-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/23/1987</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Tons Of Steel</td><td>Don't Ease</td><td align="center">3</td><td>[<a href="/1987-03-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/6/1987</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Cumberland</td><td align="center">10</td><td>[<a href="/1987-04-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/3/1987</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SII</td><td>Iko Iko</td><td>Ship Of Fools</td><td align="center">9</td><td>[<a href="/1987-05-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/10/1987</td><td>Monterey, CA (Laguna Seca Recreation Area)</td><td align="center">SI</td><td>Half Step</td><td>West L. A.</td><td align="center">2</td><td>[<a href="/1987-05-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/14/1987</td><td>Ventura, CA (County Fairgrounds)</td><td align="center">SI</td><td>Althea</td><td>Might As Well</td><td align="center">3</td><td>[<a href="/1987-06-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/26/1987</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1987-06-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/6/1987</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">6</td><td>[<a href="/1987-07-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/19/1987</td><td>Eugene, OR (Autzen Stadium, U. of Oregon)</td><td align="center">SI</td><td>Iko Iko</td><td>Franklin's</td><td align="center">5</td><td>[<a href="/1987-07-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/15/1987</td><td>Telluride, CO (Town Park)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">6</td><td>[<a href="/1987-08-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/7/1987</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">6</td><td>[<a href="/1987-09-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/23/1987</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">12</td><td>[<a href="/1987-09-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/6/1987</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Big Boss Man</td><td>Roses</td><td align="center">5</td><td>[<a href="/1987-11-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/28/1987</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">7</td><td>[<a href="/1987-12-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/14/1988</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Touch</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1988-02-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/28/1988</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">9</td><td>[<a href="/1988-03-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/7/1988</td><td>Worcester, MA (The Centrum)</td><td align="center">SI</td><td>Touch</td><td>Franklin's</td><td align="center">7</td><td>[<a href="/1988-04-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/13/1988</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>Half Step</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1988-04-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/22/1988</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>Half Step</td><td>Franklin's</td><td align="center">3</td><td>[<a href="/1988-04-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/30/1988</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SI</td><td>LTGTR</td><td>Row Jimmy</td><td align="center">3</td><td>[<a href="/1988-04-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/19/1988</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Half Step</td><td>Good Times</td><td align="center">3</td><td>[<a href="/1988-06-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/25/1988</td><td>Hebron, OH (Buckeye Lake Music Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1988-06-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/30/1988</td><td>Monterey, CA (Laguna Seca Recreation Area)</td><td align="center">SI</td><td>LTGTR</td><td>Loser</td><td align="center">10</td><td>[<a href="/1988-07-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/3/1988</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>LTGTR</td><td>Franklin's</td><td align="center">5</td><td>[<a href="/1988-09-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/11/1988</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Iko Iko</td><td>Franklin's</td><td align="center">5</td><td>[<a href="/1988-09-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/18/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">5</td><td>[<a href="/1988-09-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/24/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Iko Iko</td><td>West L. A.</td><td align="center">5</td><td>[<a href="/1988-09-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/16/1988</td><td>St. Petersburg, FL (Bayfront Center Arena)</td><td align="center">SI</td><td>Good Times</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1988-10-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/21/1988</td><td>Dallas, TX (Reunion Arena)</td><td align="center">SI</td><td>LTGTR</td><td>Franklin's</td><td align="center">3</td><td>[<a href="/1988-10-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/10/1988</td><td>Long Beach, CA (Long Beach Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">2</td><td>[<a href="/1988-12-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/5/1989</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Touch</td><td>Franklin's</td><td align="center">5</td><td>[<a href="/1989-02-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/10/1989</td><td>Inglewood, CA (Great Western Forum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">3</td><td>[<a href="/1989-02-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/28/1989</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Franklin's</td><td>Stagger Lee</td><td align="center">4</td><td>[<a href="/1989-03-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/5/1989</td><td>Ann Arbor, MI (Crisler Arena, U. of Michigan)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">5</td><td>[<a href="/1989-04-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/15/1989</td><td>Milwaukee, WI (The Mecca)</td><td align="center">SI</td><td>Half Step</td><td>Franklin's</td><td align="center">7</td><td>[<a href="/1989-04-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/19/1989</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">10</td><td>[<a href="/1989-06-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/10/1989</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">6</td><td>[<a href="/1989-07-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/6/1989</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>LTGTR</td><td>Franklin's</td><td align="center">9</td><td>[<a href="/1989-08-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/29/1989</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>LTGTR</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1989-09-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/16/1989</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SI</td><td>Half Step</td><td>Good Times</td><td align="center">9</td><td>[<a href="/1989-10-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/23/1989</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>California Eart</td><td>Loser</td><td align="center">5</td><td>[<a href="/1989-10-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/8/1989</td><td>Inglewood, CA (Great Western Forum)</td><td align="center">SI</td><td>LTGTR</td><td>Stagger Lee</td><td align="center">4</td><td>[<a href="/1989-12-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/28/1989</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>LTGTR</td><td>Dire Wolf</td><td align="center">4</td><td>[<a href="/1989-12-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/27/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>LTGTR</td><td>Sugaree</td><td align="center">5</td><td>[<a href="/1990-02-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/14/1990</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Cold Rain</td><td>Good Times</td><td align="center">1</td><td>[<a href="/1990-03-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/22/1990</td><td>Ontario, Canada (Copps Coliseum, Hamilton)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">6</td><td>[<a href="/1990-03-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/2/1990</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Half Step</td><td align="center">8</td><td>[<a href="/1990-04-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/6/1990</td><td>Carson, CA (California State U. Dominguez Hills)</td><td align="center">SI</td><td>Half Step</td><td>Easy To Love Yo</td><td align="center">3</td><td>[<a href="/1990-05-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/9/1990</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>LTGTR</td><td>Peggy-O</td><td align="center">2</td><td>[<a href="/1990-06-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/23/1990</td><td>Eugene, OR (Autzen Stadium, U. of Oregon)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">5</td><td>[<a href="/1990-06-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/12/1990</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>LTGTR</td><td>Bertha</td><td align="center">6</td><td>[<a href="/1990-07-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/22/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SI</td><td>Box Of Rain</td><td>Loser</td><td align="center">6</td><td>[<a href="/1990-07-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/14/1990</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">7</td><td>[<a href="/1990-09-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/20/1990</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Althea</td><td align="center">5</td><td>[<a href="/1990-09-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/13/1990</td><td>Stockholm, Sweden (Ice Stadium)</td><td align="center">SI</td><td>Cold Rain</td><td>Candyman</td><td align="center">1</td><td>[<a href="/1990-10-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/24/1990</td><td>Hamburg, Germany (Sporthalle)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">5</td><td>[<a href="/1990-10-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/3/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Touch</td><td>West L. A.</td><td align="center">6</td><td>[<a href="/1990-12-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/30/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Bertha</td><td>Candyman</td><td align="center">9</td><td>[<a href="/1990-12-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/20/1991</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">7</td><td>[<a href="/1991-03-20">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/29/1991</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">7</td><td>[<a href="/1991-03-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/4/1991</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>LTGTR</td><td>TLEO</td><td align="center">4</td><td>[<a href="/1991-04-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/12/1991</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">18</td><td>[<a href="/1991-06-12">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/19/1991</td><td>Clarkston, MI (Pine Knob Music Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">4</td><td>[<a href="/1991-06-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/18/1991</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SII</td><td>Half Step</td><td>Drumz</td><td align="center">11</td><td>[<a href="/1991-08-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/6/1991</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">3</td><td>[<a href="/1991-09-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/16/1991</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">7</td><td>[<a href="/1991-09-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/24/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>LTGTR</td><td>Althea</td><td align="center">6</td><td>[<a href="/1991-09-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/24/1992</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Touch</td><td>FOTD</td><td align="center">14</td><td>[<a href="/1992-02-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/6/1992</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1992-03-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/16/1992</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>LTGTR</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1992-03-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/25/1992</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>LTGTR</td><td>West L. A.</td><td align="center">12</td><td>[<a href="/1992-05-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/8/1992</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Loser</td><td align="center">5</td><td>[<a href="/1992-06-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/18/1992</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">7</td><td>[<a href="/1992-06-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/29/1992</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Althea</td><td align="center">7</td><td>[<a href="/1992-06-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/2/1992</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">2</td><td>[<a href="/1992-12-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/16/1992</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>B. E. Women</td><td align="center">7</td><td>[<a href="/1992-12-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/10/1993</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Stagger Lee</td><td align="center">9</td><td>[<a href="/1993-03-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/21/1993</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">7</td><td>[<a href="/1993-03-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/29/1993</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>LTGTR</td><td>Loser</td><td align="center">6</td><td>[<a href="/1993-03-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/21/1993</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>LTGTR</td><td>FOTD</td><td align="center">9</td><td>[<a href="/1993-05-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/15/1993</td><td>Louisville, KY (Freedom Hall)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Althea</td><td align="center">12</td><td>[<a href="/1993-06-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/26/1993</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>B. E. Women</td><td align="center">8</td><td>[<a href="/1993-06-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/8/1993</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">6</td><td>[<a href="/1993-09-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/24/1993</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Jack A Roe</td><td align="center">12</td><td>[<a href="/1993-09-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/13/1993</td><td>San Diego, CA (San Diego Sports Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Ramble On</td><td align="center">10</td><td>[<a href="/1993-12-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/5/1994</td><td>Phoenix, AZ (Desert Sky Pavilion)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Stagger Lee</td><td align="center">8</td><td>[<a href="/1994-03-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/18/1994</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Deal</td><td align="center">4</td><td>[<a href="/1994-03-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/30/1994</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>H. C. Sunshine</td><td>Jack A Roe</td><td align="center">8</td><td>[<a href="/1994-03-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/24/1994</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>LTGTR</td><td>Althea</td><td align="center">15</td><td>[<a href="/1994-06-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/20/1994</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">10</td><td>[<a href="/1994-07-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/29/1994</td><td>Hebron, OH (Buckeye Lake Music Center)</td><td align="center">SI</td><td>Rain</td><td>Bertha</td><td align="center">6</td><td>[<a href="/1994-07-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/27/1994</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>TLEO</td><td align="center">8</td><td>[<a href="/1994-09-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/7/1994</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">8</td><td>[<a href="/1994-10-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/19/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">9</td><td>[<a href="/1994-10-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/9/1994</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Stagger Lee</td><td align="center">5</td><td>[<a href="/1994-12-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/25/1995</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">11</td><td>[<a href="/1995-02-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/24/1995</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Stagger Lee</td><td align="center">7</td><td>[<a href="/1995-03-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/4/1995</td><td>Birmingham, AL (BJCC Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Sugaree</td><td align="center">7</td><td>[<a href="/1995-04-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/25/1995</td><td>Seattle, WA (Seattle Center Memorial Stadium)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">7</td><td>[<a href="/1995-05-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/18/1995</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">8</td><td>[<a href="/1995-06-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/5/1995</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Peggy-O</td><td align="center">10</td><td>[<a href="/1995-07-05">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

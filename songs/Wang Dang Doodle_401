@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Wang Dang Doodle | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Wang%20Dang%20Doodle_401&highlight=went">Shows I attended</a>
+		<a href="/songs/Wang%20Dang%20Doodle_401&highlight=own">Shows I own</a>
+		<a href="/songs/Wang%20Dang%20Doodle_401&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Wang%20Dang%20Doodle_401&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Wang Dang Doodle</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<tr valign="top"><td>8/26/1983</td><td>Portland, OR (Portland Memorial Coliseum)</td><td align="center">SII</td><td>Truckin</td><td>Stella Blue</td><td align="center">1443</td><td>[<a href="/1983-08-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/2/1983</td><td>Boise, ID (BSU Pavilion, Boise State University)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Jack Straw</td><td align="center">5</td><td>[<a href="/1983-09-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/11/1983</td><td>Santa Fe, NM (Downs of Santa Fe)</td><td align="center">SII</td><td>Truckin</td><td>Morning Dew</td><td align="center">6</td><td>[<a href="/1983-09-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/11/1983</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Jack Straw</td><td align="center">6</td><td>[<a href="/1983-10-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/15/1983</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>B. E. Women</td><td>Big RxR Blues</td><td align="center">3</td><td>[<a href="/1983-10-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/22/1983</td><td>Syracuse, NY (Carrier Dome, Syracuse University)</td><td align="center">SI</td><td>Shakedown</td><td>Candyman</td><td align="center">5</td><td>[<a href="/1983-10-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/31/1983</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Esau</td><td align="center">2</td><td>[<a href="/1983-10-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/26/1984</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SII</td><td>Truckin</td><td>Stella Blue</td><td align="center">35</td><td>[<a href="/1984-06-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/27/1984</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SII</td><td>He's Gone</td><td>Space</td><td align="center">25</td><td>[<a href="/1984-10-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/27/1986</td><td>Portland, ME (Cumberland County Civic Center)</td><td align="center">SI</td><td>Bertha</td><td>Big RxR Blues</td><td align="center">91</td><td>[<a href="/1986-03-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/21/1988</td><td>Dallas, TX (Reunion Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Victim</td><td align="center">193</td><td>[<a href="/1988-10-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/31/1988</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Franklin's</td><td>West L. A.</td><td align="center">6</td><td>[<a href="/1988-12-31">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/6/1989</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Sugaree</td><td>Jack A Roe</td><td align="center">2</td><td>[<a href="/1989-02-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/8/1989</td><td>Cincinnati, OH (Riverfront Arena)</td><td align="center">SI</td><td>LTGTR</td><td>West L. A.</td><td align="center">13</td><td>[<a href="/1989-04-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/30/1989</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>Half Step</td><td>Stagger Lee</td><td align="center">10</td><td>[<a href="/1989-04-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/2/1989</td><td>Foxboro, MA (Sullivan Stadium)</td><td align="center">SI</td><td>Crazy Fingers</td><td>We Can Run</td><td align="center">7</td><td>[<a href="/1989-07-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/4/1989</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SII</td><td>Truckin</td><td>Crazy Fingers</td><td align="center">11</td><td>[<a href="/1989-08-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/29/1989</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Franklin's</td><td>Jack A Roe</td><td align="center">6</td><td>[<a href="/1989-09-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/25/1990</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Touch</td><td>Good Times</td><td align="center">36</td><td>[<a href="/1990-03-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/10/1990</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Dire Wolf</td><td>Row Jimmy</td><td align="center">12</td><td>[<a href="/1990-06-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/8/1990</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SII</td><td>Miracle</td><td>Black Peter</td><td align="center">8</td><td>[<a href="/1990-07-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/22/1990</td><td>Frankfurt, Germany (Festhalle)</td><td align="center">SI</td><td>Peggy-O</td><td>Foolish Heart</td><td align="center">25</td><td>[<a href="/1990-10-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/30/1990</td><td>London, England (Wembley Arena)</td><td align="center">SI</td><td>Bertha</td><td>B. E. Women</td><td align="center">4</td><td>[<a href="/1990-10-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/13/1990</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>Sugaree</td><td>FOTD</td><td align="center">8</td><td>[<a href="/1990-12-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/31/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Jack A Roe</td><td>Row Jimmy</td><td align="center">5</td><td>[<a href="/1990-12-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/24/1991</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Franklin's</td><td>Jack A Roe</td><td align="center">9</td><td>[<a href="/1991-03-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/31/1991</td><td>Greensboro, NC (Greensboro Coliseum)</td><td align="center">SI</td><td>Half Step</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1991-03-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/7/1991</td><td>Orlando, FL (Orlando Arena)</td><td align="center">SI</td><td>Sugaree</td><td>Row Jimmy</td><td align="center">5</td><td>[<a href="/1991-04-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/28/1991</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>Candyman</td><td>Althea</td><td align="center">4</td><td>[<a href="/1991-04-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/11/1991</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Half Step</td><td>Peggy-O</td><td align="center">5</td><td>[<a href="/1991-05-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/6/1991</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>TLEO</td><td>Row Jimmy</td><td align="center">3</td><td>[<a href="/1991-06-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/14/1991</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Cold Rain</td><td>Jack A Roe</td><td align="center">5</td><td>[<a href="/1991-06-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/22/1991</td><td>Chicago, IL (Soldier Field)</td><td align="center">SI</td><td>Shakedown</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1991-06-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/28/1991</td><td>Denver, CO (Mile High Stadium)</td><td align="center">SI</td><td>Half Step</td><td>Peggy-O</td><td align="center">3</td><td>[<a href="/1991-06-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/17/1991</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Franklin's</td><td>B. E. Women</td><td align="center">5</td><td>[<a href="/1991-08-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/6/1991</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>Bertha</td><td>Peggy-O</td><td align="center">4</td><td>[<a href="/1991-09-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/13/1991</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Touch</td><td>Peggy-O</td><td align="center">5</td><td>[<a href="/1991-09-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/18/1991</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Ramble On</td><td>Candyman</td><td align="center">4</td><td>[<a href="/1991-09-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/26/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Cold Rain</td><td>Candyman</td><td align="center">6</td><td>[<a href="/1991-09-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/28/1991</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Peggy-O</td><td>Loose Lucy</td><td align="center">2</td><td>[<a href="/1991-10-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/30/1991</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Touch</td><td>Row Jimmy</td><td align="center">6</td><td>[<a href="/1991-12-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/22/1992</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Stagger Lee</td><td>So Many Roads</td><td align="center">2</td><td>[<a href="/1992-02-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/1/1992</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Althea</td><td>Row Jimmy</td><td align="center">3</td><td>[<a href="/1992-03-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/11/1992</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Cold Rain</td><td>Dire Wolf</td><td align="center">7</td><td>[<a href="/1992-03-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/18/1992</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Touch</td><td>Jack A Roe</td><td align="center">5</td><td>[<a href="/1992-03-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/21/1992</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Touch</td><td>Row Jimmy</td><td align="center">7</td><td>[<a href="/1992-05-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/30/1992</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>Sugaree</td><td>High Time</td><td align="center">5</td><td>[<a href="/1992-05-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/9/1992</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>Cold Rain</td><td>Peggy-O</td><td align="center">4</td><td>[<a href="/1992-06-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/20/1992</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Cold Rain</td><td>FOTD</td><td align="center">7</td><td>[<a href="/1992-06-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/28/1992</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Franklin's</td><td>Tom Thumb Blues</td><td align="center">5</td><td>[<a href="/1992-06-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/11/1992</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Cold Rain</td><td>Althea</td><td align="center">7</td><td>[<a href="/1992-12-11">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/26/1993</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Row Jimmy</td><td>B. E. Women</td><td align="center">7</td><td>[<a href="/1993-01-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/23/1993</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Cold Rain</td><td>Loser</td><td align="center">3</td><td>[<a href="/1993-02-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/9/1993</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>H. C. Sunshine</td><td>Loose Lucy</td><td align="center">1</td><td>[<a href="/1993-03-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/17/1993</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Shakedown</td><td>Lazy River Road</td><td align="center">5</td><td>[<a href="/1993-03-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/24/1993</td><td>Chapel Hill, NC (Dean Smith Center, UNC)</td><td align="center">SI</td><td>Stagger Lee</td><td>Roses</td><td align="center">5</td><td>[<a href="/1993-03-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/31/1993</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Cold Rain</td><td>Althea</td><td align="center">5</td><td>[<a href="/1993-03-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/14/1993</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>Cold Rain</td><td>Lazy River Road</td><td align="center">5</td><td>[<a href="/1993-05-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/25/1993</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Jack A Roe</td><td>Loose Lucy</td><td align="center">6</td><td>[<a href="/1993-05-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/5/1993</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Sugaree</td><td>Peggy-O</td><td align="center">3</td><td>[<a href="/1993-06-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/15/1993</td><td>Louisville, KY (Freedom Hall)</td><td align="center">SI</td><td>Althea</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1993-06-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/22/1993</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Franklin's</td><td>High Time</td><td align="center">5</td><td>[<a href="/1993-06-22">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/26/1993</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Bertha</td><td>Candyman</td><td align="center">7</td><td>[<a href="/1993-08-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/8/1993</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>Peggy-O</td><td>B. E. Women</td><td align="center">2</td><td>[<a href="/1993-09-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/16/1993</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Shakedown</td><td>Cold Rain</td><td align="center">6</td><td>[<a href="/1993-09-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/25/1993</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Cold Rain</td><td>Loser</td><td align="center">7</td><td>[<a href="/1993-09-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/9/1993</td><td>Los Angeles, CA (Los Angeles Sports Arena)</td><td align="center">SI</td><td>Touch</td><td>Peggy-O</td><td align="center">6</td><td>[<a href="/1993-12-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/19/1993</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Bertha</td><td>Loose Lucy</td><td align="center">6</td><td>[<a href="/1993-12-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/26/1994</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Cold Rain</td><td>Althea</td><td align="center">2</td><td>[<a href="/1994-02-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/17/1994</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>Touch</td><td>Althea</td><td align="center">6</td><td>[<a href="/1994-03-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/25/1994</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Franklin's</td><td>Althea</td><td align="center">6</td><td>[<a href="/1994-03-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/1/1994</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Deal</td><td>Dire Wolf</td><td align="center">5</td><td>[<a href="/1994-04-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/6/1994</td><td>Miami, FL (Miami Arena)</td><td align="center">SI</td><td>Jack A Roe</td><td>Broken Arrow</td><td align="center">2</td><td>[<a href="/1994-04-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/9/1994</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>FOTD</td><td>Ramble On</td><td align="center">4</td><td>[<a href="/1994-06-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/17/1994</td><td>Eugene, OR (Autzen Stadium, U. of Oregon)</td><td align="center">SI</td><td>Lazy River Road</td><td>Ramble On</td><td align="center">4</td><td>[<a href="/1994-06-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/1/1994</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Cold Rain</td><td>Dire Wolf</td><td align="center">6</td><td>[<a href="/1994-07-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/17/1994</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Bertha</td><td>So Many Roads</td><td align="center">5</td><td>[<a href="/1994-07-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/29/1994</td><td>Hebron, OH (Buckeye Lake Music Center)</td><td align="center">SI</td><td>Bertha</td><td>Loser</td><td align="center">8</td><td>[<a href="/1994-07-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/16/1994</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Cold Rain</td><td>Lazy River Road</td><td align="center">5</td><td>[<a href="/1994-09-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/29/1994</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Peggy-O</td><td>Ramble On</td><td align="center">5</td><td>[<a href="/1994-09-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/5/1994</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>FOTD</td><td>Jack A Roe</td><td align="center">4</td><td>[<a href="/1994-10-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/13/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Touch</td><td>Loser</td><td align="center">6</td><td>[<a href="/1994-10-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/1/1994</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>Sugaree</td><td>Loser</td><td align="center">8</td><td>[<a href="/1994-12-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/15/1994</td><td>Los Angeles, CA (Los Angeles Sports Arena)</td><td align="center">SI</td><td>Shakedown</td><td>Lazy River Road</td><td align="center">5</td><td>[<a href="/1994-12-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/21/1995</td><td>Salt Lake City, UT (Delta Center)</td><td align="center">SI</td><td>FOTD</td><td>Tennessee Jed</td><td align="center">6</td><td>[<a href="/1995-02-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/17/1995</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>H. C. Sunshine</td><td>Peggy-O</td><td align="center">4</td><td>[<a href="/1995-03-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/23/1995</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>Half Step</td><td>Cold Rain</td><td align="center">4</td><td>[<a href="/1995-03-23">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/5/1995</td><td>Birmingham, AL (BJCC Coliseum)</td><td align="center">SI</td><td>Touch</td><td>Stagger Lee</td><td align="center">9</td><td>[<a href="/1995-04-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/19/1995</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>FOTD</td><td>Althea</td><td align="center">2</td><td>[<a href="/1995-05-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/28/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SI</td><td>Peggy-O</td><td>Row Jimmy</td><td align="center">6</td><td>[<a href="/1995-05-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/4/1995</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Bertha</td><td>Peggy-O</td><td align="center">4</td><td>[<a href="/1995-06-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/15/1995</td><td>Highgate, VT (Franklin County Field)</td><td align="center">SI</td><td>Touch</td><td>Peggy-O</td><td align="center">1</td><td>[<a href="/1995-06-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/25/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Shakedown</td><td>Jack A Roe</td><td align="center">6</td><td>[<a href="/1995-06-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/8/1995</td><td>Chicago, IL (Soldier Field)</td><td align="center">SI</td><td>Sugaree</td><td>Althea</td><td align="center">7</td><td>[<a href="/1995-07-08">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

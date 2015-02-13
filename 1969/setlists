@@ -1,0 +1,666 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1969 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1969/setlists&highlight=went">Shows I attended</a>
+		<a href="/1969/setlists&highlight=own">Shows I own</a>
+		<a href="/1969/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1969/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1969 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>January:  <a href="#0102">2</a> <a href="#0103">3</a> <a href="#0104">4</a> <a href="#0105">5</a> <a href="#0106">6</a> <a href="#0115">15</a> <a href="#0117">17</a> <a href="#0118">18</a> <a href="#0120">20</a> <a href="#0123">23</a> <a href="#0124">24</a> <a href="#0125">25</a> <a href="#0126">26</a> <a href="#0131">31</a><br>
+February: <a href="#0201">1</a> <a href="#0202">2</a> <a href="#0204">4</a> <a href="#0205">5</a> <a href="#0206">6</a> <a href="#0207">7</a> <a href="#0207">7</a> <a href="#0209">9</a> <a href="#0209">9</a> <a href="#0211">11</a> <a href="#0211">11</a> <a href="#0212">12</a> <a href="#0212">12</a> <a href="#0214">14</a> <a href="#0215">15</a> <a href="#0219">19</a> <a href="#0221">21</a> <a href="#0222">22</a> <a href="#0226">26</a> <a href="#0227">27</a> <a href="#0228">28</a><br>
+March: <a href="#0301">1</a> <a href="#0302">2</a> <a href="#0311">11</a> <a href="#0312">12</a> <a href="#0315">15</a> <a href="#0317">17</a> <a href="#0321">21</a> <a href="#0322">22</a> <a href="#0327">27</a> <a href="#0328">28</a> <a href="#0329">29</a><br>
+April: <a href="#0404">4</a> <a href="#0405">5</a> <a href="#0406">6</a> <a href="#0411">11</a> <a href="#0412">12</a> <a href="#0413">13</a> <a href="#0415">15</a> <a href="#0417">17</a> <a href="#0418">18</a> <a href="#0420">20</a> <a href="#0421">21</a> <a href="#0422">22</a> <a href="#0423">23</a> <a href="#0425">25</a> <a href="#0426">26</a> <a href="#0427">27</a><br>
+May: <a href="#0502">2</a> <a href="#0503">3</a> <a href="#0503">3</a> <a href="#0507">7</a> <a href="#0508">8</a> <a href="#0509">9</a> <a href="#0510">10</a> <a href="#0511">11</a> <a href="#0516">16</a> <a href="#0523">23</a> <a href="#0524">24</a> <a href="#0528">28</a> <a href="#0529">29</a> <a href="#0530">30</a> <a href="#0531">31</a><br>
+June: <a href="#0605">5</a> <a href="#0606">6</a> <a href="#0607">7</a> <a href="#0608">8</a> <a href="#0611">11</a> <a href="#0613">13</a> <a href="#0614">14</a> <a href="#0620">20</a> <a href="#0620">20</a> <a href="#0621">21</a> <a href="#0621">21</a> <a href="#0622">22</a> <a href="#0627">27</a> <a href="#0628">28</a> <a href="#0629">29</a> <a href="#06xx">xx</a><br>
+July: <a href="#0703">3</a> <a href="#0704">4</a> <a href="#0705">5</a> <a href="#0707">7</a> <a href="#0708">8</a> <a href="#0708">8</a> <a href="#0710">10</a> <a href="#0711">11</a> <a href="#0712">12</a> <a href="#0712">12</a> <a href="#0716">16</a> <a href="#0725">25</a> <a href="#0726">26</a> <a href="#0727">27</a><br>
+August: <a href="#0802">2</a> <a href="#0803">3</a> <a href="#0805">5</a> <a href="#0806">6</a> <a href="#0807">7</a> <a href="#0816">16</a> <a href="#0821">21</a> <a href="#0823">23</a> <a href="#0824">24</a> <a href="#0828">28</a> <a href="#0829">29</a> <a href="#0830">30</a><br>
+September: <a href="#0901">1</a> <a href="#0906">6</a> <a href="#0907">7</a> <a href="#0907">7</a> <a href="#0911">11</a> <a href="#0926">26</a> <a href="#0926">26</a> <a href="#0927">27</a> <a href="#0927">27</a> <a href="#0929">29</a> <a href="#0929">29</a> <a href="#0930">30</a> <a href="#0930">30</a><br>
+October: <a href="#1001">1</a> <a href="#1001">1</a> <a href="#1002">2</a> <a href="#1003">3</a> <a href="#1004">4</a> <a href="#1005">5</a> <a href="#1006">6</a> <a href="#1017">17</a> <a href="#1024">24</a> <a href="#1025">25</a> <a href="#1026">26</a> <a href="#1031">31</a> <a href="#10xx">xx</a><br>
+November: <a href="#1101">1</a> <a href="#1102">2</a> <a href="#1107">7</a> <a href="#1108">8</a> <a href="#1115">15</a> <a href="#1118">18</a> <a href="#1121">21</a><br>
+December: <a href="#1204">4</a> <a href="#1205">5</a> <a href="#1206">6</a> <a href="#1206">6</a> <a href="#1207">7</a> <a href="#1210">10</a> <a href="#1211">11</a> <a href="#1212">12</a> <a href="#1213">13</a> <a href="#1219">19</a> <a href="#1220">20</a> <a href="#1221">21</a> <a href="#1226">26</a> <a href="#1228">28</a> <a href="#1229">29</a> <a href="#1230">30</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0102"></a><a href="/1969-01-02">1/2/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Blood, Sweat  and  Tears; Spirit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0103"></a><a href="/1969-01-03">1/3/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-03*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Blood, Sweat  and  Tears; Spirit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0104"></a><a href="/1969-01-04">1/4/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-04*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Blood, Sweat  and  Tears; Spirit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0105"></a><a href="/1969-01-05">1/5/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-05*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: GD; Blood, Sweat  and  Tears; Spirit. The Thursday night ticket for this run has “and Sunday” scratched onto it, indicating that the Grateful Dead indeed played this show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0106"></a><a href="/1969-01-06">1/6/1969 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-06*">Listen/Download</a>]<tr><td>Mountains Of The Moon</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0115"></a><a href="/1969-01-15">1/15/1969 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-15*">Listen/Download</a>]<tr><td>Doin That Rag, Mountains Of The Moon</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0117"></a><a href="/1969-01-17">1/17/1969 (unknown), Santa Barbara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-17*">Listen/Download</a>]<tr><td>Lovelight, Dark Star > St. Stephen > The Eleven > Death Don't, Cryptical > Drums > Other One > Cryptical > Cosmic Charlie</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0118"></a><a href="/1969-01-18">1/18/1969 Playboy After Dark, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-18*">Listen/Download</a>]<tr><td>St. Stephen, Mountains Of The Moon, Lovelight</td></tr>
+<tr class="notes"><td>TV show, broadcast 07-12-69. Appears on "The Grateful Dead: Anthem to Beauty" DVD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0120"></a><a href="/1969-01-20">1/20/1969 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-20*">Listen/Download</a>]<tr><td>Dupree's, China Cat</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0123"></a><a href="/1969-01-23">1/23/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-23*">Listen/Download</a>]<tr><td>The Eleven, Dupree's</td></tr>
+<tr class="notes"><td>Rehearsal.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0124"></a><a href="/1969-01-24">1/24/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-24*">Listen/Download</a>]<tr><td>I: Cryptical > Drums > Other One > Cryptical > New Potato Caboose, Dupree's, Doin That Rag</td></tr>
+<tr><td>II: Dark Star > Lovelight > Drums</td></tr>
+<tr class="notes"><td>First ''Doin That Rag''; First ''Dupree's''</i></td></tr>
+<tr class="notes"><td>Also: Sons Of Champlin; Initial Shock.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0125"></a><a href="/1969-01-25">1/25/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-25*">Listen/Download</a>]<tr><td>I: Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>II: Dupree's > Doin That Rag > Cosmic Charlie, Alligator > Drums > Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Also: Sons Of Champlin; Initial Shock.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0126"></a><a href="/1969-01-26">1/26/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-26*">Listen/Download</a>]<tr><td>I: Cryptical > Drums > Other One > Cryptical > Clementine > Death Don't</td></tr>
+<tr><td>II: Dark Star > St. Stephen > The Eleven <span class="setlist_small">*</span> > Lovelight <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Previous ''Clementine'' 2/2/1968 [117 shows]; Final ''Clementine''</i></td></tr>
+<tr class="notes"><td>Also: Sons Of Champlin; Initial Shock. *appears on "Live Dead."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0131"></a><a href="/1969-01-31">1/31/1969 The Kinetic Playground, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-01-31*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: The Grassroots.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0201"></a><a href="/1969-02-01">2/1/1969 The Kinetic Playground, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: The Grassroots.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0202"></a><a href="/1969-02-02">2/2/1969 Labor Temple, Minneapolis, MN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-02*">Listen/Download</a>]<tr><td>Schoolgirl, Dark Star > St. Stephen > The Eleven > Death Don't, Cryptical > Drums > Other One > Cryptical > Lovelight</td></tr>
+<tr class="notes"><td>Grand opening of Minneapolis Labor Temple.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0204"></a><a href="/1969-02-04">2/4/1969 The Music Box, Omaha, NE</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-04*">Listen/Download</a>]<tr><td>Schoolgirl, Morning Dew, Dark Star > St. Stephen > The Eleven > Death Don't, Cryptical > Drums > Other One > Alligator > Drums > Caution > Feedback</td></tr>
+<tr class="notes"><td>Also: Liberation Blues band, according to DeadLists.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0205"></a><a href="/1969-02-05">2/5/1969 (unknown), Kansas City, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-05*">Listen/Download</a>]<tr><td>Lovelight, Cryptical > Drums > Other One > Cryptical > Dark Star > St. Stephen > The Eleven > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Billing : Iron Butterfly; GD, according to DeadLists. Setlist above moved from 05-24-68.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0206"></a><a href="/1969-02-06">2/6/1969 Kiel Auditorium, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-06*">Listen/Download</a>]<tr><td>Morning Dew, Dark Star > St. Stephen > The Eleven > Lovelight, Cryptical > Drums > Other One > Cryptical > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Billing : Iron Butterfly; GD, according to DeadLists.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0207"></a><a href="/1969-02-07">2/7/1969 Stanley Theatre, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-07*">Listen/Download</a>]<tr><td>Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Early show. Also: The Velvet Underground; The Fugs.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0207"></a><a href="/1969-02-07">2/7/1969 Stanley Theatre, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-07*">Listen/Download</a>]<tr><td>Cryptical > Drums > Other One > Cryptical > Death Don't, Alligator > China Cat Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Late show. Also: The Velvet Underground; The Fugs.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0209"></a><a href="/1969-02-09">2/9/1969 The Lyric Theater, Baltimore, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>3:30 show - First Baltimore Rock Festival - $4, $5, $6. Billing: Chambers Brothers; GD. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0209"></a><a href="/1969-02-09">2/9/1969 The Lyric Theater, Baltimore, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>7:30 show - First Baltimore Rock Festival - $4, $5, $6. Billing: Chambers Brothers; GD. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0211"></a><a href="/1969-02-11">2/11/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-11*">Listen/Download</a>]<tr><td>Schoolgirl, Cryptical > Drums > Other One > Cryptical > Doin That Rag > King Bee > Lovelight</td></tr>
+<tr><td>E: Hey Jude</td></tr>
+<tr class="notes"><td>First ''Hey Jude''; Previous ''King Bee'' 6/6/1967 [197 shows]</i></td></tr>
+<tr class="notes"><td>Billing: Janis Joplin; GD. Entire show released as "Grateful Dead Fillmore East 2-11-69." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0211"></a><a href="/1969-02-11">2/11/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-11*">Listen/Download</a>]<tr><td>Dupree's > Mountains Of The Moon > Dark Star > St. Stephen > The Eleven Jam > Drums > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Billing: Janis Joplin; GD. Entire show released as "Grateful Dead Fillmore East 2-11-69."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0212"></a><a href="/1969-02-12">2/12/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-12*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billing: Janis Joplin; GD</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0212"></a><a href="/1969-02-12">2/12/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-12*">Listen/Download</a>]<tr><td>Dark Star > St. Stephen > The Eleven > Death Don't, Alligator > Drums > Jam > Caution > Feedback > We Bid You Goodnight </td></tr>
+<tr class="notes"><td>Billing: Janis Joplin; GD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0214"></a><a href="/1969-02-14">2/14/1969 Electric Factory, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-14*">Listen/Download</a>]<tr><td>I: Schoolgirl, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>II: Morning Dew, Cryptical > Drums > Other One > Cryptical > Death Don't, Alligator > Drums > Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0215"></a><a href="/1969-02-15">2/15/1969 Electric Factory, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-15*">Listen/Download</a>]<tr><td>I: Doin That Rag, Cryptical > Drums > Other One > Cryptical, Morning Dew > Lovelight</td></tr>
+<tr><td>II: Dupree's, Mountains Of The Moon > Dark Star > St. Stephen > The Eleven > Death Don't, Cosmic Charlie, Alligator > Drums > Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0219"></a><a href="/1969-02-19">2/19/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-19*">Listen/Download</a>]<tr><td>I: Lovelight > NFA > Lovelight</td></tr>
+<tr><td>II: Jam > Main Ten > Jam > Other One</td></tr>
+<tr class="notes"><td>"Frontiers of Science Celestial Synapse. " Also: Golden Toad. This very poor recording circulates as 06-19-68, which is erroneous. Apparently the date written on the vault tape’s box is unclear enough to where Dick read it as 08-29-68, meaning that it could easily be 02-19-69. More importantly, the Lovelight>Not Fade Away>Lovelight sandwich sounds very close in time to the "Live Dead" shows, and TC can occasionally be heard through the murk. The Lovelight>Not Fade Away>Lovelight ends the Dead’s regular set, after which Don McCoy of Rancho Olompali makes a speech. According to the San Francisco Chronicle review of the Celestial Synapse, he did that very thing at this show and, in common with many others in attendance, while not wearing any clothes. The group chanting, and the loose nature of the jam that followed also fit into the general description of the Celestial Synapse. This jam featured several guest musicians, but it’s difficult to ascertain who they are. The presence of both Not Fade Away and The Main Ten also argue for the 02-19-69 date. Not Fade Away had not been performed at all in probably close to three years, but the next attempt at it took place in Boston on April 23rd. The Main Ten had never been played previously, but surfaced again at the Tucson show on April 11th. And, the Dead’s crew brought Pacific Recording’s 16-track machine to this gig in another attempt to record material for what eventually became "Live Dead." Obviously, the sound problems that occurred explain why none of it was used.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0221"></a><a href="/1969-02-21">2/21/1969 Dream Bowl, Napa, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-21*">Listen/Download</a>]<tr><td>Schoolgirl, Doin That Rag, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>E: Morning Dew</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0222"></a><a href="/1969-02-22">2/22/1969 Dream Bowl, Napa, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-22*">Listen/Download</a>]<tr><td>I: Dupree's, Mountains Of The Moon > Dark Star > Cryptical > Drums > Other One > Cryptical > Death Don't</td></tr>
+<tr><td>II: Doin That Rag > St. Stephen > The Eleven > Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0226"></a><a href="/1969-02-26">2/26/1969 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-26*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Mickey Hart And The Hartbeats.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0227"></a><a href="/1969-02-27">2/27/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-27*">Listen/Download</a>]<tr><td>I: Schoolgirl, Doin That Rag, Cryptical <span class="setlist_small">+</span> > Drums <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > Cryptical <span class="setlist_small">+</span></td></tr>
+<tr><td>II: Dupree's, Mountains Of The Moon > Dark Star <span class="setlist_small">*</span> > St. Stephen <span class="setlist_small">*</span> > The Eleven > Lovelight</td></tr>
+<tr><td>E: Cosmic Charlie <span class="setlist_small">#</span></td></tr>
+<tr class="notes"><td>Billing: GD; Pentangle; Sir Douglas Quintet. *appears on "Live Dead." +appears on "So Many Roads (1965-1995)." #appears on "Fillmore West 1969." Entire show apears on "Fillmore West 1969: The Complete Recordings."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0228"></a><a href="/1969-02-28">2/28/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-02-28*">Listen/Download</a>]<tr><td>I: Morning Dew <span class="setlist_small">*</span>, Schoolgirl <span class="setlist_small">*</span>, Doin That Rag <span class="setlist_small">*</span>, King Bee <span class="setlist_small">*</span>, Lovelight <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Cryptical > Other One > Cryptical > Dark Star <span class="setlist_small">*</span> > St. Stephen <span class="setlist_small">*</span> > The Eleven <span class="setlist_small">*</span> > Death Don't <span class="setlist_small">*</span>, Alligator > Drums > Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Billing: GD; Pentangle; Sir Douglas Quintet. Appears on "Fillmore West 1969." Entire show appears on "Fillmore West 1969: The Complete Recordings."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0" class="highlighted"><tr class="header"><td><span><a name="0301"></a><a href="/1969-03-01">3/1/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-01*">Listen/Download</a>]<tr><td>I: Cryptical > Drums > Other One > Cryptical > New Potato Caboose > Doin That Rag > Cosmic Charlie</td></tr>
+<tr><td>II: Dupree's <span class="setlist_small">*</span> > Mountains Of The Moon <span class="setlist_small">*</span>, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>E: Hey Jude</td></tr>
+<tr class="notes"><td>Next ''Hey Jude'' 3/22/1990 [1522 shows]</i></td></tr>
+<tr class="notes"><td>Billing: GD; Pentangle; Sir Douglas Quintet. *appears on "Fillmore West 1969." Entire show appears on "Fillmore West 1969: The Complete Recordings."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0302"></a><a href="/1969-03-02">3/2/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-02*">Listen/Download</a>]<tr><td>I: Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>II: Doin That Rag, Cryptical <span class="setlist_small">+</span> > Drums <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > Cryptical <span class="setlist_small">+</span> > Death Don't <span class="setlist_small">*</span>, Morning Dew, Alligator <span class="setlist_small">+</span> > Drums <span class="setlist_small">+</span> > Jam <span class="setlist_small">+</span> > Caution <span class="setlist_small">+</span> > Feedback <span class="setlist_small">*</span> <span class="setlist_small">+</span> > We Bid You Goodnight <span class="setlist_small">*</span> <span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>Billing: GD; Pentangle; Sir Douglas Quintet. *appears on "Live Dead." +Appears on "Fillmore West 1969." Entire show appears on "Fillmore West 1969: The Complete Recordings."   </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0311"></a><a href="/1969-03-11">3/11/1969 Pacific Recording, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-11*">Listen/Download</a>]<tr><td>Cosmic Charlie, Mountains Of The Moon</td></tr>
+<tr class="notes"><td>Studio session for "Aoxomoxoa."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0312"></a><a href="/1969-03-12">3/12/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-12*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>San Francisco State Strike Committee benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0315"></a><a href="/1969-03-15">3/15/1969 Hilton Hotel, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-15*">Listen/Download</a>]<tr><td>Hard To Handle, Schoolgirl, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>First ''Hard To Handle''</i></td></tr>
+<tr class="notes"><td>"Black and White Ball" - San Francisco Symphony benefit. Phil Lesh's 29th birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1969-03-17">3/17/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-17*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>“Monster Jam” benefit for Rancho Olompali. The Lost Live Dead blog cites a notice in the March 17, 1969 Berkeley Barb announcing this show with musicians from the Dead, the Jefferson Airplane, the Sons of Champlin, and others, conceding that the full bands might not have performed.   </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1969-03-21">3/21/1969 Rose Palace, Pasadena, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-21*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Paul Butterfield Blues Band; Jethro Tull.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0322"></a><a href="/1969-03-22">3/22/1969 Rose Palace, Pasadena, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-22*">Listen/Download</a>]<tr><td>Schoolgirl, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Also: Paul Butterfield Blues Band; Jethro Tull.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0327"></a><a href="/1969-03-27">3/27/1969 (unknown), Merced, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-27*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This show was probably canceled and maybe never scheduled, since no evidence exists suggesting that it actually took place. The tape formerly circulating as this show is actually from the following night.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1969-03-28">3/28/1969 Student Center, Modesto Jr. College, Modesto, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-28*">Listen/Download</a>]<tr><td>I: Schoolgirl, Dark Star > St. Stephen > The Eleven > Death Don’t, Lovelight</td></tr>
+<tr><td>II: Cryptical > Drums > Other One > Cryptical </td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1969-03-29">3/29/1969 Ice Palace, Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-29*">Listen/Download</a>]<tr><td>Morning Dew, Schoolgirl, Doin That Rag, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0404"></a><a href="/1969-04-04">4/4/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-04*">Listen/Download</a>]<tr><td>I: Schoolgirl, Doin That Rag, Cryptical > Drums > Other One > Cryptical > Death Don't</td></tr>
+<tr><td>II: Lovelight, Dark Star > St. Stephen > The Eleven > Feedback</td></tr>
+<tr class="notes"><td>Also: Flying Burrito Bros; Aum.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0405"></a><a href="/1969-04-05">4/5/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-05*">Listen/Download</a>]<tr><td>I: Dupree's, Mountains Of The Moon > Dark Star > St. Stephen > Lovelight</td></tr>
+<tr><td>II: Hard To Handle, Cosmic Charlie, China Cat > Doin That Rag, Cryptical > Drums > Other One > Cryptical > The Eleven > It's A Sin, Alligator > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Previous ''China Cat'' 3/30/1968 [128 shows]; Previous ''It's A Sin'' 10/9/1968 [72 shows]</i></td></tr>
+<tr class="notes"><td>Also: Flying Burrito Bros; Aum. "William Tell" bridge after "St. Stephen"</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0406"></a><a href="/1969-04-06">4/6/1969 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-06*">Listen/Download</a>]<tr><td>I: Schoolgirl, BIODTL, Baby Blue, King Bee</td></tr>
+<tr><td>II: Cryptical > Drums > Other One > Cryptical > Death Don't, Lovelight</td></tr>
+<tr><td>E: Viola Lee Blues</td></tr>
+<tr class="notes"><td>Previous ''BIODTL'' 3/30/1968 [129 shows]; Previous ''Baby Blue'' 6/6/1967 [220 shows]; Previous ''Viola Lee Blues'' 5/8/1968 [114 shows]</i></td></tr>
+<tr class="notes"><td>Also: Flying Burrito Bros; Aum. FM broadcast KPFA-Berkeley. First set might be incomplete, since the broadcast cuts in during Schoolgirl.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0411"></a><a href="/1969-04-11">4/11/1969 University Auditorium, U. of Az., Tucson, AZ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-11*">Listen/Download</a>]<tr><td>Morning Dew, Top Of The World, Cryptical > Drums > Other One > Cryptical > It's A Sin, Hard To Handle, Dark Star > Main Ten > Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Sponsored by the Student Peace Association - tickets: $2 and $3. The first two songs are from an Arizona Daily Star review via DeadLists.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0412"></a><a href="/1969-04-12">4/12/1969 Student Union Ballrm, U. of U., Salt Lake City, UT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-12*">Listen/Download</a>]<tr><td>Morning Dew, Schoolgirl, Doin’ That Rag, Just A Hand To Hold, Cryptical > Drums > Other One > Cryptical, Dark Star > St. Stephen > The Eleven > Turn On Your Lovelight > Feedback</td></tr>
+<tr class="notes"><td>Also: Spirit Of Creation.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0413"></a><a href="/1969-04-13">4/13/1969 Ballroom, U. of Co., Boulder, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-13*">Listen/Download</a>]<tr><td>I: Lovelight, Doin That Rag, Schoolgirl, Morning Dew, Dark Star > St. Stephen > The Eleven > Death Don't</td></tr>
+<tr><td>II: Alligator > Drums > Jam > Caution > Feedback</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0415"></a><a href="/1969-04-15">4/15/1969 The Music Box, Omaha, NE</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-15*">Listen/Download</a>]<tr><td>I: Hard To Handle, BIODTL, Morning Dew, Hurts Me Too, China Cat > Doin’ That Rag > It’s A Sin, Lovelight</td></tr>
+<tr><td>II: Top Of The World, Cryptical > Drums > Other One > Cryptical > Dark Star > St. Stephen > The Eleven</td></tr>
+<tr class="notes"><td>What if anything came after "The Eleven" is unknown.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0417"></a><a href="/1969-04-17">4/17/1969 Washington University, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-17*">Listen/Download</a>]<tr><td>I: Hard To Handle, Morning Dew, Schoolgirl, Dark Star > St. Stephen > It's A Sin > St. Stephen > Lovelight</td></tr>
+<tr><td>II: Cryptical > Drums > Other One > Cryptical > Caution > Feedback</td></tr>
+<tr class="notes"><td>Entire show released as "Grateful Dead Download Series Volume 12."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0418"></a><a href="/1969-04-18">4/18/1969 Memorial Union Ballroom, Purdue U., Lafayette, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-18*">Listen/Download</a>]<tr><td>Hard To Handle, Morning Dew, Cryptical > Drums > Other One > Cryptical > Top Of The World > King Bee, Doin That Rag, Lovelight, Cosmic Charlie, BIODTL</td></tr>
+<tr class="notes"><td>Previous ''Top Of The World'' 5/3/1968 [126 shows]</i></td></tr>
+<tr class="notes"><td>Also: George Stavis.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0420"></a><a href="/1969-04-20">4/20/1969 Atwood Hall, Clark University, Worcester, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-20*">Listen/Download</a>]<tr><td>Morning Dew, Schoolgirl, Doin’ That Rag, Dark Star > St. Stephen > The Eleven > Death Don’t, Lovelight</td></tr>
+<tr><td>E: Dupree’s > Mountains of the Moon</td></tr>
+<tr class="notes"><td>Roland Kirk opened - poster lists the date as 04-19-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0421"></a><a href="/1969-04-21">4/21/1969 The Ark, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-21*">Listen/Download</a>]<tr><td>I: Hard To Handle, Morning Dew, Cryptical > Drums > Other One > Cryptical > Top Of The World, Alligator > Drums > Jam <span class="setlist_small">*</span> > Doin That Rag</td></tr>
+<tr><td>II: Foxey Lady Jam, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>E: Viola Lee Blues > Feedback</td></tr>
+<tr class="notes"><td>*contains "We Bid You Goodnight" theme.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0422"></a><a href="/1969-04-22">4/22/1969 The Ark, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-22*">Listen/Download</a>]<tr><td>I: Top Of The World, Morning Dew, BIODTL, Schoolgirl, Doin That Rag, Cryptical > Drums > Other One > Cryptical > Death Don't</td></tr>
+<tr><td>II: Dupree's, Mountains Of The Moon > Dark Star > St. Stephen > The Eleven > Lovelight > Caution Jam > Lovelight</td></tr>
+<tr class="notes"><td>"Carnival Music" tuning before "Doin That Rag."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0423"></a><a href="/1969-04-23">4/23/1969 The Ark, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-23*">Listen/Download</a>]<tr><td>I: Just A Hand To Hold, Dark Star > St. Stephen > It's A Sin > St. Stephen > Cryptical > Drums > Other One > Cryptical > Top Of The World > Lovelight</td></tr>
+<tr><td>II: Morning Dew, Hard To Handle, Doin That Rag, Alligator > Drums > Jam > The Eleven Jam > Jam > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''He Was A Friend'' 12/7/1968 [59 shows]</i></td></tr>
+<tr class="notes"><td>"Not Fade Away" tease before "Baby Blue."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0425"></a><a href="/1969-04-25">4/25/1969 Electric Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-25*">Listen/Download</a>]<tr><td>Hard To Handle, Doin That Rag, Schoolgirl, Morning Dew, Top Of The World, Lovelight</td></tr>
+<tr class="notes"><td>The Velvet Underground opened and played longer than they should have, causing the Dead to have to truncate their set.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0426"></a><a href="/1969-04-26">4/26/1969 Electric Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-26*">Listen/Download</a>]<tr><td>Dupree's <span class="setlist_small">+</span> > Mountains Of The Moon <span class="setlist_small">+</span> > Dark Star Jam <span class="setlist_small">+</span> > China Cat <span class="setlist_small">+</span> > Doin That Rag <span class="setlist_small">+</span>, Hurts Me Too > Hard To Handle, Cryptical <span class="setlist_small">+</span> > Drums <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > The Eleven Jam <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > It's A Sin <span class="setlist_small">+</span>, Morning Dew, Top Of The World, Minglewood, Silver Threads, Baby Blue, St. Stephen > Lovelight</td></tr>
+<tr><td>E: Viola Lee Blues <span class="setlist_small">*</span> > Feedback <span class="setlist_small">#</span> > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''Viola Lee Blues'' 3/20/1970 [132 shows]</i></td></tr>
+<tr class="notes"><td>The Dead opened and played an extended set to get back at the Velvet Underground for what they did the night before. *appears on "Fallout from the Phil Zone" and contains a "Seven" hint. +appears on "Dick's Picks Volume 26." #accompanied by studio outtake of "What's Become Of The Baby."    </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0427"></a><a href="/1969-04-27">4/27/1969 Labor Temple, Minneapolis, MN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-27*">Listen/Download</a>]<tr><td>Lovelight > Me  and  My Uncle > Top Of The World, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>E: Morning Dew</td></tr>
+<tr class="notes"><td>Previous ''Me  and  My Uncle'' 6/6/1967 [233 shows]</i></td></tr>
+<tr class="notes"><td>Also: Bobby Lyle Quintet. Entire show appears on "Dick's Picks Volume 26."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0502"></a><a href="/1969-05-02">5/2/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-02*">Listen/Download</a>]<tr><td>Cold Rain, Alligator, Other One, Death Don't</td></tr>
+<tr class="notes"><td>Previous ''Cold Rain'' 5/3/1968 [134 shows]; Previous ''Rain'' 5/3/1968 [134 shows]</i></td></tr>
+<tr class="notes"><td>Billing: Jefferson Airplane; GD; Mongo Santamaria. Above songs come from a Ralph J. Gleason review in Rolling Stone.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0503"></a><a href="/1969-05-03">5/3/1969 Sierra College, Rocklin, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-03*">Listen/Download</a>]<tr><td>Morning Dew, Lovelight, Baby Blue</td></tr>
+<tr class="notes"><td>Afternoon concert.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0503"></a><a href="/1969-05-03">5/3/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-03*">Listen/Download</a>]<tr><td>I: Just A Hand To Hold, Cryptical > Drums > Other One > Cryptical > Doin That Rag, Me  and  My Uncle</td></tr>
+<tr><td>II: Dupree's, Top Of The World, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Billing: Jefferson Airplane; GD; Mongo Santamaria. Soundboard and audience recordings of the first set exist, but no recording of the second set has yet surfaced. This audience tape has corculated misdated as 12-31-68, 10-24-69, and 10-25-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0507"></a><a href="/1969-05-07">5/7/1969 Polo Field, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-07*">Listen/Download</a>]<tr><td>Jam > Me And My Uncle, Jam, Other One > Smokestack, Good Lovin <span class="setlist_small">*</span>, Dark Star > Drums > Lovelight</td></tr>
+<tr class="notes"><td>Previous ''Dancin'' 3/30/1968 [146 shows]; Previous ''Good Lovin'' 5/19/1966 [373 shows]; Previous ''Hi-Heel Sneakers'' 2/12/1967 [283 shows]; Previous ''Smokestack'' 3/3/1968 [157 shows]</i></td></tr>
+<tr class="notes"><td>Afternoon concert - also: Jefferson Airplane. Bill Kreutzmann's 22nd birthday. Above list is what appears on the circulating and somewhat chopped soundboard tape. The following list appeared in previous versions of DeadBase and came from eyewitness Judy Dawson: Lovelight, Good Lovin, Dancin, Cryptical > Other One > Cryptical, Dark Star, Me  and  My Uncle, Hi-Heel Sneakers, The Eleven, Smokestack. *Garcia on vocals.   </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0508"></a><a href="/1969-05-08">5/8/1969 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-08*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0509"></a><a href="/1969-05-09">5/9/1969 Hall Of Flowers, County Fairgrounds, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-09*">Listen/Download</a>]<tr><td>Me and My Uncle, Hard To Handle, Doin That Rag, New Potato Caboose, Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0510"></a><a href="/1969-05-10">5/10/1969 Rose Palace, Pasadena, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-10*">Listen/Download</a>]<tr><td>I: Hard To Handle, Me  and  My Uncle, Morning Dew, Doin That Rag, </td></tr>
+<tr><td>II: Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0511"></a><a href="/1969-05-11">5/11/1969 Aztec Bowl, San Diego State U., San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-11*">Listen/Download</a>]<tr><td>Morning Dew, Cryptical > Drums > Other One > Cryptical > Schoolgirl, Me and My Uncle, Alligator > Drums <span class="setlist_small">*</span> > Jam <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Jam <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Lovelight</td></tr>
+<tr class="notes"><td>Also: Canned Heat; Lee Michaels; Santana; Tarantula. *with extra drummers. Recording often circulates as 05-29-69. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0516"></a><a href="/1969-05-16">5/16/1969 Campolindo High School, Moraga, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-16*">Listen/Download</a>]<tr><td>Schoolgirl, Doin That Rag, Me  and  My Uncle, Hard To Handle, Lovelight</td></tr>
+<tr class="notes"><td>Also: Frumious Bandersnatch; Velvet Hammer.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0523"></a><a href="/1969-05-23">5/23/1969 Seminole Indian Village, West Hollywood, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-23*">Listen/Download</a>]<tr><td>Hard To Handle, Morning Dew, Me  and  My Uncle, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>"Big Rock Pow Wow." Billing: GD; Johnny Winter; Sweetwater; Joe South; Aum; NRBQ; Rhinoceros; Muddy Waters; Timothy Leary; The Echo; Nervous System; Jane  and  The Electric Jive Wire. Entire set appears on "Road Trips Vol. 4 No. 1."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0524"></a><a href="/1969-05-24">5/24/1969 Seminole Indian Village, West Hollywood, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-24*">Listen/Download</a>]<tr><td>Lovelight, Doin That Rag > Just A Hand To Hold > China Cat > The Eleven > Death Don't, Alligator > Drums > St. Stephen > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>"Big Rock Pow Wow." Also: The Youngbloods. Entire set appears on "Road Trips Vol. 4 No. 1."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0528"></a><a href="/1969-05-28">5/28/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-28*">Listen/Download</a>]<tr><td>Smokestack, Doin' That Rag, St. Stephen, Cryptical > Drums > Other One > Cryptical > Lovelight</td></tr>
+<tr class="notes"><td>"People's Park Bail Ball" benefit. Billing: Jefferson Airplane; GD; Creedence Clearwater Revival; Elvin Bishop Group; Santana; Bangor Flying Circus; Aum. According to Michael Lydon in Rolling Stone, Doin’ That Rag, St. Stephen, and Lovelight were performed at this show.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0529"></a><a href="/1969-05-29">5/29/1969 Robertson Gym, U.C.S.B., Santa Barbara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-29*">Listen/Download</a>]<tr><td>Lovelight</td></tr>
+<tr class="notes"><td>"Memorial Day Ball." Also: Lee Michaels; The Youngbloods. Above is the one tune reported from this show by Michael Lydon in Rolling Stone. The recording that circulates under this date is actually from 05-11-69 in San Diego, since Lydon did not report a bunch of percussionists all on stage at once.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1969-05-30">5/30/1969 Springer's Inn, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-30*">Listen/Download</a>]<tr><td>Morning Dew, Me  and  My Uncle, Doin That Rag, King Bee, Dark Star > Cosmic Charlie, St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>DeadLists states that the circulating tape of this show cuts after Garcia teasing the opening notes to St. Stephen and resumes right before the first vocals to The Eleven, therefore the actual presence of St. Stephen is uncertain. Our copy of this show, however, does contain the complete Stephen, which features an extended intro due to Garcia’s having broken a string for about the third time that night.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0531"></a><a href="/1969-05-31">5/31/1969 McArthur Court, University of Oregon, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-05-31*">Listen/Download</a>]<tr><td>I: Hard To Handle, Cold Rain, Green Green Grass, Me  and  My Uncle, Cryptical > Drums > Other One > Cryptical > Top Of The World, Hurts Me Too, Lovelight</td></tr>
+<tr><td>II: Just A Hand To Hold, Dark Star > Feedback > Dark Star > Doin That Rag > Cosmic Charlie, Baby Blue > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>First ''Green Green Grass''; Next ''Hurts Me Too'' 10/31/1969 [56 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0605"></a><a href="/1969-06-05">6/5/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-05*">Listen/Download</a>]<tr><td>I: Morning Dew, Me  and  My Uncle, Doin That Rag, Just A Hand To Hold, Hard To Handle, Cosmic Charlie, Cryptical > Drums > Other One > Cryptical</td></tr>
+<tr><td>II: China Cat > Top Of The World > Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Billing: GD; Jr. Walker  and  The All Stars; The Glass Family.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0606"></a><a href="/1969-06-06">6/6/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-06*">Listen/Download</a>]<tr><td>Smokestack, Green Green Grass, Me  and  My Uncle, Checkin Up<span class="setlist_small">*</span>, BIODTL, Lovelight</td></tr>
+<tr class="notes"><td>Only ''Checkin Up''; Next ''Smokestack'' 12/21/1969 [70 shows]</i></td></tr>
+<tr class="notes"><td>Billing: GD; Jr. Walker  and  The All Stars; The Glass Family. *with Elvin Bishop. This is almost definitely the night of the legendary massive backstage dosing. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0607"></a><a href="/1969-06-07">6/7/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-07*">Listen/Download</a>]<tr><td>Dire Wolf, Dupree's, Mountains Of The Moon > Dark Star > St. Stephen > The Eleven > Top Of The World > Cold Rain > Doin That Rag, Me  and  My Uncle, Lovelight<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Dire Wolf''; Next ''Rain'' 10/26/1969 [52 shows]</i></td></tr>
+<tr class="notes"><td>Billing: GD; Jr. Walker  and  The All Stars; The Glass Family. *with Janis Joplin. Before the material preceding "The Eleven" became available, a noticeably sped-up recording of "Dark Star" and "St. Stephen" from the recording now correctly identified as 10-12-68 was sometimes grafted onto "The Eleven."    </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1969-06-08">6/8/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-08*">Listen/Download</a>]<tr><td>I: Dancin, Just A Hand To Hold <span class="setlist_small">+</span> > China Cat <span class="setlist_small">+</span> > New Potato Caboose <span class="setlist_small">+</span>, Me  and  My Uncle</td></tr>
+<tr><td>II: Lovelight<span class="setlist_small">*</span>, Things I Used To Do<span class="setlist_small">*</span>, Who's Lovin You<span class="setlist_small">*</span>, Cryptical > Drums > Other One > Cosmic Charlie</td></tr>
+<tr class="notes"><td>Only ''Things I Used To Do''; Only ''Who's Lovin You''; Final ''New Potato Caboose''</i></td></tr>
+<tr class="notes"><td>Billing: GD; Jr. Walker  and  The All Stars; The Glass Family. *with Elvin Bishop, and Wayne "The Harp" Ceballos. +appears on the "Fillmore West 1969" bonus disc. The Lost Live Dead blog speculates that there may have been additional performers on stage during the first three songs in the second set, and that this might have been the night of the legendary massive dosing rather than the 6th.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0611"></a><a href="/1969-06-11">6/11/1969 California Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-11*">Listen/Download</a>]<tr><td>I: Let It Be Me, Silver Threads, Mama Tried, Cathy's Clown, Me  and  My Uncle, Slewfoot, Dire Wolf, Games People Play, Race Is On, Green Green Grass</td></tr>
+<tr><td>II: Tiger By The Tail, I've Just Seen A Face, All I Have To Do Is Dream, Wabash Cannonball, Railroading Great Divide</td></tr>
+<tr class="notes"><td>Only ''All I Have To Do Is Dream''; First ''Cathy's Clown''; Only ''Games People Play''; Only ''I've Just Seen A Face''; Only ''Let It Be Me''; First ''Mama Tried''; First ''Race Is On''; Only ''Railroading Great Divide''; First ''Slewfoot''; Only ''Tiger By The Tail''; Only ''Wabash Cannonball''; Next ''Race Is On'' 12/31/1969 [72 shows]</i></td></tr>
+<tr class="notes"><td>Bobby Ace And His Cards From The Bottom Of The Deck - Weir, Garcia, Lesh, Hart and Constanten - with John Dawson and David Nelson on guitar, autoharp and vocals and with Peter Grant on pedal steel. It must be stressed that the setlist of this show came from eyewitness Judy Dawson, and that no recording of it has ever surfaced.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0613"></a><a href="/1969-06-13">6/13/1969 Fresno Convention Center, Fresno, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-13*">Listen/Download</a>]<tr><td>Hard To Handle, Me  and  My Uncle, Top Of The World, BIODTL, Schoolgirl<span class="setlist_small">*</span>, China Cat > Morning Dew, St. Stephen > The Eleven > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*with Ronnie Hawkins. Yellow Dog story after "Hard To Handle."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1969-06-14">6/14/1969 Monterey Peninsula College, Monterey, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-14*">Listen/Download</a>]<tr><td>Lovelight > Me  and  My Uncle > Doin That Rag > Just A Hand To Hold, Dire Wolf, Dark Star > St. Stephen > The Eleven > Lovelight > Drums > Lovelight</td></tr>
+<tr class="notes"><td>Venue uncertain. Aum opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0620"></a><a href="/1969-06-20">6/20/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-20*">Listen/Download</a>]<tr><td>King Bee, Cold Jordan, Dire Wolf, Casey Jones, Mama Tried, Lovelight, Alligator</td></tr>
+<tr class="notes"><td>First ''Casey Jones''; First ''Cold Jordan''; Next ''Cold Jordan'' 5/1/1970 [124 shows]</i></td></tr>
+<tr class="notes"><td>Early show. Billing: GD; Buddy Miles Express; Savoy Brown. Order uncertain, list could be from late show. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0620"></a><a href="/1969-06-20">6/20/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-20*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show. Billing: GD; Buddy Miles Express; Savoy Brown.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1969-06-21">6/21/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-21*">Listen/Download</a>]<tr><td>Green Green Grass, Me  and  My Uncle, High Time, China Cat > Morning Dew, Alligator > Drums > Jam > Other One > Cryptical > Slewfoot, Cosmic Charlie</td></tr>
+<tr class="notes"><td>First ''High Time''</i></td></tr>
+<tr class="notes"><td>Early show. Billing: GD; Buddy Miles Express; Savoy Brown. There might be a segue from Me and My Uncle to High Time.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1969-06-21">6/21/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-21*">Listen/Download</a>]<tr><td>Old Old House, Top Of The World <span class="setlist_small">*</span>, King Bee, Dire Wolf, Mama Tried, High Time, Dupree's, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Late show. Billing: GD; Buddy Miles Express; Savoy Brown. *with Garcia on pedal steel.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0622"></a><a href="/1969-06-22">6/22/1969 Central Park, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-22*">Listen/Download</a>]<tr><td>Dancin’, Casey Jones, Hard To Handle, Top of the World, Silver Threads, Me and My Uncle, Dark Star > Other One > St. Stephen > It’s a Sin > Lovelight</td></tr>
+<tr class="notes"><td>DeadLists has a “jam” segueing into Casey Jones, but this is merely how early versions of the song began. A combination of 04-12-70 and the jam from 09-17-70 has circulated with this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0627"></a><a href="/1969-06-27">6/27/1969 Veterans Auditorium, Santa Rosa, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-27*">Listen/Download</a>]<tr><td>Slewfoot, Mama Tried, High Time, Dupree's, Me  and  My Uncle, Casey Jones, Dire Wolf<span class="setlist_small">*</span>, Top Of The World, Big Boss Man, Dark Star > St. Stephen > The Eleven Jam > Green Green Grass</td></tr>
+<tr><td>E: Baby Blue > Drums</td></tr>
+<tr class="notes"><td>Previous ''Big Boss Man'' 6/6/1967 [261 shows]</i></td></tr>
+<tr class="notes"><td>Also: Hot Tuna; Joey Covington; Cleanliness  and  Godliness Skiffle Band. *Weir on lead vocals, appears as a "Workingman’s Dead" bonus track in "The Golden Road (1965-1973)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0628"></a><a href="/1969-06-28">6/28/1969 Veterans Auditorium, Santa Rosa, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-28*">Listen/Download</a>]<tr><td>Slewfoot, Silver Threads, Mama Tried, Me and My Uncle, Doin That Rag > High Time, King Bee, Top Of The World, Lovelight</td></tr>
+<tr class="notes"><td>Also: Hot Tuna; Joey Covington; Cleanliness  and  Godliness Skiffle Band.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0629"></a><a href="/1969-06-29">6/29/1969 The Barn, Rio Nido, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-29*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Also: Hot Tuna; Joey Covington; Cleanliness  and  Godliness Skiffle Band.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="06xx"></a><a href="/1969-06-xx">6/xx/1969 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-xx*">Listen/Download</a>]<tr><td>Dire Wolf x2, Casey Jones, High Time x2, Hawaiian Blues, Dire Wolf x4, High Time</td></tr>
+<tr class="notes"><td>The above circulates as "Workingman's Dead outtakes," but actually dates from about June of 1969 and consists of Garcia working out these new tunes with some overdubs. Note that, aside from "Hawaiian Blues," these are the first three "Workingman's Dead" songs the Grateful Dead performed, presented here before the band learned them.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0703"></a><a href="/1969-07-03">7/3/1969 Reed's Ranch, Colorado Springs, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-03*">Listen/Download</a>]<tr><td>Green Green Grass > Slewfoot, Top Of The World, Morning Dew, High Time, Me  and  My Uncle, Casey Jones, Mama Tried, Hard To Handle, Just a Hand to Hold, Turn On Your Lovelight</td></tr>
+<tr class="notes"><td>Also: Zephyr; Holden Caulfield and Deven Michaels.; Tom Constanten's 100th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0704"></a><a href="/1969-07-04">7/4/1969 Electric Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-04*">Listen/Download</a>]<tr><td>Hard To Handle, Mama Tried, Slewfoot, Silver Threads, Cryptical > Drums > Other One > High Time > Casey Jones, King Bee, Top Of The World > Me  and  My Uncle, Doin' That Rag, Let Me In, Dire Wolf, St. Stephen > Lovelight</td></tr>
+<tr class="notes"><td>Only ''Let Me In''</i></td></tr>
+<tr class="notes"><td>A slight “Cryptical” tease can be heard before the band settles into High Time.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0705"></a><a href="/1969-07-05">7/5/1969 Electric Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-05*">Listen/Download</a>]<tr><td>I: Morning Dew, Dark Star > St. Stephen > The Eleven > Baby Blue</td></tr>
+<tr><td>II: China Cat > High Time > Mama Tried, Hard To Handle, Casey Jones, Lovelight</td></tr>
+<tr class="notes"><td>Previous ''I Know You Rider'' 12/1/1966 [337 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0707"></a><a href="/1969-07-07">7/7/1969 Piedmont Park, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-07*">Listen/Download</a>]<tr><td>Morning Dew, Mama Tried, High Time, Casey Jones, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Free afternoon concert.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0708"></a><a href="/1969-07-08">7/8/1969 Rock Pile, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0708"></a><a href="/1969-07-08">7/8/1969 Rock Pile, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0710"></a><a href="/1969-07-10">7/10/1969 Gallagher Estate, Norwalk, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-10*">Listen/Download</a>]<tr><td>China Cat > Top Of The World, Dark Star, Cryptical > Other One > Cryptical</td></tr>
+<tr class="notes"><td>Hell's Angels party. This all seems very suspect, especially after a fake tape emerged bearing this setlist. For the time being it will be left here. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0711"></a><a href="/1969-07-11">7/11/1969 NY State Pavilion, Flushing Meadow Pk, Queens, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-11*">Listen/Download</a>]<tr><td>Dupree's, Dire Wolf, Hard To Handle<span class="setlist_small">*</span>, Silver Threads<span class="setlist_small">*</span>, Casey Jones, Top Of The World > Big Boss Man, Mama Tried, High Time, Alligator > Drums > Jam > Other One > Death Don't > Lovelight</td></tr>
+<tr class="notes"><td>Next ''Silver Threads'' 12/31/1969 [54 shows]</i></td></tr>
+<tr class="notes"><td>*Garcia on pedal steel. The segue from "Sittin’ on Top of the World" to "Big Boss Man" is rather iffy. Material from the audience recordings of this and the following show has circulated in various convoluted sequences as 07-12-69 and 07-13-69. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0712"></a><a href="/1969-07-12">7/12/1969 NY State Pavilion, Flushing Meadow Pk, Queens, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-12*">Listen/Download</a>]<tr><td>Green Green Grass, Slewfoot, Mountains Of The Moon, Doin That Rag > China Cat > Mama Tried > High Time, Dark Star > Other One > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Next ''Green Green Grass'' 2/7/1970 [72 shows]; Final ''Mountains Of The Moon''</i></td></tr>
+<tr class="notes"><td>Material from the audience recordings of this and the preceding show has circulated in various convoluted sequences as 07-12-69 and 07-13-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0712"></a><a href="/1969-07-12">7/12/1969 Central Park, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-12*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1969-07-16">7/16/1969 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-16*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0725"></a><a href="/1969-07-25">7/25/1969 Honolulu International Center, Honolulu , HI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-25*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0726"></a><a href="/1969-07-26">7/26/1969 Honolulu International Center, Honolulu , HI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-26*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0727"></a><a href="/1969-07-27">7/27/1969 Honolulu International Center, Honolulu , HI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-07-27*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0802"></a><a href="/1969-08-02">8/2/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-02*">Listen/Download</a>]<tr><td>Casey Jones, Hard To Handle, Mama Tried, High Time, Seasons, Slewfoot, Big Boss Man, Cryptical > Drums > Other One > Cryptical > Lovelight</td></tr>
+<tr class="notes"><td>First ''Seasons''; Next ''Slewfoot'' 12/31/1969 [51 shows]</i></td></tr>
+<tr class="notes"><td>Also: Ballet Afro-Haiti; Albert Collins.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0803"></a><a href="/1969-08-03">8/3/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-03*">Listen/Download</a>]<tr><td>Hard To Handle, BIODTL, Hi-Heel Sneakers, High Time, Mama Tried, Dark Star > Alligator > Drums > Other One > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Also: Ballet Afro-Haiti; Albert Collins. Snooky Flowers plays saxophone and David LaFlamme electric violin through most of the set. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0805"></a><a href="/1969-08-05">8/5/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-05*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Dead's name was blocked off on the poster.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0806"></a><a href="/1969-08-06">8/6/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-06*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Dead's name was blocked off on the poster.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0807"></a><a href="/1969-08-07">8/7/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Dead's name was blocked off on the poster.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0816"></a><a href="/1969-08-16">8/16/1969 Max Yasgur's Farm, Bethel, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-16*">Listen/Download</a>]<tr><td>St. Stephen > Mama Tried, Dark Star > High Time, Lovelight</td></tr>
+<tr class="notes"><td>Woodstock Music and Art Fair. Also: Canned Heat; Creedence Clearwater Revival; Keef Hartley Band; Janis Joplin; Jefferson Airplane; Mountain; Quill; Santana; The Who.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0821"></a><a href="/1969-08-21">8/21/1969 Green Lake Aqua Theatre, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-21*">Listen/Download</a>]<tr><td>Casey Jones, Easy Wind, Morning Dew, High Time, Mama Tried, Me  and  My Uncle, Minglewood<span class="setlist_small">*</span>, China Cat<span class="setlist_small">*</span> > Doin That Rag, Big Boss Man, Top Of The World, Cryptical > Drums > Other One > Cryptical > Dark Star > Cosmic Charlie</td></tr>
+<tr class="notes"><td>First ''Easy Wind''; Next ''Minglewood'' 3/20/1970 [86 shows]</i></td></tr>
+<tr class="notes"><td>Date of show may be 08-20-69. Also: NRPS; Sanpaku. *with unknown flute player.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0823"></a><a href="/1969-08-23">8/23/1969 Pelletier Farm, St. Helens, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-23*">Listen/Download</a>]<tr><td>Hard To Handle, Mama Tried > High Time, Casey Jones, Easy Wind, Top Of The World, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr><td>E: We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Bullfrog 2 Festival - also: Mixed Blood; The Portland Zoo; Sabatic Goat; River; Sand; Notary Sojac; Searchin Soul; The Weeds; New Colony; Chapter Five; The Trilogy; Bill Feldman; Donn Ross; Ron Bruce</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0824"></a><a href="/1969-08-24">8/24/1969 Paradise Valley Resort, Squamish, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-24*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Vancouver Pop Fesival. Also: Merryweather; Alice Cooper; Smith; Merrilee Rush; Guess Who; Rotary Connection; Chrome Syrcus; The Byrds; The Rascals; Chambers Brothers.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0828"></a><a href="/1969-08-28">8/28/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-28*">Listen/Download</a>]<tr><td>It's A Sin, Hi-Heel Sneakers, Dark Star > Jam > The Eleven Jam > Jam</td></tr>
+<tr class="notes"><td>Final ''Hi-Heel Sneakers''; Final ''It's A Sin''</i></td></tr>
+<tr class="notes"><td>Mickey Hart and the Hartbeats, possibly without opening acts of Phoenix; NRPS; Commander Cody. Band is Garcia, Hart, and Lesh with Howard Wales on keyboards.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0829"></a><a href="/1969-08-29">8/29/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-29*">Listen/Download</a>]<tr><td>Casey Jones, Easy Wind, Me  and  My Uncle > High Time, New Orleans > Searchin > Good Lovin <span class="setlist_small">*</span>, Dire Wolf, King Bee, Lovelight</td></tr>
+<tr class="notes"><td>First ''New Orleans''; First ''Searchin''; Next ''Searchin'' 11/8/1970 [166 shows]</i></td></tr>
+<tr class="notes"><td>Also: Phoenix; NRPS; Commander Cody. *Garcia on vocals. An audience recording of 08-30-69 with a "Cold Rain and Snow" from sometime else added has circulated under this date. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0830"></a><a href="/1969-08-30">8/30/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-08-30*">Listen/Download</a>]<tr><td>China Cat > Doin That Rag, Morning Dew, Easy Wind, Dark Star > St. Stephen > The Eleven > Drums > High Time</td></tr>
+<tr class="notes"><td>Also: Phoenix; NRPS; Commander Cody. An audience recording of this show with a "Cold Rain and Snow" from sometime else added has circulated as 08-29-69, 11-18-69, and 12-04-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0901"></a><a href="/1969-09-01">9/1/1969 Baton Rouge Int. Speedway, Prairieville, LA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-01*">Listen/Download</a>]<tr><td>Casey Jones, Morning Dew > Mama Tried > High Time, Easy Wind, Dark Star > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>New Orleans Pop Festival.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0906"></a><a href="/1969-09-06">9/6/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-06*">Listen/Download</a>]<tr><td>Schoolgirl, Doin That Rag, Just A Hand To Hold, Big Boy Pete > Good Lovin <span class="setlist_small">*</span>, All Over Now, Midnight Hour</td></tr>
+<tr class="notes"><td>First ''All Over Now''; Next ''All Over Now'' 11/20/1970 [171 shows]; Previous ''Big Boy Pete'' 12/1/1966 [355 shows]</i></td></tr>
+<tr class="notes"><td>*with Garcia vocals. Other tunes might might have been performed between It’s All Over Now and Midnight Hour.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0907"></a><a href="/1969-09-07">9/7/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-07*">Listen/Download</a>]<tr><td>Peggy Sue<span class="setlist_small">*</span>, That'll Be The Day<span class="setlist_small">+</span>, Johnny B. Goode<span class="setlist_small">+</span>, Baby What You Want<span class="setlist_small">*</span>, Surf Jam > Big RxR Blues<span class="setlist_small">+</span>, Louie Louie<span class="setlist_small">#</span> > Twist  and  Shout<span class="setlist_small">#</span> > Blue Moon<span class="setlist_small">#</span></td></tr>
+<tr class="notes"><td>First ''Baby What You Want''; First ''Big RxR Blues''; Only ''Blue Moon''; First ''Johnny B. Goode''; Only ''Peggy Sue''; Only ''That'll Be The Day''; Only ''Twist  and  Shout''; Next ''Louie Louie'' 4/5/1988 [1300 shows]</i></td></tr>
+<tr class="notes"><td>With Jorma Kaukonen and Joey Covington. *Jorma Kaukonen vocals.  +Jerry Garcia vocals  #Joey Covington vocals. Setlist most likely incomplete.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0907"></a><a href="/1969-09-07">9/7/1969 Hyde Park, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-07*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>On August 27, 1969 Ralph J. Gleason announced in the San Francisco Chronicle that the Dead would be joining the Jefferson Airplane, Crosby Stills & Nash, and Joni Mitchell for a free concert in London’s Hyde Park, which obviously did not take place.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0911"></a><a href="/1969-09-11">9/11/1969 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-11*">Listen/Download</a>]<tr><td>Easy Wind</td></tr>
+<tr class="notes"><td>This tune circulates under this date with no venue, and does not appear to match any other known version.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0926"></a><a href="/1969-09-26">9/26/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-26*">Listen/Download</a>]<tr><td>Dark Star > St. Stephen > The Eleven > King Bee > Death Don't</td></tr>
+<tr class="notes"><td>Early show. Billing: Country Joe  and  The Fish; GD; Sha Na Na. The exact date of this list is uncertain, but it sonically matches the other audience recordings from this immediate era and is not from Central Park 07-14-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0926"></a><a href="/1969-09-26">9/26/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-26*">Listen/Download</a>]<tr><td>Lovelight</td></tr>
+<tr class="notes"><td>Late show. Billing: Country Joe  and  The Fish; GD; Sha Na Na.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0927"></a><a href="/1969-09-27">9/27/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-27*">Listen/Download</a>]<tr><td>Morning Dew, Mama Tried, Next Time, Casey Jones, China Cat > High Time, Dire Wolf, Me  and  My Uncle, Uncle John's Jam</td></tr>
+<tr class="notes"><td>Previous ''Next Time'' 3/18/1967 [321 shows]</i></td></tr>
+<tr class="notes"><td>Early show. Billing: Country Joe  and  The Fish; GD; Sha Na Na. Setlist probably incomplete.  "Take Me Out To The Ballgame" tuning after "Uncle John's Jam." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0927"></a><a href="/1969-09-27">9/27/1969 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-27*">Listen/Download</a>]<tr><td>Mama Tried, Schoolgirl</td></tr>
+<tr class="notes"><td>Billing: Country Joe  and  The Fish; GD; Sha Na Na.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1969-09-29">9/29/1969 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-29*">Listen/Download</a>]<tr><td>Just A Hand To Hold, Doin That Rag > The Seven > Good Lovin > drums > Good Lovin > St. Stephen > The Eleven</td></tr>
+<tr class="notes"><td>Next ''The Seven'' 3/21/1970 [75 shows]</i></td></tr>
+<tr class="notes"><td>Early show. Recording long misdated as part of 11-09-70 and appeared as such on a classic old bootleg LP. Opening song comes from DeadLists according to an eyewitness, who also confirmed this as the early show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1969-09-29">9/29/1969 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-29*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1969-09-30">9/30/1969 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-30*">Listen/Download</a>]<tr><td>China Cat > I Know You Rider, Alligator > Drums > Other One </td></tr>
+<tr class="notes"><td>Early show. "Merry-Go-Round Broke Down > Take Me Out To The Ballgame" tuning before "Alligator." Setlist could be from one of the other two nights, but this recording sonically matches the other audience tapes from this immediate era. Recordings of 06-22-69 have sometimes been grafted onto the beginning of this in a scrambled order. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1969-09-30">9/30/1969 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-09-30*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1001"></a><a href="/1969-10-01">10/1/1969 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Early show.; Mickey Hart's 250th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1001"></a><a href="/1969-10-01">10/1/1969 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-01*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Late show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1002"></a><a href="/1969-10-02">10/2/1969 Boston Tea Party, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Doc Watson  and  Son opened at least one show of this run.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1003"></a><a href="/1969-10-03">10/3/1969 Boston Tea Party, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-03*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1004"></a><a href="/1969-10-04">10/4/1969 Boston Tea Party, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-04*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1005"></a><a href="/1969-10-05">10/5/1969 Sam Houston Coliseum, Houston, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-05*">Listen/Download</a>]<tr><td>Lovelight</td></tr>
+<tr class="notes"><td>The Dead were long thought to have not played this gig, but DeadLists quotes an eyewitness who claims that the Dead did perform and played "Lovelight." Jefferson Airplane, the Byrds, Poco, and Glenn Mckay's Headlights were alos on the bill.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1006"></a><a href="/1969-10-06">10/6/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-06*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Lost Live Dead blog speculates that this show might not have taken place - the San Francisco Chronicle does not mention it.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1017"></a><a href="/1969-10-17">10/17/1969 Loma Prieta Room, Student Union, San Jose State College, San Jose, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-17*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>This was a NRPS gig rather than the Grateful Dead, according to that morning’s Ralph J. Gleason column in the San Francisco Chronicle. Gleason refers to the venue as the “S. J. State College Student Ballroom;” Lost Live Dead assumes he meant the same venue the Dead played on the 31st.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1024"></a><a href="/1969-10-24">10/24/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-24*">Listen/Download</a>]<tr><td>Casey Jones, Dire Wolf, High Time, Easy Wind, Hard To Handle, China Cat > I Know You Rider, Cryptical > Drums > Other One > Cryptical > Cosmic Charlie, Mama Tried, Good Lovin> Drums > Good Lovin</td></tr>
+<tr class="notes"><td>Billing: Jefferson Airplane; GD; Sons Of Champlin; Hot Tuna. The first set from 05-03-69 has circulated under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1025"></a><a href="/1969-10-25">10/25/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-25*">Listen/Download</a>]<tr><td>Good Lovin > Drums > Good Lovin, Me  and  My Uncle, China Cat > I Know You Rider, Casey Jones, High Time, Dark Star > St. Stephen > The Eleven > Lovelight <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Billing: Jefferson Airplane; GD; Sons Of Champlin; Hot Tuna. *with Stephen Stills. The first set of 05-03-69 has circulated under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1026"></a><a href="/1969-10-26">10/26/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-26*">Listen/Download</a>]<tr><td>Jam <span class="setlist_small">*</span>, Hard To Handle, Cold Rain, Me  and  My Uncle, Next Time, Dire Wolf, Casey Jones, Easy Wind, BIODTL, Good Lovin > Drums > Good Lovin, Doin That Rag, China Cat > I Know You Rider, Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Cold Rain'' 6/7/1969 [52 shows]; Previous ''Rain'' 6/7/1969 [52 shows]; Final ''Doin That Rag''</i></td></tr>
+<tr class="notes"><td>Billing: Jefferson Airplane; GD; Sons Of Champlin; Hot Tuna. *performed while the crew attempted to get the monitors working.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1969-10-31">10/31/1969 Loma Prieta Room, Student Union, San Jose State College, San Jose, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-31*">Listen/Download</a>]<tr><td>Casey Jones, Dire Wolf, Hurts Me Too, Cryptical > Drums > Other One > Cryptical > China Cat > I Know You Rider, Mama Tried, High Time, Top Of The World, Next Time > Easy Wind, Lovelight</td></tr>
+<tr class="notes"><td>Previous ''Hurts Me Too'' 5/31/1969 [56 shows]</i></td></tr>
+<tr class="notes"><td>The Lost Live Dead blog names the exact venue by citing a poster which it does not provide a link for, but there does not seem to be any reason to doubt this information.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="10xx"></a><a href="/1969-10-xx">10/xx/1969 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-10-xx*">Listen/Download</a>]<tr><td>Feelin Groovy jam, Uncle John's jam</td></tr>
+<tr class="notes"><td>Rehearsal. The recording of the "Uncle John's jam" was later given to Robert Hunter with the instructions "write some lyrics for this."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1101"></a><a href="/1969-11-01">11/1/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-01*">Listen/Download</a>]<tr><td>Morning Dew, Dire Wolf, Cold Rain, Hard To Handle, Mama Tried, High Time, Good Lovin > Drums > Good Lovin, Easy Wind, Just A Hand To Hold > China Cat > I Know You Rider > Casey Jones, Alligator > Drums > Jam > Uncle John's Jam > Lovelight</td></tr>
+<tr class="notes"><td>Also: Danny Cox; Golden Toad.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1102"></a><a href="/1969-11-02">11/2/1969 Family Dog at the Great Highway, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-02*">Listen/Download</a>]<tr><td>Cold Rain, Midnight Hour, Seasons, Mama Tried, Next Time, Good Lovin > Drums > Good Lovin, Big Boss Man, Casey Jones, Dancin, Dark Star > St. Stephen > The Eleven > Death Don't</td></tr>
+<tr class="notes"><td>Previous ''Midnight Hour'' 12/31/1968 [127 shows]</i></td></tr>
+<tr class="notes"><td>Also: Danny Cox; Golden Toad.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1107"></a><a href="/1969-11-07">11/7/1969 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-07*">Listen/Download</a>]<tr><td>Morning Dew, Hard To Handle, Casey Jones, Mama Tried, Me  and  My Uncle, Cold Rain, Next Time, High Time, Good Lovin > Drums > Good Lovin, China Cat > I Know You Rider, Dark Star > Uncle John's Jam > Dark Star > Cryptical > Drums > Other One > Lovelight <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>The New Old Fillmore. Also: South Bay Experimental Flash; Alligator. "Star Spangled Banner", "Merry-Go-Round Broke Down,"  "Take Me Out To The Ballgame, " and "Spring Song" tunings before "Cold Rain." *appears on "Dick’s Picks Volume 16." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1108"></a><a href="/1969-11-08">11/8/1969 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-08*">Listen/Download</a>]<tr><td>Schoolgirl, Casey Jones, Dire Wolf, Easy Wind, China Cat > I Know You Rider > High Time, Mama Tried, Good Lovin > Drums > Good Lovin, Cumberland, Dark Star > Other One > Dark Star > Uncle John's Jam > Dark Star > St. Stephen > The Eleven > Caution <span class="setlist_small">*</span> > The Main Ten > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>First ''Cumberland''; Previous ''The Main Ten'' 6/19/1968 [183 shows]</i></td></tr>
+<tr class="notes"><td>The New Old Fillmore. Also: South Bay Experimental Flash; Alligator. *with unknown vocalist. Entire show except a couple hot minutes of "Caution" released as "Dick’s Picks Volume 16." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1115"></a><a href="/1969-11-15">11/15/1969 Lanai Theater, Crockett, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-15*">Listen/Download</a>]<tr><td>Casey Jones, Me  and  My Uncle, Easy Wind, Cumberland > China Cat > I Know You Rider, High Time, Next Time, Mama Tried, Big Boss Man, Cosmic Charlie, Dire Wolf, Cold Rain, Good Lovin > Drums > Good Lovin, Lovelight</td></tr>
+<tr class="notes"><td>Moratorium Day benefit. Weir explains wooden teeth after "Easy Wind."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1118"></a><a href="/1969-11-18">11/18/1969 , , </a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-18*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>No Grateful Dead performance is known to have taken place on this date. An audience recording of 08-30-69 with a "Cold Rain and Snow" from sometime else added has circulated as such.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1121"></a><a href="/1969-11-21">11/21/1969 Building A, Cal Expo, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-11-21*">Listen/Download</a>]<tr><td>I: Casey Jones, Schoolgirl, Cold Rain, Cumberland, Easy Wind</td></tr>
+<tr><td>II: Good Lovin > Drums > Good Lovin, China Cat > I Know You Rider, High Time, Me  and  My Uncle, Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1204"></a><a href="/1969-12-04">12/4/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-04*">Listen/Download</a>]<tr><td>Casey Jones, Black Peter, Big Boss Man, Me  and  My Uncle, Cumberland, Dire Wolf, Dark Star > High Time, Schoolgirl, Good Lovin > Drums > Good Lovin, China Cat > I Know You Rider, Uncle John</td></tr>
+<tr class="notes"><td>First ''Black Peter''; First ''Uncle John''</i></td></tr>
+<tr class="notes"><td>Billing: GD; The Flock; Humble Pie. An audience recording of 08-30-69 with a "Cold Rain and Snow" from sometime else added has circulated under this date, as has 12-19-69.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1205"></a><a href="/1969-12-05">12/5/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-05*">Listen/Download</a>]<tr><td>Me  and  My Uncle, Casey Jones, Black Peter, Mama Tried, Hurts Me Too, Cumberland, Cryptical > Drums > Other One > The Eleven Jam > Other One > Cryptical > Cosmic Charlie, Dancin, Dire Wolf, China Cat > I Know You Rider > High Time, Uncle John > The Main Ten > Baby Blue <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Next ''The Main Ten'' 5/3/1970 [70 shows]</i></td></tr>
+<tr class="notes"><td>Billing: GD; The Flock; Humble Pie. "Carnival Music" tuning before "Dire Wolf." Recording has sometimes circulated dated as 12-06-69. There is a cut between "Uncle John's Band" and "The Main Ten," meaning that it is uncertain whether the former tune actually contains vocals. *the last song the Grateful Dead played before Altamont. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1206"></a><a href="/1969-12-06">12/6/1969 Altamont Speedway, Altamont, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-06*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Dead were supposed to follow the Rolling Stones but did not play due to the increasing violence.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1206"></a><a href="/1969-12-06">12/6/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-06*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Canceled due to the problems at Altamont.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1207"></a><a href="/1969-12-07">12/7/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-07*">Listen/Download</a>]<tr><td>Black Peter, Hard To Handle, Cumberland, Mama Tried > Easy Wind, Dancin, Good Lovin > Drums > God Lovin, China Cat > I Know You Rider > St. Stephen > The Eleven > Lovelight</td></tr>
+<tr class="notes"><td>Billing: GD; The Flock; Humble Pie.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1210"></a><a href="/1969-12-10">12/10/1969 Thelma Theater, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-10*">Listen/Download</a>]<tr><td>I: China Cat > I Know You Rider, Black Peter, Me and My Uncle, Cold Rain, Mama Tried > High Time, Easy Wind, Casey Jones <span class="setlist_small">*</span>, Schoolgirl <span class="setlist_small">*</span>, Morning Dew <span class="setlist_small">*</span>, Black Queen <span class="setlist_small">*</span>, Turn On Your Lovelight <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Cryptical > drums > Other One > Cryptical > Cosmic Charlie</td></tr>
+<tr class="notes"><td>First ''Black Queen''; Next ''Schoolgirl'' 4/9/1970 [55 shows]</i></td></tr>
+<tr class="notes"><td>*with Stephen Stills.   </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1211"></a><a href="/1969-12-11">12/11/1969 Thelma Theater, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-11*">Listen/Download</a>]<tr><td>I: Casey Jones, Cold Rain, Mama Tried, Dire Wolf, Hurts Me Too, China Cat > I Know You Rider, Black Peter > Me and My Uncle, Hard To Handle, Dark Star > St. Stephen > The Eleven > Cumberland Blues</td></tr>
+<tr><td>II: Morning Dew, Next Time, Top Of The World, BIODTL, Big Boss Man, Good Lovin > Drums > Good Lovin, High Time, Dancin, Easy Wind, Cryptical > Drums > Other One > Cryptical  > Cosmic Charlie</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1212"></a><a href="/1969-12-12">12/12/1969 Thelma Theater, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-12*">Listen/Download</a>]<tr><td>I: Cold Rain, Me  and  My Uncle, Easy Wind, Cumberland, Black Peter, Next Time, China Cat > I Know You Rider, Lovelight</td></tr>
+<tr><td>II: Hard To Handle, Casey Jones, Mama Tried > High Time, Dire Wolf, Good Lovin > Drums > Good Lovin, King Bee, Uncle John > Just A Hand To Hold, Alligator > Drums > Alligator > Jam <span class="setlist_small">*</span> > Caution > Feedback > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>*contains "We Bid You Goodnight" theme.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1213"></a><a href="/1969-12-13">12/13/1969 Swing Auditorium, San Bernardino, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-13*">Listen/Download</a>]<tr><td>Casey Jones, Hard To Handle, Black Peter, Mama Tried > China Cat > I Know You Rider, High Time, Good Lovin > Drums > Good Lovin' > Cumberland, St. Stephen > Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1219"></a><a href="/1969-12-19">12/19/1969 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-19*">Listen/Download</a>]<tr><td>I: Monkey  and  Engineer<span class="setlist_small">@</span>, Sadie<span class="setlist_small">@</span>, Long Black Limousine<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Mason's Children, China Cat > I Know You Rider, Black Peter, Hard To Handle, Cumberland, Casey Jones, Good Lovin > Good Lovin, Cryptical > Drums > Other One > Cryptical > Uncle John > Lovelight</td></tr>
+<tr class="notes"><td>First ''All Around This World''; First ''Long Black Limousine''; First ''Mason's Children''; First ''Monkey  and  Engineer''; First ''Sadie''</i></td></tr>
+<tr class="notes"><td>The New Old Fillmore. Also: Osceola; Rhythm Dukes. @acoustic set without Lesh. This show has been know to circulate misdated 12-04-69.
+</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1220"></a><a href="/1969-12-20">12/20/1969 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-20*">Listen/Download</a>]<tr><td>I: Mason's Children, China Cat > I Know You Rider, High Time, Me  and  My Uncle, Hard To Handle, Cumberland, Black Peter</td></tr>
+<tr><td>II: Dark Star > St. Stephen > The Eleven > New Speedway > Lovelight</td></tr>
+<tr class="notes"><td>First ''New Speedway''</i></td></tr>
+<tr class="notes"><td>The New Old Fillmore. Also: Osceola; Rhythm Dukes. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1221"></a><a href="/1969-12-21">12/21/1969 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-21*">Listen/Download</a>]<tr><td>Smokestack, New Speedway, Mama Tried, Dire Wolf, Mason's Children, China Cat > I Know You Rider, Black Peter, NFA, Uncle John, High Time, Good Lovin > Drums > Other One > Cumberland</td></tr>
+<tr class="notes"><td>Previous ''NFA'' 6/19/1968 [195 shows]; Previous ''Smokestack'' 6/6/1969 [70 shows]</i></td></tr>
+<tr class="notes"><td>The New Old Fillmore. Also: Osceola; Rhythm Dukes.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1226"></a><a href="/1969-12-26">12/26/1969 McFarlin Auditorium, S.M.U., Dallas, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-26*">Listen/Download</a>]<tr><td>I: Monkey  and  Engineer<span class="setlist_small">@</span>, Sadie<span class="setlist_small">@</span>, Long Black Limousine<span class="setlist_small">@</span>, All Around This World<span class="setlist_small">@</span>, The Master's Bouquet<span class="setlist_small">@</span>, Black Peter<span class="setlist_small">@</span>, Uncle John<span class="setlist_small">@</span></td></tr>
+<tr><td>II: Casey Jones, Hard To Handle, Cold Rain, China Cat > I Know You Rider > High Time, Me  and  My Uncle, Dark Star > New Speedway, Lovelight</td></tr>
+<tr class="notes"><td>Only ''The Master's Bouquet''</i></td></tr>
+<tr class="notes"><td>Zephyr opened. @acoustic set without Kreutzmann.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1969-12-28">12/28/1969 International Speedway, Hollywood, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-28*">Listen/Download</a>]<tr><td>Black Peter, Me  and  My Uncle, China Cat > I Know You Rider > High Time, Cumberland, Good Lovin > Drums > Good Lovin, Cold Rain, Hard To Handle, Mason's Children, Lovelight</td></tr>
+<tr class="notes"><td>Hollywood Pop Festival.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1229"></a><a href="/1969-12-29">12/29/1969 Boston Tea Party, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-29*">Listen/Download</a>]<tr><td>I: Cold Rain, Mama Tried, Black Peter, Easy Wind, Me  and  My Uncle, China Cat > I Know You Rider > High Time, Hard To Handle, Mason's Children</td></tr>
+<tr><td>II: Cumberland, Casey Jones, Good Lovin > Drums > Good Lovin, Dancin, Dire Wolf, St. Stephen > NFA</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1969-12-30">12/30/1969 Boston Tea Party, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-30*">Listen/Download</a>]<tr><td>I: Good Lovin > Drums > Good Lovin, Mama Tried, New Speedway, Casey Jones, Black Peter, Me  and  My Uncle, Midnight Hour, Cumberland, Cryptical > Drums > Other One > Cosmic Charlie</td></tr>
+<tr><td>II: Uncle John > Mason's Children > China Cat > I Know You Rider, Dark Star > Alligator > Drums > The Eleven > Alligator > Feedback > We Bid You Goodnight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1969-12-31">12/31/1969 Boston Tea Party, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-12-31*">Listen/Download</a>]<tr><td>I: China Cat > I Know You Rider, Mama Tried, Next Time, Cold Rain, Black Peter, Hard To Handle, Me  and  My Uncle, Mason's Children, Dire Wolf, Uncle John </td></tr>
+<tr><td>II: Alligator > Drums > Alligator > Caution > Feedback > Good Lovin > Drums > The Eleven, High Time, Cumberland, Big Boy Pete, NFA, Seasons, Race Is On, Silver Threads, Slewfoot, Dancin</td></tr>
+<tr class="notes"><td>Next ''Silver Threads'' 4/18/1970 [50 shows]; Previous ''Slewfoot'' 8/2/1969 [51 shows]; Final ''Slewfoot''</i></td></tr>
+<tr class="notes"><td>"Merry-Go-Round Broke Down" tuning before "Seasons." "Alligator" began at midnight.</i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

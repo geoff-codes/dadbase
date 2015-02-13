@@ -1,0 +1,451 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1985 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1985/setlists&highlight=went">Shows I attended</a>
+		<a href="/1985/setlists&highlight=own">Shows I own</a>
+		<a href="/1985/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1985/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1985 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>February:  <a href="#0218">18</a> <a href="#0219">19</a> <a href="#0220">20</a> <a href="#02xx">xx</a><br>
+March: <a href="#0309">9</a> <a href="#0310">10</a> <a href="#0312">12</a> <a href="#0313">13</a> <a href="#0321">21</a> <a href="#0322">22</a> <a href="#0324">24</a> <a href="#0325">25</a> <a href="#0327">27</a> <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0331">31</a><br>
+April: <a href="#0401">1</a> <a href="#0403">3</a> <a href="#0404">4</a> <a href="#0406">6</a> <a href="#0407">7</a> <a href="#0408">8</a> <a href="#0413">13</a> <a href="#0414">14</a> <a href="#0419">19</a> <a href="#0420">20</a> <a href="#0421">21</a> <a href="#0427">27</a> <a href="#0428">28</a><br>
+June: <a href="#0608">8</a> <a href="#0609">9</a> <a href="#0614">14</a> <a href="#0615">15</a> <a href="#0616">16</a> <a href="#0621">21</a> <a href="#0622">22</a> <a href="#0624">24</a> <a href="#0625">25</a> <a href="#0627">27</a> <a href="#0628">28</a> <a href="#0630">30</a><br>
+July: <a href="#0701">1</a> <a href="#0702">2</a> <a href="#0713">13</a> <a href="#0714">14</a><br>
+August: <a href="#0824">24</a> <a href="#0830">30</a> <a href="#0831">31</a><br>
+September: <a href="#0902">2</a> <a href="#0903">3</a> <a href="#0905">5</a> <a href="#0906">6</a> <a href="#0907">7</a> <a href="#0910">10</a> <a href="#0911">11</a> <a href="#0912">12</a> <a href="#0915">15</a><br>
+October: <a href="#1025">25</a> <a href="#1026">26</a> <a href="#1028">28</a> <a href="#1029">29</a> <a href="#1031">31</a><br>
+November: <a href="#1101">1</a> <a href="#1102">2</a> <a href="#1104">4</a> <a href="#1105">5</a> <a href="#1107">7</a> <a href="#1108">8</a> <a href="#1110">10</a> <a href="#1111">11</a> <a href="#1116">16</a> <a href="#1117">17</a> <a href="#1120">20</a> <a href="#1121">21</a> <a href="#1122">22</a> <a href="#1127">27</a><br>
+December: <a href="#1229">29</a> <a href="#1230">30</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0218"></a><a href="/1985-02-18">2/18/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-02-18*">Listen/Download</a>]<tr><td>I: Iko Iko > C. C. Rider, Dire Wolf, Cassidy, Ramble On, Me  and  My Uncle > Mexicali, China Cat > I Know You Rider</td></tr>
+<tr><td>II: Samson, He's Gone > Spoonful > Eyes > GDTRFB > Drumz > China Doll > Baby What You Want > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Previous ''Baby What You Want'' 12/31/1982 [131 shows]</i></td></tr>
+<tr class="notes"><td>Venue used to be called "Oakland Auditorium Arena"</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0219"></a><a href="/1985-02-19">2/19/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-02-19*">Listen/Download</a>]<tr><td>I: Jack Straw, Dupree's, Minglewood, B. E. Women, Esau > Bird Song, Bucket > Might As Well</td></tr>
+<tr><td>II: Truckin > Terrapin > Woman Smarter<span class="setlist_small">*</span> > Drumz > Throwing Stones > Touch</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>The Chinese Symphony Orchestra opened. *with Gung Hay Fat Choy Iko Iko. Dragon Dance during "Drumz."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0220"></a><a href="/1985-02-20">2/20/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-02-20*">Listen/Download</a>]<tr><td>I: Cold Rain > Day Tripper, West L. A., Mama Tried > Big River, Tennessee Jed, L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire > Playin > Drumz > Wheel > Black Peter > Lovelight</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Dragon Dance during "Drumz."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="02xx"></a><a href="/1985-02-xx">2/xx/1985 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-02-xx*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>There are 8 tracks, all instrumental, on this "Twilight Zone" rehearsal tape. At least four of them seem to derive from the same recording of the same tune.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0309"></a><a href="/1985-03-09">3/9/1985 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-09*">Listen/Download</a>]<tr><td>I: Bertha > Saturday Night > Sugaree, All Over Now, Row Jimmy, Let It Grow</td></tr>
+<tr><td>II: China Cat > Cumberland > Miracle > Eyes > Drumz<span class="setlist_small">*</span> > Other One<span class="setlist_small">*</span> > Wheel > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Rex Foundation benefit. *with Merl Saunders. "Twilight Zone Theme" during "Drumz."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0310"></a><a href="/1985-03-10">3/10/1985 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-10*">Listen/Download</a>]<tr><td>I: Stranger, Peggy-O, C. C. Rider > Bird Song, Bucket > Big RxR Blues</td></tr>
+<tr><td>II: Samson > Terrapin > Truckin > Smokestack > Drumz > Stella Blue > GDTRFB > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0312"></a><a href="/1985-03-12">3/12/1985 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-12*">Listen/Download</a>]<tr><td>I: Iko Iko, Rooster<span class="setlist_small">*</span>, Dupree's, Me  and  My Uncle > Big River, West L. A., L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Touch, Playin > Drumz > He's Gone > Throwing Stones > NFA<span class="setlist_small">*</span> > Lovelight</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Rex Foundation benefit. *with Matt Kelly.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0313"></a><a href="/1985-03-13">3/13/1985 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-13*">Listen/Download</a>]<tr><td>I: Jack Straw > Althea, Mama Tried > Mexicali, FOTD, Minglewood<span class="setlist_small">*</span>, Deal<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Music > Franklin's > Estimated > Spoonful<span class="setlist_small">*</span> > Drumz<span class="setlist_small">+</span> > Ollin Arageed<span class="setlist_small">+</span> > Woman Smarter<span class="setlist_small">+</span> > Black Peter<span class="setlist_small">*</span> > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Previous ''Ollin Arageed'' 8/5/1979 [406 shows]; Final ''Ollin Arageed''</i></td></tr>
+<tr class="notes"><td>Rex Foundation benefit. *with Matt Kelly. +with Hamza El-Din.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1985-03-21">3/21/1985 Hampton Coliseum, Hampton, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-21*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, TLEO, El Paso > Tennessee Jed, Bottom > Superstitious, Dupree's > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Playin > Drumz > Wheel > Other One > Wharf Rat > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0322"></a><a href="/1985-03-22">3/22/1985 Hampton Coliseum, Hampton, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-22*">Listen/Download</a>]<tr><td>I: Stranger, Cold Rain, C. C. Rider, B. E. Women, Cassidy, Big RxR Blues, Esau, Don't Ease</td></tr>
+<tr><td>II: Scarlet > Bucket, Ship Of Fools, Terrapin > Drumz > Spanish Jam > Truckin > Smokestack > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1985-03-24">3/24/1985 Springfield Civic Center Arena, Springfield, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-24*">Listen/Download</a>]<tr><td>I: Bertha > Promised, Althea, Me  and  My Uncle > Mexicali, Ramble On, Minglewood > Deal</td></tr>
+<tr><td>II: Samson > Cumberland, Woman Smarter > He's Gone > Spoonful > Drumz > Mr. Fantasy > Throwing Stones > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0325"></a><a href="/1985-03-25">3/25/1985 Springfield Civic Center Arena, Springfield, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-25*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree > Rooster, Bird Song, All Over Now, Roses > Let It Grow</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Estimated > Eyes > Drumz > Miracle > China Doll > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0327"></a><a href="/1985-03-27">3/27/1985 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-27*">Listen/Download</a>]<tr><td>I: Half Step > Bucket, West L. A., Mama Tried > Big River, Tom Thumb Blues, B. E. Women, Tons Of Steel, Might As Well</td></tr>
+<tr><td>II: Shakedown, Uncle John > Playin > Drumz > Stella Blue > Lovelight</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>First ''Tom Thumb Blues''; Previous ''Half Step'' 10/17/1982 [148 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1985-03-28">3/28/1985 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-28*">Listen/Download</a>]<tr><td>I: Truckin > Smokestack<span class="setlist_small">*</span> > High Time, El Paso, Peggy-O, Cassidy, China Cat > I Know You Rider</td></tr>
+<tr><td>II: Scarlet > Fire > L. L. Rain > Jam > Drumz > Gimme Some Lovin > Other One > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>*with Matt Kelly.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1985-03-29">3/29/1985 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-29*">Listen/Download</a>]<tr><td>I: Cold Rain, Bottom<span class="setlist_small">*</span> > Superstitious<span class="setlist_small">*</span>, FOTD, Supplication Jam > Esau, Tennessee Jed, Minglewood, Don't Ease</td></tr>
+<tr><td>II: Terrapin > Woman Smarter > GDTRFB > Baby What You Want > Drumz > Wharf Rat > Throwing Stones > Johnny B. Goode</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>*with Matt Kelly.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1985-03-31">3/31/1985 Cumberland County Civic Center, Portland, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-03-31*">Listen/Download</a>]<tr><td>I: Music, Candyman > C. C. Rider > Loser, BIODTL, Dupree's, All Over Now > Don't Ease</td></tr>
+<tr><td>II: Iko Iko > Samson, He's Gone > Miracle > China Doll > Drumz > Wheel > Playin > Day Tripper</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Inverted "Playin."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1985-04-01">4/1/1985 Cumberland County Civic Center, Portland, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-01*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, West L. A., Rooster, Bird Song, Tom Thumb Blues, L. L. Rain > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Eyes > Drumz > Other One > Stella Blue > Around > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0403"></a><a href="/1985-04-03">4/3/1985 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-03*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Me  and  My Uncle > Mexicali, Ramble On, Bottom > Superstitious, Row Jimmy, Let It Grow</td></tr>
+<tr><td>II: Terrapin > Woman Smarter, Ship Of Fools, Truckin > Spoonful > Drumz > Wharf Rat > Throwing Stones > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0404"></a><a href="/1985-04-04">4/4/1985 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-04*">Listen/Download</a>]<tr><td>I: Alabama > Jack Straw, Dire Wolf, El Paso, She Belongs To Me, Esau, FOTD, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Miracle > Crazy Fingers, Samson, He's Gone > GDTRFB > Drumz > Wheel > Black Peter > Around > Lovelight</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Previous ''Crazy Fingers'' 10/8/1983 [98 shows]; Previous ''She Belongs To Me'' 1/7/1966 [1543 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0406"></a><a href="/1985-04-06">4/6/1985 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-06*">Listen/Download</a>]<tr><td>I: Stranger, TLEO, Minglewood, Dupree's, Mama Tried > Big River, Big RxR Blues, L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Playin > Uncle John > Drumz > Other One > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0407"></a><a href="/1985-04-07">4/7/1985 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-07*">Listen/Download</a>]<tr><td>I: Do It In The Road > Half Step > C. C. Rider, Bird Song, Dancin, Deal</td></tr>
+<tr><td>II: Shakedown > Samson, She Belongs To Me > Woman Smarter > Drumz > Gimme Some Lovin > Truckin > Smokestack > Morning Dew > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0408"></a><a href="/1985-04-08">4/8/1985 The Spectrum, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-08*">Listen/Download</a>]<tr><td>I: Midnight Hour > Walking The Dog > Big Boss Man, Me  and  My Uncle > Cumberland, Bottom > Superstitious, Althea, Tons Of Steel > Supplication Jam > Might As Well</td></tr>
+<tr><td>II: Revolution, Bucket > Touch, Estimated > Eyes > Drumz > GDTRFB > Stella Blue > Around > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Next ''Big Boss Man'' 8/13/1987 [148 shows]; Previous ''Walking The Dog'' 3/29/1984 [83 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0413"></a><a href="/1985-04-13">4/13/1985 Irvine Meadows Amphitheatre, Irvine, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-13*">Listen/Download</a>]<tr><td>I: Do It In The Road > Bertha > Jack Straw, West L. A., Rooster, Peggy-O, Cassidy, Deal</td></tr>
+<tr><td>II: Terrapin > Playin > Crazy Fingers > Truckin > Drumz > Wheel > Throwing Stones > Saturday Night</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Next ''Do It In The Road'' 3/30/1986 [63 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0414"></a><a href="/1985-04-14">4/14/1985 Irvine Meadows Amphitheatre, Irvine, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-14*">Listen/Download</a>]<tr><td>I: Touch > Bucket > Sugaree > Bottom > Superstitious, B. E. Women, Tons Of Steel, Big RxR Blues, L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Miracle > China Cat > I Know You Rider, Woman Smarter > He's Gone > Drumz > Mr. Fantasy > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Gloria</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0419"></a><a href="/1985-04-19">4/19/1985 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-19*">Listen/Download</a>]<tr><td>Esau, West L. A., Bucket, Day Job, Hog For You Baby, Cassidy, Comes A Time</td></tr>
+<tr class="notes"><td>Video taping session.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0420"></a><a href="/1985-04-20">4/20/1985 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-20*">Listen/Download</a>]<tr><td>Cryptical > Day Job, revolution, Throwing Stones x2, Hi-Heel Sneakers > She Belongs To Me, Home On The Range <span class="setlist_small">*</span>, Day Job <span class="setlist_small">+</span>, Touch x3, Miracle > Uncle John > Comes A Time, Sailor, Goodnight Irene <span class="setlist_small">#</span>, Drumz, Goodnight Irene, Bucket, Day Job, Drumz </td></tr>
+<tr class="notes"><td>Video taping session. *sung by Lesh. +sung by Hart, #Garcia only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0421"></a><a href="/1985-04-21">4/21/1985 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-21*">Listen/Download</a>]<tr><td>Throwing Stones > NFA, Green Onions > Uncle John > Playin, Uncle John > Playin, B. E. Women x2, Jack Straw x2, Terrapin x2</td></tr>
+<tr class="notes"><td>Video taping session.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0427"></a><a href="/1985-04-27">4/27/1985 Frost Amphitheatre, Stanford U., Palo Alto, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-27*">Listen/Download</a>]<tr><td>I: Dancin > Bertha, Rooster, B. E. Women, Esau, Ramble On, Tom Thumb Blues > Cold Rain > Music</td></tr>
+<tr><td>II: Scarlet > Eyes > GDTRFB > Woman Smarter > Drumz > Wheel > Truckin > Other One > Black Peter > Around > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0428"></a><a href="/1985-04-28">4/28/1985 Frost Amphitheatre, Stanford U., Palo Alto, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-28*">Listen/Download</a>]<tr><td>I: Gimme Some Lovin > Half Step > Minglewood, Bird Song, Tons Of Steel > China Cat > I Know You Rider</td></tr>
+<tr><td>II: Bucket > Crazy Fingers > Playin > China Doll > Playin Jam > Drumz > Playin > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E1: U. S. Blues</td></tr>
+<tr><td>E2: She Belongs To Me <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>*appears on "Garcia Plays Dylan."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1985-06-08">6/8/1985 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>These shows were cancelled so that Lesh, Garcia, and Weir could attend performances of Wagner's "Ring of the Nibelung" in San Francisco. This gave rise to rumors that the Cal Expo shows were actually scraped so that the Dead could play a 20th anniversary free concert either in Golden Gate Park or at the Haight Street Fair. This did not occur, but free show rumors persisted through September.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1985-06-09">6/9/1985 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-09*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>These shows were cancelled so that Lesh, Garcia, and Weir could attend performances of Wagner's "Ring of the Nibelung" in San Francisco. This gave rise to rumors that the Cal Expo shows were actually scraped so that the Dead could play a 20th anniversary free concert either in Golden Gate Park or at the Haight Street Fair. This did not occur, but free show rumors persisted through September.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1985-06-14">6/14/1985 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-14*">Listen/Download</a>]<tr><td>I: Dancin, West L. A., C. C. Rider, Peggy-O, Bucket</td></tr>
+<tr><td>II: Keep on Growing > Stagger Lee > Let It Grow > Deal</td></tr>
+<tr><td>III: Morning Dew > Playin > China Doll > Jam > Drumz > Truckin > Smokestack > Comes A Time > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Previous ''Comes A Time'' 10/2/1980 [331 shows]</i></td></tr>
+<tr class="notes"><td>"Jam" is Brent and percussion.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1985-06-15">6/15/1985 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-15*">Listen/Download</a>]<tr><td>I: Touch, Minglewood, FOTD, Cassidy > Dupree's, Me  and  My Uncle > Big River > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Sailor > Saint > Terrapin > Drumz > Wheel > Gimme Some Lovin > Throwing Stones > NFA</td></tr>
+<tr><td>E1: She Belongs To Me</td></tr>
+<tr><td>E2: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0616"></a><a href="/1985-06-16">6/16/1985 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-16*">Listen/Download</a>]<tr><td>I: Midnight Hour > Bertha, Walking Blues, Tennessee Jed, Esau, Big RxR Blues > L. L. Rain > Half Step > Promised</td></tr>
+<tr><td>II: Scarlet > Fire > Samson, Cryptical > Other One > Cryptical > Drumz > GDTRFB > Miracle > Wharf Rat > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Previous ''Cryptical'' 9/23/1972 [791 shows]; Previous ''Walking Blues'' 5/28/1982 [195 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1985-06-21">6/21/1985 Alpine Valley Music Theatre, East Troy, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-21*">Listen/Download</a>]<tr><td>I: Cold Rain > Superstitious > Bottom, Stagger Lee, Mama Tried > Mexicali, Bird Song > L. L. Rain > Day Job</td></tr>
+<tr><td>II: Woman Smarter > GDTRFB > Estimated > Eyes > Drumz > Truckin > Black Peter > Around > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Stagger Lee'' 8/10/1982 [182 shows]</i></td></tr>
+<tr class="notes"><td>"Twilight Zone Theme" tuning before "Woman Smarter."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0622"></a><a href="/1985-06-22">6/22/1985 Alpine Valley Music Theatre, East Troy, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-22*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Walking Blues > Candyman > All Over Now, Althea, Cassidy, B. E. Women, Saturday Night</td></tr>
+<tr><td>II: Keep On Growing > Half Step > Sailor > Saint > Drumz > Mr. Fantasy > Miracle > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>First ''Keep On Growing''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1985-06-24">6/24/1985 River Bend Music Center, Cincinnati, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-24*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, TLEO, Minglewood, Tennessee Jed, Esau, Loser, Let It Grow</td></tr>
+<tr><td>II: Iko Iko > Samson > He's Gone > Smokestack > Cryptical > Drumz > Comes A Time > Other One > Cryptical > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0625"></a><a href="/1985-06-25">6/25/1985 Blossom Music Center, Cuyahoga Falls, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-25*">Listen/Download</a>]<tr><td>I: Day Tripper > West L. A. > C. C. Rider, Dire Wolf, BIODTL > Row Jimmy, Me  and  My Uncle > Big River, Big RxR Blues, Jack Straw > Might As Well</td></tr>
+<tr><td>II: Gimme Some Lovin > China Cat > I Know You Rider > Playin > Drumz > Wheel > Playin > China Doll > Sugar Magnolia</td></tr>
+<tr><td>E: Touch</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0627"></a><a href="/1985-06-27">6/27/1985 Saratoga Performing Arts Center, Saratoga, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-27*">Listen/Download</a>]<tr><td>I: Midnight Hour > Bertha > Rooster, Stagger Lee > El Paso > Crazy Fingers > Supplication Jam > High Time, Bucket > Don't Ease</td></tr>
+<tr><td>II: Stranger > Eyes > GDTRFB > Woman Smarter > Drumz > Truckin > Spoonful > Black Peter > Lovelight</td></tr>
+<tr><td>E: Johnny B. Goode > Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0628"></a><a href="/1985-06-28">6/28/1985 Hershey Park Stadium, Hershey, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-28*">Listen/Download</a>]<tr><td>I: Cold Rain > Promised, Ramble On, Superstitious > Bottom, Bird Song > Comes A Time > Deal</td></tr>
+<tr><td>II: Music > Tom Thumb Blues, Estimated > Terrapin > Drumz > Miracle > Morning Dew > Throwing Stones > NFA</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Final ''Bottom''; Final ''Superstitious''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0630"></a><a href="/1985-06-30">6/30/1985 Merriweather Post Pavilion, Columbia, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-06-30*">Listen/Download</a>]<tr><td>I: Half Step > C. C. Rider > B. E. Women, Mama Tried > Mexicali, Keep On Growing > Big RxR Blues > L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Shakedown > Samson, Gimme Some Lovin > He's Gone > Cryptical > Drumz > Other One > Stella Blue > Around > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0701"></a><a href="/1985-07-01">7/1/1985 Merriweather Post Pavilion, Columbia, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-07-01*">Listen/Download</a>]<tr><td>I: Dancin, Dupree's, Walking Blues, Jack A Roe, Esau, Stagger Lee, Let It Grow > Day Job</td></tr>
+<tr><td>II: Scarlet > Fire, Playin > Uncle John > Drumz > Mr. Fantasy > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Satisfaction > Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Jack A Roe'' 10/12/1984 [50 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0702"></a><a href="/1985-07-02">7/2/1985 Pittsburgh Civic Arena, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-07-02*">Listen/Download</a>]<tr><td>I: Jack Straw > Roses, Minglewood, FOTD, Cassidy, Big RxR Blues, Promised</td></tr>
+<tr><td>II: Woman Smarter > Crazy Fingers > Sailor > Saint > Terrapin > Drumz > Wharf Rat > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Revolution > Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0713"></a><a href="/1985-07-13">7/13/1985 County Fairgrounds, Ventura, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-07-13*">Listen/Download</a>]<tr><td>I: Saturday Night > Fire, Walking Blues, Dupree's, Mama Tried > Big River, Bird Song, Music</td></tr>
+<tr><td>II: Touch > Woman Smarter > Terrapin > Drumz > Wheel > Cryptical > Other One > Comes A Time > Around > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Next ''Walking Blues'' 1/28/1987 [80 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0714"></a><a href="/1985-07-14">7/14/1985 County Fairgrounds, Ventura, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-07-14*">Listen/Download</a>]<tr><td>I: Bucket, TLEO, Esau, Althea, Cassidy, Big RxR Blues > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson > Ship Of Fools, Estimated > Eyes > Drumz > Truckin > Smokestack > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0824"></a><a href="/1985-08-24">8/24/1985 Boreal Ridge Ski Resort, Donner's Summit, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-08-24*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, West L. A., Minglewood, FOTD, Bucket > Don't Ease</td></tr>
+<tr><td>II: Stranger > China Cat > I Know You Rider, He's Gone > Drumz > Truckin > Black Peter > Around > Lovelight</td></tr>
+<tr><td>E: Day Tripper</td></tr>
+<tr class="notes"><td>Final ''Day Tripper''</i></td></tr>
+<tr class="notes"><td>"Summit Conference." Equipment break between "Minglewood" and "FOTD."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0830"></a><a href="/1985-08-30">8/30/1985 Southern Star Amphitheatre, Houston, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-08-30*">Listen/Download</a>]<tr><td>I: Jack Straw, Row Jimmy, C. C. Rider, Bird Song > L. L. Rain > Deal</td></tr>
+<tr><td>II: Scarlet > Touch, Samson > Drumz > Gimme Some Lovin > Wheel > Other One > Morning Dew</td></tr>
+<tr><td>E: Sugar Magnolia</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0831"></a><a href="/1985-08-31">8/31/1985 Manor Downs, Austin, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-08-31*">Listen/Download</a>]<tr><td>I: Half Step > El Paso, Dupree's, Mexicali > Big River, Althea, Esau, Jack A Roe, Let It Grow</td></tr>
+<tr><td>II: Terrapin > Estimated > Drumz > GDTRFB > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E1: She Belongs To Me</td></tr>
+<tr><td>E2: Saturday Night</td></tr>
+<tr class="notes"><td>Next ''Jack A Roe'' 12/9/1988 [235 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0902"></a><a href="/1985-09-02">9/2/1985 Zoo Amphitheatre, Oklahoma City, OK</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-02*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, West L. A., Mama Tried > Me  and  My Uncle, Stagger Lee > Iko Iko, Minglewood, Ramble On, Bucket</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Woman Smarter, Ship Of Fools, Playin > Drumz > Miracle > China Doll > Around > Good Lovin</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0903"></a><a href="/1985-09-03">9/3/1985 Starlight Theatre, Kansas City, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-03*">Listen/Download</a>]<tr><td>I: Stranger > TLEO, Rooster, Dire Wolf, Cassidy, Big RxR Blues, Music > Don't Ease</td></tr>
+<tr><td>II: Cryptical > Other One > Cryptical > Eyes > Don't Need Love > Drumz > Nobody's Fault > Truckin > Smokestack > Comes A Time > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Next ''Nobody's Fault'' 9/22/1991 [450 shows]; Final ''Cryptical''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0905"></a><a href="/1985-09-05">9/5/1985 Red Rocks Amphitheatre, Morrison, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-05*">Listen/Download</a>]<tr><td>I: Cold Rain, C. C. Rider, Candyman, BIODTL, Stagger Lee, Me  and  My Uncle > Big River, Peggy-O, Let It Grow</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Eyes > Drumz > Gimme Some Lovin > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>False start for "Brokedown."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0906"></a><a href="/1985-09-06">9/6/1985 Red Rocks Amphitheatre, Morrison, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-06*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, All Over Now, Bird Song, El Paso, Don't Ease</td></tr>
+<tr><td>II: Iko Iko, L. L. Rain, He's Gone > Spoonful<span class="setlist_small">*</span> > Drumz > Wheel > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>*without Jerry.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0907"></a><a href="/1985-09-07">9/7/1985 Red Rocks Amphitheatre, Morrison, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-07*">Listen/Download</a>]<tr><td>I: Frozen Logger, Half Step > Minglewood, B. E. Women, Esau, Loser, Dupree's, Saturday Night</td></tr>
+<tr><td>II: Shakedown > Crazy Fingers > Samson, Uncle John > Playin > Drumz > Mr. Fantasy > Hey Jude Finale > Mr. Fantasy > Truckin > Comes A Time > Lovelight</td></tr>
+<tr><td>E: Johnny B. Goode > Baby Blue</td></tr>
+<tr class="notes"><td>First ''Hey Jude Finale''; Next ''Hey Jude Finale'' 3/17/1988 [161 shows]</i></td></tr>
+<tr class="notes"><td>"Star Spangled Banner" tuning before "Half Step."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0910"></a><a href="/1985-09-10">9/10/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-10*">Listen/Download</a>]<tr><td>I: Jack Straw > Peggy-O, Rooster, Stagger Lee, Me  and  My Uncle > Mexicali > Ramble On, Cassidy > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Estimated > Eyes > Good Times<span class="setlist_small">*</span> > Drumz > China Doll > GDTRFB > Around > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Previous ''Good Times'' 6/21/1984 [84 shows]</i></td></tr>
+<tr class="notes"><td>*without Jerry.   </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0911"></a><a href="/1985-09-11">9/11/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-11*">Listen/Download</a>]<tr><td>I: Half Step > Minglewood, FOTD, BIODTL > Promised > Tennessee Jed > Let It Grow > Deal</td></tr>
+<tr><td>II: Touch, Bucket > Terrapin > Woman Smarter > Drumz > Gimme Some Lovin > Stella Blue > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Mickey Hart's 42nd birthday. 42 beat "BIODTL."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0912"></a><a href="/1985-09-12">9/12/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-12*">Listen/Download</a>]<tr><td>I: Greatest > Bertha, All Over Now, Row Jimmy, Esau > Big RxR Blues > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Playin > Drumz > Other One > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: NFA > Brokedown</td></tr>
+<tr class="notes"><td>Next ''Slipknot'' 10/8/1989 [284 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0915"></a><a href="/1985-09-15">9/15/1985 Devore Field, Southwestern Col., Chula Vista, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-09-15*">Listen/Download</a>]<tr><td>I: Alabama > Promised, West L. A., Mama Tried > Big River, Dupree's, Smokestack > Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Samson, She Belongs To Me <span class="setlist_small">*</span>, Truckin > Comes A Time > Around > Drumz > U. S. Blues > Satisfaction</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>"Twilight Zone Theme" tuning before "Scarlet." *appears on "Postcards from the Hanging." Also, shows in Portland, Oregon and Tacoma, Washington were contemplated for sometime in the fall.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1025"></a><a href="/1985-10-25">10/25/1985 Sportatorium, Pembroke Pines, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-10-25*">Listen/Download</a>]<tr><td>I: Deal, Rooster, Iko Iko, El Paso, Dire Wolf, All Over Now, Loser, Let It Grow</td></tr>
+<tr><td>II: Morning Dew, Estimated > Eyes > Drumz > Miracle > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1026"></a><a href="/1985-10-26">10/26/1985 Sun Dome, University of South Florida, Tampa, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-10-26*">Listen/Download</a>]<tr><td>I: Gimme Some Lovin > Greatest, Dupree's, C. C. Rider, Stagger Lee, Me  and  My Uncle > Big River, Big RxR Blues, L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter, He's Gone > Don't Need Love<span class="setlist_small">*</span> > Drumz > Comes A Time > Throwing Stones > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Midnight Hour</td></tr>
+<tr class="notes"><td>*without Jerry.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1028"></a><a href="/1985-10-28">10/28/1985 Fox Theatre, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-10-28*">Listen/Download</a>]<tr><td>I: Sugaree, Kansas City, Peggy-O, Esau, Ramble On, Cassidy, Row Jimmy, Promised</td></tr>
+<tr><td>II: Scarlet > Touch, Woman Smarter > Terrapin > Drumz > Truckin > Smokestack > Stella Blue > Around > Good Lovin</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>First ''Kansas City''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1029"></a><a href="/1985-10-29">10/29/1985 Fox Theatre, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-10-29*">Listen/Download</a>]<tr><td>I: Stranger, FOTD, Minglewood, Bird Song, Bucket > Deal</td></tr>
+<tr><td>II: Half Step > Franklin's > Sailor > Saint > Crazy Fingers > Drumz > Wheel > Other One > Wharf Rat > Johnny B. Goode</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1985-10-31">10/31/1985 Carolina Coliseum Arena, U. of S.C., Columbia, SC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-10-31*">Listen/Download</a>]<tr><td>I: Space > Werewolves > Music, West L. A., Mama Tried > Mexicali, Tennessee Jed, L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Shakedown > Playin > Ship Of Fools > Playin > Drumz > Mr. Fantasy > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Next ''Werewolves'' 10/31/1990 [361 shows]</i></td></tr>
+<tr class="notes"><td>"Funiculi Funicula" segues into first set opening. "Teddy Bear's Picnic" tuning before "West L. A."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1101"></a><a href="/1985-11-01">11/1/1985 Richmond Coliseum, Richmond, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-01*">Listen/Download</a>]<tr><td>I: Dancin > Cold Rain, Rooster, Stagger Lee, Me  and  My Uncle > Big River, B. E. Women, Jack Straw > Don't Ease</td></tr>
+<tr><td>II: Samson, High Time, He's Gone > Spoonful > Comes A Time > Sailor > Drumz > Saint > Gimme Some Lovin > She Belongs To Me > Gloria</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Next ''Gloria'' 3/23/1992 [468 shows]</i></td></tr>
+<tr class="notes"><td>Entire show appears on "Dick’s Picks Volume 21."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1102"></a><a href="/1985-11-02">11/2/1985 Richmond Coliseum, Richmond, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-02*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Dupree's, C. C. Rider > Althea, Esau, Candyman, Let It Grow</td></tr>
+<tr><td>II: Iko Iko, Estimated > Uncle John > China Doll > Drumz > Morning Dew > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1104"></a><a href="/1985-11-04">11/4/1985 The Centrum, Worcester, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-04*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Roses, El Paso, West L. A., Minglewood, Big RxR Blues, Music > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Playin > Terrapin > Drumz > Wheel > Truckin > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1105"></a><a href="/1985-11-05">11/5/1985 The Centrum, Worcester, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-05*">Listen/Download</a>]<tr><td>I: Bucket, TLEO, Kansas City, Tennessee Jed > All Over Now, Bird Song > L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Shakedown, Woman Smarter, Ship Of Fools, Supplication Jam > Playin Jam > Don't Need Love > Drumz > Tom Thumb Blues > GDTRFB > Black Peter > Around > Good Lovin</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Final ''Kansas City''</i></td></tr>
+<tr class="notes"><td>"Happy Birthday" for Bill Walton before "Shakedown."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1107"></a><a href="/1985-11-07">11/7/1985 Community War Memorial, Rochester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-07*">Listen/Download</a>]<tr><td>I: Dancin > Dire Wolf, C. C. Rider > Loser, Mama Tried > Mexicali > Cumberland > BIODTL > Deal</td></tr>
+<tr><td>II: Touch > Samson, High Time, Let It Grow > Drumz > Gimme Some Lovin > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Midnight Hour</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1108"></a><a href="/1985-11-08">11/8/1985 Community War Memorial, Rochester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-08*">Listen/Download</a>]<tr><td>I: Iko Iko > Rooster > Peggy-O, Esau, B. E. Women, Baby What You Want > Jack Straw > Might As Well</td></tr>
+<tr><td>II: Revolution, Estimated > Eyes > Drumz > Other One > Miracle > She Belongs To Me > Sugar Magnolia</td></tr>
+<tr><td>E: Satisfaction</td></tr>
+<tr class="notes"><td>Next ''Revolution'' 3/15/1990 [298 shows]; Final ''Baby What You Want''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1110"></a><a href="/1985-11-10">11/10/1985 Meadowlands Arena, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-10*">Listen/Download</a>]<tr><td>I: Touch > Bucket > Sugaree, Cassidy, Stagger Lee, All Over Now > Row Jimmy > Stranger</td></tr>
+<tr><td>II: Half Step > I Know You Rider > Playin > Uncle John > Supplication Jam > Drumz > Truckin > Comes A Time > Around > Good Lovin</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1111"></a><a href="/1985-11-11">11/11/1985 Meadowlands Arena, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-11*">Listen/Download</a>]<tr><td>I: Walking The Dog > Deal, Minglewood, Althea, Me  and  My Uncle > Big River, Bird Song > L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire > Estimated > Eyes > Drumz > Mr. Fantasy > GDTRFB > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1116"></a><a href="/1985-11-16">11/16/1985 Long Beach Arena, Long Beach, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-16*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree > El Paso, Dupree's, Rooster, West L. A., Let It Grow</td></tr>
+<tr><td>II: Tennessee Jed, Cumberland, Miracle > Crazy Fingers > Drumz > Comes A Time > Gimme Some Lovin > Truckin > Black Peter > Good Lovin</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1117"></a><a href="/1985-11-17">11/17/1985 Long Beach Arena, Long Beach, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-17*">Listen/Download</a>]<tr><td>I: Half Step, Minglewood, Stagger Lee, All Over Now > FOTD, Cassidy, Big RxR Blues, L. L. Rain > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson > He's Gone > Spoonful > Good Times<span class="setlist_small">*</span> > Drumz > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>*without Jerry.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1120"></a><a href="/1985-11-20">11/20/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-20*">Listen/Download</a>]<tr><td>I: Jack Straw > Peggy-O, C. C. Rider, Stagger Lee, Esau, High Time, BIODTL > Promised > Don't Ease</td></tr>
+<tr><td>II: Iko Iko > Sailor > Saint > Terrapin > Don't Need Love > Drumz > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1121"></a><a href="/1985-11-21">11/21/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-21*">Listen/Download</a>]<tr><td>I: Big Boy Pete, Dire Wolf, Rooster, B. E. Women, Me  and  My Uncle > Mexicali, Ramble On > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Shakedown > Crazy Fingers > Playin > She Belongs To Me > Drumz > Other One > Wharf Rat > Playin > Gimme Some Lovin > Midnight Hour</td></tr>
+<tr><td>E: Walking The Dog</td></tr>
+<tr class="notes"><td>Previous ''Big Boy Pete'' 9/20/1970 [1007 shows]; Final ''Big Boy Pete''; Final ''She Belongs To Me''; Final ''Walking The Dog''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1122"></a><a href="/1985-11-22">11/22/1985 Henry J. Kaiser Convention Center, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-22*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Minglewood > Althea, Cassidy > Dupree's > Let It Grow</td></tr>
+<tr><td>II: Touch > Estimated > Eyes > Drumz > Morning Dew > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1127"></a><a href="/1985-11-27">11/27/1985 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-11-27*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>All members of the Grateful Dead were present at the Fillmore for Bill Graham's 20th anniversary party and equipment was brought for a set, but the band did not perform. One explanation making the rounds afterward claimed that the Dead wanted to play at 10PM but Graham had planned for them to close the evening.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1229"></a><a href="/1985-12-29">12/29/1985 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-12-29*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Tickets were actually printed for this show, which began circulating among the fans a few months later.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1985-12-30">12/30/1985 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-12-30*">Listen/Download</a>]<tr><td>I: Gimme Some Lovin > Greatest, West L. A., Esau > Stagger Lee, Rooster, Tennessee Jed > L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Mighty Quinn <span class="setlist_small">+</span> > Samson, He's Gone > Miracle > Crazy Fingers > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>First ''Mighty Quinn''</i></td></tr>
+<tr class="notes"><td>Soundcheck: "Mighty Quinn" (x3), "Watchtower" (x2))*. +appears on the "Postcards from the Hanging" bonus disc. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1985-12-31">12/31/1985 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-12-31*">Listen/Download</a>]<tr><td>I: NFA > Touch, Tons Of Steel, C. C. Rider, Dupree's, Cassidy > B. E. Women, Let It Grow</td></tr>
+<tr><td>II: Midnight Hour > Sugaree, Woman Smarter, Ship Of Fools, Playin > Terrapin > Drumz > Truckin > Black Peter > Throwing Stones<span class="setlist_small">*</span> > NFA</td></tr>
+<tr><td>E1: NFA<span class="setlist_small">*</span> > Lovelight<span class="setlist_small">*</span></td></tr>
+<tr><td>E2: Brokedown</td></tr>
+<tr class="notes"><td>Bill Graham rides in at midnight on a giant birthday cake. FM broadcast KFOG-San Francisco - national radio broadcast - national TV broadcast. The Neville Brothers, then Baba Olatunji opened. *with Baba Olatunji.</i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

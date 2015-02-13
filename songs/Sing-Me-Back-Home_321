@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Sing Me Back Home | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Sing-Me-Back-Home_321&highlight=went">Shows I attended</a>
+		<a href="/songs/Sing-Me-Back-Home_321&highlight=own">Shows I own</a>
+		<a href="/songs/Sing-Me-Back-Home_321&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Sing-Me-Back-Home_321&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Sing Me Back Home</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<tr valign="top"><td>4/5/1971</td><td>New York, NY (Manhattan Center)</td><td align="center">SII</td><td>Deal</td><td>NFA </td><td align="center">660</td><td>[<a href="/1971-04-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/8/1971</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Cumberland</td><td align="center">3</td><td>[<a href="/1971-04-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/10/1971</td><td>Lancaster, PA (East Hall, Franklin  and  Marsh...)</td><td align="center">SII</td><td>Truckin</td><td>Me  and  My Unc</td><td align="center">1</td><td>[<a href="/1971-04-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/14/1971</td><td>Lewisburg, PA (Bucknell University)</td><td align="center">SI</td><td>Playin</td><td>Me and My Uncle</td><td align="center">3</td><td>[<a href="/1971-04-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/15/1971</td><td>Meadville, PA (Allegheny College)</td><td align="center">SII</td><td>Next Time</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1971-04-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/17/1971</td><td>Princeton, NJ (Dillon Gym, Princeton University)</td><td align="center">SII</td><td>Bertha</td><td>GDTRFB</td><td align="center">1</td><td>[<a href="/1971-04-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/22/1971</td><td>Bangor, ME (Bangor Municipal Auditorium)</td><td align="center">SII</td><td>BIODTL</td><td>Good Lovin</td><td align="center">3</td><td>[<a href="/1971-04-22">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/24/1971</td><td>Durham, NC (Wallace Wade Stadium, Duke Univers...)</td><td align="center">SII</td><td>Me  and  My Unc</td><td>Greatest</td><td align="center">1</td><td>[<a href="/1971-04-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/26/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Good Lovin</td><td>NFA</td><td align="center">2</td><td>[<a href="/1971-04-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/27/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Johnny B. Goode</td><td>Uncle John </td><td align="center">1</td><td>[<a href="/1971-04-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/29/1971</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Wharf Rat</td><td>Cumberland</td><td align="center">3</td><td>[<a href="/1971-05-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/21/1971</td><td>Herouville, France (Chateau d'Herouville)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Johnny B. Goode</td><td align="center">2</td><td>[<a href="/1971-06-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/2/1971</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Mama Tried</td><td align="center">1</td><td>[<a href="/1971-07-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/7/1971</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Me and My Uncle</td><td align="center">5</td><td>[<a href="/1971-08-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/24/1971</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SII</td><td>St. Stephen </td><td>Truckin</td><td align="center">4</td><td>[<a href="/1971-08-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/6/1971</td><td>San Francisco, CA (Harding Theater)</td><td align="center">SI</td><td>Mexicali</td><td>Saturday Night</td><td align="center">12</td><td>[<a href="/1971-11-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/3/1972</td><td>Paris, France (Olympia Theater)</td><td align="center">SI</td><td>Good Lovin</td><td>Casey Jones</td><td align="center">38</td><td>[<a href="/1972-05-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/4/1972</td><td>Paris, France (Olympia Theater)</td><td align="center">SII</td><td>Sugar Magnolia </td><td>Mexicali</td><td align="center">1</td><td>[<a href="/1972-05-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/7/1972</td><td>Wigan, England (Bickershaw Festival)</td><td align="center">SII</td><td>Other One </td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1972-05-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/10/1972</td><td>Amsterdam, The Netherlands (Concertgebouw)</td><td align="center">SII</td><td>Ramble On</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1972-05-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/16/1972</td><td>Luxembourg, Luxembourg (La Grand Salle du Gran...)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1972-05-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/18/1972</td><td>Muenchen, West Germany (Kongressaal, Deutsches...)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Saturday Night </td><td align="center">1</td><td>[<a href="/1972-05-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/24/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">2</td><td>[<a href="/1972-05-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/16/1972</td><td>Hartford, CT (Dillon Stadium)</td><td align="center">SI</td><td>Half Step</td><td>Casey Jones</td><td align="center">4</td><td>[<a href="/1972-07-16">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/18/1972</td><td>Jersey City, NJ (Roosevelt Stadium)</td><td align="center">SIII</td><td>Half Step</td><td>NFA</td><td align="center">1</td><td>[<a href="/1972-07-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/25/1972</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Wharf Rat</td><td>NFA</td><td align="center">3</td><td>[<a href="/1972-07-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/24/1972</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SII</td><td>Greatest</td><td>Saturday Night</td><td align="center">6</td><td>[<a href="/1972-08-24">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/27/1972</td><td>Veneta, OR (Old Renaissance Faire Grounds)</td><td align="center">SIII</td><td>El Paso</td><td>Sugar Magnolia</td><td align="center">2</td><td>[<a href="/1972-08-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/10/1972</td><td>Hollywood, CA (Hollywood Palladium)</td><td align="center">SII</td><td>Jack Straw</td><td>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1972-09-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/17/1972</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1972-09-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/30/1972</td><td>Washington, DC (Soccer Field, American Univers...)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">8</td><td>[<a href="/1972-09-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/26/1972</td><td>Cincinnati, OH (Music Hall)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Saturday Night</td><td align="center">9</td><td>[<a href="/1972-10-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/14/1972</td><td>Oklahoma City, OK (Oklahoma City Music Hall)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">6</td><td>[<a href="/1972-11-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/12/1972</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">10</td><td>[<a href="/1972-12-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/31/1972</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SIII</td><td>Sugar Magnolia</td><td>Johnny B. Goode</td><td align="center">2</td><td>[<a href="/1972-12-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/24/1973</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Dark Star</td><td>Sugar Magnolia</td><td align="center">15</td><td>[<a href="/1973-03-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/28/1973</td><td>Watkins Glen, NY (Grand Prix Racecourse)</td><td align="center">Enc1<br>Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">17</td><td>[<a href="/1973-07-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/26/1973</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SII</td><td>Playin</td><td>Me  and  My Unc</td><td align="center">13</td><td>[<a href="/1973-09-26">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

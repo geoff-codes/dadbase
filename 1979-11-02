@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Friday, November 2, 1979 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1979-11-02&highlight=went">Shows I attended</a>
+		<a href="/1979-11-02&highlight=own">Shows I own</a>
+		<a href="/1979-11-02&highlight=looking">Shows I'm looking for</a>
+		<a href="/1979-11-02&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Friday, November 2, 1979</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1102"></a><a href="/1979-11-02">11/2/1979 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1979-11-02*">Listen/Download</a>]<tr><td>I: Half Step > Franklin's, El Paso > Mexicali, Tennessee Jed, Lazy Lightning > Supplication, Deal</td></tr>
+<tr><td>II: Miracle > Bertha > Sailor > Saint > Jam > Drumz > NFA > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('79)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>Mississippi Half-Step</td><td>7/16/1972</td><td>7/6/1995</td><td align="center">234</td><td align="center">10</td><td align="center">[<a href="/songs/Mississippi Half Step_144">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">16</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
+<tr valign="top"><td>El Paso</td><td>7/14/1970</td><td>7/5/1995</td><td align="center">387</td><td align="center">22</td><td align="center">[<a href="/songs/El Paso_114">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Mexicali Blues</td><td>10/19/1971</td><td>6/25/1995</td><td align="center">435</td><td align="center">32</td><td align="center">[<a href="/songs/Mexicali Blues_223">ETP</a>]</td></tr>
+<tr valign="top"><td>Tennessee Jed</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">433</td><td align="center">22</td><td align="center">[<a href="/songs/Tennessee Jed_355">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Lazy Lightning</td><td>6/3/1976</td><td>10/31/1984</td><td align="center">111</td><td align="center">14</td><td align="center">[<a href="/songs/Lazy Lightning_195">ETP</a>]</td></tr>
+<tr valign="top"><td>Supplication</td><td>6/3/1976</td><td>5/22/1993</td><td align="center">113</td><td align="center">14</td><td align="center">[<a href="/songs/Supplication_346">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">32</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
+<tr valign="top"><td>I Need A Miracle</td><td>8/30/1978</td><td>6/30/1995</td><td align="center">271</td><td align="center">27</td><td align="center">[<a href="/songs/I Need A Miracle_230">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">23</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
+<tr valign="top"><td>Lost Sailor</td><td>8/4/1979</td><td>3/24/1986</td><td align="center">145</td><td align="center">25</td><td align="center">[<a href="/songs/Lost Sailor_299">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Saint Of Circumstance</td><td>8/31/1979</td><td>7/8/1995</td><td align="center">222</td><td align="center">21</td><td align="center">[<a href="/songs/Saint Of Circumstance_300">ETP</a>]</td></tr>
+<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">74</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">27</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
+<tr valign="top"><td>Stella Blue</td><td>6/17/1972</td><td>7/6/1995</td><td align="center">328</td><td align="center">16</td><td align="center">[<a href="/songs/Stella Blue_337">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">20</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
+<tr valign="top"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">7</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

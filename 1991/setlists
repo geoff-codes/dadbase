@@ -1,0 +1,455 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1991 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1991/setlists&highlight=went">Shows I attended</a>
+		<a href="/1991/setlists&highlight=own">Shows I own</a>
+		<a href="/1991/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1991/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1991 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>February:  <a href="#0219">19</a> <a href="#0220">20</a> <a href="#0221">21</a><br>
+March: <a href="#0317">17</a> <a href="#0318">18</a> <a href="#0320">20</a> <a href="#0321">21</a> <a href="#0323">23</a> <a href="#0324">24</a> <a href="#0325">25</a> <a href="#0327">27</a> <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0331">31</a><br>
+April: <a href="#0401">1</a> <a href="#0403">3</a> <a href="#0404">4</a> <a href="#0405">5</a> <a href="#0407">7</a> <a href="#0408">8</a> <a href="#0409">9</a> <a href="#0427">27</a> <a href="#0428">28</a><br>
+May: <a href="#0503">3</a> <a href="#0504">4</a> <a href="#0505">5</a> <a href="#0510">10</a> <a href="#0511">11</a> <a href="#0512">12</a><br>
+June: <a href="#0601">1</a> <a href="#0606">6</a> <a href="#0607">7</a> <a href="#0609">9</a> <a href="#0611">11</a> <a href="#0612">12</a> <a href="#0614">14</a> <a href="#0616">16</a> <a href="#0617">17</a> <a href="#0619">19</a> <a href="#0620">20</a> <a href="#0622">22</a> <a href="#0624">24</a> <a href="#0625">25</a> <a href="#0628">28</a><br>
+August: <a href="#0812">12</a> <a href="#0813">13</a> <a href="#0814">14</a> <a href="#0816">16</a> <a href="#0817">17</a> <a href="#0818">18</a><br>
+September: <a href="#0904">4</a> <a href="#0905">5</a> <a href="#0906">6</a> <a href="#0908">8</a> <a href="#0909">9</a> <a href="#0910">10</a> <a href="#0912">12</a> <a href="#0913">13</a> <a href="#0914">14</a> <a href="#0916">16</a> <a href="#0917">17</a> <a href="#0918">18</a> <a href="#0920">20</a> <a href="#0921">21</a> <a href="#0922">22</a> <a href="#0924">24</a> <a href="#0925">25</a> <a href="#0926">26</a><br>
+October: <a href="#1027">27</a> <a href="#1028">28</a> <a href="#1030">30</a> <a href="#1031">31</a><br>
+November: <a href="#1103">3</a><br>
+December: <a href="#1227">27</a> <a href="#1228">28</a> <a href="#1230">30</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0219"></a><a href="/1991-02-19">2/19/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-02-19*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Althea, Queen Jane, Ramble On, Picasso Moon, Peggy-O, Cassidy > New Speedway</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Truckin > Crazy Fingers > Jam > Drumz > Wheel > Watchtower > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Previous ''New Speedway'' 9/20/1970 [1369 shows]</i></td></tr>
+<tr class="notes"><td>without Bruce Hornsby. Last electric "New Speedway" 07-11-70 [1387].</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0220"></a><a href="/1991-02-20">2/20/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-02-20*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Walking Blues, FOTD, Mexicali > Cumberland, Masterpiece, Bird Song</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > He's Gone > Jam > Drumz<span class="setlist_small">*</span> > Jam<span class="setlist_small">*</span> > Space > Other One > Wharf Rat > Around</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>Next ''Space'' 3/23/1995 [306 shows]</i></td></tr>
+<tr class="notes"><td>*with Baba Olatunji and Sikiru Adepoju. Without Bruce Hornsby. False start for "Masterpiece."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0221"></a><a href="/1991-02-21">2/21/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-02-21*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Rooster, Loser, Memphis Blues, Tennessee Jed, Promised</td></tr>
+<tr><td>II: Playin > Uncle John<span class="setlist_small">*</span> > Terrapin<span class="setlist_small">*</span> > Drumz > Eyes<span class="setlist_small">*</span> > Throwing Stones > NFA<span class="setlist_small">*</span></td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby. The Chinese Symphony Orchestra opened. *with Airto Moreira on drums. Dragon Dance during "Drumz." "Terrapin" tease before "Uncle John."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1991-03-17">3/17/1991 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-17*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Walking Blues, Peggy-O, Queen Jane, Reuben  and  Cherise, Let It Grow</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Woman Smarter, Crazy Fingers > Truckin > New Speedway > Drumz > Wheel > Watchtower > Black Peter > Around</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>First ''Reuben  and  Cherise''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1991-03-18">3/18/1991 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-18*">Listen/Download</a>]<tr><td>I: Touch, Minglewood, Ramble On, Me  and  My Uncle > Maggie's Farm, Row Jimmy, Picasso Moon, Don't Ease</td></tr>
+<tr><td>II: Playin > Uncle John > Playin > Terrapin > Drumz > Miracle > Stella Blue > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0320"></a><a href="/1991-03-20">3/20/1991 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-20*">Listen/Download</a>]<tr><td>I: Stranger, Cold Rain, Rooster, Althea, B. T. Wind, Tennessee Jed, Music > Might As Well</td></tr>
+<tr><td>II: Eyes > Foolish Heart > Estimated > He's Gone > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Previous ''Might As Well'' 4/5/1988 [216 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1991-03-21">3/21/1991 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-21*">Listen/Download</a>]<tr><td>I: Half Step, Mexicali > Big River, Candyman, Memphis Blues, Bird Song</td></tr>
+<tr><td>II: Victim > Scarlet > Fire > Stir It Up Jam > Drumz > GDTRFB > Throwing Stones > NFA</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0323"></a><a href="/1991-03-23">3/23/1991 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-23*">Listen/Download</a>]<tr><td>I: Jack Straw, Bertha, Walking Blues, FOTD, Masterpiece, Loser, Cassidy, New Speedway</td></tr>
+<tr><td>II: Iko Iko, Saint, Ship Of Fools, Playin > Drumz > Watchtower > Morning Dew > Saturday Night</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1991-03-24">3/24/1991 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-24*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Wang Dang Doodle, Jack A Roe, BIODTL, B. E. Women, Desolation Row, Deal</td></tr>
+<tr><td>II: Samson, China Cat > I Know You Rider, L. L. Rain > He's Gone > Drumz > Wheel > Miracle > SOTM > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0325"></a><a href="/1991-03-25">3/25/1991 Knickerbocker Arena, Albany, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-25*">Listen/Download</a>]<tr><td>I: Shakedown, Rooster, Stagger Lee, Queen Jane, High Time, All Over Now, Tennessee Jed, Promised > Touch</td></tr>
+<tr><td>II: Greatest, Crazy Fingers > Truckin > Spoonful > Jam > Drumz > Other One > Black Peter > Throwing Stones > Playin Reprise</td></tr>
+<tr><td>E: Lovelight</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0327"></a><a href="/1991-03-27">3/27/1991 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-27*">Listen/Download</a>]<tr><td>I: Bucket, Cold Rain, Minglewood, Row Jimmy, Mama Tried > Maggie's Farm, Loose Lucy, Picasso Moon, Reuben  and  Cherise</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Uncle John > Drumz > Watchtower > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1991-03-28">3/28/1991 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-28*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Loser, B. T. Wind, Ramble On, Let It Grow</td></tr>
+<tr><td>II: Victim > Foolish Heart > Woman Smarter > Drumz > China Doll > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Terrapin</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1991-03-29">3/29/1991 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-29*">Listen/Download</a>]<tr><td>I: Stranger, Sugaree, Walking Blues, Dire Wolf, Me  and  My Uncle > Mexicali, Althea, Masterpiece</td></tr>
+<tr><td>II: Iko Iko, Saint > New Speedway > Truckin > Drumz > Other One > Wharf Rat > Throwing Stones > Touch</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Previous ''Dire Wolf'' 6/10/1990 [63 shows]</i></td></tr>
+<tr class="notes"><td>Without Bruce Hornsby. PA problems during "Masterpiece" forced the end of the set.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1991-03-31">3/31/1991 Greensboro Coliseum, Greensboro, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-03-31*">Listen/Download</a>]<tr><td>I: Half Step > Wang Dang Doodle, FOTD, Queen Jane, West L. A., Cassidy > Might As Well</td></tr>
+<tr><td>II: Samson > Eyes > Playin > Drumz > Wheel > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1991-04-01">4/1/1991 Greensboro Coliseum, Greensboro, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-01*">Listen/Download</a>]<tr><td>I: Jack Straw > Peggy-O, All Over Now, Candyman, Tom Thumb Blues, Picasso Moon, Bird Song</td></tr>
+<tr><td>II: China Cat > I Know You Rider, L. L. Rain, Dark Star > Drumz > Dark Star > Playin Reprise > Black Peter > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Tom Thumb Blues'' 7/8/1990 [57 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0403"></a><a href="/1991-04-03">4/3/1991 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-03*">Listen/Download</a>]<tr><td>I: Touch, Greatest, Loser, Rooster, B. E. Women, Masterpiece, Tennessee Jed, Music > Don't Ease</td></tr>
+<tr><td>II: Victim > Foolish Heart > Crazy Fingers > Truckin > Smokestack > Drumz > Watchtower > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0404"></a><a href="/1991-04-04">4/4/1991 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-04*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, TLEO, Walking Blues, Ramble On, Memphis Blues, High Time > Promised</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Estimated > He's Gone > Drumz > Miracle > SOTM > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0405"></a><a href="/1991-04-05">4/5/1991 The Omni, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-05*">Listen/Download</a>]<tr><td>I: Shakedown, Minglewood, Stagger Lee, Mama Tried > Mexicali, FOTD, Queen Jane, Deal</td></tr>
+<tr><td>II: Iko Iko, Saint > Terrapin > Stir It Up Jam > Drumz > Other One > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0407"></a><a href="/1991-04-07">4/7/1991 Orlando Arena, Orlando, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-07*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Wang Dang Doodle, Row Jimmy, B. T. Wind, Reuben  and  Cherise > Promised</td></tr>
+<tr><td>II: Crazy Fingers > Playin > Uncle John > Playin > Drumz > Box Of Rain > GDTRFB > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0408"></a><a href="/1991-04-08">4/8/1991 Orlando Arena, Orlando, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-08*">Listen/Download</a>]<tr><td>I: Half Step, Walking Blues, Peggy-O, Me  and  My Uncle > Maggie's Farm, Dire Wolf, Picasso Moon, Might As Well</td></tr>
+<tr><td>II: Eyes > Woman Smarter, Ship Of Fools, Truckin > Drumz > Wheel > Miracle > Morning Dew</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0409"></a><a href="/1991-04-09">4/9/1991 Orlando Arena, Orlando, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-09*">Listen/Download</a>]<tr><td>I: Bucket, Cold Rain, Rooster, Loose Lucy, Masterpiece, Roses, Let It Grow</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Saint > Foolish Heart > Drumz > Other One > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0427"></a><a href="/1991-04-27">4/27/1991 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-27*">Listen/Download</a>]<tr><td>I: Touch, Walking Blues, FOTD, Mexicali > Maggie's Farm, Loose Lucy, Cassidy, Might As Well</td></tr>
+<tr><td>II: Sugar Magnolia > Scarlet > Fire, Playin > Uncle John > Drumz > Miracle > Black Peter > Saturday Night</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Carlos Santana opened. Piano jam tuning before "Sugar Magnolia."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0428"></a><a href="/1991-04-28">4/28/1991 Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-04-28*">Listen/Download</a>]<tr><td>I: Jack Straw, Candyman, Wang Dang Doodle, Althea, Me  and  My Uncle > Big River, Bird Song<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Foolish Heart > Saint, Crazy Fingers > Truckin > Deal > Drumz > Other One > Wharf Rat > Around > Sunshine Daydream</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Previous ''Sunshine Daydream'' 7/16/1990 [61 shows]</i></td></tr>
+<tr class="notes"><td>Carlos Santana opened. *with Carlos Santana. "Casino Space" during "Drumz." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0503"></a><a href="/1991-05-03">5/3/1991 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-05-03*">Listen/Download</a>]<tr><td>I: Bertha > Greatest > West L. A., Queen Jane, Jack A Roe, All Over Now, Tennessee Jed, Let It Grow</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > He's Gone > Drumz > Wheel > Watchtower > Stella Blue > Lovelight</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby. Rex Foundation benefit. Soundcheck (w/o Bob): "Rip It Up," "Built To Last" with no vocals.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0504"></a><a href="/1991-05-04">5/4/1991 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-05-04*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, Minglewood, Loser, Race Is On<span class="setlist_small">*</span>, Row Jimmy, Masterpiece, New Speedway > Music</td></tr>
+<tr><td>II: Victim > Crazy Fingers > Playin > Uncle John > Drumz > Miracle > SOTM > Saturday Night</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>Next ''Race Is On'' 9/20/1993 [172 shows]</i></td></tr>
+<tr class="notes"><td>*Kentucky Derby day. Without Bruce Hornsby. Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0505"></a><a href="/1991-05-05">5/5/1991 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-05-05*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Rooster, Ramble On, Picasso Moon, B. E. Women > Promised</td></tr>
+<tr><td>II: Eyes > Woman Smarter, Ship Of Fools, Truckin > Terrapin > Drumz > Other One > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby. Rex Foundation benefit.; Mickey Hart's 1500th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0510"></a><a href="/1991-05-10">5/10/1991 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-05-10*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Walking Blues, Stagger Lee, Me  and  My Uncle > Maggie's Farm, Cold Rain, Desolation Row, Don't Ease</td></tr>
+<tr><td>II: Foolish Heart > Saint > Crazy Fingers > Truckin > New Speedway > Drumz > Wheel > Watchtower > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0511"></a><a href="/1991-05-11">5/11/1991 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-05-11*">Listen/Download</a>]<tr><td>I: Half Step, Wang Dang Doodle, Peggy-O, Queen Jane, Bird Song > Promised</td></tr>
+<tr><td>II: Saturday Night, Iko Iko, Playin > Uncle John > Drumz > Miracle > Morning Dew > Around</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0512"></a><a href="/1991-05-12">5/12/1991 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-05-12*">Listen/Download</a>]<tr><td>I: Picasso Moon, Althea, C. C. Rider > Train To Cry, El Paso, High Time, B. T. Wind > Deal</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > L. L. Rain > Terrapin > Drumz > GDTRFB > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Next ''El Paso'' 3/13/1992 [61 shows]; Previous ''Train To Cry'' 6/10/1973 [1164 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0601"></a><a href="/1991-06-01">6/1/1991 Los Angeles Memorial Coliseum, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-01*">Listen/Download</a>]<tr><td>I: Shakedown, Walking Blues, Bertha > Greatest, Candyman, Queen Jane, Deal</td></tr>
+<tr><td>II: Picasso Moon > Foolish Heart > Playin > Uncle John > Drumz > Miracle > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Johnny Clegg  and  Savuka opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0606"></a><a href="/1991-06-06">6/6/1991 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-06*">Listen/Download</a>]<tr><td>I: Jack Straw, TLEO, Wang Dang Doodle, Row Jimmy, B. T. Wind, Big RxR Blues, Cassidy, Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Uncle John > Drumz > Wheel > Watchtower > Stella Blue > Lovelight</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Previous ''Big RxR Blues'' 3/26/1990 [92 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0607"></a><a href="/1991-06-07">6/7/1991 Deer Creek Music Center, Noblesville, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-07*">Listen/Download</a>]<tr><td>I: Half Step > Rooster, Stagger Lee, Me  and  My Uncle > Maggie's Farm, Loser, Music > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire, Truckin > New Speedway > Drumz > Miracle > SOTM > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1991-06-09">6/9/1991 Buckeye Lake Music Center, Hebron, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-09*">Listen/Download</a>]<tr><td>I: Picasso Moon, Sugaree, Minglewood, Ramble On, Masterpiece, Reuben  and  Cherise, Let It Grow</td></tr>
+<tr><td>II: Samson, Crazy Fingers > Playin > He's Gone > Drumz > Other One > Wharf Rat > Around</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Final ''Reuben  and  Cherise''</i></td></tr>
+<tr class="notes"><td>Violent Femmes opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0611"></a><a href="/1991-06-11">6/11/1991 Charlotte Coliseum, Charlotte, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-11*">Listen/Download</a>]<tr><td>I: Iko Iko, Walking Blues, Jack A Roe, Mama Tried > Mexicali, West L. A., Queen Jane, Bird Song > Promised</td></tr>
+<tr><td>II: Victim > Eyes > L. L. Rain > Terrapin > Playin Reprise > Drumz > Playin Reprise > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0612"></a><a href="/1991-06-12">6/12/1991 Charlotte Coliseum, Charlotte, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-12*">Listen/Download</a>]<tr><td>I: Stranger, Peggy-O, C. C. Rider, Althea, Desolation Row, Loose Lucy, Bucket, Don't Ease</td></tr>
+<tr><td>II: Touch, Saint > Ship Of Fools > Woman Smarter > Drumz > GDTRFB > Watchtower > Morning Dew</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1991-06-14">6/14/1991 Robert F. Kennedy Stadium, Washington, DC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-14*">Listen/Download</a>]<tr><td>I: Cold Rain, Wang Dang Doodle, Jack A Roe, Big River > Maggie's Farm, Row Jimmy, B. T. Wind, Tennessee Jed, Music</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Estimated > Dark Star > Drumz > Stella Blue > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Dwight Yoakam opened. "Dark Star" is first verse only. Entire show appears in the "View from the Vault II" DVD and its accompanying CD.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0616"></a><a href="/1991-06-16">6/16/1991 Giants Stadium, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-16*">Listen/Download</a>]<tr><td>I: Picasso Moon, Bertha, Rooster, Candyman, Memphis Blues, Stagger Lee, Let It Grow</td></tr>
+<tr><td>II: Jack Straw > Crazy Fingers > China Cat > I Know You Rider > Drumz > Miracle > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Little Feat opened.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0617"></a><a href="/1991-06-17">6/17/1991 Giants Stadium, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-17*">Listen/Download</a>]<tr><td>I: Eyes > Walking Blues, B. E. Women, Masterpiece, Loose Lucy, Cassidy > Might As Well</td></tr>
+<tr><td>II: Saint > Ship Of Fools > Dark Star Jam > Truckin > New Speedway > Uncle John > Jam > Drumz > China Doll > Playin Reprise > Sugar Magnolia</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Next ''Might As Well'' 3/23/1994 [187 shows]</i></td></tr>
+<tr class="notes"><td>Little Feat opened. "Dark Star" tease before "Masterpiece" and before "Saint." "Dark Star" theme during "Jam." Last first-set "Eyes": 08-13-75 [1083].</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1991-06-19">6/19/1991 Pine Knob Music Theatre, Clarkston, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-19*">Listen/Download</a>]<tr><td>I: Stranger, TLEO, Minglewood, Dire Wolf, Queen Jane, Ramble On, Promised</td></tr>
+<tr><td>II: Victim > Scarlet <span class="setlist_small">*</span> > Fire <span class="setlist_small">*</span> > Woman Smarter > Drumz > Stella Blue <span class="setlist_small">*</span> > Other One <span class="setlist_small">*</span> > Johnny B. Goode <span class="setlist_small">*</span></td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>*appears on "Grateful Dead Download Series Volume 11."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0620"></a><a href="/1991-06-20">6/20/1991 Pine Knob Music Theatre, Clarkston, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-20*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Peggy-O, Mexicali > Maggie's Farm, Bird Song</td></tr>
+<tr><td>II: Throwing Stones > Iko Iko, Watchtower > SOTM > He's Gone > Drumz > Wheel > Miracle > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Entire show appears on "Grateful Dead Download Series Volume 11."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0622"></a><a href="/1991-06-22">6/22/1991 Soldier Field, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-22*">Listen/Download</a>]<tr><td>I: Bucket, Shakedown, Wang Dang Doodle, FOTD > Masterpiece, B. E. Women, Let It Grow</td></tr>
+<tr><td>II: Foolish Heart > L. L. Rain > Crazy Fingers > Playin > Terrapin > Drumz > Dark Star Jam > Playin > Black Peter > Saturday Night</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>Roger McGuinn opened.; The Grateful Dead's 2000th Show; Jerry Garcia's 2000th Show; Bob Weir's 2000th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1991-06-24">6/24/1991 Sandstone Amphitheatre, Bonner Springs, KS</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-24*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, C. C. Rider > Train To Cry, Me  and  My Uncle > Big River, Althea > Promised</td></tr>
+<tr><td>II: Space > China Cat > I Know You Rider, Estimated > Supplication Jam > Uncle John > Drumz > Other One > Morning Dew</td></tr>
+<tr><td>E: Around</td></tr>
+<tr class="notes"><td>Bill Kreutzmann's 2000th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0625"></a><a href="/1991-06-25">6/25/1991 Sandstone Amphitheatre, Bonner Springs, KS</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-25*">Listen/Download</a>]<tr><td>I: Jack Straw > Sugaree, Walking Blues, Candyman, Memphis Blues, Tennessee Jed, Music</td></tr>
+<tr><td>II: Scarlet > Fire, Truckin > Smokestack > He's Gone > Drumz > Comes A Time > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0628"></a><a href="/1991-06-28">6/28/1991 Mile High Stadium, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-06-28*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Half Step, Wang Dang Doodle, Peggy-O, B. T. Wind, Iko Iko, Cassidy > Don't Ease</td></tr>
+<tr><td>II: Eyes > Picasso Moon > Crazy Fingers > Saint > Drumz > Miracle > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>Santana opened. "Dark Star" tease before last verse of "Wharf Rat."; Phil Lesh's 2000th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0812"></a><a href="/1991-08-12">8/12/1991 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-08-12*">Listen/Download</a>]<tr><td>I: Iko Iko, Minglewood, Althea, Me  and  My Uncle > Big River, Bird Song > Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Playin > Terrapin > Drumz > Wheel > Miracle > Stella Blue > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0813"></a><a href="/1991-08-13">8/13/1991 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-08-13*">Listen/Download</a>]<tr><td>I: Picasso Moon, Sugaree, Walking Blues, Candyman, Memphis Blues, High Time, Let It Grow</td></tr>
+<tr><td>II: Foolish Heart > Saint > Eyes > Drumz > Watchtower > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Black Muddy River</td></tr>
+<tr class="notes"><td>Next ''Black Muddy River'' 6/24/1995 [289 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0814"></a><a href="/1991-08-14">8/14/1991 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-08-14*">Listen/Download</a>]<tr><td>I: Touch, Rooster, Loser, B. T. Wind, Row Jimmy, Cassidy > Don't Ease</td></tr>
+<tr><td>II: Cold Rain, Box Of Rain, L. L. Rain > Crazy Fingers, Estimated > Supplication Jam > Uncle John > Drumz > Other One > Wharf Rat > Around</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0816"></a><a href="/1991-08-16">8/16/1991 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-08-16*">Listen/Download</a>]<tr><td>I: Jack Straw > Bertha, All Over Now, Ramble On, Desolation Row, Dark Star > Promised</td></tr>
+<tr><td>II: Scarlet > Victim > Fire > Truckin > Drumz > Playin Reprise > SOTM > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>"Dark Star" is first verse only. Last first-set "Dark Star": 11-15-71 [1307].</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0817"></a><a href="/1991-08-17">8/17/1991 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-08-17*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Wang Dang Doodle, B. E. Women, Queen Jane, Tennessee Jed, Music</td></tr>
+<tr><td>II: Woman Smarter, Ship Of Fools, Smokestack > He's Gone > Jam > Drumz > Dark Star Jam > Morning Dew > Saturday Night</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0818"></a><a href="/1991-08-18">8/18/1991 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-08-18*">Listen/Download</a>]<tr><td>I: Bucket, Jack A Roe, C. C. Rider > Train To Cry, BIODTL, West L. A., Masterpiece, Stagger Lee, Johnny B. Goode</td></tr>
+<tr><td>II: Deal > Samson, Half Step, Stranger > Drumz > China Doll > GDTRFB > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0904"></a><a href="/1991-09-04">9/4/1991 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-04*">Listen/Download</a>]<tr><td>I: LTGTR, Jack Straw, Jack A Roe > Walking Blues, FOTD, B. T. Wind, Tennessee Jed, Masterpiece, Cold Rain > Promised</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > He's Gone > Drumz > China Doll > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0905"></a><a href="/1991-09-05">9/5/1991 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-05*">Listen/Download</a>]<tr><td>I: Half Step > Rooster, Stagger Lee, Queen Jane, Ramble On, Cassidy, Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter, Ship Of Fools, Truckin > Smokestack > Drumz > Miracle > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Next ''Smokestack'' 5/30/1992 [53 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0906"></a><a href="/1991-09-06">9/6/1991 Richfield Coliseum, Richfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-06*">Listen/Download</a>]<tr><td>I: Stranger, Bertha, Wang Dang Doodle, Peggy-O, Tom Thumb Blues, All Over Now, Bird Song</td></tr>
+<tr><td>II: Victim > Crazy Fingers > Playin > Terrapin > Drumz > Dark Star Jam > Watchtower > Stella Blue > Around</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0908"></a><a href="/1991-09-08">9/8/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-08*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Loser, Minglewood, Candyman, Big River > Maggie's Farm, Row Jimmy, Let It Grow</td></tr>
+<tr><td>II: Samson, Eyes > Saint > Dark Star Jam > Drumz > Other One > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E: Attics</td></tr>
+<tr class="notes"><td>Previous ''Attics'' 3/30/1990 [112 shows]</i></td></tr>
+<tr class="notes"><td>Soundcheck: Attics.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0909"></a><a href="/1991-09-09">9/9/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-09*">Listen/Download</a>]<tr><td>I: Picasso Moon > Sugaree, Me  and  My Uncle > Mexicali, TLEO, Memphis Blues, Loose Lucy > Music</td></tr>
+<tr><td>II: Iko Iko, L. L. Rain > New Speedway, Playin Reprise > Uncle John > Drumz > Last Time > Morning Dew</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>Previous ''Last Time'' 7/14/1990 [94 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0910"></a><a href="/1991-09-10">9/10/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-10*">Listen/Download</a>]<tr><td>I: Shakedown > C. C. Rider > Train To Cry, B. T. Wind, High Time, Cassidy, Deal</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Estimated > Dark Star > Drumz > Dark Star > Miracle > SOTM > Lovelight</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>With Branford Marsalis.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0912"></a><a href="/1991-09-12">9/12/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-12*">Listen/Download</a>]<tr><td>I: Bucket > Bertha, Walking Blues, Ramble On, BIODTL > Big RxR Blues, Tom Thumb Blues, Let It Grow</td></tr>
+<tr><td>II: Sugar Magnolia > Foolish Heart > Playin > Terrapin <span class="setlist_small">*</span> > Playin Jam > Drumz > Wheel > Black Peter > Around > Sunshine Daydream</td></tr>
+<tr><td>E: Box Of Rain</td></tr>
+<tr class="notes"><td>"I Want To Tell You" tuning before "Sugar Magnolia." *appears on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0913"></a><a href="/1991-09-13">9/13/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-13*">Listen/Download</a>]<tr><td>I: Touch > Wang Dang Doodle, Peggy-O, Big River > Cumberland, Althea, Masterpiece, Bird Song</td></tr>
+<tr><td>II: Victim > Scarlet > Fire > Drumz > Jam > Other One > Stella Blue > Throwing Stones > NFA</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Previous ''Cumberland'' 2/20/1991 [56 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0914"></a><a href="/1991-09-14">9/14/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-14*">Listen/Download</a>]<tr><td>I: LTGTR, Jack Straw, FOTD, Rooster, Jack A Roe, Desolation Row, Tennessee Jed > Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Ship Of Fools, Truckin > Spoonful > He's Gone > Drumz > Jam > Watchtower > China Doll > Saturday Night</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0916"></a><a href="/1991-09-16">9/16/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-16*">Listen/Download</a>]<tr><td>I: Stranger, Bertha, Minglewood, Roses > Dire Wolf, Queen Jane, West L. A., Music > Don't Ease</td></tr>
+<tr><td>II: Half Step > Saint > Comes A Time > Uncle John > Drumz > GDTRFB > Attics > Good Lovin</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Next ''GDTRFB'' 6/22/1992 [57 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0917"></a><a href="/1991-09-17">9/17/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-17*">Listen/Download</a>]<tr><td>I: Iko Iko > Greatest, Althea, Rooster, Loser, All Over Now, B. E. Women, Picasso Moon</td></tr>
+<tr><td>II: Box Of Rain, Cold Rain, Samson, Eyes > Drumz > Last Time > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0918"></a><a href="/1991-09-18">9/18/1991 Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-18*">Listen/Download</a>]<tr><td>I: Midnight Hour, Ramble On, Wang Dang Doodle, Candyman, Memphis Blues, Row Jimmy, Jack Straw</td></tr>
+<tr><td>II: Victim > Crazy Fingers > Playin > Terrapin > Drumz > Wheel > Miracle > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Next ''Midnight Hour'' 7/1/1992 [61 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0920"></a><a href="/1991-09-20">9/20/1991 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-20*">Listen/Download</a>]<tr><td>I: Touch, Rooster, Jack A Roe, B. T. Wind, Stagger Lee, Masterpiece, Bird Song</td></tr>
+<tr><td>II: Help > Slipknot > Fire, Estimated > Truckin > Drumz > Watchtower > Morning Dew</td></tr>
+<tr><td>E: Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0921"></a><a href="/1991-09-21">9/21/1991 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-21*">Listen/Download</a>]<tr><td>I: Bucket, TLEO, Minglewood, Peggy-O, Tom Thumb Blues, Cassidy > Deal</td></tr>
+<tr><td>II: Uncle John > Saint > Eyes > Jam > Drumz > Other One > Wharf Rat > Saturday Night</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0922"></a><a href="/1991-09-22">9/22/1991 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-22*">Listen/Download</a>]<tr><td>I: Shakedown, C. C. Rider > Train To Cry, Me  and  My Uncle > Maggie's Farm, B. E. Women, Let It Grow</td></tr>
+<tr><td>II: Samson, Iko Iko, L. L. Rain > He's Gone > Nobody's Fault > Spoonful > Drumz > Last Time > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Next ''Nobody's Fault'' 12/12/1993 [144 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0924"></a><a href="/1991-09-24">9/24/1991 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-24*">Listen/Download</a>]<tr><td>I: LTGTR, Stranger, Althea, All Over Now, High Time, BIODTL, Big RxR Blues, Desolation Row, New Speedway</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter > Ship Of Fools > Dark Star > Drumz > Foolish Heart > Miracle > SOTM > Around</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>"Dark Star" is first verse only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0925"></a><a href="/1991-09-25">9/25/1991 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-25*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Walking Blues, Roses > Dire Wolf, Queen Jane, Tennessee Jed > Music</td></tr>
+<tr><td>II: Victim > Crazy Fingers > Playin > Terrapin > Drumz > TWBS > Playin > China Doll > Throwing Stones > NFA</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+<tr class="notes"><td>First ''TWBS''; Next ''TWBS'' 6/8/1993 [103 shows]</i></td></tr>
+<tr class="notes"><td>Entie show released as "Dick's Picks Vol. 17."; Vince Welnick's 100th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0926"></a><a href="/1991-09-26">9/26/1991 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-09-26*">Listen/Download</a>]<tr><td>I: Jack Straw > Cold Rain, Wang Dang Doodle, Candyman, Mexicali > Cumberland, Picasso Moon > Box Of Rain</td></tr>
+<tr><td>II: Space > Dark Star > Saint > Eyes > Drumz > Other One > Dark Star > Attics > Good Lovin</td></tr>
+<tr><td>E: Brokedown > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Previous ''We Bid You Goodnight'' 7/14/1990 [107 shows]; Final ''We Bid You Goodnight''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1027"></a><a href="/1991-10-27">10/27/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-10-27*">Listen/Download</a>]<tr><td>I: Sugar Magnolia > Sugaree, Walking Blues, Althea, Masterpiece, Candyman, Cassidy, Touch</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson, Ship Of Fools, Iko Iko<span class="setlist_small">*</span> > Mona<span class="setlist_small">*</span> > Drumz > Wheel > Miracle > Wharf Rat > Good Lovin</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Previous ''Mona'' 3/25/1972 [1309 shows]; Final ''Mona''</i></td></tr>
+<tr class="notes"><td>*with Carlos Santana and Gary Duncan. Garcia mistakenly sings "Hey Bo Diddley" during "Mona."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1028"></a><a href="/1991-10-28">10/28/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-10-28*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Peggy-O, Wang Dang Doodle, Loose Lucy, Memphis Blues, Bird Song</td></tr>
+<tr><td>II: Saint > Crazy Fingers > Playin > Drumz > Watchtower > Stella Blue > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1991-10-30">10/30/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-10-30*">Listen/Download</a>]<tr><td>I: Picasso Moon, FOTD, Me  and  My Uncle > Maggie's Farm, B. E. Women, All Over Now, Tennessee Jed, Music</td></tr>
+<tr><td>II: Eyes > Estimated > Terrapin > Drumz > Other One > Black Peter > Around</td></tr>
+<tr><td>E: Mighty Quinn</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1991-10-31">10/31/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-10-31*">Listen/Download</a>]<tr><td>I: Help > Slipknot > Franklin's, Rooster, Loser, Tom Thumb Blues, Let It Grow</td></tr>
+<tr><td>II: Scarlet > Fire, Truckin > Spoonful<span class="setlist_small">*</span> > Dark Star<span class="setlist_small">*+</span> > Drumz > Jam<span class="setlist_small">*</span> > Dark Star<span class="setlist_small">*</span> > Last Time<span class="setlist_small">*</span> > SOTM > Throwing Stones > NFA</td></tr>
+<tr><td>E: Werewolves<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Previous ''Werewolves'' 10/31/1990 [84 shows]; Final ''Werewolves''</i></td></tr>
+<tr class="notes"><td>*with Gary Duncan.  +with Ken Kesey.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1103"></a><a href="/1991-11-03">11/3/1991 Polo Field, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-11-03*">Listen/Download</a>]<tr><td>Bucket, China Cat> I Know You Rider, Wang Dang Doodle <span class="setlist_small">*</span>, Born On The Bayou <span class="setlist_small">+</span>, Green River <span class="setlist_small">+</span>, Bad Moon Rising <span class="setlist_small">+</span>, Proud Mary<span class="setlist_small">+</span>, Truckin> Other One> Wharf Rat> Sunshine Daydream</td></tr>
+<tr><td>E: Forever Young<span class="setlist_small">#</span>, Touch</td></tr>
+<tr class="notes"><td>Only ''Forever Young''; Next ''Sunshine Daydream'' 6/10/1994 [166 shows]</i></td></tr>
+<tr class="notes"><td>"Laughter, Love, and Music" memorial for Bill Graham. Lineup: Dirty Dozen Brass Band; Bobby McFerrin; Jackson Browne; Aaron Neville; Tracy Chapman; Santana; Robin Williams; Journey; Crosby, Stills, Nash  and  Young; GD; Joan Baez, Graham Nash  and  Kris Kristofferson. Without Bruce Hornsby. *with John Popper on harmonica. +with John Fogerty on guitar and vocals. #with Neil Young on guitar and vocals." Only "Born On The Bayou." Only "Green River." Only "Bad Moon Rising." Only "Proud Mary." Only "Forever Young." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1227"></a><a href="/1991-12-27">12/27/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-12-27*">Listen/Download</a>]<tr><td>I: Cold Rain, Rooster, TLEO, Mama Tried > Mexicali, Loose Lucy, Memphis Blues, Stagger Lee, Music</td></tr>
+<tr><td>II: Scarlet > Fire > L. L. Rain > Terrapin > Drumz > Wheel > Watchtower > Black Peter > Around</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1991-12-28">12/28/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-12-28*">Listen/Download</a>]<tr><td>I: Saturday Night > Jack Straw, Peggy-O, Minglewood, Dire Wolf, Queen Jane, Loser, Cassidy > Deal</td></tr>
+<tr><td>II: Foolish Heart > Woman Smarter, Uncle John > Playin > Same Thing > Drumz > Miracle > SOTM > Throwing Stones > Saturday Night</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Previous ''Same Thing'' 12/31/1971 [1321 shows]</i></td></tr>
+<tr class="notes"><td>Without Bruce Hornsby. "SOTM" tease before "Miracle."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1991-12-30">12/30/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-12-30*">Listen/Download</a>]<tr><td>I: Touch, Wang Dang Doodle, Row Jimmy, Big River > Maggie's Farm, Ramble On, Tom Thumb Blues, Bird Song > Promised</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson, Ship Of Fools, Saint > Jam<span class="setlist_small">*</span> > Drumz<span class="setlist_small">*</span> > Last Time > Stella Blue<span class="setlist_small">*</span> > Lovelight</td></tr>
+<tr><td>E: The Weight</td></tr>
+<tr class="notes"><td>*with Airto Moreira on drums and vocals. Without Bruce Hornsby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1991-12-31">12/31/1991 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1991-12-31*">Listen/Download</a>]<tr><td>I: Bucket, Candyman, BIODTL, Roses, B. T. Wind, West L. A., Masterpiece, Help > Slipknot > Franklin's</td></tr>
+<tr><td>II: NFA<span class="setlist_small">*</span> > Eyes > Estimated > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Heaven's Door</td></tr>
+<tr class="notes"><td>Baba Olatunji, then Bela Fleck  and  The Flecktones opened. *with Airto Moreira on drums and vocals. Without Bruce Hornsby.</i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

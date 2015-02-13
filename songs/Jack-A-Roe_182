@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Jack-A-Roe | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Jack-A-Roe_182&highlight=went">Shows I attended</a>
+		<a href="/songs/Jack-A-Roe_182&highlight=own">Shows I own</a>
+		<a href="/songs/Jack-A-Roe_182&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Jack-A-Roe_182&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Jack-A-Roe</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<tr valign="top"><td>5/13/1977</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SI</td><td>El Paso</td><td>L. L. Rain</td><td align="center">986</td><td>[<a href="/1977-05-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/15/1977</td><td>St. Louis, MO (St. Louis Arena)</td><td align="center">SI</td><td>Supplication</td><td>Passenger</td><td align="center">1</td><td>[<a href="/1977-05-15">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/18/1977</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SI</td><td>Cassidy</td><td>Mexicali</td><td align="center">2</td><td>[<a href="/1977-05-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/21/1977</td><td>Lakeland, FL (Lakeland Civic Center Arena)</td><td align="center">SI</td><td>Cassidy</td><td>Jack Straw</td><td align="center">2</td><td>[<a href="/1977-05-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/26/1977</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SI</td><td>L. L. Rain</td><td>Minglewood</td><td align="center">3</td><td>[<a href="/1977-05-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/8/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>All Over Now</td><td>Lazy Lightning</td><td align="center">4</td><td>[<a href="/1977-06-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/17/1978</td><td>Chicago, IL (Rambler Room, Loyola University)</td><td align="center">*</td><td>Big Boy Pete</td><td>Dark Hollow</td><td align="center">1786</td><td>[<a href="/1978-11-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/20/1978</td><td>Cleveland, OH (Cleveland Music Hall)</td><td align="center">SII</td><td>Jam</td><td>Playin</td><td align="center">-1695</td><td>[<a href="/1978-11-20">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/7/1979</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Cassidy</td><td>L. L. Rain</td><td align="center">17</td><td>[<a href="/1979-01-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/14/1979</td><td>Utica, NY (Utica Memorial Auditorium)</td><td align="center">SI</td><td>All Over Now</td><td>Lazy Lightning</td><td align="center">5</td><td>[<a href="/1979-01-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/15/1979</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SI</td><td>Jack Straw</td><td>Cassidy</td><td align="center">1</td><td>[<a href="/1979-01-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>1/18/1979</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>Cassidy</td><td>L. L. Rain</td><td align="center">2</td><td>[<a href="/1979-01-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>1/20/1979</td><td>Buffalo, NY (Shea's Buffalo Theatre)</td><td align="center">SI</td><td>All Over Now</td><td>Minglewood</td><td align="center">1</td><td>[<a href="/1979-01-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/7/1979</td><td>Carbondale, IL (SIU Arena, U. of Southern Illi...)</td><td align="center">*</td><td>Mexicali</td><td>L. L. Rain</td><td align="center">5</td><td>[<a href="/1979-02-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>2/9/1979</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SI</td><td>El Paso</td><td>L. L. Rain</td><td align="center">1</td><td>[<a href="/1979-02-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/17/1979</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>L. L. Rain</td><td>Lazy Lightning</td><td align="center">3</td><td>[<a href="/1979-02-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/13/1979</td><td>Portland, ME (Cumberland County Civic Center)</td><td align="center">SI</td><td>Mexicali</td><td>All Over Now</td><td align="center">10</td><td>[<a href="/1979-05-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/14/1979</td><td>San Rafael, CA (Le Club Front)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">1654</td><td>[<a href="/1979-07-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/14/1979</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>Jack Straw</td><td>Mama Tried</td><td align="center">-1646</td><td>[<a href="/1979-08-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/2/1979</td><td>Augusta, ME (Augusta Civic Center)</td><td align="center">SI</td><td>Minglewood</td><td>Music</td><td align="center">3</td><td>[<a href="/1979-09-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/6/1979</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>L. L. Rain</td><td>Jack Straw </td><td align="center">13</td><td>[<a href="/1979-11-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/3/1979</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>All Over Now</td><td>Lazy Lightning</td><td align="center">10</td><td>[<a href="/1979-12-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/25/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Roses</td><td>Ain't No Lie</td><td align="center">60</td><td>[<a href="/1980-09-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/27/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Race Is On</td><td>Monkey  and  En</td><td align="center">2</td><td>[<a href="/1980-09-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/30/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>On The Road Aga</td><td>Monkey  and  En</td><td align="center">2</td><td>[<a href="/1980-09-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/2/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Cassidy</td><td>On The Road Aga</td><td align="center">1</td><td>[<a href="/1980-10-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/3/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>Heaven Help The</td><td align="center">1</td><td>[<a href="/1980-10-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/6/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Cassidy</td><td>Monkey  and  En</td><td align="center">2</td><td>[<a href="/1980-10-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/10/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Monkey  and  En</td><td>Dark Hollow</td><td align="center">3</td><td>[<a href="/1980-10-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/13/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Heaven Help The</td><td>Race Is On</td><td align="center">2</td><td>[<a href="/1980-10-13">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/19/1980</td><td>New Orleans, LA (Saenger Performing Arts Center)</td><td align="center">SI</td><td>On The Road Aga</td><td>Dark Hollow</td><td align="center">3</td><td>[<a href="/1980-10-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/23/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>Dark Hollow</td><td>Cassidy</td><td align="center">2</td><td>[<a href="/1980-10-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/26/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>On The Road Aga</td><td>Cassidy</td><td align="center">2</td><td>[<a href="/1980-10-26">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/26/1980</td><td>Pembroke Pines, FL (Sportatorium)</td><td align="center">SI</td><td>On The Road Aga</td><td>Minglewood</td><td align="center">5</td><td>[<a href="/1980-11-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/6/1980</td><td>Mill Valley, CA (Recreation Center)</td><td align="center">*</td><td>Monkey  and  En</td><td>Cassidy</td><td align="center">4</td><td>[<a href="/1980-12-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/31/1980</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>Monkey  and  En</td><td>Cassidy</td><td align="center">8</td><td>[<a href="/1980-12-31">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/2/1981</td><td>Cleveland, OH (Cleveland Music Hall)</td><td align="center">SI</td><td>El Paso</td><td>Lazy Lightning</td><td align="center">4</td><td>[<a href="/1981-03-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/7/1981</td><td>College Park, MD (Cole Field House, U. of Mary...)</td><td align="center">SI</td><td>C. C. Rider</td><td>Passenger</td><td align="center">4</td><td>[<a href="/1981-03-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/13/1981</td><td>Utica, NY (Utica Memorial Auditorium)</td><td align="center">SI</td><td>El Paso</td><td>Rooster</td><td align="center">4</td><td>[<a href="/1981-03-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/4/1981</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>BIODTL</td><td>Rooster</td><td align="center">10</td><td>[<a href="/1981-05-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/6/1981</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Cassidy</td><td>Rooster</td><td align="center">2</td><td>[<a href="/1981-05-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/11/1981</td><td>New Haven, CT (Veterans Memorial Coliseum)</td><td align="center">SI</td><td>El Paso</td><td>BIODTL</td><td align="center">3</td><td>[<a href="/1981-05-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/15/1981</td><td>Piscataway, NJ (Rutgers Athletic Center)</td><td align="center">SI</td><td>Rooster</td><td>El Paso</td><td align="center">3</td><td>[<a href="/1981-05-15">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/2/1981</td><td>Houston, TX (The Summit)</td><td align="center">SI</td><td>El Paso</td><td>L. L. Rain</td><td align="center">3</td><td>[<a href="/1981-07-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/13/1981</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>El Paso</td><td>BIODTL</td><td align="center">7</td><td>[<a href="/1981-07-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/12/1981</td><td>Salt Lake City, UT (Salt Palace)</td><td align="center">SI</td><td>Mexicali</td><td>C. C. Rider</td><td align="center">2</td><td>[<a href="/1981-08-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/31/1981</td><td>Las Vegas, NV (Aladdin Theatre)</td><td align="center">SI</td><td>Stranger</td><td>El Paso</td><td align="center">7</td><td>[<a href="/1981-08-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/26/1981</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SI</td><td>Cassidy</td><td>On The Road Aga</td><td align="center">5</td><td>[<a href="/1981-09-26">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/4/1981</td><td>London, England (Rainbow Theater)</td><td align="center">SI</td><td>El Paso</td><td>BIODTL</td><td align="center">5</td><td>[<a href="/1981-10-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/6/1981</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>L. L. Rain</td><td>BIODTL</td><td align="center">15</td><td>[<a href="/1981-12-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/6/1982</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>L. L. Rain</td><td>All Over Now</td><td align="center">19</td><td>[<a href="/1982-04-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/17/1982</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>El Paso</td><td>Rooster</td><td align="center">7</td><td>[<a href="/1982-04-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/12/1984</td><td>Augusta, ME (Augusta Civic Center)</td><td align="center">SI</td><td>On The Road Aga</td><td>All Over Now</td><td align="center">159</td><td>[<a href="/1984-10-12">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/1/1985</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SI</td><td>Walking Blues</td><td>Esau</td><td align="center">50</td><td>[<a href="/1985-07-01">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/31/1985</td><td>Austin, TX (Manor Downs)</td><td align="center">SI</td><td>Esau</td><td>Let It Grow</td><td align="center">6</td><td>[<a href="/1985-08-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/9/1988</td><td>Long Beach, CA (Long Beach Arena)</td><td align="center">SI</td><td>Masterpiece</td><td>Walking Blues</td><td align="center">235</td><td>[<a href="/1988-12-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/28/1988</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Walking Blues</td><td>All Over Now</td><td align="center">3</td><td>[<a href="/1988-12-28">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/6/1989</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Queen Jane</td><td align="center">4</td><td>[<a href="/1989-02-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/3/1989</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SI</td><td>Walking Blues</td><td>El Paso</td><td align="center">10</td><td>[<a href="/1989-04-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/10/1989</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Walking Blues</td><td>Masterpiece</td><td align="center">24</td><td>[<a href="/1989-07-10">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/18/1989</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Jack Straw</td><td>Minglewood</td><td align="center">5</td><td>[<a href="/1989-07-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/4/1989</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Queen Jane</td><td>Cassidy</td><td align="center">2</td><td>[<a href="/1989-08-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/17/1989</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>Walking Blues</td><td>Queen Jane</td><td align="center">3</td><td>[<a href="/1989-08-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/29/1989</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Memphis Blues</td><td align="center">3</td><td>[<a href="/1989-09-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/9/1989</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>We Can Run</td><td>Memphis Blues</td><td align="center">4</td><td>[<a href="/1989-10-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/6/1989</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Queen Jane</td><td>Little Light</td><td align="center">13</td><td>[<a href="/1989-12-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/30/1989</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Walking Blues</td><td>Masterpiece</td><td align="center">6</td><td>[<a href="/1989-12-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>2/25/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Greatest</td><td>Rooster</td><td align="center">2</td><td>[<a href="/1990-02-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/19/1990</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>We Can Run</td><td>Picasso Moon</td><td align="center">7</td><td>[<a href="/1990-03-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/25/1990</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Good Times</td><td>Masterpiece</td><td align="center">4</td><td>[<a href="/1990-03-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/8/1990</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Easy To Love Yo</td><td>Queen Jane</td><td align="center">10</td><td>[<a href="/1990-06-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/17/1990</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Rooster</td><td>Easy To Love Yo</td><td align="center">5</td><td>[<a href="/1990-06-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/8/1990</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SI</td><td>Greatest</td><td>Minglewood</td><td align="center">5</td><td>[<a href="/1990-07-08">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/21/1990</td><td>Tinley Park, IL (World Music Theatre)</td><td align="center">SI</td><td>Greatest</td><td>Walking Blues</td><td align="center">7</td><td>[<a href="/1990-07-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/14/1990</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>B. T. Wind</td><td>Cassidy</td><td align="center">8</td><td>[<a href="/1990-09-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/20/1990</td><td>Berlin, Germany (Internationales Congress Cent...)</td><td align="center">SI</td><td>B. T. Wind</td><td>Masterpiece</td><td align="center">9</td><td>[<a href="/1990-10-20">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/27/1990</td><td>Paris, France (Zenith)</td><td align="center">SI</td><td>Minglewood</td><td>B. T. Wind</td><td align="center">3</td><td>[<a href="/1990-10-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/9/1990</td><td>Chandler, AZ (Compton Terrace Amphitheatre)</td><td align="center">SI</td><td>Rooster</td><td>Maggie's Farm</td><td align="center">8</td><td>[<a href="/1990-12-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/31/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Bucket</td><td>Wang Dang Doodl</td><td align="center">7</td><td>[<a href="/1990-12-31">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/24/1991</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>BIODTL</td><td align="center">9</td><td>[<a href="/1991-03-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/3/1991</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Queen Jane</td><td>All Over Now</td><td align="center">15</td><td>[<a href="/1991-05-03">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/11/1991</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>Walking Blues</td><td>Mama Tried</td><td align="center">10</td><td>[<a href="/1991-06-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/14/1991</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Big River</td><td align="center">2</td><td>[<a href="/1991-06-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>8/18/1991</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Bucket</td><td>C. C. Rider</td><td align="center">14</td><td>[<a href="/1991-08-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/4/1991</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>Jack Straw</td><td>Walking Blues</td><td align="center">1</td><td>[<a href="/1991-09-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/14/1991</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Rooster</td><td>Desolation Row</td><td align="center">8</td><td>[<a href="/1991-09-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/20/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Rooster</td><td>B. T. Wind</td><td align="center">4</td><td>[<a href="/1991-09-20">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/5/1992</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Same Thing</td><td>Tom Thumb Blues</td><td align="center">21</td><td>[<a href="/1992-03-05">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/18/1992</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>All Over Now</td><td align="center">9</td><td>[<a href="/1992-03-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/29/1992</td><td>Las Vegas, NV (Sam Boyd Silver Bowl, U.N.L.V.)</td><td align="center">SI</td><td>Memphis Blues</td><td>Promised</td><td align="center">11</td><td>[<a href="/1992-05-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/14/1992</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Desolation Row</td><td>Picasso Moon</td><td align="center">8</td><td>[<a href="/1992-06-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/17/1992</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>Big River</td><td>All Over Now</td><td align="center">2</td><td>[<a href="/1992-06-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/2/1992</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>Same Thing</td><td>All Over Now</td><td align="center">10</td><td>[<a href="/1992-12-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/2/1993</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Same Thing</td><td>Queen Jane</td><td align="center">32</td><td>[<a href="/1993-04-02">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/25/1993</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Greatest</td><td>Wang Dang Doodl</td><td align="center">9</td><td>[<a href="/1993-05-25">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/21/1993</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Spoonful</td><td>B. T. Wind</td><td align="center">13</td><td>[<a href="/1993-06-21">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/13/1993</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Bucket</td><td>Same Thing</td><td align="center">14</td><td>[<a href="/1993-09-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/24/1993</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Stranger</td><td>Rooster</td><td align="center">8</td><td>[<a href="/1993-09-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/17/1993</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Walking Blues</td><td>Desolation Row</td><td align="center">11</td><td>[<a href="/1993-12-17">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/6/1994</td><td>Phoenix, AZ (Desert Sky Pavilion)</td><td align="center">SI</td><td>Spoonful</td><td>Masterpiece</td><td align="center">8</td><td>[<a href="/1994-03-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/27/1994</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Jack Straw</td><td>All Over Now</td><td align="center">9</td><td>[<a href="/1994-03-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/30/1994</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Stranger</td><td>Same Thing</td><td align="center">2</td><td>[<a href="/1994-03-30">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/6/1994</td><td>Miami, FL (Miami Arena)</td><td align="center">SI</td><td>Jack Straw</td><td>Wang Dang Doodl</td><td align="center">4</td><td>[<a href="/1994-04-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/19/1994</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Walking Blues</td><td>Big River</td><td align="center">20</td><td>[<a href="/1994-07-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/21/1994</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Greatest</td><td>Same Thing</td><td align="center">2</td><td>[<a href="/1994-07-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>7/27/1994</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SI</td><td>Walking Blues</td><td>B. T. Wind</td><td align="center">4</td><td>[<a href="/1994-07-27">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/4/1994</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Jack Straw</td><td>Walking Blues</td><td align="center">5</td><td>[<a href="/1994-08-04">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/18/1994</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Greatest</td><td>Rooster</td><td align="center">3</td><td>[<a href="/1994-09-18">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/5/1994</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Queen Jane</td><td align="center">7</td><td>[<a href="/1994-10-05">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/11/1994</td><td>Landover, MD (USAir Arena)</td><td align="center">SI</td><td>Picasso Moon</td><td>All Over Now</td><td align="center">5</td><td>[<a href="/1994-10-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/19/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Spoonful</td><td>El Paso</td><td align="center">6</td><td>[<a href="/1994-10-19">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/8/1994</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Spoonful</td><td>All Over Now</td><td align="center">4</td><td>[<a href="/1994-12-08">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/18/1995</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>Promised</td><td align="center">15</td><td>[<a href="/1995-03-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/29/1995</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Walking Blues</td><td>Mama Tried</td><td align="center">7</td><td>[<a href="/1995-03-29">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/29/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SI</td><td>LTGTR</td><td>Walking Blues</td><td align="center">14</td><td>[<a href="/1995-05-29">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/25/1995</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Wang Dang Doodl</td><td>Mama Tried</td><td align="center">10</td><td>[<a href="/1995-06-25">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

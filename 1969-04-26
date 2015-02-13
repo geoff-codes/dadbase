@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Saturday, April 26, 1969 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1969-04-26&highlight=went">Shows I attended</a>
+		<a href="/1969-04-26&highlight=own">Shows I own</a>
+		<a href="/1969-04-26&highlight=looking">Shows I'm looking for</a>
+		<a href="/1969-04-26&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Saturday, April 26, 1969</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0426"></a><a href="/1969-04-26">4/26/1969 Electric Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-04-26*">Listen/Download</a>]<tr><td>Dupree's <span class="setlist_small">+</span> > Mountains Of The Moon <span class="setlist_small">+</span> > Dark Star Jam <span class="setlist_small">+</span> > China Cat <span class="setlist_small">+</span> > Doin That Rag <span class="setlist_small">+</span>, Hurts Me Too > Hard To Handle, Cryptical <span class="setlist_small">+</span> > Drums <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > The Eleven Jam <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > It's A Sin <span class="setlist_small">+</span>, Morning Dew, Top Of The World, Minglewood, Silver Threads, Baby Blue, St. Stephen > Lovelight</td></tr>
+<tr><td>E: Viola Lee Blues <span class="setlist_small">*</span> > Feedback <span class="setlist_small">#</span> > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''Viola Lee Blues'' 3/20/1970 [132 shows]</i></td></tr>
+<tr class="notes"><td>The Dead opened and played an extended set to get back at the Velvet Underground for what they did the night before. *appears on "Fallout from the Phil Zone" and contains a "Seven" hint. +appears on "Dick's Picks Volume 26." #accompanied by studio outtake of "What's Become Of The Baby."    </i></td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('69)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>Dupree's Diamond Blues</td><td>1/24/1969</td><td>10/13/1994</td><td align="center">80</td><td align="center">16</td><td align="center">[<a href="/songs/Dupree's Diamond Blues_108">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Mountains Of The Moon</td><td>12/20/1968</td><td>7/12/1969</td><td align="center">12</td><td align="center">11</td><td align="center">[<a href="/songs/Mountains Of The Moon_238">ETP</a>]</td></tr>
+<tr valign="top"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">37</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Doin That Rag</td><td>1/24/1969</td><td>10/26/1969</td><td align="center">37</td><td align="center">37</td><td align="center">[<a href="/songs/Doin That Rag_101">ETP</a>]</td></tr>
+<tr valign="top"><td>Hurts Me Too</td><td>5/19/1966</td><td>5/24/1972</td><td align="center">47</td><td align="center">4</td><td align="center">[<a href="/songs/Hurts Me Too_169">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Hard To Handle</td><td>3/15/1969</td><td>12/31/1982</td><td align="center">105</td><td align="center">36</td><td align="center">[<a href="/songs/Hard To Handle_148">ETP</a>]</td></tr>
+<tr valign="top"><td>Cryptical Envelopment</td><td>10/22/1967</td><td>9/3/1985</td><td align="center">132</td><td align="center">46</td><td align="center">[<a href="/songs/Cryptical Envelopment_83">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">34</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
+<tr valign="top"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">52</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>It's A Sin</td><td>1/7/1966</td><td>8/28/1969</td><td align="center">11</td><td align="center">7</td><td align="center">[<a href="/songs/It's A Sin_181">ETP</a>]</td></tr>
+<tr valign="top"><td>Morning Dew</td><td>1/14/1967</td><td>6/21/1995</td><td align="center">254</td><td align="center">35</td><td align="center">[<a href="/songs/Morning Dew_236">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Top Of The World</td><td>5/19/1966</td><td>5/25/1972</td><td align="center">44</td><td align="center">24</td><td align="center">[<a href="/songs/Top Of The World_379">ETP</a>]</td></tr>
+<tr valign="top"><td>Minglewood Blues</td><td>5/19/1966</td><td>6/27/1995</td><td align="center">434</td><td align="center">2</td><td align="center">[<a href="/songs/Minglewood Blues_229">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Silver Threads</td><td>5/19/1966</td><td>7/9/1970</td><td align="center">17</td><td align="center">7</td><td align="center">[<a href="/songs/Silver Threads_320">ETP</a>]</td></tr>
+<tr valign="top"><td>Baby Blue</td><td>1/7/1966</td><td>2/19/1995</td><td align="center">141</td><td align="center">10</td><td align="center">[<a href="/songs/Baby Blue_20">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>St. Stephen</td><td>5/24/1968</td><td>10/31/1983</td><td align="center">165</td><td align="center">62</td><td align="center">[<a href="/songs/St. Stephen_331">ETP</a>]</td></tr>
+<tr valign="top"><td>Turn On Your Lovelight</td><td>8/5/1967</td><td>6/19/1995</td><td align="center">341</td><td align="center">80</td><td align="center">[<a href="/songs/Turn On Your Lovelight_210">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Viola Lee Blues</td><td>3/12/1966</td><td>10/31/1970</td><td align="center">32</td><td align="center">3</td><td align="center">[<a href="/songs/Viola Lee Blues_392">ETP</a>]</td></tr>
+<tr valign="top"><td>Feedback</td><td>11/10/1967</td><td>3/18/1971</td><td align="center">50</td><td align="center">22</td><td align="center">[<a href="/songs/Feedback_123">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>And We Bid You Goodnight</td><td>3/16/1968</td><td>9/26/1991</td><td align="center">61</td><td align="center">19</td><td align="center">[<a href="/songs/And We Bid You Goodnight_408">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

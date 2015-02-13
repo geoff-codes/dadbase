@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Tuesday, June 17, 1975 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1975-06-17&highlight=went">Shows I attended</a>
+		<a href="/1975-06-17&highlight=own">Shows I own</a>
+		<a href="/1975-06-17&highlight=looking">Shows I'm looking for</a>
+		<a href="/1975-06-17&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Tuesday, June 17, 1975</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0617"></a><a href="/1975-06-17">6/17/1975 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1975-06-17*">Listen/Download</a>]<tr><td>I: Crazy Fingers, BIODTL, Deal, Big River, Peggy-O, Me  and  My Uncle, Help > Slipknot > Franklin's</td></tr>
+<tr><td>II: Blues For Allah > Drums > King Solomon's Marbles > Blues For Allah, Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>First ''Crazy Fingers''; First ''Franklin's''; First ''Help''; Next ''Me  and  My Uncle'' 4/23/1977 [50 shows]</i></td></tr>
+<tr class="notes"><td>Bob Fried Memorial Boogie. "Help" without lyrics. Also: Kingfish; Keith  and  Donna; The Mirrors</i></td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('75)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">2</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">2</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
+<tr valign="top"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">1</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Big River</td><td>12/31/1971</td><td>7/6/1995</td><td align="center">395</td><td align="center">3</td><td align="center">[<a href="/songs/Big River_31">ETP</a>]</td></tr>
+<tr valign="top"><td>Peggy-O</td><td>12/10/1973</td><td>7/5/1995</td><td align="center">265</td><td align="center">1</td><td align="center">[<a href="/songs/Peggy O_267">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">1</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
+<tr valign="top"><td>Help On The Way</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">110</td><td align="center">3</td><td align="center">[<a href="/songs/Help On The Way_154">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Slipknot!</td><td>6/20/1974</td><td>6/22/1995</td><td align="center">112</td><td align="center">3</td><td align="center">[<a href="/songs/Slipknot!_323">ETP</a>]</td></tr>
+<tr valign="top"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">3</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Blues For Allah</td><td>3/23/1975</td><td>8/13/1975</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Blues For Allah_41">ETP</a>]</td></tr>
+<tr valign="top"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">4</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">1</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
+<tr valign="top"><td>U. S. Blues</td><td>2/22/1974</td><td>7/8/1995</td><td align="center">321</td><td align="center">2</td><td align="center">[<a href="/songs/U. S. Blues_385">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

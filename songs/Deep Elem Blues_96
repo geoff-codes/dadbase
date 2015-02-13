@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Deep Elem Blues | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/songs/Deep%20Elem%20Blues_96&highlight=went">Shows I attended</a>
+		<a href="/songs/Deep%20Elem%20Blues_96&highlight=own">Shows I own</a>
+		<a href="/songs/Deep%20Elem%20Blues_96&highlight=looking">Shows I'm looking for</a>
+		<a href="/songs/Deep%20Elem%20Blues_96&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Deep Elem Blues</div>
+
+<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
+<tr valign="top" class="header">
+	<td width="11%">Date</td>
+	<td width="38%">Location</td>
+	<td width="5%">Set</td>
+	<td width="16%">Before</td>
+	<td width="16%">After</td>
+	<td width="5%">Gap</td>
+	<td width="9%">&nbsp;</td></tr>
+<tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SIII</td><td>&mdash;&mdash;</td><td>Something On Yo</td><td align="center">103</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>3/20/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">*</td><td>Hard To Handle</td><td>FOTD</td><td align="center">433</td><td>[<a href="/1970-03-20">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/21/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">*</td><td>FOTD</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1970-03-21">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/3/1970</td><td>Cincinnati, OH (Field House, U. of Cincinnati)</td><td align="center">*</td><td>FOTD</td><td>Candyman</td><td align="center">2</td><td>[<a href="/1970-04-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/10/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>FOTD</td><td>Candyman</td><td align="center">2</td><td>[<a href="/1970-04-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/11/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Me  and  My Unc</td><td>Candyman</td><td align="center">1</td><td>[<a href="/1970-04-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/12/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Candyman</td><td>Cumberland</td><td align="center">1</td><td>[<a href="/1970-04-12">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/17/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Monkey  and  En</td><td>Candyman</td><td align="center">2</td><td>[<a href="/1970-04-17">Setlist</a>]</td></tr>
+<tr valign="top"><td>4/18/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>FOTD</td><td>Wake Up Little </td><td align="center">1</td><td>[<a href="/1970-04-18">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/19/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Saw Mill</td><td>The Rub</td><td align="center">1</td><td>[<a href="/1970-04-19">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/2/1970</td><td>Binghamton, NY (Harpur College, S.U.N.Y.)</td><td align="center">SI</td><td>Cumberland</td><td>Cold Jordan</td><td align="center">5</td><td>[<a href="/1970-05-02">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>5/7/1970</td><td>Cambridge, MA (Dupont Gymnasium, M.I.T.)</td><td align="center">SI</td><td>Me  and  My Unc</td><td>Candyman</td><td align="center">3</td><td>[<a href="/1970-05-07">Setlist</a>]</td></tr>
+<tr valign="top"><td>5/14/1970</td><td>Kirkwood, MO (Merramec Community College)</td><td align="center">SI</td><td>FOTD</td><td>Silver Threads</td><td align="center">4</td><td>[<a href="/1970-05-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/4/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Monkey and Engi</td><td>Candyman</td><td align="center">7</td><td>[<a href="/1970-06-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>6/6/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Candyman</td><td>Cumberland</td><td align="center">2</td><td>[<a href="/1970-06-06">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>6/24/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>Big RxR Blues</td><td>Monkey  and  En</td><td align="center">7</td><td>[<a href="/1970-06-24">Setlist</a>]</td></tr>
+<tr valign="top"><td>7/14/1970</td><td>San Rafael, CA (Euphoria Ballroom)</td><td align="center">SI</td><td>How Long Blues</td><td>Cumberland</td><td align="center">10</td><td>[<a href="/1970-07-14">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/20/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Uncle John</td><td>FOTD</td><td align="center">13</td><td>[<a href="/1970-09-20">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/10/1970</td><td>Queens, NY (Colden Auditorium, Queens College)</td><td align="center">SI</td><td>Truckin</td><td>Hard To Handle</td><td align="center">5</td><td>[<a href="/1970-10-10">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/6/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>Don't Ease</td><td>Dark Hollow</td><td align="center">13</td><td>[<a href="/1970-11-06">Setlist</a>]</td></tr>
+<tr valign="top"><td>11/7/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Monkey  and  En</td><td align="center">1</td><td>[<a href="/1970-11-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/9/1970</td><td>Island Park, NY (Action House)</td><td align="center">*</td><td>Morning Dew</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-11-09">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/16/1970</td><td>San Francisco, CA (The Matrix)</td><td align="center">*</td><td>Bertha</td><td>Motherless Chil</td><td align="center">2099</td><td>[<a href="/1970-12-16">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/23/1970</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>BIODTL</td><td align="center">-2084</td><td>[<a href="/1970-12-23">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/27/1970</td><td>El Monte, CA (Legion Stadium)</td><td align="center">SI</td><td>Hard To Handle</td><td>Sugar Magnolia</td><td align="center">2</td><td>[<a href="/1970-12-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/28/1970</td><td>El Monte, CA (Legion Stadium)</td><td align="center">SII</td><td>Bobby McGee</td><td>Cumberland</td><td align="center">1</td><td>[<a href="/1970-12-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>9/30/1971</td><td>Santa Venetia, CA ((unknown))</td><td align="center">*</td><td>Jack Straw</td><td>Big RxR Blues</td><td align="center">2094</td><td>[<a href="/1971-09-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/4/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Race Is On</td><td align="center">-1497</td><td>[<a href="/1980-10-04">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/7/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Heaven Help The</td><td>El Paso</td><td align="center">2</td><td>[<a href="/1980-10-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/11/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Cassidy</td><td>Monkey  and  En</td><td align="center">3</td><td>[<a href="/1980-10-11">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/13/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Race Is On</td><td>Ripple</td><td align="center">1</td><td>[<a href="/1980-10-13">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>10/25/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Race Is On</td><td align="center">6</td><td>[<a href="/1980-10-25">Setlist</a>]</td></tr>
+<tr valign="top"><td>10/30/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dark Hollow</td><td align="center">4</td><td>[<a href="/1980-10-30">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>11/28/1980</td><td>Lakeland, FL (Lakeland Civic Center Arena)</td><td align="center">SI</td><td>Passenger</td><td>L. L. Rain</td><td align="center">3</td><td>[<a href="/1980-11-28">Setlist</a>]</td></tr>
+<tr valign="top"><td>3/9/1981</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>El Paso</td><td>BIODTL</td><td align="center">20</td><td>[<a href="/1981-03-09">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/3/1981</td><td>Madison, WI (Dane County Coliseum)</td><td align="center">SI</td><td>Cassidy</td><td>Miracle</td><td align="center">63</td><td>[<a href="/1981-12-03">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/7/1981</td><td>Des Moines, IA (Des Moines Civic Center)</td><td align="center">SI</td><td>Big River</td><td>Cassidy</td><td align="center">3</td><td>[<a href="/1981-12-07">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>12/12/1981</td><td>San Mateo, CA (Fiesta Hall, County Fairgrounds)</td><td align="center">SII</td><td>Rooster</td><td>Me  and  My Unc</td><td align="center">2</td><td>[<a href="/1981-12-12">Setlist</a>]</td></tr>
+<tr valign="top"><td>12/27/1981</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>Cassidy</td><td>C. C. Rider</td><td align="center">2</td><td>[<a href="/1981-12-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>4/14/1982</td><td>Glens Falls, NY (Glens Falls Civic Center)</td><td align="center">SI</td><td>Big River</td><td>Rooster</td><td align="center">19</td><td>[<a href="/1982-04-14">Setlist</a>]</td></tr>
+<tr valign="top"><td>8/27/1983</td><td>Seattle, WA (Seattle Center Memorial Coliseum)</td><td align="center">SI</td><td>Jack Straw</td><td>Esau</td><td align="center">81</td><td>[<a href="/1983-08-27">Setlist</a>]</td></tr>
+<tr valign="top" class="row2"><td>9/24/1983</td><td>Watsonville, CA (Santa Cruz County Fairgrounds)</td><td align="center">SI</td><td>Bucket</td><td>L. L. Rain</td><td align="center">13</td><td>[<a href="/1983-09-24">Setlist</a>]</td></tr>
+</table>
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

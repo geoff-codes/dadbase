@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead Saturday, January 10, 1970 | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1970-01-10&highlight=went">Shows I attended</a>
+		<a href="/1970-01-10&highlight=own">Shows I own</a>
+		<a href="/1970-01-10&highlight=looking">Shows I'm looking for</a>
+		<a href="/1970-01-10&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">Saturday, January 10, 1970</div>
+
+	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0110"></a><a href="/1970-01-10">1/10/1970 Golden Hall, Community Concourse, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-01-10*">Listen/Download</a>]<tr><td>China Cat > I Know You Rider, Me  and  My Uncle, Dire Wolf, Hard To Handle, Casey Jones, Mason's Children > Black Peter <span class="setlist_small">*</span>, Good Lovin > Drums > Good Lovin, Cold Rain, Lovelight</td></tr>
+<tr class="notes"><td>Also: Savoy Brown; Aum. *appears as a "Workingman’s Dead" bonus track in "The Golden Road (1965-1973)." the 08-05-70 acoustic sets from the same vanue have sometimes been grafted onto the beginning of this recording.</i></td></tr>
+</table></div>
+<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
+<tr class="header" valign="bottom">
+      <td width="30%">&nbsp;</td>
+	  <td width="13%">First Played</td>
+	  <td width="13%">Last Played</td>
+	  <td width="8%" align="center">Played (ttl.)</td>
+	  <td width="8%" align="center">Played ('70)</td>
+	  <td width="12%" align="center">Every Time Played</td></tr>
+<tr valign="top"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">57</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">65</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
+<tr valign="top"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">66</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Dire Wolf</td><td>6/7/1969</td><td>7/2/1995</td><td align="center">225</td><td align="center">39</td><td align="center">[<a href="/songs/Dire Wolf_98">ETP</a>]</td></tr>
+<tr valign="top"><td>Hard To Handle</td><td>3/15/1969</td><td>12/31/1982</td><td align="center">105</td><td align="center">36</td><td align="center">[<a href="/songs/Hard To Handle_148">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">66</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
+<tr valign="top"><td>Mason's Children</td><td>12/19/1969</td><td>2/28/1970</td><td align="center">18</td><td align="center">11</td><td align="center">[<a href="/songs/Mason's Children_217">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">40</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
+<tr valign="top"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">67</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">52</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
+<tr valign="top"><td>Cold Rain And Snow</td><td>2/25/1966</td><td>6/19/1995</td><td align="center">240</td><td align="center">41</td><td align="center">[<a href="/songs/Cold Rain And Snow_75">ETP</a>]</td></tr>
+<tr valign="top" class="row2"><td>Turn On Your Lovelight</td><td>8/5/1967</td><td>6/19/1995</td><td align="center">341</td><td align="center">48</td><td align="center">[<a href="/songs/Turn On Your Lovelight_210">ETP</a>]</td></tr>
+</table>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

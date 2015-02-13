@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1984 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1984/setlists&highlight=went">Shows I attended</a>
+		<a href="/1984/setlists&highlight=own">Shows I own</a>
+		<a href="/1984/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1984/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1984 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>February:  <a href="#0221">21</a> <a href="#0225">25</a><br>
+March: <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0331">31</a> <a href="#03xx">xx</a><br>
+April: <a href="#0401">1</a> <a href="#0406">6</a> <a href="#0407">7</a> <a href="#0413">13</a> <a href="#0414">14</a> <a href="#0416">16</a> <a href="#0417">17</a> <a href="#0419">19</a> <a href="#0420">20</a> <a href="#0421">21</a> <a href="#0423">23</a> <a href="#0424">24</a> <a href="#0426">26</a> <a href="#0427">27</a> <a href="#0429">29</a> <a href="#0430">30</a><br>
+May: <a href="#0506">6</a> <a href="#0507">7</a> <a href="#0508">8</a><br>
+June: <a href="#0609">9</a> <a href="#0610">10</a> <a href="#0612">12</a> <a href="#0613">13</a> <a href="#0614">14</a> <a href="#0621">21</a> <a href="#0623">23</a> <a href="#0624">24</a> <a href="#0626">26</a> <a href="#0627">27</a> <a href="#0629">29</a> <a href="#0629">29</a> <a href="#0630">30</a><br>
+July: <a href="#0701">1</a> <a href="#0703">3</a> <a href="#0704">4</a> <a href="#0706">6</a> <a href="#0706">6</a> <a href="#0707">7</a> <a href="#0707">7</a> <a href="#0708">8</a> <a href="#0708">8</a> <a href="#0713">13</a> <a href="#0714">14</a> <a href="#0715">15</a> <a href="#0721">21</a> <a href="#0722">22</a><br>
+October: <a href="#1005">5</a> <a href="#1006">6</a> <a href="#1008">8</a> <a href="#1009">9</a> <a href="#1011">11</a> <a href="#1012">12</a> <a href="#1014">14</a> <a href="#1015">15</a> <a href="#1017">17</a> <a href="#1018">18</a> <a href="#1020">20</a> <a href="#1027">27</a> <a href="#1028">28</a> <a href="#1030">30</a> <a href="#1031">31</a><br>
+November: <a href="#1102">2</a> <a href="#1103">3</a><br>
+December: <a href="#1228">28</a> <a href="#1229">29</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0221"></a><a href="/1984-02-21">2/21/1984 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-02-21*">Listen/Download</a>]<tr><td>Throwing Stones</td></tr>
+<tr class="notes"><td>Studio demo: Weir with drum machine.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0225"></a><a href="/1984-02-25">2/25/1984 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-02-25*">Listen/Download</a>]<tr><td>Bucket, Esau</td></tr>
+<tr class="notes"><td>Studio demo: Weir & Lesh with drum machine.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1984-03-28">3/28/1984 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-03-28*">Listen/Download</a>]<tr><td>I: Iko Iko, C. C. Rider, Loser, El Paso, West L. A., BIODTL, Candyman, Let It Grow</td></tr>
+<tr><td>II: Ain't No Lie<span class="setlist_small">*</span>, Bucket, China Cat > I Know You Rider > Playin > Don't Need Love<span class="setlist_small">+</span> > Drumz > Wheel > Truckin > Spoonful > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>First ''Don't Need Love''; Next ''El Paso'' 10/15/1984 [51 shows]; Final ''Ain't No Lie''</i></td></tr>
+<tr class="notes"><td>First Rex Foundation benefit. *without Bob  and  Brent. +without Jerry  and  Phil.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1984-03-29">3/29/1984 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-03-29*">Listen/Download</a>]<tr><td>I: Walking The Dog > Bertha > Promised, Roses, Rooster, Bird Song, Esau, Might As Well</td></tr>
+<tr><td>II: Shakedown, Estimated > Eyes > Drumz > Spanish Jam > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Next ''Walking The Dog'' 4/8/1985 [83 shows]</i></td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1984-03-31">3/31/1984 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-03-31*">Listen/Download</a>]<tr><td>I: Alabama > Stranger, Dupree's, Minglewood, Dire Wolf, Bucket > Althea > L. L. Rain > Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Woman Smarter, He's Gone > Drumz > Blues For Allah Jam > Throwing Stones > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="03xx"></a><a href="/1984-03-xx">3/xx/1984 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-03-xx*">Listen/Download</a>]<tr><td>West L. A.</td></tr>
+<tr class="notes"><td>Studio session. Appears as an "In the Dark" bonus track in "Beyond Description (1973-1989)."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1984-04-01">4/1/1984 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-01*">Listen/Download</a>]<tr><td>I: Jack Straw, FOTD, Me  and  My Uncle > Mexicali, Big RxR Blues, Cassidy, Tennessee Jed, Esau > Don't Ease</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Samson, Terrapin > Drumz > Morning Dew > Miracle > GDTRFB > Good Lovin</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>Rex Foundation benefit.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0406"></a><a href="/1984-04-06">4/6/1984 Aladdin Theatre, Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-06*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, TLEO, All Over Now, B. E. Women, Bucket, Ramble On, Music > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Sailor > Saint > Drumz > Eyes > Truckin > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>"Black Peter" tease between "Eyes of the World" and "Truckin."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0407"></a><a href="/1984-04-07">4/7/1984 Irvine Meadows Amphitheatre, Irvine, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-07*">Listen/Download</a>]<tr><td>I: Stranger, West L. A., Me  and  My Uncle > Mexicali, Althea, C. C. Rider, Big RxR Blues, Esau, Touch</td></tr>
+<tr><td>II: Iko Iko, Playin > Uncle John > Drumz > Spanish Jam > Other One > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: NFA > Saturday Night</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0413"></a><a href="/1984-04-13">4/13/1984 Hampton Coliseum, Hampton, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-13*">Listen/Download</a>]<tr><td>I: Day Job, Minglewood, Dire Wolf, BIODTL, West L. A., All Over Now, Bird Song, Bucket > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Drumz > Wheel > Truckin > GDTRFB > Around > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0414"></a><a href="/1984-04-14">4/14/1984 Hampton Coliseum, Hampton, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-14*">Listen/Download</a>]<tr><td>I: Stranger, TLEO, C. C. Rider, B. E. Women, Esau, Tennessee Jed, Let It Grow</td></tr>
+<tr><td>II: Touch, Playin > Terrapin > Don't Need Love > Drumz > Morning Dew > Throwing Stones > Saturday Night</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>"Saturday Night" tease before "Throwing Stones"</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0416"></a><a href="/1984-04-16">4/16/1984 Community War Memorial, Rochester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-16*">Listen/Download</a>]<tr><td>I: Shakedown, Rooster, Peggy-O, Me  and  My Uncle > Mexicali, Dupree's, Cassidy, West L. A. > Might As Well</td></tr>
+<tr><td>II: Bucket, Ship Of Fools, Far From Me > He's Gone > Drumz > Other One > Stella Blue > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0417"></a><a href="/1984-04-17">4/17/1984 Niagara Falls Civic Center, Niagara Falls, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-17*">Listen/Download</a>]<tr><td>I: Jack Straw, Dire Wolf, Minglewood, Row Jimmy, Esau, Ramble On, L. L. Rain > Deal</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Woman Smarter, Eyes > Drumz > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>"Beer Barrel Polka" tuning before "Help."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0419"></a><a href="/1984-04-19">4/19/1984 Civic Convention Hall Auditorium, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-19*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Loser, C. C. Rider, Bird Song, Bucket, Big RxR Blues, Music > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Terrapin > Drumz > Wheel > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0420"></a><a href="/1984-04-20">4/20/1984 Civic Convention Hall Auditorium, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-20*">Listen/Download</a>]<tr><td>I: Stranger, Cold Rain, BIODTL, Cumberland, Rooster, B. E. Women, Esau, Roses > Let It Grow</td></tr>
+<tr><td>II: Scarlet > Fire > Samson > Drumz > Miracle > Morning Dew > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0421"></a><a href="/1984-04-21">4/21/1984 Civic Convention Hall Auditorium, Philadelphia, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-21*">Listen/Download</a>]<tr><td>I: Alabama > Promised, FOTD, Me  and  My Uncle > Mexicali, West L. A., Minglewood, Tennessee Jed, L. L. Rain > Deal</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Playin > China Doll > Don't Need Love > Drumz > Wharf Rat > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0423"></a><a href="/1984-04-23">4/23/1984 Veterans Memorial Coliseum, New Haven, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-23*">Listen/Download</a>]<tr><td>I: Jack Straw, Sugaree, Cassidy, Dupree's, Bucket > Might As Well</td></tr>
+<tr><td>II: Iko Iko, Sailor > Saint > Uncle John > Only A Fool<span class="setlist_small">*</span> > Drumz > Spanish Jam > Truckin > Black Peter > Around > Good Lovin</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Only ''Only A Fool''</i></td></tr>
+<tr class="notes"><td>*without Bobby, Jerry  and  Phil. Only "Only A Fool."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0424"></a><a href="/1984-04-24">4/24/1984 Veterans Memorial Coliseum, New Haven, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-24*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Candyman, Rooster, Bird Song, Esau, Ramble On, All Over Now > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter, He's Gone > Drumz > Other One > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0426"></a><a href="/1984-04-26">4/26/1984 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-26*">Listen/Download</a>]<tr><td>I: Shakedown, C. C. Rider, Loser, Bucket, B. E. Women, Lazy Lightning > Supplication > Deal</td></tr>
+<tr><td>II: Scarlet > Fire, Estimated > Eyes > Good Times<span class="setlist_small">*</span> > Drumz > Morning Dew > Throwing Stones > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Good Times'' 12/28/1982 [84 shows]</i></td></tr>
+<tr class="notes"><td>*without Bobby, Jerry, and Phil.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0427"></a><a href="/1984-04-27">4/27/1984 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-27*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Dire Wolf, Minglewood, Row Jimmy, Me  and  My Uncle > Big River, Althea, Esau, Big RxR Blues > Music</td></tr>
+<tr><td>II: Playin > China Doll > High Time > Woman Smarter > Drumz > Wheel > Wharf Rat > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>Previous ''High Time'' 9/21/1982 [94 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0429"></a><a href="/1984-04-29">4/29/1984 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-29*">Listen/Download</a>]<tr><td>I: Stranger, FOTD, C. C. Rider, Bird Song, Bucket, West L. A., Cassidy, Ramble On, Let It Grow</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Samson, Terrapin > Don't Need Love > Drumz > Truckin > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0430"></a><a href="/1984-04-30">4/30/1984 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-04-30*">Listen/Download</a>]<tr><td>I: Iko Iko > Greatest, Althea, Minglewood, Row Jimmy, Esau > Deal</td></tr>
+<tr><td>II: Miracle > Bertha > L. L. Rain, He's Gone > Drumz > Other One > China Doll > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Mickey Hart's 1000th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0506"></a><a href="/1984-05-06">5/6/1984 Silva Hall, Hult Center, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-05-06*">Listen/Download</a>]<tr><td>I: Bucket, Dire Wolf, Rooster, Dupree's, Cassidy, West L. A., BIODTL, Touch</td></tr>
+<tr><td>II: Uncle John > Samson, Ship Of Fools, Playin > China Doll > Drumz > Truckin > Spoonful > Black Peter > Around > Playin</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0507"></a><a href="/1984-05-07">5/7/1984 Silva Hall, Hult Center, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-05-07*">Listen/Download</a>]<tr><td>I: Iko Iko, C. C. Rider, Loser, Mama Tried > Big River, Bird Song, Esau > Deal</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Eyes > Drumz > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Bill Kreutzmann's 38th birthday. "Happy Birthday" before "Mama Tried."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0508"></a><a href="/1984-05-08">5/8/1984 Silva Hall, Hult Center, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-05-08*">Listen/Download</a>]<tr><td>I: Jack Straw, Cold Rain, Minglewood, Candyman, Me  and  My Uncle > Mexicali, Tennessee Jed, L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Scarlet > Touch > Woman Smarter, Terrapin > Drumz<span class="setlist_small">*</span> > Other One > Wharf Rat > Miracle > Morning Dew</td></tr>
+<tr><td>E: Sugar Magnolia > Brokedown</td></tr>
+<tr class="notes"><td>*with Ken Kesey, Ken Babbs  and  The Thunder Machine. "Beer Barrel Polka" tuning before "Jack Straw."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1984-06-09">6/9/1984 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-09*">Listen/Download</a>]<tr><td>I: Iko Iko, Bucket, Loser, Cassidy, Dupree's, C. C. Rider > Deal</td></tr>
+<tr><td>II: Miracle > Bertha, Playin > China Doll > Jam > Drumz > Playin > Black Peter > Sugar Magnolia > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0610"></a><a href="/1984-06-10">6/10/1984 Cal Expo Amphitheatre, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-10*">Listen/Download</a>]<tr><td>I: Stranger, TLEO, BIODTL, Dire Wolf, Esau, Bird Song, Minglewood, Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Samson, He's Gone > Don't Need Love > Drumz > Truckin > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0612"></a><a href="/1984-06-12">6/12/1984 Red Rocks Amphitheatre, Morrison, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-12*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, FOTD, Rooster, Big RxR Blues, Me  and  My Uncle > Mexicali, Althea, L. L. Rain, Might As Well</td></tr>
+<tr><td>II: Scarlet > Touch, Estimated > Eyes > Drumz > Other One > Wharf Rat > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0613"></a><a href="/1984-06-13">6/13/1984 Red Rocks Amphitheatre, Morrison, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-13*">Listen/Download</a>]<tr><td>I: Bucket, Candyman, C. C. Rider, Ramble On, Esau, Cold Rain > Don't Ease</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter, Ship Of Fools > Let It Grow > Drumz > Wheel > Miracle > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Lightning storm during show.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0614"></a><a href="/1984-06-14">6/14/1984 Red Rocks Amphitheatre, Morrison, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-14*">Listen/Download</a>]<tr><td>I: Iko Iko, Cassidy > Roses, Minglewood, B. E. Women, Jack Straw > Day Job</td></tr>
+<tr><td>II: Shakedown > Playin > Mr. Fantasy > Drumz > Playin > Black Peter > Throwing Stones > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>First ''Mr. Fantasy''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1984-06-21">6/21/1984 Kingswood Music Theatre, Maple, Ontario, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-21*">Listen/Download</a>]<tr><td>I: Bucket, TLEO, C. C. Rider > Bird Song, BIODTL > Dupree's > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Scarlet > Fire, Good Times, Samson > Terrapin > Drumz > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: New Orleans<span class="setlist_small">*</span>, Big Boss Man<span class="setlist_small">*</span> > Iko Iko<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Next ''Good Times'' 9/10/1985 [84 shows]; Previous ''New Orleans'' 11/12/1970 [879 shows]; Final ''New Orleans''</i></td></tr>
+<tr class="notes"><td>SEVA benefit - nationwide FM broadcast. The Band opened. Sylvia Tyson played outside the beer tent after the show for Circle Of Gold tickets *with The Band. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0623"></a><a href="/1984-06-23">6/23/1984 City Island, Harrisburg, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-23*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Peggy-O, Rooster, B. E. Women, Esau, Big RxR Blues, Music > Don't Ease</td></tr>
+<tr><td>II: Touch, Estimated > Eyes > Drumz > Truckin > Spoonful Jam > Black Peter > Around > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Robert Hunter's 43rd birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1984-06-24">6/24/1984 Saratoga Performing Arts Center, Saratoga, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-24*">Listen/Download</a>]<tr><td>I: Dancin, Dire Wolf, Minglewood, Candyman, Me  and  My Uncle > Mexicali, Ramble On, Bucket > Deal</td></tr>
+<tr><td>II: Miracle > Bertha > Playin > China Doll > Samson > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Satisfaction > Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''Dancin'' 7/7/1981 [203 shows]; Previous ''Satisfaction'' 8/31/1983 [57 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0626"></a><a href="/1984-06-26">6/26/1984 Merriweather Post Pavilion, Columbia, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-26*">Listen/Download</a>]<tr><td>I: Casey Jones, Stranger, Althea, Cassidy, Tennessee Jed > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter > He's Gone > Drumz > Don't Need Love > Truckin > Wang Dang Doodle > Stella Blue > Around > Good Lovin</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Previous ''Casey Jones'' 8/3/1982 [125 shows]</i></td></tr>
+<tr class="notes"><td>"Funiculi Funicula" tuning into "Casey Jones." Soundcheck: Casey Jones, Lovelight.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0627"></a><a href="/1984-06-27">6/27/1984 Merriweather Post Pavilion, Columbia, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-27*">Listen/Download</a>]<tr><td>I: Jack Straw, FOTD, Rooster, Cumberland, Esau, Loser, Let It Grow</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Estimated > Eyes > Do It In The Road<span class="setlist_small">*</span> > Drumz > Morning Dew > Throwing Stones > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>First ''Do It In The Road''</i></td></tr>
+<tr class="notes"><td>*without Jerry.  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0629"></a><a href="/1984-06-29">6/29/1984 Blossom Music Center, Cuyahoga Falls, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-29*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, TLEO, C. C. Rider > Bird Song, Bucket, West L. A., Music > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Touch > Mr. Fantasy > Woman Smarter > Drumz > Wheel > Other One > Black Peter > Around > Johnny B. Goode</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0629"></a><a href="/1984-06-29">6/29/1984 Songbird Center, Mansfield, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-29*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Dead played Blossom Music Center instead.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0630"></a><a href="/1984-06-30">6/30/1984 Indianapolis Sports Center, Indianapolis, IN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-06-30*">Listen/Download</a>]<tr><td>I: Jack Straw, Dire Wolf, Minglewood, Dupree's, Far From Me, Esau > Ramble On, Sailor > Saint > Deal</td></tr>
+<tr><td>II: Shakedown > Playin > Terrapin > Drumz > Playin > Truckin > Spoonful > Stella Blue > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>The Grateful Dead's 1500th Show; Jerry Garcia's 1500th Show; Bob Weir's 1500th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0701"></a><a href="/1984-07-01">7/1/1984 Pine Knob Music Theatre, Clarkston, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-01*">Listen/Download</a>]<tr><td>I: Iko Iko, Rooster, B. E. Women, Mama Tried > Big River, Tennessee Jed, Bucket > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Samson, He's Gone > Drumz > China Doll > Miracle > Bertha > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Bill Kreutzmann's 1500th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0703"></a><a href="/1984-07-03">7/3/1984 Starlight Theatre, Kansas City, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-03*">Listen/Download</a>]<tr><td>I: Alabama > Promised, Candyman, Cassidy, West L. A., Esau, Loser > L. L. Rain > Deal</td></tr>
+<tr><td>II: Scarlet > Touch > Fire > Don't Need Love > Drumz > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0704"></a><a href="/1984-07-04">7/4/1984 Five Seasons Center, Cedar Rapids, IA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-04*">Listen/Download</a>]<tr><td>I: Stranger, FOTD, C. C. Rider, Cumberland > BIODTL, Row Jimmy, Bucket > Don't Ease</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Far From Me > Estimated > He's Gone > Drumz > Truckin > Wharf Rat > Around > Good Lovin</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Phil Lesh's 1500th Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0706"></a><a href="/1984-07-06">7/6/1984 Alpine Valley Music Theatre, East Troy, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-06*">Listen/Download</a>]<tr><td>I: Iko Iko, Jack Straw > Big RxR Blues, Rooster, Candyman, Me  and  My Uncle > Mexicali, Bird Song, Let It Grow</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Ship Of Fools, Woman Smarter > Drumz > Mr. Fantasy > Other One > Black Peter > Do It In The Road > Around Jam > Sugar Magnolia</td></tr>
+<tr><td>E: Touch</td></tr>
+<tr class="notes"><td>Only "Around Jam"</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0706"></a><a href="/1984-07-06">7/6/1984 Peoria Civic Center, Peoria, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-06*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0707"></a><a href="/1984-07-07">7/7/1984 Alpine Valley Music Theatre, East Troy, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-07*">Listen/Download</a>]<tr><td>I: Bucket, Dire Wolf, Minglewood, Dupree's, Esau, B. E. Women, L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Samson, Cold Rain > Playin > China Doll > Playin Jam > Drumz > Terrapin > Throwing Stones > NFA > Lovelight > NFA</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>Previous ''Lovelight'' 12/31/1982 [105 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0707"></a><a href="/1984-07-07">7/7/1984 Peoria Civic Center, Peoria, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-07*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0708"></a><a href="/1984-07-08">7/8/1984 Peoria Civic Center, Peoria, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-08*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0708"></a><a href="/1984-07-08">7/8/1984 Alpine Valley Music Theatre, East Troy, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-08*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Alpine Valley shows were originally scheduled for July 7 & 8, probably after the Peoria shows were scrapped.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0713"></a><a href="/1984-07-13">7/13/1984 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-13*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Dire Wolf, C. C. Rider, Loser, Cassidy, Dupree's, Bucket > Might As Well</td></tr>
+<tr><td>II: Scarlet > Touch > Fire > Woman Smarter > Drumz > Wheel > Miracle > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: Dark Star</td></tr>
+<tr class="notes"><td>Next ''Dark Star'' 10/9/1989 [359 shows]</i></td></tr>
+<tr class="notes"><td>Shooting star before Dark Star.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0714"></a><a href="/1984-07-14">7/14/1984 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-14*">Listen/Download</a>]<tr><td>I: Jack Straw, West L. A., Rooster<span class="setlist_small">*</span>, Tennessee Jed, BIODTL > Big RxR Blues, L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Estimated > Eyes > Drumz > Truckin > Wharf Rat > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>*with Matt Kelly</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0715"></a><a href="/1984-07-15">7/15/1984 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-15*">Listen/Download</a>]<tr><td>I: Dancin > Bird Song, Minglewood, Cumberland, Esau, Ramble On, Bucket</td></tr>
+<tr><td>II: Do It In The Road<span class="setlist_small">*</span> > China Cat > I Know You Rider > Playin > Uncle John > Don't Need Love > Drumz > China Doll > Throwing Stones > NFA</td></tr>
+<tr><td>E1: Brokedown</td></tr>
+<tr><td>E2: Johnny B. Goode</td></tr>
+<tr class="notes"><td>*Why Don't We Do It In The Drums.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0721"></a><a href="/1984-07-21">7/21/1984 County Fairgrounds, Ventura, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-21*">Listen/Download</a>]<tr><td>I: Shakedown, Rooster, Althea, Me  and  My Uncle > Mexicali, China Cat > I Know You Rider > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Cold Rain > Far From Me > Truckin > Eyes > Drumz > Other One > Stella Blue > Around > Saturday Night</td></tr>
+<tr><td>E: Touch</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0722"></a><a href="/1984-07-22">7/22/1984 County Fairgrounds, Ventura, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-07-22*">Listen/Download</a>]<tr><td>I: Dancin > Bertha, Esau, Loser, Cassidy, Ramble On, Bucket > Day Job</td></tr>
+<tr><td>II: Samson, Ship Of Fools, I Just Want > Woman Smarter, Terrapin > Drumz > Morning Dew > Throwing Stones > NFA</td></tr>
+<tr><td>E: Midnight Hour > Brokedown</td></tr>
+<tr class="notes"><td>Previous ''I Just Want'' 11/29/1966 [1419 shows]</i></td></tr>
+<tr class="notes"><td>"I Just Want" tease before "Cassidy."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1005"></a><a href="/1984-10-05">10/5/1984 Charlotte Coliseum, Charlotte, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-05*">Listen/Download</a>]<tr><td>I: Bertha > Promised, West L. A., Rooster, Dupree's, Esau, B. E. Women, Stranger, Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Estimated > Eyes > Drumz > Other One > Black Peter > Sugar Magnolia > Johnny B. Goode</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1006"></a><a href="/1984-10-06">10/6/1984 Richmond Coliseum, Richmond, VA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-06*">Listen/Download</a>]<tr><td>I: Bucket, Dire Wolf, Cassidy, TLEO, Minglewood, Tennessee Jed, L. L. Rain > Don't Ease</td></tr>
+<tr><td>II: Scarlet > Fire, Playin > China Doll > Jam > Drumz > Throwing Stones > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1008"></a><a href="/1984-10-08">10/8/1984 The Centrum, Worcester, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-08*">Listen/Download</a>]<tr><td>I: Iko Iko, BIODTL, Candyman, C. C. Rider, Bird Song, Lazy Lightning > Supplication > Deal</td></tr>
+<tr><td>II: Terrapin > Samson > I Just Want > Miracle > Drumz > Truckin > Wharf Rat > NFA</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Next ''I Just Want'' 2/21/1995 [746 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1009"></a><a href="/1984-10-09">10/9/1984 The Centrum, Worcester, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-09*">Listen/Download</a>]<tr><td>I: Dancin, FOTD, Me  and  My Uncle > Mexicali, Althea, Esau, Big RxR Blues, Let It Grow</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Jack Straw, He's Gone > Smokestack > Drumz > Wheel > Throwing Stones > Stella Blue > Around > Johnny B. Goode</td></tr>
+<tr><td>E: Revolution</td></tr>
+<tr class="notes"><td>Previous ''Revolution'' 10/31/1983 [52 shows]; Previous ''Smokestack'' 3/25/1972 [795 shows]</i></td></tr>
+<tr class="notes"><td>"Revolution" for John Lennon's birthday.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1011"></a><a href="/1984-10-11">10/11/1984 Augusta Civic Center, Augusta, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-11*">Listen/Download</a>]<tr><td>I: Shakedown, Greatest, Peggy-O, Mama Tried > Big River, Ramble On, L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Bucket > Touch, Woman Smarter, Ship Of Fools, Playin > Drumz > Mr. Fantasy > Black Peter > Sugar Magnolia</td></tr>
+<tr><td>E: Day Job</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1012"></a><a href="/1984-10-12">10/12/1984 Augusta Civic Center, Augusta, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-12*">Listen/Download</a>]<tr><td>I: Stranger, Roses, On The Road Again, Jack A Roe, All Over Now, Cumberland, Music</td></tr>
+<tr><td>II: Cold Rain, Sailor > Saint > Don't Need Love > Uncle John > Jam > Drumz > Playin Reprise > Uncle John > Morning Dew</td></tr>
+<tr><td>E: Good Lovin</td></tr>
+<tr class="notes"><td>First ''Playin Reprise''; Next ''Jack A Roe'' 7/1/1985 [50 shows]; Previous ''On The Road Again'' 4/19/1983 [102 shows]; Final ''On The Road Again''</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1014"></a><a href="/1984-10-14">10/14/1984 Hartford Civic Center, Hartford, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-14*">Listen/Download</a>]<tr><td>I: Alabama > Greatest, Dire Wolf, Rooster, Dupree's, Esau, Loser, Minglewood, Row Jimmy, Miracle > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider > Samson, High Time, Estimated > Eyes > Drumz > China Doll > Throwing Stones > NFA > Lovelight</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1015"></a><a href="/1984-10-15">10/15/1984 Hartford Civic Center, Hartford, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-15*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree > El Paso, Bird Song, C. C. Rider, Tennessee Jed, Jack Straw > Day Job</td></tr>
+<tr><td>II: Scarlet > Fire, Playin > Drumz > Wheel > Wharf Rat > Playin > Sugar Magnolia</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+<tr class="notes"><td>Previous ''El Paso'' 3/28/1984 [51 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1017"></a><a href="/1984-10-17">10/17/1984 Meadowlands Arena, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-17*">Listen/Download</a>]<tr><td>I: Iko Iko > Promised, West L. A., Esau > B. E. Women, Minglewood, Row Jimmy > L. L. Rain > Might As Well</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's, Woman Smarter > Terrapin > Drumz > Other One > Truckin > Nobody's Jam > Stella Blue > GDTRFB</td></tr>
+<tr><td>E: Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1018"></a><a href="/1984-10-18">10/18/1984 Meadowlands Arena, East Rutherford, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-18*">Listen/Download</a>]<tr><td>I: Stranger, Candyman, Rooster, Big RxR Blues, Cassidy > Althea, Bucket</td></tr>
+<tr><td>II: Dancin > Touch, Playin > Uncle John > China Doll > Jam > Drumz > Playin > Throwing Stones > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1020"></a><a href="/1984-10-20">10/20/1984 Carrier Dome, Syracuse University, Syracuse, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-20*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, West L. A., C. C. Rider, Ramble On, Esau, Bird Song, Jack Straw</td></tr>
+<tr><td>II: Shakedown > Samson, He's Gone > Smokestack > Jam > Drumz > Wheel > Other One > Black Peter > Lovelight</td></tr>
+<tr><td>E: Revolution</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1027"></a><a href="/1984-10-27">10/27/1984 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-27*">Listen/Download</a>]<tr><td>I: Bucket > Sugaree, All Over Now, Candyman, Me  and  My Uncle > Mexicali, Dupree's, BIODTL > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Woman Smarter > He's Gone > Wang Dang Doodle > Space > Don't Need Love > Drumz > Truckin > Black Peter > GDTRFB > Saturday Night</td></tr>
+<tr><td>E: Day Job</td></tr>
+<tr class="notes"><td>Next ''Wang Dang Doodle'' 3/27/1986 [91 shows]</i></td></tr>
+<tr class="notes"><td>First Taper's Section.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1028"></a><a href="/1984-10-28">10/28/1984 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-28*">Listen/Download</a>]<tr><td>I: Cold Rain, Esau > Althea > C. C. Rider, Bird Song, L. L. Rain > Deal</td></tr>
+<tr><td>II: Terrapin > Playin > China Doll > Jam > Drumz > Wheel > Throwing Stones > NFA</td></tr>
+<tr><td>E: Baby Blue</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1984-10-30">10/30/1984 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-30*">Listen/Download</a>]<tr><td>I: Dancin, Dire Wolf, Rooster, B. E. Women, Cassidy, Tennessee Jed, Let It Grow</td></tr>
+<tr><td>II: Scarlet > Fire, Far From Me, Estimated > Eyes > Drumz > Other One > Stella Blue > Sugar Magnolia</td></tr>
+<tr><td>E: U. S. Blues</td></tr>
+<tr class="notes"><td>Next ''Far From Me'' 3/29/1987 [135 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1984-10-31">10/31/1984 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-10-31*">Listen/Download</a>]<tr><td>I: Shakedown, Mama Tried > Big River, Ramble On, Minglewood<span class="setlist_small">*</span> > Big RxR Blues<span class="setlist_small">*</span>, Lazy Lightning > Supplication > Don't Ease</td></tr>
+<tr><td>II: Touch, Samson, Ship Of Fools, Miracle<span class="setlist_small">*</span> > Superstitious<span class="setlist_small">*</span> > He's Gone > Drumz > Morning Dew > Around<span class="setlist_small">*</span> > Saturday Night<span class="setlist_small">+</span></td></tr>
+<tr><td>E: Satisfaction</td></tr>
+<tr class="notes"><td>First ''Superstitious''; Next ''Supplication'' 5/22/1993 [597 shows]; Final ''Lazy Lightning''</i></td></tr>
+<tr class="notes"><td>*with Matt Kelly. +One More Halloween Night. Brief "Mind Left Body Jam" before "Morning Dew."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1102"></a><a href="/1984-11-02">11/2/1984 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-11-02*">Listen/Download</a>]<tr><td>I: Jack Straw > Peggy-O, El Paso, Loser, Smokestack > Spoonful > Smokestack, Iko Iko</td></tr>
+<tr><td>II: Help > Slipknot > Franklin's > Sailor > Saint > Wharf Rat > Gimme Some Lovin > Drumz > Playin Reprise > Bertha > Good Lovin</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+<tr class="notes"><td>First ''Gimme Some Lovin''; Next ''Playin Reprise'' 3/21/1986 [83 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1103"></a><a href="/1984-11-03">11/3/1984 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-11-03*">Listen/Download</a>]<tr><td>I: Alabama > Promised, FOTD, Bottom, Roses > Music > Deal</td></tr>
+<tr><td>II: Stranger > Cumberland, Gloria > Do It In The Road > Jam > Drumz > Uncle John > Mr. Fantasy > Throwing Stones > Lovelight</td></tr>
+<tr><td>E: Brokedown</td></tr>
+<tr class="notes"><td>First ''Bottom''; Previous ''Gloria'' 10/16/1981 [204 shows]</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1984-12-28">12/28/1984 San Francisco Civic Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-12-28*">Listen/Download</a>]<tr><td>I: Touch > Greatest, Dire Wolf, Tons Of Steel, Superstitious > Bottom > Dupree's, Me  and  My Uncle > Mexicali, West L. A. > Might As Well</td></tr>
+<tr><td>II: China Cat > I Know You Rider, L. L. Rain, He's Gone > Spoonful > Drumz > Other One > Wharf Rat > Sugar Magnolia</td></tr>
+<tr><td>E: Day Tripper</td></tr>
+<tr class="notes"><td>First ''Day Tripper''; First ''Tons Of Steel''</i></td></tr>
+<tr class="notes"><td>sound check: Tons Of Steel</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1229"></a><a href="/1984-12-29">12/29/1984 San Francisco Civic Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-12-29*">Listen/Download</a>]<tr><td>I: Saturday Night, FOTD, Esau, Big RxR Blues, Cassidy, Althea, Let It Grow</td></tr>
+<tr><td>II: Samson > Terrapin > Playin > Drumz > Truckin > Stella Blue > NFA </td></tr>
+<tr><td>E: NFA > Brokedown</td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1984-12-31">12/31/1984 San Francisco Civic Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1984-12-31*">Listen/Download</a>]<tr><td>I: Shakedown <span class="setlist_small">*</span>, Minglewood, Peggy-O, Jack Straw > Bird Song, Bucket > Don't Ease</td></tr>
+<tr><td>II: Sugar Magnolia > Scarlet > Fire > Woman Smarter > Drumz > Spanish Jam > Wheel > Throwing Stones > Lovelight</td></tr>
+<tr><td>III: Gimme Some Lovin > Uncle John > Around > Baby Blue</td></tr>
+<tr class="notes"><td>Bill Graham rides in at midnight on a lightning bolt. FM broadcast KFOG-San Francisco - national radio broadcast. Also: The Bobs; The Brass Band. *appears on "So Many Roads (1965-1995)."</i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

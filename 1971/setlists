@@ -1,0 +1,499 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Grateful Dead 1971 Setlists | DeadBase Online | Grateful Dead Setlists</title>
+<meta name="description" content="Complete Grateful Dead setlists and info from DeadBase Online">
+<meta name="keywords" content="grateful dead setlists, grateful dead stats, dead lists, deadbase">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/inc_style.css" rel="stylesheet" type="text/css">
+</head>
+<script language="JavaScript">self.onError = null; if( top.location != location ) { top.location.href = location.href; }</script>
+<script language="JavaScript">function goto(object) { window.location.href = object.options[object.selectedIndex].value; }</script>
+<script>
+function showDrop(id) {
+	document.getElementById(id).style.display='block';
+}
+function hideDrop(id) {
+	document.getElementById(id).style.display='none';
+}
+</script>
+<style type="text/css">
+</style>
+<body>
+<div align="center">
+<div id="container">
+<div><img src="/images/banner.jpg"></div>
+
+<div id="nav"><!--START NAV-->
+	<div class="link"><a href="/my">My DeadBase</a></div>
+    <div class="link" onmouseover="showDrop('lists_60s');" onmouseout="hideDrop('lists_60s');"><ul id="lists_60s">
+    	<li><a href="/1965/setlists">1965</a></li><li><a href="/1966/setlists">1966</a></li><li><a href="/1967/setlists">1967</a></li><li><a href="/1968/setlists">1968</a></li><li><a href="/1969/setlists">1969</a></li>    </ul><a href="/setlists">60s Setlists</a></div>
+    <div class="link" onmouseover="showDrop('lists_70s');" onmouseout="hideDrop('lists_70s');"><a href="/setlists">70s Setlists</a><ul id="lists_70s">
+    	<li><a href="/1970/setlists">1970</a></li><li><a href="/1971/setlists">1971</a></li><li><a href="/1972/setlists">1972</a></li><li><a href="/1973/setlists">1973</a></li><li><a href="/1974/setlists">1974</a></li><li><a href="/1975/setlists">1975</a></li><li><a href="/1976/setlists">1976</a></li><li><a href="/1977/setlists">1977</a></li><li><a href="/1978/setlists">1978</a></li><li><a href="/1979/setlists">1979</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_80s');" onmouseout="hideDrop('lists_80s');"><a href="/setlists">80s Setlists</a><ul id="lists_80s">
+    	<li><a href="/1980/setlists">1980</a></li><li><a href="/1981/setlists">1981</a></li><li><a href="/1982/setlists">1982</a></li><li><a href="/1983/setlists">1983</a></li><li><a href="/1984/setlists">1984</a></li><li><a href="/1985/setlists">1985</a></li><li><a href="/1986/setlists">1986</a></li><li><a href="/1987/setlists">1987</a></li><li><a href="/1988/setlists">1988</a></li><li><a href="/1989/setlists">1989</a></li>    </ul></div>
+    <div class="link" onmouseover="showDrop('lists_90s');" onmouseout="hideDrop('lists_90s');"><a href="/setlists">90s Setlists</a><ul id="lists_90s">
+    	<li><a href="/1990/setlists">1990</a></li><li><a href="/1991/setlists">1991</a></li><li><a href="/1992/setlists">1992</a></li><li><a href="/1993/setlists">1993</a></li><li><a href="/1994/setlists">1994</a></li><li><a href="/1995/setlists">1995</a></li>    </ul></div>
+    <div class="link"><a href="/songs">Songbook</a></div>
+    <div class="link"><a href="/stuff">Odds &amp; Ends</a></div>
+    <div class="link"><a href="/community">Community</a></div>
+    <div class="clear"></div>
+</div>
+
+<div id="logbar"><!--START LOGIN-->
+You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
+		<a href="/1971/setlists&highlight=went">Shows I attended</a>
+		<a href="/1971/setlists&highlight=own">Shows I own</a>
+		<a href="/1971/setlists&highlight=looking">Shows I'm looking for</a>
+		<a href="/1971/setlists&highlight=favorite">My favorite shows</a>
+	</div></span>] 
+</div>
+
+<div><!--START main-->
+<div id="mainc"><div id="main">
+	<div class="page_title">1971 Setlists</div>
+
+<script language="Javascript" type="text/javascript">
+<!--
+function showtab () {
+document.getElementById('hide').style.display = 'none';
+document.getElementById('show').style.display = 'block';
+}
+function hidetab () {
+document.getElementById('show').style.display = 'none';
+document.getElementById('hide').style.display = 'block';
+}
+-->
+</script>
+<p>January:  <a href="#0121">21</a> <a href="#0122">22</a> <a href="#0124">24</a><br>
+February: <a href="#0218">18</a> <a href="#0219">19</a> <a href="#0220">20</a> <a href="#0221">21</a> <a href="#0223">23</a> <a href="#0224">24</a><br>
+March: <a href="#0303">3</a> <a href="#0305">5</a> <a href="#0311">11</a> <a href="#0313">13</a> <a href="#0314">14</a> <a href="#0317">17</a> <a href="#0318">18</a> <a href="#0319">19</a> <a href="#0320">20</a> <a href="#0321">21</a> <a href="#0324">24</a><br>
+April: <a href="#0402">2</a> <a href="#0404">4</a> <a href="#0405">5</a> <a href="#0406">6</a> <a href="#0407">7</a> <a href="#0408">8</a> <a href="#0410">10</a> <a href="#0412">12</a> <a href="#0413">13</a> <a href="#0414">14</a> <a href="#0415">15</a> <a href="#0417">17</a> <a href="#0418">18</a> <a href="#0421">21</a> <a href="#0422">22</a> <a href="#0424">24</a> <a href="#0425">25</a> <a href="#0426">26</a> <a href="#0427">27</a> <a href="#0428">28</a> <a href="#0429">29</a><br>
+May: <a href="#0528">28</a> <a href="#0529">29</a> <a href="#0530">30</a> <a href="#0531">31</a><br>
+June: <a href="#0619">19</a> <a href="#0621">21</a><br>
+July: <a href="#0702">2</a> <a href="#0731">31</a><br>
+August: <a href="#0804">4</a> <a href="#0805">5</a> <a href="#0806">6</a> <a href="#0807">7</a> <a href="#0814">14</a> <a href="#0815">15</a> <a href="#0821">21</a> <a href="#0823">23</a> <a href="#0824">24</a> <a href="#0826">26</a><br>
+September: <a href="#0929">29</a> <a href="#0930">30</a><br>
+October: <a href="#1001">1</a> <a href="#1019">19</a> <a href="#1021">21</a> <a href="#1022">22</a> <a href="#1023">23</a> <a href="#1024">24</a> <a href="#1026">26</a> <a href="#1027">27</a> <a href="#1029">29</a> <a href="#1030">30</a> <a href="#1031">31</a><br>
+November: <a href="#1106">6</a> <a href="#1107">7</a> <a href="#1111">11</a> <a href="#1112">12</a> <a href="#1114">14</a> <a href="#1115">15</a> <a href="#1117">17</a> <a href="#1120">20</a><br>
+December: <a href="#1201">1</a> <a href="#1202">2</a> <a href="#1204">4</a> <a href="#1205">5</a> <a href="#1206">6</a> <a href="#1207">7</a> <a href="#1209">9</a> <a href="#1210">10</a> <a href="#1214">14</a> <a href="#1215">15</a> <a href="#1231">31</a></p>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0121"></a><a href="/1971-01-21">1/21/1971 Freeborn Hall, U. of California, Davis, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-01-21*">Listen/Download</a>]<tr><td>I: Cold Rain, Me  and  My Uncle, Smokestack > Truckin, Dire Wolf, Hard To Handle, Sugar Magnolia > Black Peter, Mama Tried, Around, Cumberland, Casey Jones</td></tr>
+<tr><td>II: Cryptical > Drums > Other One > Cosmic Charlie, China Cat > I Know You Rider, Uncle John</td></tr>
+<tr class="notes"><td>Next ''Cosmic Charlie'' 6/4/1976 [285 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. Without Mickey Hart.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0122"></a><a href="/1971-01-22">1/22/1971 Lane Community College, Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-01-22*">Listen/Download</a>]<tr><td>Casey Jones, BIODTL, Hurts Me Too, Me and My Uncle, Cold Rain, Hard To Handle, Brokedown, Johnny B. Goode, China Cat > I Know You Rider</td></tr>
+<tr class="notes"><td>Previous ''Johnny B. Goode'' 9/7/1969 [184 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. It is not known what, if anything, comes after I Know You Rider.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0124"></a><a href="/1971-01-24">1/24/1971 Seattle Center Arena, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-01-24*">Listen/Download</a>]<tr><td>I: Truckin, China Cat > I Know You Rider, Hurts Me Too, Cumberland , Casey Jones, Sugar Magnolia</td></tr>
+<tr><td>II: Hard To Handle, Lovelight > NFA > GDTRFB > Lovelight > Drums > Good Lovin </td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0" class="highlighted"><tr class="header"><td><span><a name="0218"></a><a href="/1971-02-18">2/18/1971 Capitol Theater, Port Chester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-02-18*">Listen/Download</a>]<tr><td>I: Bertha, Truckin, Hurts Me Too, Loser, Greatest > Johnny B. Goode, Mama Tried, Hard To Handle, Dark Star > Wharf Rat > Jam <span class="setlist_small">*</span> > Dark Star > Me  and  My Uncle</td></tr>
+<tr><td>II: Casey Jones, Playin, Bobby McGee, Candyman, Big Boss Man, Sugar Magnolia, St. Stephen > NFA > GDTRFB > NFA > Uncle John</td></tr>
+<tr class="notes"><td>First ''Bertha''; First ''Greatest''; First ''Loser''; First ''Playin''; First ''Wharf Rat''; Next ''Candyman'' 10/24/1971 [54 shows]</i></td></tr>
+<tr class="notes"><td>E.S.P. show. Also: NRPS. Mickey's Hart's last show until 10-20-74.  This entire run was recorded for "Skullfuck"; none of it was used. *appears on So Many Roads (1965-1995)as "Beautiful Jam."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0219"></a><a href="/1971-02-19">2/19/1971 Capitol Theater, Port Chester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-02-19*">Listen/Download</a>]<tr><td>I: Truckin, Loser, Cumberland, Hurts Me Too, Bertha, Playin, Dark Hollow, Smokestack, China Cat > I Know You Rider</td></tr>
+<tr><td>II: Greatest > Johnny B. Goode, Bird Song, Easy Wind, Deal, Cryptical > Drums > Other One > Wharf Rat, Good Lovin, Casey Jones</td></tr>
+<tr class="notes"><td>First ''Bird Song''; First ''Deal''; Next ''Smokestack'' 12/2/1971 [68 shows]</i></td></tr>
+<tr class="notes"><td>E.S.P. show. Also: NRPS. Entire show released as "Three From the Vault." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0220"></a><a href="/1971-02-20">2/20/1971 Capitol Theater, Port Chester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-02-20*">Listen/Download</a>]<tr><td>I: Casey Jones, Me  and  My Uncle, Hard To Handle, Bertha, Playin, Bird Song, Big Boss Man, Cryptical > Drums > Other One > Wharf Rat, Sugar Magnolia</td></tr>
+<tr><td>II: Truckin, Loser, Next Time, Greatest > Johnny B. Goode, Ripple, NFA > GDTRFB > NFA > Lovelight</td></tr>
+<tr class="notes"><td>E.S.P. show. Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0221"></a><a href="/1971-02-21">2/21/1971 Capitol Theater, Port Chester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-02-21*">Listen/Download</a>]<tr><td>I: Cold Rain, Bobby McGee, Loser, Easy Wind, Playin, Bertha, Me  and  My Uncle, Ripple, Next Time, Sugar Magnolia, Greatest > Johnny B. Goode</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Bird Song, Cumberland, King Bee, BIODTL, Wharf Rat, Truckin, Casey Jones, Good Lovin > Drums > Good Lovin > Uncle John</td></tr>
+<tr class="notes"><td>E.S.P. show. Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0223"></a><a href="/1971-02-23">2/23/1971 Capitol Theater, Port Chester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-02-23*">Listen/Download</a>]<tr><td>I: Uncle John, Loser, Playin, Big Boss Man, China Cat > I Know You Rider, Bobby McGee, Bertha, Next Time, Morning Dew, Sugar Magnolia, Casey Jones</td></tr>
+<tr><td>II: Me  and  My Uncle, Bird Song, Truckin > Drums > Other One > Wharf Rat, Greatest > Good Lovin, NFA > GDTRFB > NFA > Johnny B. Goode</td></tr>
+<tr class="notes"><td>E.S.P. show. Also: NRPS</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0224"></a><a href="/1971-02-24">2/24/1971 Capitol Theater, Port Chester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-02-24*">Listen/Download</a>]<tr><td>I: Casey Jones, Me  and  My Uncle, Cumberland, Next Time, Bird Song, Bobby McGee, Bertha, Hard To Handle, Loser, Playin, Good Lovin > Drums > Good Lovin</td></tr>
+<tr><td>II: Sugar Magnolia, King Bee, Greatest > Johnny B. Goode, Deal, Minglewood, Truckin, NFA > GDTRFB > NFA > Lovelight</td></tr>
+<tr class="notes"><td>E.S.P. show. Also: NRPS</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0303"></a><a href="/1971-03-03">3/3/1971 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-03*">Listen/Download</a>]<tr><td>I: Casey Jones, Hard To Handle, Playin, Loser, Bobby McGee, Next Time, BIODTL, Bertha</td></tr>
+<tr><td>II: Me  and  My Uncle, Truckin > Drums > Other One > Wharf Rat, Sugar Magnolia, King Bee, Greatest > Johnny B. Goode</td></tr>
+<tr><td>E: Good Lovin</td></tr>
+<tr class="notes"><td>Airwaves benefit - also: Shades Of Joy (with Martin Fierro); Gestalt Fool Theatre Family - New Generation Singers; American Indian Dancers.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0305"></a><a href="/1971-03-05">3/5/1971 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-05*">Listen/Download</a>]<tr><td>Lovelight</td></tr>
+<tr class="notes"><td>Black Panther benefit. With Huey Newton, Kathleen Cleaver.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0311"></a><a href="/1971-03-11">3/11/1971 University Centre Ballroom, Northern Illinois University, De Kalb, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-11*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Show probably cancelled.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0313"></a><a href="/1971-03-13">3/13/1971 Jenison Field House, Mi. State U., Lansing, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-13*">Listen/Download</a>]<tr><td>Sugar Magnolia, Bobby McGee, Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS. List incomplete.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0314"></a><a href="/1971-03-14">3/14/1971 Camp Randall Field House, U. of Wi., Madison, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-14*">Listen/Download</a>]<tr><td>I: Truckin, Me and My Uncle, Hurts Me Too, Bertha, Bobby McGee, Hard To Handle, Loser, Good Lovin > Drums > Good Lovin</td></tr>
+<tr><td>II: Casey Jones, Sugar Magnolia, Wharf Rat, Greatest > Johnny B. Goode, Uncle John</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1971-03-17">3/17/1971 Fox Theatre, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-17*">Listen/Download</a>]<tr><td>Bobby McGee, Next Time, Hard To Handle, Other One, Lovelight</td></tr>
+<tr class="notes"><td>Also: NRPS. List incomplete; the Dead probably played two sets but how the above tunes sort out is unknown. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1971-03-18">3/18/1971 Fox Theatre, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-18*">Listen/Download</a>]<tr><td>I: Casey Jones, Me and My Uncle, Big Boss Man, Bertha, Bobby McGee, Loser, China Cat > I Know You Rider, The Rub, Playin, Cumberland </td></tr>
+<tr><td>II: Truckin > Drums > Other One > Wharf Rat, Sugar Magnolia, Greatest > Johnny B. Goode, NFA > GDTRFB > Caution > Feedback, Uncle John</td></tr>
+<tr class="notes"><td>Next ''Caution'' 3/22/1972 [71 shows]; Previous ''Feedback'' 9/20/1970 [55 shows]; Final ''Feedback''</i></td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0319"></a><a href="/1971-03-19">3/19/1971 The Syndrome, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-19*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>Billboard for February 6, 1971 mentions this upcoming show which was subsequently cancelled. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0320"></a><a href="/1971-03-20">3/20/1971 Fieldhouse, University of Iowa, Iowa City, IA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-20*">Listen/Download</a>]<tr><td>I: Truckin, Loser, Hard To Handle, Playin, Bertha, Deal, Me and My Uncle, Next Time, Bobby McGee, Cumberland, Big Boss Man, Good Lovin > Drums > Good Lovin</td></tr>
+<tr><td>II: Casey Jones, Sugar Magnolia, Around, Uncle John, Lovelight</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1971-03-21">3/21/1971 Exposition Center, Milwaukee, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-21*">Listen/Download</a>]<tr><td>Me and My Uncle, Hard To Handle, Loser, BIODTL, Bobby McGee, NFA > GDTRFB</td></tr>
+<tr class="notes"><td>Previous ''We Bid You Goodnight'' 9/20/1970 [58 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. The Dead played only one set, and above represents the entire circulating recording. The previous list in DeadBase had "China Cat > Rider" to open with a "We Bid You Goodnight" encore, while DeadLists has an untimed "Truckin" closing the set. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1971-03-24">3/24/1971 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-03-24*">Listen/Download</a>]<tr><td>I: Greatest > Johnny B. Goode <span class="setlist_small">*</span>, Next Time, Loser, Truckin > Drums > Other One, Bertha, Sugar Magnolia, King Bee, BIODTL</td></tr>
+<tr><td>II: Casey Jones, Hard To Handle, Playin, NFA > GDTRFB > NFA > Uncle John</td></tr>
+<tr class="notes"><td>Sufi benefit. Also: NRPS; Sufi Choir. *appears on "Skullfuck."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0402"></a><a href="/1971-04-02">4/2/1971 Kent State University, Kent, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-02*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Lost Live Dead blog mentions this upcoming show as reported in the April 10, 1971 Billboard (keep in mind that most periodicals were and are postdated), but no other evidence exists to confirm that it actually took place. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0404"></a><a href="/1971-04-04">4/4/1971 Manhattan Center, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-04*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Next Time, Morning Dew, Playin, Loser, Easy Wind, Bobby McGee, Greatest > Johnny B. Goode</td></tr>
+<tr><td>II: Truckin, Hard To Handle, Deal, Sugar Magnolia, Casey Jones, Good Lovin > Drums > Good Lovin, GDTRFB > St. Stephen > NFA > Uncle John</td></tr>
+<tr class="notes"><td>Final ''Easy Wind''</i></td></tr>
+<tr class="notes"><td>"Dance Marathon." Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0405"></a><a href="/1971-04-05">4/5/1971 Manhattan Center, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-05*">Listen/Download</a>]<tr><td>I: Cold Rain, Bobby McGee, The Rub, Loser, Playin, Big RxR Blues <span class="setlist_small">*</span>, Me  and  My Uncle, Big Boss Man, China Cat > I Know You Rider, Casey Jones</td></tr>
+<tr><td>II: Truckin > Drums > Other One > Wharf Rat, Sugar Magnolia, King Bee, Bertha, Deal, Sing Me Back Home, NFA <span class="setlist_small">*</span> > GDTRFB <span class="setlist_small">*</span> > Lovelight</td></tr>
+<tr class="notes"><td>First ''Sing Me Back Home''</i></td></tr>
+<tr class="notes"><td>"Dance Marathon" - General Admission $5.00. Also: NRPS. *appears on "Skullfuck." "NFA" tease before "Lovelight." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0406"></a><a href="/1971-04-06">4/6/1971 Manhattan Center, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-06*">Listen/Download</a>]<tr><td>I: Bertha, BIODTL, Hurts Me Too, Bobby McGee, Dire Wolf, Oh Boy <span class="setlist_small">+</span>, Hog For You Baby <span class="setlist_small">+</span>, Playin <span class="setlist_small">*</span>, Midnight Hour, Mama Tried, Cumberland, Casey Jones</td></tr>
+<tr><td>II: Greatest > Johnny B. Goode, Loser, Good Lovin > Drums > Good Lovin, Sugar Magnolia, NFA > GDTRFB > NFA > Truckin</td></tr>
+<tr class="notes"><td>First ''Oh Boy''; Next ''Oh Boy'' 12/12/1981 [681 shows]; Final ''Hog For You Baby''</i></td></tr>
+<tr class="notes"><td>"Dance Marathon" - General Admission $5.00. Also: NRPS. *appears on "Skullfuck." +appears as a "Skullfuck" bonus track in "The Golden Road (1965-1973)."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0407"></a><a href="/1971-04-07">4/7/1971 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-07*">Listen/Download</a>]<tr><td>I: Me  and  My Uncle, Next Time, Casey Jones, Playin, Loser, Bobby McGee, Hard To Handle, Sugar Magnolia</td></tr>
+<tr><td>II: China Cat > I Know You Rider, St. Stephen > Drums > Jam > NFA > GDTRFB > NFA > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0408"></a><a href="/1971-04-08">4/8/1971 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-08*">Listen/Download</a>]<tr><td>I: Truckin, Bertha, Next Time, Playin, Loser, BIODTL, Second That Emotion, Sugar Magnolia, China Cat > I Know You Rider, Casey Jones,  Dark Star > St. Stephen > NFA > GDTRFB > NFA </td></tr>
+<tr><td>II: Sing Me Back Home, Cumberland, Greatest > Johnny B. Goode, Good Lovin > Drums > Good Lovin</td></tr>
+<tr class="notes"><td>First ''Second That Emotion''</i></td></tr>
+<tr class="notes"><td>Also: NRPS. "Merry-Go-Round Broke Down" and unidentified tunings before "BIODTL." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0410"></a><a href="/1971-04-10">4/10/1971 East Hall, Franklin  and  Marshall Col., Lancaster, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-10*">Listen/Download</a>]<tr><td>I: Casey Jones, Bobby McGee, Next Time, Loser, BIODTL, Hard To Handle, Bertha, Playin, Deal, Good Lovin > Drums > Good Lovin</td></tr>
+<tr><td>II: Truckin, Sing Me Back Home, Me  and  My Uncle, China Cat > I Know You Rider, Cumberland, Sugar Magnolia, Midnight Hour, Uncle John</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0412"></a><a href="/1971-04-12">4/12/1971 Civic Arena, Pittsburgh, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-12*">Listen/Download</a>]<tr><td>I: Cold Rain, Me and My Uncle, Bertha, Next Time, Playin, Loser, Cumberland, Hard To Handle, Greatest > Johnny B. Goode</td></tr>
+<tr><td>II: Truckin > Drums > Other One > Wharf Rat, Bobby McGee, Casey Jones, Sugar Magnolia, Deal, NFA > GDTRFB > Lovelight</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0413"></a><a href="/1971-04-13">4/13/1971 Catholic Youth Center, Scranton, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-13*">Listen/Download</a>]<tr><td>I: Casey Jones, Mama Tried, Loser, Big Boss Man, Bobby McGee, Bertha, Cumberland, Big RxR Blues, Playin, Hard To Handle, Sugar Magnolia</td></tr>
+<tr><td>II: Truckin > Drums > Good Lovin’, Second That Emotion, Greatest > Johnny B. Goode</td></tr>
+<tr><td>E: Uncle John</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0414"></a><a href="/1971-04-14">4/14/1971 Bucknell University, Lewisburg, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-14*">Listen/Download</a>]<tr><td>I: Truckin, Deal, Bobby McGee, Next Time, Bertha, Playin, Sing Me Back Home, Me and My Uncle, China Cat > I Know You Rider, Second That Emotion, Casey Jones</td></tr>
+<tr><td>II: Bird Song, Sugar Magnolia, Cryptical > Drums > Other One > Wharf Rat, Hard To Handle, NFA > GDTRFB > NFA > Johnny B. Goode</td></tr>
+<tr><td>E: Uncle John</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0415"></a><a href="/1971-04-15">4/15/1971 Allegheny College, Meadville, PA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-15*">Listen/Download</a>]<tr><td>I: BIODTL, Loser, Big Boss Man, El Paso, Deal, Playin, Bertha, Good Lovin > Drums > Good Lovin</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Me  and  My Uncle, Next Time, Sing Me Back Home, Sugar Magnolia, Second That Emotion, Truckin > NFA > GDTRFB > NFA > Casey Jones, Greatest > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0417"></a><a href="/1971-04-17">4/17/1971 Dillon Gym, Princeton University, Princeton, NJ</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-17*">Listen/Download</a>]<tr><td>I: Truckin, Big RxR Blues, Big Boss Man, Bird Song, Playin, Hard To Handle, Loser, Mama Tried, Casey Jones, Sugar Magnolia</td></tr>
+<tr><td>II: Good Lovin > Drums > Good Lovin, Bobby McGee, Deal, BIODTL, King Bee, Bertha, Sing Me Back Home, GDTRFB > Lovelight</td></tr>
+<tr class="notes"><td>Also: NRPS. "NFA" tease before "Lovelight."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0418"></a><a href="/1971-04-18">4/18/1971 Lusk Field House, S.U.C.N.Y., Cortland, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-18*">Listen/Download</a>]<tr><td>I: Cold Rain, Me  and  My Uncle, Bertha, Bobby McGee, Next Time, China Cat > I Know You Rider, Casey Jones</td></tr>
+<tr><td>II: Sugar Magnolia, Second That Emotion, Truckin, Hard To Handle, Loser, Playin, Around, Good Lovin > Drums > Good Lovin, Uncle John</td></tr>
+<tr class="notes"><td>Next ''Around'' 9/23/1972 [105 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0421"></a><a href="/1971-04-21">4/21/1971 Rhode Island Auditorium, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-21*">Listen/Download</a>]<tr><td>I: Casey Jones, Mama Tried, Big Boss Man, Loser, Truckin > Drums > Other One > Wharf Rat, Hard To Handle, Cumberland, Bird Song, Bobby McGee</td></tr>
+<tr><td>II: Bertha, Sugar Magnolia, Good Lovin > NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Uncle John > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0422"></a><a href="/1971-04-22">4/22/1971 Bangor Municipal Auditorium, Bangor, ME</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-22*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Next Time, Loser, Playin, Cumberland, Hard To Handle, Deal, Bobby McGee, Casey Jones</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Greatest > BIODTL, Sing Me Back Home, Good Lovin > Drums > Good Lovin, Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0424"></a><a href="/1971-04-24">4/24/1971 Wallace Wade Stadium, Duke University, Durham, NC</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-24*">Listen/Download</a>]<tr><td>I: Truckin, Deal, Hard To Handle, Bobby McGee, Bertha, Playin, Cumberland, Next Time, Loser, Sugar Magnolia, Casey Jones</td></tr>
+<tr><td>II: Good Lovin > Drums > Good Lovin, Me  and  My Uncle, Sing Me Back Home, Greatest > Johnny B. Goode, NFA > GDTRFB > NFA, Uncle John</td></tr>
+<tr class="notes"><td>"Joe College Weekend. " Also: Butterfield Blues Band; NRPS; Beach Boys.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0425"></a><a href="/1971-04-25">4/25/1971 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-25*">Listen/Download</a>]<tr><td>I: Truckin, Loser, Hard To Handle, Bobby McGee, Cold Rain, The Rub, Playin, FOTD, China Cat <span class="setlist_small">*</span> > I Know You Rider <span class="setlist_small">*</span>, Casey Jones</td></tr>
+<tr><td>II: Morning Dew, BIODTL <span class="setlist_small">*</span>, Next Time <span class="setlist_small">*</span>, Bertha, Sugar Magnolia <span class="setlist_small">*</span>, Second That Emotion <span class="setlist_small">*</span>, Good Lovin <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Good Lovin <span class="setlist_small">*</span>, Sing Me Back Home <span class="setlist_small">*</span>, Spanish Jam > NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Uncle John</td></tr>
+<tr class="notes"><td>Orchestra $4.50. Also: NRPS. *appears on "Ladies and Gentlemen, the Grateful Dead."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0426"></a><a href="/1971-04-26">4/26/1971 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-26*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Big Boss Man <span class="setlist_small">+</span>, Loser, Playin, Hard To Handle, Dark Star > Wharf Rat <span class="setlist_small">+</span>, Casey Jones</td></tr>
+<tr><td>II: Sugar Magnolia<span class="setlist_small">*</span>, Hurts Me Too<span class="setlist_small">*</span>, BIODTL<span class="setlist_small">*</span>, China Cat > I Know You Rider, Deal, Mama Tried <span class="setlist_small">+</span>, Good Lovin, Sing Me Back Home, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Orchestra $4.50. Also: NRPS. *with Duane Allman +appears on "Skullfuck." An audience recording of this show circulated in germany in which a "Walkin' the Dog" of indeterminate origin magically appeared between "Hard to Handle" and "Dark Star."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0427"></a><a href="/1971-04-27">4/27/1971 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-27*">Listen/Download</a>]<tr><td>I: Truckin, Mama Tried, Bertha <span class="setlist_small">+</span>, Next Time, Cumberland, Bobby McGee <span class="setlist_small">+</span>, Loser, Hard To Handle, China Cat > I Know You Rider, Casey Jones <span class="setlist_small">#</span></td></tr>
+<tr><td>II: Sugar Magnolia, Deal, Me  and  My Uncle, Bird Song, Playin, Dire Wolf, Searchin<span class="setlist_small">*</span>, Riot In Cell Block #9<span class="setlist_small">*</span>, Help Me Rhonda<span class="setlist_small">*</span>, Okie From Muskogee<span class="setlist_small">*</span>, Johnny B. Goode<span class="setlist_small">*</span>, Sing Me Back Home, Uncle John <span class="setlist_small">#</span> > Lovelight <span class="setlist_small">#</span></td></tr>
+<tr class="notes"><td>Only ''Help Me Rhonda''; Only ''Okie From Muskogee''; Only ''Riot In Cell Block ''; Next ''Dire Wolf'' 4/16/1972 [59 shows]; Previous ''Searchin'' 11/8/1970 [57 shows]; Final ''Searchin''</i></td></tr>
+<tr class="notes"><td>Orchestra $4.50. Also: NRPS. *with the Beach Boys (only the Beach Boys on "Good Vibrations" and "I Get Around" between "Cell Block 9" and "Help me Rhonda." Only "Help Me Rhonda." Only "Okie From Muskogee." Only "Riot In Cell Block #9." +appears on "Skullfuck." #appears on "Ladies and Gentlemen, the Grateful Dead."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0428"></a><a href="/1971-04-28">4/28/1971 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-28*">Listen/Download</a>]<tr><td>I: Truckin, BIODTL, Loser <span class="setlist_small">#</span>, El Paso <span class="setlist_small">#</span>, The Rub <span class="setlist_small">#</span>, Bird Song <span class="setlist_small">#</span>, Playin, Cumberland <span class="setlist_small">#</span>, Ripple, Bobby McGee <span class="setlist_small">#</span>, King Bee <span class="setlist_small">#</span>, Bertha</td></tr>
+<tr><td>II: Morning Dew, Me  and  My Uncle <span class="setlist_small">#</span>, Deal, Hard To Handle, Cryptical > Drums <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span> > Wharf Rat <span class="setlist_small">#</span>, Sugar Magnolia, Dark Star<span class="setlist_small">*#</span> > St. Stephen<span class="setlist_small">*#</span> > NFA<span class="setlist_small">*#</span> > GDTRFB<span class="setlist_small">*#</span> > NFA<span class="setlist_small">*#</span></td></tr>
+<tr class="notes"><td>Orchestra $4.50. Also: NRPS. *with Tom Constanten +appears on "Skullfuck." #appears on "Ladies and Gentlemen, the Grateful Dead."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0429"></a><a href="/1971-04-29">4/29/1971 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-04-29*">Listen/Download</a>]<tr><td>I: Truckin <span class="setlist_small">+</span>, Bertha <span class="setlist_small">+</span>, Hurts Me Too <span class="setlist_small">+</span>, Cumberland > Me  and  My Uncle <span class="setlist_small">*</span>, Bird Song, Playin, Loser, Dark Hollow <span class="setlist_small">+</span>, Hard To Handle <span class="setlist_small">+</span>, Ripple <span class="setlist_small">+</span>, Bobby McGee, Casey Jones</td></tr>
+<tr><td>II: Morning Dew <span class="setlist_small">+</span>, Minglewood <span class="setlist_small">+</span>, Sugar Magnolia, Black Peter, BIODTL, Second That Emotion, Alligator <span class="setlist_small">+</span> > Drums <span class="setlist_small">+</span> > Jam <span class="setlist_small">+</span> > GDTRFB <span class="setlist_small">+</span> > Cold Rain <span class="setlist_small">+</span>, China Cat > I Know You Rider, Greatest > Johnny B. Goode, Uncle John</td></tr>
+<tr><td>E1: </td></tr>
+<tr><td>E2: Midnight Hour <span class="setlist_small">+</span> > We Bid You Goodnight <span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>Next ''Ripple'' 9/25/1980 [550 shows]; Final ''Alligator''; Final ''Second That Emotion''</i></td></tr>
+<tr class="notes"><td>The Grateful Dead's final Fillmore East show. Orchestra $4.50. Also: NRPS. *appears on "Skullfuck." +appears on "Ladies and Gentlemen, the Grateful Dead."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0528"></a><a href="/1971-05-28">5/28/1971 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-05-28*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>These shows were originally scheduled for May 28 and 29 but were postponed a day because Garcia was ill. This is why the band only played one set on the 29th. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0529"></a><a href="/1971-05-29">5/29/1971 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-05-29*">Listen/Download</a>]<tr><td>Casey Jones, Bobby McGee, Hurts Me Too, Promised, Loser, Playin, Hard To Handle, Me  and  My Uncle, Truckin > Drums > Other One > Wharf Rat, Sing Me Back Home, Cumberland, Sugar Magnolia > Deal, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>First ''Promised''</i></td></tr>
+<tr class="notes"><td>Acid Punch Show - $2 Show. Also: NRPS; R.J. Fox; James  and  The Good Bros.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1971-05-30">5/30/1971 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-05-30*">Listen/Download</a>]<tr><td>I: Bertha, Bobby McGee, The Rub, Loser, Playin, Next Time, Morning Dew, Promised, Good Lovin</td></tr>
+<tr><td>II: China Cat > I Know You Rider, Sugar Magnolia, Cumberland, Big Boss Man, Me  and  My Uncle, Deal, Truckin > Lovelight, Uncle John, Casey Jones</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>$2 Show. Also: NRPS; R.J. Fox; James  and  The Good Bros.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0531"></a><a href="/1971-05-31">5/31/1971 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-05-31*">Listen/Download</a>]<tr><td></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1971-06-19">6/19/1971 (unknown), Eugene, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-06-19*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>08-27-72 has sometimes circulated under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1971-06-21">6/21/1971 Chateau d'Herouville, Herouville, France</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-06-21*">Listen/Download</a>]<tr><td>I: Truckin, Loser, Bobby McGee, Next Time, Morning Dew, Me and My Uncle, Hard To Handle, China Cat > I Know You Rider, Promised, Deal, Playin, Big Boss Man, Black Peter, Bertha</td></tr>
+<tr><td>II: Casey Jones, Cryptical > Drums > Other One > Wharf Rat, Sugar Magnolia, Sing Me Back Home, Johnny B. Goode</td></tr>
+<tr class="notes"><td>Previous ''Long Black Limousine'' 5/15/1970 [120 shows]; Final ''Long Black Limousine''</i></td></tr>
+<tr class="notes"><td>AM, FM, TV broadcast.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0702"></a><a href="/1971-07-02">7/2/1971 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-07-02*">Listen/Download</a>]<tr><td>I: Bertha, Bobby McGee, Next Time, China Cat > I Know You Rider, Playin, Loser, The Rub, Me  and  My Uncle, Big RxR Blues, Hard To Handle, Deal, Promised, Good Lovin</td></tr>
+<tr><td>II: Sugar Magnolia, Sing Me Back Home, Mama Tried, Cryptical > Drums > Other One, Big Boss Man, Casey Jones <span class="setlist_small">*</span>, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Final Grateful Dead Fillmore West show. Billing: GD; NRPS; Rowan Brothers. FM broadcast KSAN-San Francisco, KSFX-San Francisco, and KMET-Los Angeles. "That's It For The Other One" dedicated to Owsley. *appears in "Fillmore" movie, DVD, and soundtrack LP. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0731"></a><a href="/1971-07-31">7/31/1971 Yale Bowl, Yale University, New Haven, CT</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-07-31*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, Mr. Charlie, Mama Tried, Big RxR Blues <span class="setlist_small">*</span>, Playin, Dark Star <span class="setlist_small">*</span> > Bird Song <span class="setlist_small">*</span>, El Paso, Hard to Handle <span class="setlist_small">*</span>, Loser, Bobby McGee <span class="setlist_small">*</span></td></tr>
+<tr><td>II: Bertha, Big Boss Man <span class="setlist_small">+</span>, Me  and  My Uncle, Deal, China Cat > I Know You Rider, Sing Me Back Home <span class="setlist_small">+</span>, Sugar Magnolia, Casey Jones, NFA <span class="setlist_small">*</span> > GDTRFB <span class="setlist_small">*</span> > Darkness Jam <span class="setlist_small">*</span> > NFA <span class="setlist_small">*</span>, Uncle John <span class="setlist_small">*</span> > Johnny B. Goode <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Mr. Charlie''; First ''Sugaree''; Next ''Mama Tried'' 10/19/1974 [235 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Road Trips Vol. 1 No. 3." +appears on the "Road Trips Vol. 1 No. 3" bonus disc. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0804"></a><a href="/1971-08-04">8/4/1971 Terminal Island Correctional Fac., San Pedro, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-04*">Listen/Download</a>]<tr><td>Truckin, Bertha, Bobby McGee, Hard To Handle, China Cat > I Know You Rider, Loser, Playin, Next Time, Me and My Uncle, Casey Jones, Cumberland, Big Boss Man, Sugaree, El Paso, Mr. Charlie, NFA <span class="setlist_small">*</span>> GDTRFB <span class="setlist_small">*</span>> Lovelight <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Owsley benefit. *appears on the "Road Trips Vol. 1 No. 3" bonus disc. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0805"></a><a href="/1971-08-05">8/5/1971 Hollywood Palladium, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-05*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Mr. Charlie, Sugaree, El Paso, Cryptical > Drums > Other One > Wharf Rat, Bobby McGee, Casey Jones</td></tr>
+<tr><td>II: Truckin, Loser, Sugar Magnolia, Bird Song, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0806"></a><a href="/1971-08-06">8/6/1971 Hollywood Palladium, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-06*">Listen/Download</a>]<tr><td>I: Bertha <span class="setlist_small">#</span>, Playin, Loser, Mr. Charlie <span class="setlist_small">#</span>, El Paso, Cumberland <span class="setlist_small">#</span>, Brokedown <span class="setlist_small">#</span>, Bobby McGee, Hard To Handle <span class="setlist_small">*#</span>, Casey Jones</td></tr>
+<tr><td>II: St. Stephen, Truckin > Drums > Other One <span class="setlist_small">+</span> > Me  and  My Uncle <span class="setlist_small">+</span> > Other One <span class="setlist_small">+</span>, Deal <span class="setlist_small">+</span>, Sugar Magnolia <span class="setlist_small">+</span>, Morning Dew <span class="setlist_small">+</span>, Lovelight <span class="setlist_small">+</span></td></tr>
+<tr class="notes"><td>Next ''Morning Dew'' 5/11/1972 [59 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. Full moon - full lunar eclipse. *appears on "Fallout From The Phil Zone." +appears on "Dick’s Picks Volume 35." #appears on the "Road Trips Vol. 1 No. 3" bonus disc. "WRS Prelude" tease after "Me  and  My Uncle." "Sugaree" and "El Paso" from the previous night appear on some audience recordings that derive from old bootleg records.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0807"></a><a href="/1971-08-07">8/7/1971 Golden Hall, Community Concourse, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-07*">Listen/Download</a>]<tr><td>I: Big RxR Blues, El Paso, Mr. Charlie, Sugaree, Mama Tried, Bertha, Big Boss Man, Promised, Hard To Handle, Cumberland, Casey Jones</td></tr>
+<tr><td>II: Truckin, China Cat > I Know You Rider, Next Time, Sugar Magnolia, Sing Me Back Home, Me and My Uncle, NFA > GDTRFB > Space > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS. Entire show appears on "Dick’s Picks Volume 35."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0814"></a><a href="/1971-08-14">8/14/1971 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-14*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Mr. Charlie, Sugaree, El Paso, Big RxR Blues, Big Boss Man, Brokedown, Playin, Hard To Handle, Cumberland, Loser, Promised</td></tr>
+<tr><td>II: Truckin > Drums > Other One, Bobby McGee, Sugar Magnolia, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode<span class="setlist_small">*</span>, Uncle John<span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Also: NRPS.*with David Crosby.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0815"></a><a href="/1971-08-15">8/15/1971 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-15*">Listen/Download</a>]<tr><td>I: Big RxR Blues, Playin, Mr. Charlie, Cumberland, Sugaree, Promised, Big Boss Man, China Cat > I Know You Rider, Bobby McGee, Casey Jones</td></tr>
+<tr><td>II: Truckin > Drums > Other One > Me  and  My Uncle > Other One > Wharf Rat, Lovelight</td></tr>
+<tr><td>E: Johnny B. Goode > We Bid You Goodnight</td></tr>
+<tr class="notes"><td>Next ''We Bid You Goodnight'' 2/28/1973 [127 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0821"></a><a href="/1971-08-21">8/21/1971 Midway Stadium, St. Paul, MN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-21*">Listen/Download</a>]<tr><td></td></tr>
+<tr class="notes"><td>The Winnipeg Free Press  “Youthscene” column for August 18, 1971 mentions this upcoming festival featuring The Who, The Airplane, Hot Tuna, The Dead, and Leo Kottke, which did not take place.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0823"></a><a href="/1971-08-23">8/23/1971 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-23*">Listen/Download</a>]<tr><td>I: Big RxR Blues, Playin, Mr. Charlie, Sugaree <span class="setlist_small">*</span>, El Paso, Next Time, Bertha, Bobby McGee, Cumberland, Big Boss Man, Loser, Promised, China Cat <span class="setlist_small">*</span>> I Know You Rider <span class="setlist_small">*</span>, Casey Jones</td></tr>
+<tr><td>II: Truckin <span class="setlist_small">*</span>, Bird Song, Cryptical <span class="setlist_small">*</span>> Drums <span class="setlist_small">*</span>> Other One <span class="setlist_small">*</span>> Me and My Uncle <span class="setlist_small">*</span>> Other One <span class="setlist_small">*</span>> Cryptical <span class="setlist_small">*</span>> Wharf Rat <span class="setlist_small">*</span>, Deal, Brokedown, Sugar Magnolia <span class="setlist_small">*</span>, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>First ''B. E. Women''</i></td></tr>
+<tr class="notes"><td>*appears on "Road Trips Vol. 1 No. 3."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0824"></a><a href="/1971-08-24">8/24/1971 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-24*">Listen/Download</a>]<tr><td>I: Uncle John <span class="setlist_small">*</span>, Sugaree, Playin <span class="setlist_small">*</span>, Mr. Charlie, Loser <span class="setlist_small">*</span>, El Paso, Hurts Me Too <span class="setlist_small">*</span>, Cumberland <span class="setlist_small">*</span>, Empty Pages <span class="setlist_small">*</span>, BIODTL <span class="setlist_small">*</span>, B. E. Women <span class="setlist_small">*</span>, Me and My Uncle, Casey Jones</td></tr>
+<tr><td>II: St. Stephen <span class="setlist_small">*</span>> NFA <span class="setlist_small">*</span>> GDTRFB <span class="setlist_small">*</span>> NFA <span class="setlist_small">*</span>, Sing Me Back Home, Truckin, Big RxR Blues, Bobby McGee <span class="setlist_small">*</span>, Big Boss Man <span class="setlist_small">*</span>, Brokedown <span class="setlist_small">*</span>, Good Lovin’ <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>First ''Empty Pages''; Next ''Bird Song'' 7/18/1972 [64 shows]</i></td></tr>
+<tr class="notes"><td>*appears on "Dick’s Picks Volume 35."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0826"></a><a href="/1971-08-26">8/26/1971 Gaelic Park, Bronx, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-26*">Listen/Download</a>]<tr><td>I: Bertha, Playin, Mr. Charlie, Sugaree, El Paso, Big Boss Man, Big RxR Blues, Hard To Handle, BIODTL, Loser, Sugar Magnolia, Empty Pages, Good Lovin, Casey Jones</td></tr>
+<tr><td>II: Me  and  My Uncle, China Cat > I Know You Rider, Deal, Cumberland, Truckin > Drums > Other One, Next Time, Bobby McGee, Uncle John, St. Stephen > NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Next ''Hard To Handle'' 12/30/1982 [715 shows]; Final ''Empty Pages''</i></td></tr>
+<tr class="notes"><td>Pigpen's last show until 12-01-71</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1971-09-29">9/29/1971 (unknown), Santa Venetia, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-09-29*">Listen/Download</a>]<tr><td>China Cat > I Know You Rider, Bertha, Brokedown, Bird Song, Jack Straw, Tennessee Jed, Mama Tried, Uncle John's Jam, Me and My Uncle. Truckin, Mexicali</td></tr>
+<tr class="notes"><td>Rehearsal with Keith Godchaux. This is the list for the recording currently circulating under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1971-09-30">9/30/1971 (unknown), Santa Venetia, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-09-30*">Listen/Download</a>]<tr><td>B. E. Women, Playin, Jack Straw, Deep Elem, Big RxR Blues, Promised, Attics, Tennessee Jed, Bobby McGee, Mexicali</td></tr>
+<tr class="notes"><td>Rehearsal with Keith Godchaux. This is the list for the recording currently circulating under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1001"></a><a href="/1971-10-01">10/1/1971 (unknown), Santa Venetia, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-01*">Listen/Download</a>]<tr><td>Deal, Tennessee Jed, Jam, B. E. Women, Casey Jones, Jack Straw, Mexicali, Saturday Night, Loser, Cold Rain, Ripple, Cumberland, Uncle John, Bird Song</td></tr>
+<tr class="notes"><td>Rehearsal with Keith Godchaux. This is the list for the recording currently circulating under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1019"></a><a href="/1971-10-19">10/19/1971 Northrop Auditorium, U. of Minn., Minneapolis, MN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-19*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Sugaree, BIODTL, Cumberland, Tennessee Jed, Black Peter, Jack Straw, Big RxR Blues, B. E. Women, Mexicali, Comes A Time, Playin, Saturday Night, Casey Jones</td></tr>
+<tr><td>II: Truckin, Ramble On, Bobby McGee, Brokedown, Cryptical > Drums > Other One > Cryptical > Wharf Rat, Sugar Magnolia, Uncle John, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>First ''Comes A Time''; First ''Jack Straw''; First ''Mexicali''; First ''Ramble On''; First ''Saturday Night''; First ''Tennessee Jed''</i></td></tr>
+<tr class="notes"><td>Keith Godchaux's first show. Also: NRPS. FM broadcast KQRS. ; Keith Godchaux's First Show</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1021"></a><a href="/1971-10-21">10/21/1971 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-21*">Listen/Download</a>]<tr><td>I: Truckin <span class="setlist_small">*</span>, Loser, BIODTL, Tennessee Jed, Playin, Big RxR Blues <span class="setlist_small">*</span>, Jack Straw, Cumberland, Comes A Time, Mexicali, Frozen Logger <span class="setlist_small">*</span>, Cold Rain, Saturday Night</td></tr>
+<tr><td>II: Casey Jones, Me  and  My Uncle, Dark Star <span class="setlist_small">*</span> > Top Of The World <span class="setlist_small">*</span> > Dark Star <span class="setlist_small">*</span> > Bobby McGee <span class="setlist_small">*</span>, B. E. Women <span class="setlist_small">*</span>, Ramble On, Sugar Magnolia</td></tr>
+<tr><td>E: St. Stephen <span class="setlist_small">*</span> > Johnny B. Goode <span class="setlist_small">*</span></td></tr>
+<tr class="notes"><td>Previous ''Frozen Logger'' 12/26/1970 [58 shows]; Previous ''Top Of The World'' 11/5/1970 [78 shows]; Final ''Frozen Logger''</i></td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast WGLD-Oak Park, which due to technical and other issues did not take place until the following night. *appears on "Dave's Picks Volume 3."  Soundcheck: "Get Back." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1022"></a><a href="/1971-10-22">10/22/1971 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-22*">Listen/Download</a>]<tr><td>I: Bertha, Me and My Uncle, Tennessee Jed, Jack Straw, Loser, Playin, Sugaree, BIODTL, Black Peter, Mexicali, Cold Rain, Bobby McGee, Comes A Time, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Cumberland, Cryptical > Drums > Other One > Cryptical > Deal, Sugar Magnolia, </td></tr>
+<tr><td>E: Casey Jones > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS. Entire show appears on "Dave's Picks Volume 3."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1023"></a><a href="/1971-10-23">10/23/1971 Easttown Theatre, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-23*">Listen/Download</a>]<tr><td>I: Bertha, Playin, Loser, Mexicali, Sugaree, Jack Straw, Big RxR Blues, El Paso, Ramble On, Bobby McGee, Cumberland, Brokedown, Saturday Night</td></tr>
+<tr><td>II: Casey Jones, Me  and  My Uncle, Tennessee Jed, Sugar Magnolia, Comes A Time, Truckin, B. E. Women, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast WABX.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1024"></a><a href="/1971-10-24">10/24/1971 Easttown Theatre, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-24*">Listen/Download</a>]<tr><td>I: Sugar Magnolia, Deal, El Paso, Tennessee Jed, Jack Straw, China Cat > I Know You Rider, Playin, Black Peter, Candyman, Saturday Night, Casey Jones</td></tr>
+<tr><td>II: Truckin, Ramble On, Mexicali, Dark Star > Bobby McGee, Cumberland, St. Stephen > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Next ''Candyman'' 10/28/1972 [94 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1026"></a><a href="/1971-10-26">10/26/1971 The Palestra, U. of Rochester, Rochester, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-26*">Listen/Download</a>]<tr><td>I: Bertha, Playin, Sugaree, Me  and  My Uncle, Tennessee Jed, Jack Straw, Big RxR Blues, Bobby McGee, Cumberland, Cold Rain, Mexicali, Loser, BIODTL, El Paso, Comes A Time, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Sugar Magnolia, Truckin > Drums > Other One > Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS. Tickets: $4.50. FM broadcast WCMF-Rochester. Entire show except "Beat it on Down the Line" released as "Grateful Dead Download Series Vol. 3." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1027"></a><a href="/1971-10-27">10/27/1971 Onondaga County War Memorial, Syracuse, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-27*">Listen/Download</a>]<tr><td>I: Casey Jones, Me  and  My Uncle, Deal, Jack Straw, Tennessee Jed, BIODTL, Sugaree, Playin, Comes A Time, Mexicali, Big RxR Blues, Cumberland, Saturday Night</td></tr>
+<tr><td>II: Bertha, Bobby McGee, Ramble On, Sugar Magnolia, B. E. Women, Truckin, NFA > Drums > China Cat Jam > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Also: NRPS. Presented by WNDR and Pacific Presentations. Tickets: $3.50, $4.50, $5.50. FM broadcast WAER-Syracuse.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1029"></a><a href="/1971-10-29">10/29/1971 Allan Theater, Cleveland, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-29*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, El Paso, Loser, Playin, B. E. Women, BIODTL, Brokedown, Jack Straw, Tennessee Jed, Mexicali, Big RxR Blues, Casey Jones</td></tr>
+<tr><td>II: Cryptical > Drums > Other One > Me  and  My Uncle > Other One > Cryptical > Deal, Sugar Magnolia, Ramble On, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast WMCR. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1971-10-30">10/30/1971 Taft Auditorium, Cincinnati, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-30*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Sugaree, BIODTL, Loser, Playin, Tennessee Jed, Jack Straw, Big RxR Blues, Bobby McGee, B. E. Women, Saturday Night</td></tr>
+<tr><td>II: Casey Jones, Mexicali, Comes A Time, El Paso, Ramble On, Sugar Magnolia, Truckin, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1971-10-31">10/31/1971 Ohio Theatre, Columbus, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-10-31*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Deal, Playin, Loser, El Paso, Tennessee Jed, Jack Straw, Big RxR Blues, B. E. Women, Mexicali, Casey Jones, Cumberland, Saturday Night</td></tr>
+<tr><td>II: Dark Star > Sugar Magnolia, St. Stephen > NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Next ''St. Stephen'' 6/9/1976 [224 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. Second set released as "Dick's Picks Vol 2."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1106"></a><a href="/1971-11-06">11/6/1971 Harding Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-06*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Sugaree, Jack Straw, Tennessee Jed, El Paso, Loser, Playin, Cumberland, Black Peter, BIODTL, Deal, Mexicali, Sing Me Back Home, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Bobby McGee, Cryptical > Drums > Other One > Cryptical > Comes A Time, Sugar Magnolia, B. E. Women, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1107"></a><a href="/1971-11-07">11/7/1971 Harding Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-07*">Listen/Download</a>]<tr><td>I: Truckin, B. E. Women, BIODTL, Hideaway, Sugaree, Jack Straw, Tennessee Jed, Cumberland, El Paso, Big RxR Blues, Comes A Time, Mexicali, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Bobby McGee, Loser, Sugar Magnolia, Dark Star > Drums > Other One > Me  and  My Uncle > Other One, Deal, Brokedown, Playin, Casey Jones, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode, Uncle John</td></tr>
+<tr class="notes"><td>First ''Hideaway''; Next ''Hideaway'' 6/21/1989 [1147 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast KSFX-San Francisco. "Dark Star" is first verse only.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1111"></a><a href="/1971-11-11">11/11/1971 Atlanta Municipal Auditorium, Atlanta, GA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-11*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Sugaree, Playin, Tennessee Jed, Jack Straw, Casey Jones</td></tr>
+<tr><td>II: Bobby McGee, Big RxR Blues, Mexicali, Saturday Night, Truckin, Sugar Magnolia, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1112"></a><a href="/1971-11-12">11/12/1971 San Antonio Civic Auditorium, San Antonio, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-12*">Listen/Download</a>]<tr><td>I: Truckin, Loser, BIODTL, Sugaree, Jack Straw, Tennessee Jed, El Paso, B. E. Women, Mexicali, Black Peter, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Me  and  My Uncle, Cryptical > Drums > Other One > Cryptical > Big RxR Blues, Sugar Magnolia, Casey Jones</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1114"></a><a href="/1971-11-14">11/14/1971 Texas Christian University, Fort Worth, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-14*">Listen/Download</a>]<tr><td>I: Bertha, BIODTL, China Cat <span class="setlist_small">*</span> > I Know You Rider <span class="setlist_small">*</span>, El Paso > Sugaree <span class="setlist_small">*</span>, Jack Straw, Big RxR Blues, Bobby McGee, Loser, Playin, Tennessee Jed, You Win Again, Mexicali, Casey Jones, Saturday Night</td></tr>
+<tr><td>II: Truckin <span class="setlist_small">*</span> > Drums <span class="setlist_small">*</span> > Other One<span class="setlist_small">*</span> > Me  and  My Uncle <span class="setlist_small">*</span> > Other One <span class="setlist_small">*</span> > Wharf Rat <span class="setlist_small">*</span> > Sugar Magnolia <span class="setlist_small">*</span> </td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>First ''You Win Again''</i></td></tr>
+<tr class="notes"><td>Also: NRPS. 25-beat "BIODTL." *released as the "Road Trips Vol. 3 No. 2" bonus disc. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1115"></a><a href="/1971-11-15">11/15/1971 Austin Municipal Auditorium, Austin, TX</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-15*">Listen/Download</a>]<tr><td>I: Truckin, Bertha, Playin, Deal, Jack Straw, Loser, BIODTL, Dark Star > El Paso > Space > Casey Jones, Saturday Night</td></tr>
+<tr><td>II: Me  and  My Uncle, Ramble On, Mexicali, Brokedown, Bobby McGee, Cumberland, Sugar Magnolia, You Win Again, NFA > Jam > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast. Entire show released as "Road Trips Vol. 3 No. 2."  </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1117"></a><a href="/1971-11-17">11/17/1971 Albuquerque Civic Auditorium, Albuquerque, NM</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-17*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, BIODTL, Tennessee Jed, El Paso, Big RxR Blues, Jack Straw, Deal, Playin, Cumberland, Bobby McGee, You Win Again, Mexicali, Casey Jones, Saturday Night</td></tr>
+<tr><td>II: Sugar Magnolia, Cryptical > Drums > Other One > Jam > Me  and  My Uncle > Other One > Wharf Rat, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Ramble On</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1120"></a><a href="/1971-11-20">11/20/1971 Pauley Pavilion, U.C.L.A., Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-11-20*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Sugaree, BIODTL, Tennessee Jed, Mexicali, B. E. Women, El Paso, Big RxR Blues, Jack Straw, Cumberland, Playin, Casey Jones, Saturday Night</td></tr>
+<tr><td>II: Truckin > Drums > Other One > Ramble On, Sugar Magnolia, You Win Again, NFA > China Cat Jam > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast KMET.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1201"></a><a href="/1971-12-01">12/1/1971 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-01*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, Mr. Charlie, BIODTL, Comes A Time, Jack Straw, The Rub, Tennessee Jed, El Paso, Big RxR Blues, Casey Jones, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Bobby McGee, Big Boss Man, Cryptical > Drums > Other One > Me  and  My Uncle > Other One, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Final ''The Rub''</i></td></tr>
+<tr class="notes"><td>Pigpen returns. Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1202"></a><a href="/1971-12-02">12/2/1971 Boston Music Hall, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-02*">Listen/Download</a>]<tr><td>I: Bertha, Playin, Mr. Charlie, Sugaree, BIODTL, Black Peter, Next Time, Jack Straw, Tennessee Jed, Mexicali, Smokestack, Big RxR Blues, Casey Jones, Saturday Night</td></tr>
+<tr><td>II: Sugar Magnolia, Deal, El Paso, Brokedown, Uncle John, NFA > Lovelight > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Previous ''Smokestack'' 2/19/1971 [68 shows]</i></td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast WBCN-Boston.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1204"></a><a href="/1971-12-04">12/4/1971 Felt Forum, Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-04*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, Mr. Charlie, BIODTL, Tennessee Jed, Jack Straw, Run Rudolph Run, You Win Again, Bobby McGee, Comes A Time, El Paso, Smokestack, Cumberland, Saturday Night</td></tr>
+<tr><td>II: Ramble On, Me  and  My Uncle > Other One > Mexicali > Other One > Wharf Rat, Casey Jones</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>First ''Run Rudolph Run''</i></td></tr>
+<tr class="notes"><td>Orchestra $3.50 - $5.50. Also: NRPS. </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1205"></a><a href="/1971-12-05">12/5/1971 Felt Forum, Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-05*">Listen/Download</a>]<tr><td>I: Bertha, BIODTL, Big Boss Man, B. E. Women, Muddy Water, Jack Straw, Mr. Charlie, Tennessee Jed, El Paso, Deal, Playin, Next Time, Comes A Time, Casey Jones > Saturday Night</td></tr>
+<tr><td>II: Truckin, Ramble On, Hurts Me Too, Sugaree, Sugar Magnolia, Dark Star Jam > Me  and  My Uncle > Dark Star Jam > Top Of The World, Bobby McGee, Big RxR Blues, Mexicali, You Win Again, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Johnny B. Goode</td></tr>
+<tr class="notes"><td>Only ''Muddy Water''</i></td></tr>
+<tr class="notes"><td>Orchestra $3.50 - $5.50. Also: NRPS. FM broadcast WNEW-New York. Only "Muddy Water."</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1206"></a><a href="/1971-12-06">12/6/1971 Felt Forum, Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-06*">Listen/Download</a>]<tr><td>I: Truckin, Loser, Mr. Charlie, Jack Straw, China Cat > I Know You Rider, Run Rudolph Run, El Paso, Tennessee Jed, Mexicali, Black Peter, Next Time, Casey Jones</td></tr>
+<tr><td>II: Big RxR Blues, Me  and  My Uncle, Ramble On, Playin, Cryptical > Drums > Other One > Bobby McGee > Other One > Wharf Rat, Saturday Night</td></tr>
+<tr><td>E: Uncle John</td></tr>
+<tr class="notes"><td>Orchestra $3.50 - $5.50. Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1207"></a><a href="/1971-12-07">12/7/1971 Felt Forum, Madison Square Garden, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-07*">Listen/Download</a>]<tr><td>I: Cold Rain, BIODTL, Mr. Charlie, Sugaree, Jack Straw, Next Time, Tennessee Jed, El Paso, Brokedown, Run Rudolph Run, You Win Again, Cumberland, Casey Jones</td></tr>
+<tr><td>II: Sugar Magnolia, Ramble On, Big Boss Man, Mexicali, B. E. Women, Me and My Uncle, Smokestack, Deal, Truckin, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Orchestra $3.50 - $5.50. Also: NRPS.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1209"></a><a href="/1971-12-09">12/9/1971 Fox Theatre, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-09*">Listen/Download</a>]<tr><td>I: Truckin, B. E. Women, Mr. Charlie, Jack Straw, Sugaree, BIODTL, Hurts Me Too, Tennessee Jed, El Paso, Run Rudolph Run, Black Peter, Playin, Casey Jones > Saturday Night</td></tr>
+<tr><td>II: Ramble On, Mexicali, Big Boss Man, Sugar Magnolia, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Also: NRPS. The following night's show has sometimes circulated under this date.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1210"></a><a href="/1971-12-10">12/10/1971 Fox Theatre, St. Louis, MO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-10*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Mr. Charlie, Loser, BIODTL, Sugaree, Jack Straw, Next Time, Tennessee Jed, El Paso, Big RxR Blues, Casey Jones</td></tr>
+<tr><td>II: Good Lovin, Brokedown, Playin, Run Rudolph Run, Deal, Sugar Magnolia, Comes A Time, Truckin > Drums > Other One > Top Of The World > Other One > NFA > China Cat Jam > GDTRFB > NFA</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>Also: NRPS. FM broadcast KADI. This show has been known to circulate as 12-09-71, and some copies had the first verse and surrounding music of "The Other One" skillfully edited out.</i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1214"></a><a href="/1971-12-14">12/14/1971 Hill Auditorium, Ann Arbor, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-14*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, Mr. Charlie, BIODTL, Loser, Jack Straw, Next Time, Tennessee Jed, El Paso, Big RxR Blues, Me  and  My Uncle, Run Rudolph Run, Black Peter, Playin, Casey Jones</td></tr>
+<tr><td>II: Ramble On, Mexicali, Big Boss Man, Cryptical > Drums > Other One > Me  and  My Uncle Jam > Other One > Wharf Rat, Sugar Magnolia, You Win Again, NFA > GDTRFB > NFA</td></tr>
+<tr class="notes"><td>Also: NRPS. "Stars  and  Stripes Forever" tuning before "You Win Again." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1215"></a><a href="/1971-12-15">12/15/1971 Hill Auditorium, Ann Arbor, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-15*">Listen/Download</a>]<tr><td>I: Bertha, Bobby McGee, Mr. Charlie, China Cat > I Know You Rider, BIODTL, Hurts Me Too, Cumberland, Jack Straw, You Win Again, Run Rudolph Run, Playin, B. E. Women, Mexicali, Big RxR Blues, Brokedown, El Paso, Casey Jones</td></tr>
+<tr><td>II: Dark Star > Deal, Sugar Magnolia, Lovelight > King Bee > Mannish Boy > Lovelight</td></tr>
+<tr><td>E: Saturday Night</td></tr>
+<tr class="notes"><td>First ''Mannish Boy''; Next ''King Bee'' 12/8/1993 [1453 shows]; Final ''Run Rudolph Run''</i></td></tr>
+<tr class="notes"><td>Also: NRPS. "Stars  and  Stripes Forever" tuning before "Sugar Magnolia." "Two Trains Running" verse after "Mannish Boy." DeadLists claims "Uncle John’s Band" as an encore, as per an eyewitness, without deleting "Saturday Night." </i></td></tr>
+</table></div>
+<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1971-12-31">12/31/1971 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-31*">Listen/Download</a>]<tr><td>I: Dancin, Mr. Charlie, B. E. Women, BIODTL, You Win Again, Jack Straw, Sugaree, El Paso, Chinatown Shuffle, Tennessee Jed, Mexicali, China Cat > I Know You Rider, Next Time, Playin, Loser, Saturday Night<span class="setlist_small">*</span></td></tr>
+<tr><td>II: Truckin > Drums > Other One > Me  and  My Uncle > Other One, Space <span class="setlist_small">+</span> > Black Peter <span class="setlist_small">+</span>, Big River, Same Thing, Ramble On, Sugar Magnolia, NFA > GDTRFB > NFA</td></tr>
+<tr><td>E: Casey Jones</td></tr>
+<tr class="notes"><td>First ''Big River''; First ''Chinatown Shuffle''; Next ''Same Thing'' 12/28/1991 [1321 shows]</i></td></tr>
+<tr class="notes"><td>Billing: GD; NRPS; Yogi Phlegm. FM broadcast KSAN-San Francisco. *with Donna Godchaux. +appears on the "New Year’s Eves at Winterland" bonus disc for "The Closing of Winterland." </i></td></tr>
+</table></div>
+
+  </div>
+ </div><!--END main-->
+
+</div><!--END container -->
+</div><!--END centering div-->
+</body>
+</html>

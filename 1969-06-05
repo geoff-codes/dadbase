@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1969-06-05&highlight=went">Shows I attended</a>
-		<a href="/1969-06-05&highlight=own">Shows I own</a>
-		<a href="/1969-06-05&highlight=looking">Shows I'm looking for</a>
-		<a href="/1969-06-05&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Thursday, June 5, 1969</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0605"></a><a href="/1969-06-05">6/5/1969 Fillmore West, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-06-05*">Listen/Download</a>]<tr><td>I: Morning Dew, Me  and  My Uncle, Doin That Rag, Just A Hand To Hold, Hard To Handle, Cosmic Charlie, Cryptical > Drums > Other One > Cryptical</td></tr>
@@ -25,7 +14,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

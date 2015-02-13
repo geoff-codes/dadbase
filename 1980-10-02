@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1980-10-02&highlight=went">Shows I attended</a>
-		<a href="/1980-10-02&highlight=own">Shows I own</a>
-		<a href="/1980-10-02&highlight=looking">Shows I'm looking for</a>
-		<a href="/1980-10-02&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Thursday, October 2, 1980</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1002"></a><a href="/1980-10-02">10/2/1980 Warfield Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-10-02*">Listen/Download</a>]<tr><td>I: Dark Hollow<span class="setlist_small">@</span>, Iko Iko<span class="setlist_small">@</span>, Race Is On<span class="setlist_small">@*</span>, To Lay Me Down<span class="setlist_small">@</span>, Cassidy<span class="setlist_small">@</span>, Jack A Roe<span class="setlist_small">@</span>, On The Road Again<span class="setlist_small">@</span>, Bird Song<span class="setlist_small">@</span> > Ripple<span class="setlist_small">@</span></td></tr>
@@ -28,7 +17,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

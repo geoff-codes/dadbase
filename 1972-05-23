@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1972-05-23&highlight=went">Shows I attended</a>
-		<a href="/1972-05-23&highlight=own">Shows I own</a>
-		<a href="/1972-05-23&highlight=looking">Shows I'm looking for</a>
-		<a href="/1972-05-23&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Tuesday, May 23, 1972</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0523"></a><a href="/1972-05-23">5/23/1972 The Strand Lyceum, London, England</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1972-05-23*">Listen/Download</a>]<tr><td>I: Promised, Sugaree, Mr. Charlie <span class="setlist_small">*</span>, B. T. Wind, Tennessee Jed, Next Time, Jack Straw, China Cat <span class="setlist_small">+</span> > I Know You Rider <span class="setlist_small">+</span>, Me  and  My Uncle, Chinatown Shuffle, Big RxR Blues, The Stranger <span class="setlist_small">+</span>, Playin, Top Of The World <span class="setlist_small">+</span>, Rockin Pneumonia, Mexicali <span class="setlist_small">+</span>, Good Lovin, Casey Jones</td></tr>
@@ -27,7 +16,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

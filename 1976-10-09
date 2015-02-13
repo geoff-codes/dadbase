@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1976-10-09&highlight=went">Shows I attended</a>
-		<a href="/1976-10-09&highlight=own">Shows I own</a>
-		<a href="/1976-10-09&highlight=looking">Shows I'm looking for</a>
-		<a href="/1976-10-09&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Saturday, October 9, 1976</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1009"></a><a href="/1976-10-09">10/9/1976 Oakland Coliseum Stadium, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-10-09*">Listen/Download</a>]<tr><td>I: Promised, Half Step, Cassidy, Tennessee Jed, L. L. Rain, TLEO, Minglewood, Scarlet, Lazy Lightning > Supplication, Sugaree</td></tr>
@@ -26,7 +15,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

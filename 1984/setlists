@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>Shows I own are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1984/setlists&highlight=went">Shows I attended</a>
-		<a href="/1984/setlists&highlight=own">Shows I own</a>
-		<a href="/1984/setlists&highlight=looking">Shows I'm looking for</a>
-		<a href="/1984/setlists&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">1984 Setlists</div>
 
 <script language="Javascript" type="text/javascript">

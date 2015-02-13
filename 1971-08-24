@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1971-08-24&highlight=went">Shows I attended</a>
-		<a href="/1971-08-24&highlight=own">Shows I own</a>
-		<a href="/1971-08-24&highlight=looking">Shows I'm looking for</a>
-		<a href="/1971-08-24&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Tuesday, August 24, 1971</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0824"></a><a href="/1971-08-24">8/24/1971 Auditorium Theater, Chicago, IL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-08-24*">Listen/Download</a>]<tr><td>I: Uncle John <span class="setlist_small">*</span>, Sugaree, Playin <span class="setlist_small">*</span>, Mr. Charlie, Loser <span class="setlist_small">*</span>, El Paso, Hurts Me Too <span class="setlist_small">*</span>, Cumberland <span class="setlist_small">*</span>, Empty Pages <span class="setlist_small">*</span>, BIODTL <span class="setlist_small">*</span>, B. E. Women <span class="setlist_small">*</span>, Me and My Uncle, Casey Jones</td></tr>
@@ -26,7 +15,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

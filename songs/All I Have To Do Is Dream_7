@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/songs/All%20I%20Have%20To%20Do%20Is%20Dream_7&highlight=went">Shows I attended</a>
-		<a href="/songs/All%20I%20Have%20To%20Do%20Is%20Dream_7&highlight=own">Shows I own</a>
-		<a href="/songs/All%20I%20Have%20To%20Do%20Is%20Dream_7&highlight=looking">Shows I'm looking for</a>
-		<a href="/songs/All%20I%20Have%20To%20Do%20Is%20Dream_7&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">All I Have To Do Is Dream</div>
 
 <table border="0" cellspacing="0" cellpadding="0" class="song1_table">

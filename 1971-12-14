@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1971-12-14&highlight=went">Shows I attended</a>
-		<a href="/1971-12-14&highlight=own">Shows I own</a>
-		<a href="/1971-12-14&highlight=looking">Shows I'm looking for</a>
-		<a href="/1971-12-14&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Tuesday, December 14, 1971</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1214"></a><a href="/1971-12-14">12/14/1971 Hill Auditorium, Ann Arbor, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1971-12-14*">Listen/Download</a>]<tr><td>I: Truckin, Sugaree, Mr. Charlie, BIODTL, Loser, Jack Straw, Next Time, Tennessee Jed, El Paso, Big RxR Blues, Me  and  My Uncle, Run Rudolph Run, Black Peter, Playin, Casey Jones</td></tr>
@@ -25,7 +14,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

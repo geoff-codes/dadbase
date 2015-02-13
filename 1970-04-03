@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1970-04-03&highlight=went">Shows I attended</a>
-		<a href="/1970-04-03&highlight=own">Shows I own</a>
-		<a href="/1970-04-03&highlight=looking">Shows I'm looking for</a>
-		<a href="/1970-04-03&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Friday, April 3, 1970</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0403"></a><a href="/1970-04-03">4/3/1970 Field House, U. of Cincinnati, Cincinnati, OH</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-04-03*">Listen/Download</a>]<tr><td>Casey Jones, China Cat > I Know You Rider, Hard To Handle, Dancin, Me  and  My Uncle, FOTD<span class="setlist_small">@</span>, Deep Elem<span class="setlist_small">@</span>, Candyman<span class="setlist_small">@</span>, Wake Up Little Susie<span class="setlist_small">@</span> > Black Peter<span class="setlist_small">@</span>, Uncle John<span class="setlist_small">@</span>, Katie Mae<span class="setlist_small">@</span>, Good Lovin > Drums > Good Lovin, Cryptical > Drums > Other One > Cryptical > Cosmic Charlie, NFA > Lovelight  </td></tr>
@@ -26,7 +15,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

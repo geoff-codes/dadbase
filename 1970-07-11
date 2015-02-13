@@ -5,18 +5,7 @@
 </head>
 <body>
 <div align="center">
-<div id="container">
-<div id="logbar"><!--START LOGIN-->
-You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span><a href="/my">My DeadBase Options and Shows</a><span class="space">|</span>My favorite shows are currently highlighted. [<span onmouseover="document.getElementById('highoptions').style.display='block';" onmouseout="document.getElementById('highoptions').style.display='none'; return false;"><a href="#" onclick="return false;">Change</a><div id="highoptions" class="highoptions" style="display:none;">
-		<a href="/1970-07-11&highlight=went">Shows I attended</a>
-		<a href="/1970-07-11&highlight=own">Shows I own</a>
-		<a href="/1970-07-11&highlight=looking">Shows I'm looking for</a>
-		<a href="/1970-07-11&highlight=favorite">My favorite shows</a>
-	</div></span>] 
-</div>
-
-<div><!--START main-->
-<div id="mainc"><div id="main">
+<div id="main">
 	<div class="page_title">Saturday, July 11, 1970</div>
 
 	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0711"></a><a href="/1970-07-11">7/11/1970 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-07-11*">Listen/Download</a>]<tr><td>I: Monkey & Engineer <span class="setlist_small">@</span>, Don’t Ease <span class="setlist_small">@</span>, All Around this World <span class="setlist_small">@</span>, Dark Hollow <span class="setlist_small">@</span>, Black Peter<span class="setlist_small">@</span>, El Paso <span class="setlist_small">@</span>, New Speedway <span class="setlist_small">@</span>, So Sad <span class="setlist_small">@</span>, Rosalie McFall <span class="setlist_small">@</span>, I Hear a Voice Callin <span class="setlist_small">@</span>, Cold Jordan <span class="setlist_small">@</span>, Swing Low <span class="setlist_small">@</span></td></tr>
@@ -26,7 +15,6 @@ You are logged in as Dave R [<a href="">Log Out</a>]<span class="space">|</span>
 </table></div>
 <p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
 <tr class="header" valign="bottom">
-      <td width="30%">&nbsp;</td>
 	  <td width="13%">First Played</td>
 	  <td width="13%">Last Played</td>
 	  <td width="8%" align="center">Played (ttl.)</td>

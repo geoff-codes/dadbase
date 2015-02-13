@@ -1,27 +1,95 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, October 31, 1966</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, October 31, 1966</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1966-10-31">10/31/1966 California Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-31*">Listen/Download</a>]<tr><td>Viola Lee Blues, Alice D. Millionaire</td></tr>
-<tr class="notes"><td>"Dance of Death Costume Ball." Also: QMS; Mimi Farina.The Dead did not play the Acid Test Graduation that took place at the Calliope Warehouse in San Francisco the same night.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('66)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Viola Lee Blues</td><td>3/12/1966</td><td>10/31/1970</td><td align="center">32</td><td align="center">8</td><td align="center">[<a href="/songs/Viola Lee Blues_392">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Alice D. Millionaire</td><td>10/6/1966</td><td>12/1/1966</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Alice D. Millionaire_5">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, October 31, 1966
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, October 31, 1966
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1031">
+              <a href="/1966-10-31">10/31/1966 California Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Alice D. Millionaire
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Dance of Death Costume Ball." Also: QMS; Mimi Farina.The Dead did not play the Acid Test Graduation that took place at the Calliope Warehouse in San Francisco the same night.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('66)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Viola Lee Blues
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/31/1970
+          </td>
+          <td align="center">
+            32
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Viola%20Lee%20Blues_392">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Alice D. Millionaire
+          </td>
+          <td>
+            10/6/1966
+          </td>
+          <td>
+            12/1/1966
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Alice%20D.%20Millionaire_5">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

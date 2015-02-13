@@ -1,78 +1,305 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>1965 Setlists</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">1965 Setlists</div>
-
-<script language="Javascript" type="text/javascript">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      1965 Setlists
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        1965 Setlists
+      </div><script language="Javascript" type="text/javascript">
 <!--
-function showtab () {
-document.getElementById('hide').style.display = 'none';
-document.getElementById('show').style.display = 'block';
-}
-function hidetab () {
-document.getElementById('show').style.display = 'none';
-document.getElementById('hide').style.display = 'block';
-}
--->
-</script>
-<p>May:  <a href="#0505">5</a> <a href="#0512">12</a> <a href="#0527">27</a><br>
-June: <a href="#0618">18</a> <a href="#0619">19</a> <a href="#0620">20</a><br>
-August: <a href="#08xx">xx</a> <a href="#08yy">yy</a> <a href="#08zz">zz</a><br>
-September: <a href="#09??">??</a><br>
-November: <a href="#1103">3</a> <a href="#11??">??</a><br>
-December: <a href="#1204">4</a> <a href="#1210">10</a> <a href="#1211">11</a> <a href="#1218">18</a></p>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0505"></a><a href="/1965-05-05">5/5/1965 Magoo's Pizza Parlor, Menlo Park, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-05-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks.; The Grateful Dead's First Show; Jerry Garcia's First Show; Bob Weir's First Show; Bill Kreutzmann's First Show; Dana Morgan's First Show; Ron McKernan's First Show</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0512"></a><a href="/1965-05-12">5/12/1965 Magoo's Pizza Parlor, Menlo Park, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-05-12*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0527"></a><a href="/1965-05-27">5/27/1965 Magoo's Pizza Parlor, Menlo Park, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-05-27*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks.; Dana Morgan's Last Show</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0618"></a><a href="/1965-06-18">6/18/1965 Frenchy's, Hayward, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-06-18*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks. Phil's first show.; Phil Lesh's First Show</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0619"></a><a href="/1965-06-19">6/19/1965 Frenchy's, Hayward, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-06-19*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0620"></a><a href="/1965-06-20">6/20/1965 Frenchy's, Hayward, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-06-20*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="08xx"></a><a href="/1965-08-xx">8/xx/1965 Fireside Club, San Mateo, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-08-xx*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks. Possibly for three nights.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="08yy"></a><a href="/1965-08-yy">8/yy/1965 Big Al's Gas House, Redwood City, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-08-yy*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="08zz"></a><a href="/1965-08-zz">8/zz/1965 Cinnamon A-Go-Go, Redwood City, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-08-zz*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="09??"></a><a href="/1965-09-??">9/??/1965 In Room, Belmont, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-09-??*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Warlocks played five nights a week for six weeks.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1103"></a><a href="/1965-11-03">11/3/1965 Golden State Recorders, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-11-03*">Listen/Download</a>]<tr><td>Can't Come Down <span class="setlist_small">*</span>, Mindbender, The Only Time Is Now, Caution <span class="setlist_small">*</span>, I Know You Rider, Early Morning Rain</td></tr>
-<tr class="notes"><td>Studio session. *appears on "So Many Roads (1965-1999)." Entire session appears on "Birth of the Dead" in a scrambled order. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="11??"></a><a href="/1965-11-??">11/??/1965 Pierre's, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-11-??*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Warlocks. Possibly three nights.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1204"></a><a href="/1965-12-04">12/4/1965 Big Nig's House, San Jose, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-12-04*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>San Jose Acid Test. First appearance as "The Grateful Dead." Recordings of the Great Human Be-In on 01-14-67 have sometimes circulated under this date.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1210"></a><a href="/1965-12-10">12/10/1965 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-12-10*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Mime Troupe Benefit. First show as "The Grateful Dead." Also: Jefferson Airplane; The Great Society; John Handy Quintet; The Mystery Trend; The Gentlemen's Band.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1211"></a><a href="/1965-12-11">12/11/1965 The Big Beat, Palo Alto, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-12-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Big Beat Acid Test. Recordings of the Great Human Be-In on 01-14-67 have sometimes circulated under this date.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1218"></a><a href="/1965-12-18">12/18/1965 Muir Beach Lodge, Muir Beach, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1965-12-18*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Muir Beach Acid Test. Recordings of the Great Human Be-In on 01-14-67 have sometimes circulated under this date.</i></td></tr>
-</table></div>
-
-</div></div>
-</div>
-</body>
+      function showtab () {
+      document.getElementById('hide').style.display = 'none';
+      document.getElementById('show').style.display = 'block';
+      }
+      function hidetab () {
+      document.getElementById('show').style.display = 'none';
+      document.getElementById('hide').style.display = 'block';
+      }
+      -->
+      </script>
+      <p>
+        May: <a href="#0505">5</a> <a href="#0512">12</a> <a href="#0527">27</a>
+        <br>
+        June: <a href="#0618">18</a> <a href="#0619">19</a> <a href="#0620">20</a>
+        <br>
+        August: <a href="#08xx">xx</a> <a href="#08yy">yy</a> <a href="#08zz">zz</a>
+        <br>
+        September: <a href="#09??">??</a>
+        <br>
+        November: <a href="#1103">3</a> <a href="#11??">??</a>
+        <br>
+        December: <a href="#1204">4</a> <a href="#1210">10</a> <a href="#1211">11</a> <a href="#1218">18</a>
+      </p>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0505">
+              <a href="/1965-05-05">5/5/1965 Magoo's Pizza Parlor, Menlo Park, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-05-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks.; The Grateful Dead's First Show; Jerry Garcia's First Show; Bob Weir's First Show; Bill Kreutzmann's First Show; Dana Morgan's First Show; Ron McKernan's First Show
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0512">
+              <a href="/1965-05-12">5/12/1965 Magoo's Pizza Parlor, Menlo Park, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-05-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0527">
+              <a href="/1965-05-27">5/27/1965 Magoo's Pizza Parlor, Menlo Park, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-05-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks.; Dana Morgan's Last Show
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0618">
+              <a href="/1965-06-18">6/18/1965 Frenchy's, Hayward, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-06-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks. Phil's first show.; Phil Lesh's First Show
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0619">
+              <a href="/1965-06-19">6/19/1965 Frenchy's, Hayward, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-06-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0620">
+              <a href="/1965-06-20">6/20/1965 Frenchy's, Hayward, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-06-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="08xx">
+              <a href="/1965-08-xx">8/xx/1965 Fireside Club, San Mateo, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-08-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks. Possibly for three nights.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="08yy">
+              <a href="/1965-08-yy">8/yy/1965 Big Al's Gas House, Redwood City, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-08-yy*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="08zz">
+              <a href="/1965-08-zz">8/zz/1965 Cinnamon A-Go-Go, Redwood City, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-08-zz*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="09??">
+              <a href="/1965-09-??">9/??/1965 In Room, Belmont, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-09-??*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Warlocks played five nights a week for six weeks.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1103">
+              <a href="/1965-11-03">11/3/1965 Golden State Recorders, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-11-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Can't Come Down *, Mindbender, The Only Time Is Now, Caution *, I Know You Rider, Early Morning Rain
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Studio session. *appears on "So Many Roads (1965-1999)." Entire session appears on "Birth of the Dead" in a scrambled order.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="11??">
+              <a href="/1965-11-??">11/??/1965 Pierre's, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-11-??*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Warlocks. Possibly three nights.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1204">
+              <a href="/1965-12-04">12/4/1965 Big Nig's House, San Jose, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-12-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              San Jose Acid Test. First appearance as "The Grateful Dead." Recordings of the Great Human Be-In on 01-14-67 have sometimes circulated under this date.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1210">
+              <a href="/1965-12-10">12/10/1965 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-12-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Mime Troupe Benefit. First show as "The Grateful Dead." Also: Jefferson Airplane; The Great Society; John Handy Quintet; The Mystery Trend; The Gentlemen's Band.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1211">
+              <a href="/1965-12-11">12/11/1965 The Big Beat, Palo Alto, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-12-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Big Beat Acid Test. Recordings of the Great Human Be-In on 01-14-67 have sometimes circulated under this date.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1218">
+              <a href="/1965-12-18">12/18/1965 Muir Beach Lodge, Muir Beach, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1965-12-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Muir Beach Acid Test. Recordings of the Great Human Be-In on 01-14-67 have sometimes circulated under this date.
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>
 </html>

@@ -1,25 +1,53 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, March 17, 1969</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, March 17, 1969</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1969-03-17">3/17/1969 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1969-03-17*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>“Monster Jam” benefit for Rancho Olompali. The Lost Live Dead blog cites a notice in the March 17, 1969 Berkeley Barb announcing this show with musicians from the Dead, the Jefferson Airplane, the Sons of Champlin, and others, conceding that the full bands might not have performed.   </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('69)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, March 17, 1969
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, March 17, 1969
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0317">
+              <a href="/1969-03-17">3/17/1969 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1969-03-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              ï¿½Monster Jamï¿½ benefit for Rancho Olompali. The Lost Live Dead blog cites a notice in the March 17, 1969 Berkeley Barb announcing this show with musicians from the Dead, the Jefferson Airplane, the Sons of Champlin, and others, conceding that the full bands might not have performed.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('69)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

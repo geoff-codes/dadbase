@@ -1,44 +1,420 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Thursday, March 12, 1981</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Thursday, March 12, 1981</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0312"></a><a href="/1981-03-12">3/12/1981 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1981-03-12*">Listen/Download</a>]<tr><td>I: Jack Straw, Tennessee Jed, Mama Tried > Mexicali, Bird Song > C. C. Rider, Althea, Let It Grow > Franklin's</td></tr>
-<tr><td>II: Terrapin > Playin > He's Gone > Drumz > NFA > Black Peter > Around > Johnny B. Goode</td></tr>
-<tr><td>E: U. S. Blues</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('81)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Jack Straw</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">472</td><td align="center">21</td><td align="center">[<a href="/songs/Jack Straw_183">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Tennessee Jed</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">433</td><td align="center">17</td><td align="center">[<a href="/songs/Tennessee Jed_355">ETP</a>]</td></tr>
-<tr valign="top"><td>Mama Tried</td><td>6/11/1969</td><td>6/25/1995</td><td align="center">301</td><td align="center">21</td><td align="center">[<a href="/songs/Mama Tried_215">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Mexicali Blues</td><td>10/19/1971</td><td>6/25/1995</td><td align="center">435</td><td align="center">26</td><td align="center">[<a href="/songs/Mexicali Blues_223">ETP</a>]</td></tr>
-<tr valign="top"><td>Bird Song</td><td>2/19/1971</td><td>6/30/1995</td><td align="center">295</td><td align="center">25</td><td align="center">[<a href="/songs/Bird Song_33">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>C. C. Rider</td><td>12/1/1979</td><td>3/16/1992</td><td align="center">126</td><td align="center">31</td><td align="center">[<a href="/songs/C. C. Rider_54">ETP</a>]</td></tr>
-<tr valign="top"><td>Althea</td><td>8/4/1979</td><td>7/8/1995</td><td align="center">272</td><td align="center">44</td><td align="center">[<a href="/songs/Althea_12">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Let It Grow</td><td>9/7/1973</td><td>7/2/1995</td><td align="center">273</td><td align="center">23</td><td align="center">[<a href="/songs/Let It Grow_198">ETP</a>]</td></tr>
-<tr valign="top"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">14</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Terrapin Station</td><td>2/26/1977</td><td>7/8/1995</td><td align="center">302</td><td align="center">13</td><td align="center">[<a href="/songs/Terrapin Station_356">ETP</a>]</td></tr>
-<tr valign="top"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">18</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>He's Gone</td><td>4/17/1972</td><td>7/6/1995</td><td align="center">327</td><td align="center">21</td><td align="center">[<a href="/songs/He's Gone_150">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">80</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">23</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-<tr valign="top"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">24</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">31</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top"><td>Johnny B. Goode</td><td>9/7/1969</td><td>4/5/1995</td><td align="center">284</td><td align="center">17</td><td align="center">[<a href="/songs/Johnny B. Goode_185">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>U. S. Blues</td><td>2/22/1974</td><td>7/8/1995</td><td align="center">321</td><td align="center">26</td><td align="center">[<a href="/songs/U. S. Blues_385">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Thursday, March 12, 1981
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Thursday, March 12, 1981
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0312">
+              <a href="/1981-03-12">3/12/1981 Boston Garden, Boston, MA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1981-03-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Jack Straw, Tennessee Jed, Mama Tried &gt; Mexicali, Bird Song &gt; C. C. Rider, Althea, Let It Grow &gt; Franklin's
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Terrapin &gt; Playin &gt; He's Gone &gt; Drumz &gt; NFA &gt; Black Peter &gt; Around &gt; Johnny B. Goode
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: U. S. Blues
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('81)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            472
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Jack%20Straw_183">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            433
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Tennessee%20Jed_355">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mama Tried
+          </td>
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            301
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Mama%20Tried_215">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mexicali Blues
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            435
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/Mexicali%20Blues_223">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bird Song
+          </td>
+          <td>
+            2/19/1971
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            295
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Bird%20Song_33">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            C. C. Rider
+          </td>
+          <td>
+            12/1/1979
+          </td>
+          <td>
+            3/16/1992
+          </td>
+          <td align="center">
+            126
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/C.%20C.%20Rider_54">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Althea
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td align="center">
+            [<a href="/songs/Althea_12">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Let%20It%20Grow_198">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Franklin's Tower
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            221
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Franklin's%20Tower_128">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Terrapin Station
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            302
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Terrapin%20Station_356">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Playin In The Band
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Playin%20In%20The%20Band_271">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            He's Gone
+          </td>
+          <td>
+            4/17/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            327
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/He's%20Gone_150">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            80
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Peter
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            342
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Peter_35">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            9/7/1969
+          </td>
+          <td>
+            4/5/1995
+          </td>
+          <td align="center">
+            284
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Johnny%20B.%20Goode_185">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            U. S. Blues
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            321
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/U.%20S.%20Blues_385">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

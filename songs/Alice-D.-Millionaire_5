@@ -1,26 +1,111 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Alice D. Millionaire</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Alice D. Millionaire</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>10/6/1966</td><td>San Francisco, CA (Golden Gate Park)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">78</td><td>[<a href="/1966-10-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/31/1966</td><td>San Francisco, CA (California Hall)</td><td align="center">*</td><td>Viola Lee Blues</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1966-10-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SI</td><td>One Kind Favor</td><td>Me  and  My Unc</td><td align="center">13</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Alice D. Millionaire
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Alice D. Millionaire
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/6/1966
+          </td>
+          <td>
+            San Francisco, CA (Golden Gate Park)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            78
+          </td>
+          <td>
+            [<a href="/1966-10-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/31/1966
+          </td>
+          <td>
+            San Francisco, CA (California Hall)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Viola Lee Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1966-10-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/1/1966
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            One Kind Favor
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1966-12-01">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

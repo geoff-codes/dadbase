@@ -1,26 +1,111 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sick And Tired</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sick And Tired</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>11/30/1999</td><td>(unknown), CA ((unknown))</td><td align="center">*</td><td>Big Railroad Bl</td><td>Empty Heart</td><td align="center">2313</td><td>[<a href="/0000-00-00">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/7/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">*</td><td>It's A Sin</td><td>Mindbender</td><td align="center">-2296</td><td>[<a href="/1966-01-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/19/1966</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>It's A Sin</td><td>Cream Puff War</td><td align="center">23</td><td>[<a href="/1966-05-19">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sick And Tired
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sick And Tired
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            (unknown), CA ((unknown))
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Big Railroad Bl
+          </td>
+          <td>
+            Empty Heart
+          </td>
+          <td align="center">
+            2313
+          </td>
+          <td>
+            [<a href="/0000-00-00">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            It's A Sin
+          </td>
+          <td>
+            Mindbender
+          </td>
+          <td align="center">
+            -2296
+          </td>
+          <td>
+            [<a href="/1966-01-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            It's A Sin
+          </td>
+          <td>
+            Cream Puff War
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1966-05-19">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

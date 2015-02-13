@@ -1,26 +1,75 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Saturday, June 27, 1970</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Saturday, June 27, 1970</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0627"></a><a href="/1970-06-27">6/27/1970 Canadian National Exhibition Hall, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-06-27*">Listen/Download</a>]<tr><td>Don't Ease</td></tr>
-<tr class="notes"><td>"Trans Continental Pop Festival" Saturday  and  Sunday - Noon to Midnight. Also: NRPS; The Band; Janis Joplin; Delaney  and  Bonnie; Mashmakan; Cat; Ten Years After; Traffic; James  and  The Good Bros.; Charlebois; Ian  and  Sylvia; Great Speckled Bird; Buddy Guy; Eric Andersen; Mountain; Tom Rush; Seatrain; Melanie. The above tune from this show appears in the movie and DVD of "Festival Express," but since it took place outdoors the name of the venue might be different </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('70)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Don't Ease</td><td>7/16/1966</td><td>7/8/1995</td><td align="center">315</td><td align="center">17</td><td align="center">[<a href="/songs/Don't Ease_102">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Saturday, June 27, 1970
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Saturday, June 27, 1970
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0627">
+              <a href="/1970-06-27">6/27/1970 Canadian National Exhibition Hall, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1970-06-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Don't Ease
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Trans Continental Pop Festival" Saturday and Sunday - Noon to Midnight. Also: NRPS; The Band; Janis Joplin; Delaney and Bonnie; Mashmakan; Cat; Ten Years After; Traffic; James and The Good Bros.; Charlebois; Ian and Sylvia; Great Speckled Bird; Buddy Guy; Eric Andersen; Mountain; Tom Rush; Seatrain; Melanie. The above tune from this show appears in the movie and DVD of "Festival Express," but since it took place outdoors the name of the venue might be different
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('70)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            7/16/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            315
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Don't%20Ease_102">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

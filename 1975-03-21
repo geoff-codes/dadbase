@@ -1,26 +1,75 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, March 21, 1975</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, March 21, 1975</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1975-03-21">3/21/1975 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1975-03-21*">Listen/Download</a>]<tr><td>King Solomon’s Marbles x3, King Solomon’s Marbles > Blues for Allah x2, Blues for Allah > King Solomon’s Marbles, Jam, King Solomon’s Marbles x2</td></tr>
-<tr class="notes"><td>SNACK rehearsal with David Crosby.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('75)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Blues For Allah</td><td>3/23/1975</td><td>8/13/1975</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Blues For Allah_41">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, March 21, 1975
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, March 21, 1975
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0321">
+              <a href="/1975-03-21">3/21/1975 Ace's, Mill Valley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1975-03-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              King Solomonï¿½s Marbles x3, King Solomonï¿½s Marbles &gt; Blues for Allah x2, Blues for Allah &gt; King Solomonï¿½s Marbles, Jam, King Solomonï¿½s Marbles x2
+            </td>
+          </tr>
+          <tr>
+            <td>
+              SNACK rehearsal with David Crosby.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('75)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Blues For Allah
+          </td>
+          <td>
+            3/23/1975
+          </td>
+          <td>
+            8/13/1975
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Blues%20For%20Allah_41">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

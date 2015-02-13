@@ -1,44 +1,420 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, May 30, 1980</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, May 30, 1980</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1980-05-30">5/30/1980 Milwaukee Auditorium, Milwaukee, WI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-30*">Listen/Download</a>]<tr><td>I: Jack Straw > Franklin's, Me  and  My Uncle > Big River, FOTD, Passenger, Easy To Love You, Althea, Music</td></tr>
-<tr><td>II: Scarlet > Fire > Playin > Drumz > NFA > Black Peter > GDTRFB > Good Lovin</td></tr>
-<tr><td>E: Alabama</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('80)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Jack Straw</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">472</td><td align="center">23</td><td align="center">[<a href="/songs/Jack Straw_183">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">17</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
-<tr valign="top"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">26</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Big River</td><td>12/31/1971</td><td>7/6/1995</td><td align="center">395</td><td align="center">21</td><td align="center">[<a href="/songs/Big River_31">ETP</a>]</td></tr>
-<tr valign="top"><td>Friend Of The Devil</td><td>3/20/1970</td><td>6/24/1995</td><td align="center">303</td><td align="center">22</td><td align="center">[<a href="/songs/Friend Of The Devil_121">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Passenger</td><td>5/15/1977</td><td>12/27/1981</td><td align="center">98</td><td align="center">13</td><td align="center">[<a href="/songs/Passenger_265">ETP</a>]</td></tr>
-<tr valign="top"><td>Easy To Love You</td><td>8/14/1979</td><td>7/18/1990</td><td align="center">45</td><td align="center">15</td><td align="center">[<a href="/songs/Easy To Love You_111">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Althea</td><td>8/4/1979</td><td>7/8/1995</td><td align="center">272</td><td align="center">59</td><td align="center">[<a href="/songs/Althea_12">ETP</a>]</td></tr>
-<tr valign="top"><td>The Music Never Stopped</td><td>8/13/1975</td><td>6/28/1995</td><td align="center">233</td><td align="center">13</td><td align="center">[<a href="/songs/The Music Never Stopped_242">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Scarlet Begonias</td><td>3/23/1974</td><td>7/2/1995</td><td align="center">316</td><td align="center">19</td><td align="center">[<a href="/songs/Scarlet Begonias_308">ETP</a>]</td></tr>
-<tr valign="top"><td>Fire On The Mountain</td><td>3/18/1977</td><td>7/2/1995</td><td align="center">253</td><td align="center">20</td><td align="center">[<a href="/songs/Fire On The Mountain_125">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">22</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">85</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">25</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-<tr valign="top"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">27</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Goin Down The Road Feelin Bad</td><td>10/10/1970</td><td>7/5/1995</td><td align="center">293</td><td align="center">12</td><td align="center">[<a href="/songs/Goin Down The Road Feelin Bad_130">ETP</a>]</td></tr>
-<tr valign="top"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">33</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Alabama Getaway</td><td>11/4/1979</td><td>6/2/1995</td><td align="center">141</td><td align="center">50</td><td align="center">[<a href="/songs/Alabama Getaway_3">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, May 30, 1980
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, May 30, 1980
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0530">
+              <a href="/1980-05-30">5/30/1980 Milwaukee Auditorium, Milwaukee, WI</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1980-05-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Jack Straw &gt; Franklin's, Me and My Uncle &gt; Big River, FOTD, Passenger, Easy To Love You, Althea, Music
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Scarlet &gt; Fire &gt; Playin &gt; Drumz &gt; NFA &gt; Black Peter &gt; GDTRFB &gt; Good Lovin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Alabama
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('80)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            472
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Jack%20Straw_183">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Franklin's Tower
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            221
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Franklin's%20Tower_128">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Me And My Uncle
+          </td>
+          <td>
+            11/29/1966
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            613
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/Me%20And%20My%20Uncle_221">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Big River
+          </td>
+          <td>
+            12/31/1971
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            395
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Big%20River_31">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Friend Of The Devil
+          </td>
+          <td>
+            3/20/1970
+          </td>
+          <td>
+            6/24/1995
+          </td>
+          <td align="center">
+            303
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Friend%20Of%20The%20Devil_121">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Passenger
+          </td>
+          <td>
+            5/15/1977
+          </td>
+          <td>
+            12/27/1981
+          </td>
+          <td align="center">
+            98
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Passenger_265">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Easy To Love You
+          </td>
+          <td>
+            8/14/1979
+          </td>
+          <td>
+            7/18/1990
+          </td>
+          <td align="center">
+            45
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Easy%20To%20Love%20You_111">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Althea
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            59
+          </td>
+          <td align="center">
+            [<a href="/songs/Althea_12">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            The Music Never Stopped
+          </td>
+          <td>
+            8/13/1975
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            233
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/The%20Music%20Never%20Stopped_242">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Scarlet Begonias
+          </td>
+          <td>
+            3/23/1974
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            316
+          </td>
+          <td align="center">
+            19
+          </td>
+          <td align="center">
+            [<a href="/songs/Scarlet%20Begonias_308">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Fire On The Mountain
+          </td>
+          <td>
+            3/18/1977
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            253
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Fire%20On%20The%20Mountain_125">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Playin In The Band
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Playin%20In%20The%20Band_271">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            85
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Peter
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            342
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Peter_35">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Goin Down The Road Feelin Bad
+          </td>
+          <td>
+            10/10/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            293
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Goin%20Down%20The%20Road%20Feelin%20Bad_130">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            33
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Alabama Getaway
+          </td>
+          <td>
+            11/4/1979
+          </td>
+          <td>
+            6/2/1995
+          </td>
+          <td align="center">
+            141
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td align="center">
+            [<a href="/songs/Alabama%20Getaway_3">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

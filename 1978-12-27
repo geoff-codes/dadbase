@@ -1,46 +1,460 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Wednesday, December 27, 1978</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Wednesday, December 27, 1978</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1227"></a><a href="/1978-12-27">12/27/1978 Golden Hall, Community Concourse, San Diego, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1978-12-27*">Listen/Download</a>]<tr><td>I: Promised, FOTD, Cassidy, Peggy-O, Mama Tried > Mexicali, Half Step > Franklin's, Music</td></tr>
-<tr><td>II: Bertha > Good Lovin, Ship Of Fools, Samson, Terrapin > Playin > Drumz > NFA > Black Peter > Around</td></tr>
-<tr><td>E: U. S. Blues</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('78)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Promised Land</td><td>5/29/1971</td><td>7/9/1995</td><td align="center">427</td><td align="center">23</td><td align="center">[<a href="/songs/Promised Land_275">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Friend Of The Devil</td><td>3/20/1970</td><td>6/24/1995</td><td align="center">303</td><td align="center">30</td><td align="center">[<a href="/songs/Friend Of The Devil_121">ETP</a>]</td></tr>
-<tr valign="top"><td>Cassidy</td><td>3/23/1974</td><td>7/6/1995</td><td align="center">334</td><td align="center">24</td><td align="center">[<a href="/songs/Cassidy_60">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Peggy-O</td><td>12/10/1973</td><td>7/5/1995</td><td align="center">265</td><td align="center">31</td><td align="center">[<a href="/songs/Peggy O_267">ETP</a>]</td></tr>
-<tr valign="top"><td>Mama Tried</td><td>6/11/1969</td><td>6/25/1995</td><td align="center">301</td><td align="center">25</td><td align="center">[<a href="/songs/Mama Tried_215">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Mexicali Blues</td><td>10/19/1971</td><td>6/25/1995</td><td align="center">435</td><td align="center">24</td><td align="center">[<a href="/songs/Mexicali Blues_223">ETP</a>]</td></tr>
-<tr valign="top"><td>Mississippi Half-Step</td><td>7/16/1972</td><td>7/6/1995</td><td align="center">234</td><td align="center">15</td><td align="center">[<a href="/songs/Mississippi Half Step_144">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">13</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
-<tr valign="top"><td>The Music Never Stopped</td><td>8/13/1975</td><td>6/28/1995</td><td align="center">233</td><td align="center">22</td><td align="center">[<a href="/songs/The Music Never Stopped_242">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">31</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">40</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Ship Of Fools</td><td>2/22/1974</td><td>6/25/1995</td><td align="center">224</td><td align="center">22</td><td align="center">[<a href="/songs/Ship Of Fools_316">ETP</a>]</td></tr>
-<tr valign="top"><td>Samson And Delilah</td><td>6/3/1976</td><td>7/9/1995</td><td align="center">364</td><td align="center">36</td><td align="center">[<a href="/songs/Samson And Delilah_304">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Terrapin Station</td><td>2/26/1977</td><td>7/8/1995</td><td align="center">302</td><td align="center">24</td><td align="center">[<a href="/songs/Terrapin Station_356">ETP</a>]</td></tr>
-<tr valign="top"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">25</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">63</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">30</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">20</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
-<tr valign="top"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">43</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>U. S. Blues</td><td>2/22/1974</td><td>7/8/1995</td><td align="center">321</td><td align="center">25</td><td align="center">[<a href="/songs/U. S. Blues_385">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Wednesday, December 27, 1978
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Wednesday, December 27, 1978
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1227">
+              <a href="/1978-12-27">12/27/1978 Golden Hall, Community Concourse, San Diego, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1978-12-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Promised, FOTD, Cassidy, Peggy-O, Mama Tried &gt; Mexicali, Half Step &gt; Franklin's, Music
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Bertha &gt; Good Lovin, Ship Of Fools, Samson, Terrapin &gt; Playin &gt; Drumz &gt; NFA &gt; Black Peter &gt; Around
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: U. S. Blues
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('78)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Promised Land
+          </td>
+          <td>
+            5/29/1971
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            427
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Promised%20Land_275">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Friend Of The Devil
+          </td>
+          <td>
+            3/20/1970
+          </td>
+          <td>
+            6/24/1995
+          </td>
+          <td align="center">
+            303
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Friend%20Of%20The%20Devil_121">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cassidy
+          </td>
+          <td>
+            3/23/1974
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            334
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/Cassidy_60">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            12/10/1973
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            265
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Peggy%20O_267">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mama Tried
+          </td>
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            301
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Mama%20Tried_215">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mexicali Blues
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            435
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/Mexicali%20Blues_223">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mississippi Half-Step
+          </td>
+          <td>
+            7/16/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            234
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Mississippi%20Half%20Step_144">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Franklin's Tower
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            221
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Franklin's%20Tower_128">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            The Music Never Stopped
+          </td>
+          <td>
+            8/13/1975
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            233
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/The%20Music%20Never%20Stopped_242">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            40
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            224
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Ship%20Of%20Fools_316">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Samson And Delilah
+          </td>
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            364
+          </td>
+          <td align="center">
+            36
+          </td>
+          <td align="center">
+            [<a href="/songs/Samson%20And%20Delilah_304">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Terrapin Station
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            302
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/Terrapin%20Station_356">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Playin In The Band
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Playin%20In%20The%20Band_271">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            63
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Peter
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            342
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Peter_35">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            43
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            U. S. Blues
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            321
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/U.%20S.%20Blues_385">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

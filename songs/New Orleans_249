@@ -1,29 +1,180 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>New Orleans</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">New Orleans</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>2/12/1966</td><td>Compton, CA (Youth Opportunities Center)</td><td align="center">*</td><td>rap and jam</td><td>Twist and Shout</td><td align="center">29</td><td>[<a href="/1966-02-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/29/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>High Time</td><td>Searchin</td><td align="center">424</td><td>[<a href="/1969-08-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/6/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Drums</td><td>Good Lovin</td><td align="center">116</td><td>[<a href="/1970-06-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Around</td><td>Searchin</td><td align="center">50</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/12/1970</td><td>Brooklyn, NY (46th Street Rock Palace)</td><td align="center">*</td><td>Candyman</td><td>Cumberland</td><td align="center">4</td><td>[<a href="/1970-11-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/21/1984</td><td>Ontario, Canada (Kingswood Music Theatre, Maple)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>Big Boss Man</td><td align="center">879</td><td>[<a href="/1984-06-21">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      New Orleans
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        New Orleans
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/12/1966
+          </td>
+          <td>
+            Compton, CA (Youth Opportunities Center)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            rap and jam
+          </td>
+          <td>
+            Twist and Shout
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td>
+            [<a href="/1966-02-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/29/1969
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Searchin
+          </td>
+          <td align="center">
+            424
+          </td>
+          <td>
+            [<a href="/1969-08-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/6/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Drums
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            116
+          </td>
+          <td>
+            [<a href="/1970-06-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Around
+          </td>
+          <td>
+            Searchin
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td>
+            [<a href="/1970-11-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/12/1970
+          </td>
+          <td>
+            Brooklyn, NY (46th Street Rock Palace)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1970-11-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1984
+          </td>
+          <td>
+            Ontario, Canada (Kingswood Music Theatre, Maple)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Big Boss Man
+          </td>
+          <td align="center">
+            879
+          </td>
+          <td>
+            [<a href="/1984-06-21">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

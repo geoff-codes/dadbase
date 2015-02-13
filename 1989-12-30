@@ -1,46 +1,445 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Saturday, December 30, 1989</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Saturday, December 30, 1989</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1989-12-30">12/30/1989 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1989-12-30*">Listen/Download</a>]<tr><td>I: Bertha > Good Lovin > Sugaree<span class="setlist_small">*</span>, Walking Blues<span class="setlist_small">*</span>, Jack A Roe<span class="setlist_small">*</span>, Masterpiece<span class="setlist_small">*</span>, West L. A.<span class="setlist_small">*</span> > Music<span class="setlist_small">*</span></td></tr>
-<tr><td>II: Jack Straw > China Cat<span class="setlist_small">*</span> > I Know You Rider<span class="setlist_small">*</span>, Estimated<span class="setlist_small">*</span> > Terrapin<span class="setlist_small">*</span> > Drumz<span class="setlist_small">*</span> > Take You Home<span class="setlist_small">*</span> > Other One<span class="setlist_small">*</span> > SOTM<span class="setlist_small">*</span> > Saturday Night<span class="setlist_small">*</span></td></tr>
-<tr><td>E: Baby Blue</td></tr>
-<tr class="notes"><td>*with Airto Moreira.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('89)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">11</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">11</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugaree</td><td>7/31/1971</td><td>7/8/1995</td><td align="center">358</td><td align="center">11</td><td align="center">[<a href="/songs/Sugaree_342">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Walkin Blues</td><td>5/28/1982</td><td>7/2/1995</td><td align="center">138</td><td align="center">21</td><td align="center">[<a href="/songs/Walkin Blues_399">ETP</a>]</td></tr>
-<tr valign="top"><td>Jack-A-Roe</td><td>5/13/1977</td><td>6/25/1995</td><td align="center">114</td><td align="center">10</td><td align="center">[<a href="/songs/Jack A Roe_182">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>When I Paint My Masterpiece</td><td>6/13/1987</td><td>7/9/1995</td><td align="center">144</td><td align="center">17</td><td align="center">[<a href="/songs/When I Paint My Masterpiece_218">ETP</a>]</td></tr>
-<tr valign="top"><td>West L. A. Fadeaway</td><td>8/28/1982</td><td>6/30/1995</td><td align="center">140</td><td align="center">8</td><td align="center">[<a href="/songs/West L. A. Fadeaway_411">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>The Music Never Stopped</td><td>8/13/1975</td><td>6/28/1995</td><td align="center">233</td><td align="center">7</td><td align="center">[<a href="/songs/The Music Never Stopped_242">ETP</a>]</td></tr>
-<tr valign="top"><td>Jack Straw</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">472</td><td align="center">12</td><td align="center">[<a href="/songs/Jack Straw_183">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">15</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
-<tr valign="top"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">16</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Estimated Prophet</td><td>2/26/1977</td><td>6/28/1995</td><td align="center">390</td><td align="center">16</td><td align="center">[<a href="/songs/Estimated Prophet_117">ETP</a>]</td></tr>
-<tr valign="top"><td>Terrapin Station</td><td>2/26/1977</td><td>7/8/1995</td><td align="center">302</td><td align="center">17</td><td align="center">[<a href="/songs/Terrapin Station_356">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">73</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>I Will Take You Home</td><td>6/22/1988</td><td>7/14/1990</td><td align="center">34</td><td align="center">19</td><td align="center">[<a href="/songs/I Will Take You Home_353">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">20</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
-<tr valign="top"><td>Standing on the Moon</td><td>2/5/1989</td><td>6/30/1995</td><td align="center">75</td><td align="center">15</td><td align="center">[<a href="/songs/Standing on the Moon_296">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>One More Saturday Night</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">338</td><td align="center">7</td><td align="center">[<a href="/songs/One More Saturday Night_306">ETP</a>]</td></tr>
-<tr valign="top"><td>Baby Blue</td><td>1/7/1966</td><td>2/19/1995</td><td align="center">141</td><td align="center">9</td><td align="center">[<a href="/songs/Baby Blue_20">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Saturday, December 30, 1989
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Saturday, December 30, 1989
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1230">
+              <a href="/1989-12-30">12/30/1989 Oakland Coliseum Arena, Oakland, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1989-12-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Bertha &gt; Good Lovin &gt; Sugaree*, Walking Blues*, Jack A Roe*, Masterpiece*, West L. A.* &gt; Music*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Jack Straw &gt; China Cat* &gt; I Know You Rider*, Estimated* &gt; Terrapin* &gt; Drumz* &gt; Take You Home* &gt; Other One* &gt; SOTM* &gt; Saturday Night*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Baby Blue
+            </td>
+          </tr>
+          <tr>
+            <td>
+              *with Airto Moreira.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('89)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugaree
+          </td>
+          <td>
+            7/31/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            358
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugaree_342">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Walkin Blues
+          </td>
+          <td>
+            5/28/1982
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            138
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Walkin%20Blues_399">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Jack-A-Roe
+          </td>
+          <td>
+            5/13/1977
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            114
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Jack%20A%20Roe_182">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            When I Paint My Masterpiece
+          </td>
+          <td>
+            6/13/1987
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            144
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/When%20I%20Paint%20My%20Masterpiece_218">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            West L. A. Fadeaway
+          </td>
+          <td>
+            8/28/1982
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            140
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/West%20L.%20A.%20Fadeaway_411">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            The Music Never Stopped
+          </td>
+          <td>
+            8/13/1975
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            233
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/The%20Music%20Never%20Stopped_242">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            472
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Jack%20Straw_183">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            China Cat Sunflower
+          </td>
+          <td>
+            1/17/1968
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            553
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/China%20Cat%20Sunflower_66">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Know You Rider
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            550
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Know%20You%20Rider_172">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Estimated Prophet
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            390
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Estimated%20Prophet_117">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Terrapin Station
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            302
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Terrapin%20Station_356">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            73
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Will Take You Home
+          </td>
+          <td>
+            6/22/1988
+          </td>
+          <td>
+            7/14/1990
+          </td>
+          <td align="center">
+            34
+          </td>
+          <td align="center">
+            19
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Will%20Take%20You%20Home_353">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Other One
+          </td>
+          <td>
+            10/22/1967
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Other%20One_262">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Standing on the Moon
+          </td>
+          <td>
+            2/5/1989
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            75
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Standing%20on%20the%20Moon_296">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            One More Saturday Night
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            338
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/One%20More%20Saturday%20Night_306">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Baby Blue
+          </td>
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            2/19/1995
+          </td>
+          <td align="center">
+            141
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Baby%20Blue_20">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

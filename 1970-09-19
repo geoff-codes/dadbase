@@ -1,46 +1,445 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Saturday, September 19, 1970</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Saturday, September 19, 1970</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0919"></a><a href="/1970-09-19">9/19/1970 Fillmore East, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-09-19*">Listen/Download</a>]<tr><td>I: Don’t Ease <span class="setlist_small">@</span>, Candyman <span class="setlist_small">@</span>, Silver Threads <span class="setlist_small">@</span>, FOTD <span class="setlist_small">@</span>, Deep Elem <span class="setlist_small">@</span>, The Rub <span class="setlist_small">@</span>, Rosalie McFall <span class="setlist_small">@</span>, Cumberland Blues <span class="setlist_small">@</span>, New Speedway <span class="setlist_small">@</span>, To Lay Me Down <span class="setlist_small">@</span>, Cold Jordan <span class="setlist_small">@</span> >Swing Low <span class="setlist_small">@</span></td></tr>
-<tr><td>II: Morning Dew, Me  and  My Uncle, Schoolgirl, Cold Rain, Easy Wind, Sugar Magnolia, Dark Star > St. Stephen > NFA > Darkness Jam > China Cat Jam > NFA > Lovelight</td></tr>
-<tr class="notes"><td>Next ''Schoolgirl'' 8/22/1987 [1114 shows]</i></td></tr>
-<tr class="notes"><td>Also: NRPS. Final PigPen "Schoolgirl." @acoustic.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('70)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Candyman</td><td>4/3/1970</td><td>6/30/1995</td><td align="center">276</td><td align="center">42</td><td align="center">[<a href="/songs/Candyman_57">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Silver Threads</td><td>5/19/1966</td><td>7/9/1970</td><td align="center">17</td><td align="center">9</td><td align="center">[<a href="/songs/Silver Threads_320">ETP</a>]</td></tr>
-<tr valign="top"><td>Friend Of The Devil</td><td>3/20/1970</td><td>6/24/1995</td><td align="center">303</td><td align="center">35</td><td align="center">[<a href="/songs/Friend Of The Devil_121">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Deep Elem Blues</td><td>12/1/1966</td><td>9/24/1983</td><td align="center">44</td><td align="center">27</td><td align="center">[<a href="/songs/Deep Elem Blues_96">ETP</a>]</td></tr>
-<tr valign="top"><td>The Rub</td><td>4/18/1970</td><td>12/1/1971</td><td align="center">12</td><td align="center">6</td><td align="center">[<a href="/songs/The Rub_367">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Rosalie McFall</td><td>7/11/1970</td><td>10/27/1980</td><td align="center">15</td><td align="center">7</td><td align="center">[<a href="/songs/Rosalie McFall_292">ETP</a>]</td></tr>
-<tr valign="top"><td>New Speedway Boogie</td><td>12/20/1969</td><td>7/2/1995</td><td align="center">55</td><td align="center">21</td><td align="center">[<a href="/songs/New Speedway Boogie_251">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>To Lay Me Down</td><td>7/30/1970</td><td>6/28/1992</td><td align="center">62</td><td align="center">3</td><td align="center">[<a href="/songs/To Lay Me Down_375">ETP</a>]</td></tr>
-<tr valign="top"><td>Cold Jordan</td><td>6/20/1969</td><td>8/19/1970</td><td align="center">11</td><td align="center">10</td><td align="center">[<a href="/songs/Cold Jordan_74">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Morning Dew</td><td>1/14/1967</td><td>6/21/1995</td><td align="center">254</td><td align="center">21</td><td align="center">[<a href="/songs/Morning Dew_236">ETP</a>]</td></tr>
-<tr valign="top"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">66</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Morning Little Schoolgirl</td><td>11/30/1999</td><td>6/28/1995</td><td align="center">62</td><td align="center">4</td><td align="center">[<a href="/songs/Good Morning Little Schoolgirl_309">ETP</a>]</td></tr>
-<tr valign="top"><td>Cold Rain And Snow</td><td>2/25/1966</td><td>6/19/1995</td><td align="center">240</td><td align="center">41</td><td align="center">[<a href="/songs/Cold Rain And Snow_75">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Easy Wind</td><td>8/21/1969</td><td>4/4/1971</td><td align="center">44</td><td align="center">25</td><td align="center">[<a href="/songs/Easy Wind_112">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">23</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Dark Star</td><td>12/13/1967</td><td>3/30/1994</td><td align="center">219</td><td align="center">22</td><td align="center">[<a href="/songs/Dark Star_87">ETP</a>]</td></tr>
-<tr valign="top"><td>St. Stephen</td><td>5/24/1968</td><td>10/31/1983</td><td align="center">165</td><td align="center">38</td><td align="center">[<a href="/songs/St. Stephen_331">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">49</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-<tr valign="top"><td>Turn On Your Lovelight</td><td>8/5/1967</td><td>6/19/1995</td><td align="center">341</td><td align="center">48</td><td align="center">[<a href="/songs/Turn On Your Lovelight_210">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Saturday, September 19, 1970
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Saturday, September 19, 1970
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0919">
+              <a href="/1970-09-19">9/19/1970 Fillmore East, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1970-09-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Donï¿½t Ease @, Candyman @, Silver Threads @, FOTD @, Deep Elem @, The Rub @, Rosalie McFall @, Cumberland Blues @, New Speedway @, To Lay Me Down @, Cold Jordan @ &gt;Swing Low @
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Morning Dew, Me and My Uncle, Schoolgirl, Cold Rain, Easy Wind, Sugar Magnolia, Dark Star &gt; St. Stephen &gt; NFA &gt; Darkness Jam &gt; China Cat Jam &gt; NFA &gt; Lovelight
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Next ''Schoolgirl'' 8/22/1987 [1114 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: NRPS. Final PigPen "Schoolgirl." @acoustic.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('70)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Candyman
+          </td>
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            276
+          </td>
+          <td align="center">
+            42
+          </td>
+          <td align="center">
+            [<a href="/songs/Candyman_57">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Silver Threads
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            7/9/1970
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Silver%20Threads_320">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Friend Of The Devil
+          </td>
+          <td>
+            3/20/1970
+          </td>
+          <td>
+            6/24/1995
+          </td>
+          <td align="center">
+            303
+          </td>
+          <td align="center">
+            35
+          </td>
+          <td align="center">
+            [<a href="/songs/Friend%20Of%20The%20Devil_121">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Deep Elem Blues
+          </td>
+          <td>
+            12/1/1966
+          </td>
+          <td>
+            9/24/1983
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td align="center">
+            [<a href="/songs/Deep%20Elem%20Blues_96">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            The Rub
+          </td>
+          <td>
+            4/18/1970
+          </td>
+          <td>
+            12/1/1971
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/The%20Rub_367">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Rosalie McFall
+          </td>
+          <td>
+            7/11/1970
+          </td>
+          <td>
+            10/27/1980
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Rosalie%20McFall_292">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            New Speedway Boogie
+          </td>
+          <td>
+            12/20/1969
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            55
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/New%20Speedway%20Boogie_251">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            7/30/1970
+          </td>
+          <td>
+            6/28/1992
+          </td>
+          <td align="center">
+            62
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/To%20Lay%20Me%20Down_375">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cold Jordan
+          </td>
+          <td>
+            6/20/1969
+          </td>
+          <td>
+            8/19/1970
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Cold%20Jordan_74">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Morning Dew
+          </td>
+          <td>
+            1/14/1967
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            254
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Morning%20Dew_236">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Me And My Uncle
+          </td>
+          <td>
+            11/29/1966
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            613
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            [<a href="/songs/Me%20And%20My%20Uncle_221">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Morning Little Schoolgirl
+          </td>
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            62
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Morning%20Little%20Schoolgirl_309">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cold Rain And Snow
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            6/19/1995
+          </td>
+          <td align="center">
+            240
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            [<a href="/songs/Cold%20Rain%20And%20Snow_75">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Easy Wind
+          </td>
+          <td>
+            8/21/1969
+          </td>
+          <td>
+            4/4/1971
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Easy%20Wind_112">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dark Star
+          </td>
+          <td>
+            12/13/1967
+          </td>
+          <td>
+            3/30/1994
+          </td>
+          <td align="center">
+            219
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Dark%20Star_87">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            St. Stephen
+          </td>
+          <td>
+            5/24/1968
+          </td>
+          <td>
+            10/31/1983
+          </td>
+          <td align="center">
+            165
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td align="center">
+            [<a href="/songs/St.%20Stephen_331">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            49
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Turn On Your Lovelight
+          </td>
+          <td>
+            8/5/1967
+          </td>
+          <td>
+            6/19/1995
+          </td>
+          <td align="center">
+            341
+          </td>
+          <td align="center">
+            48
+          </td>
+          <td align="center">
+            [<a href="/songs/Turn%20On%20Your%20Lovelight_210">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

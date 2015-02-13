@@ -1,40 +1,433 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Silver Threads</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Silver Threads</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>5/19/1966</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>Tastebud</td><td>Baby Blue</td><td align="center">40</td><td>[<a href="/1966-05-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/26/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">*</td><td>Minglewood</td><td>Baby Blue</td><td align="center">364</td><td>[<a href="/1969-04-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/11/1969</td><td>San Francisco, CA (California Hall)</td><td align="center">SI</td><td>Let It Be Me</td><td>Mama Tried</td><td align="center">21</td><td>[<a href="/1969-06-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/22/1969</td><td>New York, NY (Central Park)</td><td align="center">*</td><td>Top of the Worl</td><td>Me and My Uncle</td><td align="center">7</td><td>[<a href="/1969-06-22">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/28/1969</td><td>Santa Rosa, CA (Veterans Auditorium)</td><td align="center">*</td><td>Slewfoot</td><td>Mama Tried</td><td align="center">2</td><td>[<a href="/1969-06-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/4/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">*</td><td>Slewfoot</td><td>Cryptical</td><td align="center">3</td><td>[<a href="/1969-07-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/11/1969</td><td>Queens, NY (NY State Pavilion, Flushing Meadow...)</td><td align="center">*</td><td>Hard To Handle</td><td>Casey Jones</td><td align="center">6</td><td>[<a href="/1969-07-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/31/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SII</td><td>Race Is On</td><td>Slewfoot</td><td align="center">54</td><td>[<a href="/1969-12-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/18/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Don't Ease</td><td>FOTD</td><td align="center">50</td><td>[<a href="/1970-04-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/14/1970</td><td>Kirkwood, MO (Merramec Community College)</td><td align="center">SI</td><td>Deep Elem</td><td>Candyman</td><td align="center">13</td><td>[<a href="/1970-05-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/15/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Ballad Of Casey</td><td>Black Peter</td><td align="center">2</td><td>[<a href="/1970-05-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/4/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Candyman</td><td>FOTD</td><td align="center">5</td><td>[<a href="/1970-06-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/5/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>I Know You Ride</td><td>FOTD</td><td align="center">1</td><td>[<a href="/1970-06-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/7/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Don't Ease</td><td>FOTD</td><td align="center">2</td><td>[<a href="/1970-06-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/24/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>The Rub</td><td>FOTD</td><td align="center">6</td><td>[<a href="/1970-06-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/9/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cumberland</td><td align="center">6</td><td>[<a href="/1970-07-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/27/1970</td><td>Pasadena, CA (KPPC Studios)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Cold Jordan</td><td align="center">2142</td><td>[<a href="/1970-12-27">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Silver Threads
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Silver Threads
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Tastebud
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td align="center">
+            40
+          </td>
+          <td>
+            [<a href="/1966-05-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/26/1969
+          </td>
+          <td>
+            Chicago, IL (Electric Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td align="center">
+            364
+          </td>
+          <td>
+            [<a href="/1969-04-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            San Francisco, CA (California Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Let It Be Me
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td>
+            [<a href="/1969-06-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/22/1969
+          </td>
+          <td>
+            New York, NY (Central Park)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Top of the Worl
+          </td>
+          <td>
+            Me and My Uncle
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1969-06-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/28/1969
+          </td>
+          <td>
+            Santa Rosa, CA (Veterans Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-06-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/4/1969
+          </td>
+          <td>
+            Chicago, IL (Electric Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-07-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/11/1969
+          </td>
+          <td>
+            Queens, NY (NY State Pavilion, Flushing Meadow...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Hard To Handle
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1969-07-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1969
+          </td>
+          <td>
+            Boston, MA (Boston Tea Party)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Race Is On
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td align="center">
+            54
+          </td>
+          <td>
+            [<a href="/1969-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1970
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td>
+            [<a href="/1970-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/14/1970
+          </td>
+          <td>
+            Kirkwood, MO (Merramec Community College)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Deep Elem
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1970-05-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/15/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ballad Of Casey
+          </td>
+          <td>
+            Black Peter
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-05-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/4/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1970-06-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/5/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1970-06-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-06-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/24/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            The Rub
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-06-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/9/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-07-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/27/1970
+          </td>
+          <td>
+            Pasadena, CA (KPPC Studios)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Cold Jordan
+          </td>
+          <td align="center">
+            2142
+          </td>
+          <td>
+            [<a href="/1970-12-27">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

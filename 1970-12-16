@@ -1,27 +1,95 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Wednesday, December 16, 1970</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Wednesday, December 16, 1970</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1216"></a><a href="/1970-12-16">12/16/1970 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-12-16*">Listen/Download</a>]<tr><td>Drop Down Mama, Cowboy Movie, Triad, Wall Song, Bertha, Deep Elem, Motherless Children, Laughing</td></tr>
-<tr class="notes"><td>Billed as Jerry Garcia & Friends: David Crosby with Garcia, Lesh, and Hart. Soundcheck: Alabama Bound, Eight Miles High, Cowboy Movie, Wall Song, Bertha, Bird Song. The soundcheck had to have taken place no earlier than this date, since the band can be heard talking about what happened the night before. The live segment happened after the soundcheck, since Bertha sounds considerably more together. This is probably from the 16th but could have taken place the 17th, or the soundcheck could be from the 16th and the live segment from the 17th.  </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('70)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">0</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Deep Elem Blues</td><td>12/1/1966</td><td>9/24/1983</td><td align="center">44</td><td align="center">27</td><td align="center">[<a href="/songs/Deep Elem Blues_96">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Wednesday, December 16, 1970
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Wednesday, December 16, 1970
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1216">
+              <a href="/1970-12-16">12/16/1970 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1970-12-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Drop Down Mama, Cowboy Movie, Triad, Wall Song, Bertha, Deep Elem, Motherless Children, Laughing
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Billed as Jerry Garcia & Friends: David Crosby with Garcia, Lesh, and Hart. Soundcheck: Alabama Bound, Eight Miles High, Cowboy Movie, Wall Song, Bertha, Bird Song. The soundcheck had to have taken place no earlier than this date, since the band can be heard talking about what happened the night before. The live segment happened after the soundcheck, since Bertha sounds considerably more together. This is probably from the 16th but could have taken place the 17th, or the soundcheck could be from the 16th and the live segment from the 17th.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('70)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            0
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Deep Elem Blues
+          </td>
+          <td>
+            12/1/1966
+          </td>
+          <td>
+            9/24/1983
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td align="center">
+            [<a href="/songs/Deep%20Elem%20Blues_96">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

@@ -1,30 +1,203 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Green Green Grass</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Green Green Grass</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>5/31/1969</td><td>Eugene, OR (McArthur Court, University of Oreg...)</td><td align="center">SI</td><td>Cold Rain</td><td>Me  and  My Unc</td><td align="center">420</td><td>[<a href="/1969-05-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/6/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Smokestack</td><td>Me  and  My Unc</td><td align="center">2</td><td>[<a href="/1969-06-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/11/1969</td><td>San Francisco, CA (California Hall)</td><td align="center">SI</td><td>Race Is On</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1969-06-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/21/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Me  and  My Unc</td><td align="center">5</td><td>[<a href="/1969-06-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/27/1969</td><td>Santa Rosa, CA (Veterans Auditorium)</td><td align="center">*</td><td>The Eleven Jam</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1969-06-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/3/1969</td><td>Colorado Springs, CO (Reed's Ranch)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Slewfoot</td><td align="center">3</td><td>[<a href="/1969-07-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/12/1969</td><td>Queens, NY (NY State Pavilion, Flushing Meadow...)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Slewfoot</td><td align="center">8</td><td>[<a href="/1969-07-12">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Green Green Grass
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Green Green Grass
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/31/1969
+          </td>
+          <td>
+            Eugene, OR (McArthur Court, University of Oreg...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            420
+          </td>
+          <td>
+            [<a href="/1969-05-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/6/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Smokestack
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-06-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            San Francisco, CA (California Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Race Is On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-06-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1969-06-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/27/1969
+          </td>
+          <td>
+            Santa Rosa, CA (Veterans Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            The Eleven Jam
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-06-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/3/1969
+          </td>
+          <td>
+            Colorado Springs, CO (Reed's Ranch)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-07-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1969
+          </td>
+          <td>
+            Queens, NY (NY State Pavilion, Flushing Meadow...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1969-07-12">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

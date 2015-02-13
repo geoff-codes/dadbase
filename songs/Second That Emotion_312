@@ -1,30 +1,203 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Second That Emotion</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Second That Emotion</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>4/8/1971</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>BIODTL</td><td>Sugar Magnolia</td><td align="center">663</td><td>[<a href="/1971-04-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/13/1971</td><td>Scranton, PA (Catholic Youth Center)</td><td align="center">SII</td><td>Good Lovin�</td><td>Greatest</td><td align="center">3</td><td>[<a href="/1971-04-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/14/1971</td><td>Lewisburg, PA (Bucknell University)</td><td align="center">SI</td><td>I Know You Ride</td><td>Casey Jones</td><td align="center">1</td><td>[<a href="/1971-04-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/15/1971</td><td>Meadville, PA (Allegheny College)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Truckin</td><td align="center">1</td><td>[<a href="/1971-04-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/18/1971</td><td>Cortland, NY (Lusk Field House, S.U.C.N.Y.)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Truckin</td><td align="center">2</td><td>[<a href="/1971-04-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/29/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>BIODTL</td><td>Alligator </td><td align="center">8</td><td>[<a href="/1971-04-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/13/1989</td><td>New York, NY (NBC Studios)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2146</td><td>[<a href="/1989-10-13">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Second That Emotion
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Second That Emotion
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/8/1971
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            663
+          </td>
+          <td>
+            [<a href="/1971-04-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/13/1971
+          </td>
+          <td>
+            Scranton, PA (Catholic Youth Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Good Lovin�
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1971-04-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/14/1971
+          </td>
+          <td>
+            Lewisburg, PA (Bucknell University)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/15/1971
+          </td>
+          <td>
+            Meadville, PA (Allegheny College)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1971
+          </td>
+          <td>
+            Cortland, NY (Lusk Field House, S.U.C.N.Y.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1971-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/29/1971
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Alligator
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1971-04-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/13/1989
+          </td>
+          <td>
+            New York, NY (NBC Studios)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2146
+          </td>
+          <td>
+            [<a href="/1989-10-13">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

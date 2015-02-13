@@ -1,49 +1,520 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, December 28, 1981</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, December 28, 1981</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1981-12-28">12/28/1981 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1981-12-28*">Listen/Download</a>]<tr><td>I: Bertha > Greatest, Peggy-O > El Paso, Loser, Mama Tried > Mexicali, Tennessee Jed > BIODTL, Good Times, Sailor > Saint</td></tr>
-<tr><td>II: China Cat > I Know You Rider, Woman Smarter, Ship Of Fools, Eyes > Drumz > Other One > Stella Blue > Around > Good Lovin</td></tr>
-<tr><td>E: U. S. Blues</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('81)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">15</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Greatest Story Ever Told</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">280</td><td align="center">20</td><td align="center">[<a href="/songs/Greatest Story Ever Told_140">ETP</a>]</td></tr>
-<tr valign="top"><td>Peggy-O</td><td>12/10/1973</td><td>7/5/1995</td><td align="center">265</td><td align="center">21</td><td align="center">[<a href="/songs/Peggy O_267">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>El Paso</td><td>7/14/1970</td><td>7/5/1995</td><td align="center">387</td><td align="center">22</td><td align="center">[<a href="/songs/El Paso_114">ETP</a>]</td></tr>
-<tr valign="top"><td>Loser</td><td>2/18/1971</td><td>6/28/1995</td><td align="center">344</td><td align="center">14</td><td align="center">[<a href="/songs/Loser_207">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Mama Tried</td><td>6/11/1969</td><td>6/25/1995</td><td align="center">301</td><td align="center">21</td><td align="center">[<a href="/songs/Mama Tried_215">ETP</a>]</td></tr>
-<tr valign="top"><td>Mexicali Blues</td><td>10/19/1971</td><td>6/25/1995</td><td align="center">435</td><td align="center">26</td><td align="center">[<a href="/songs/Mexicali Blues_223">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Tennessee Jed</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">433</td><td align="center">17</td><td align="center">[<a href="/songs/Tennessee Jed_355">ETP</a>]</td></tr>
-<tr valign="top"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">15</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Times</td><td>8/28/1981</td><td>7/23/1990</td><td align="center">42</td><td align="center">10</td><td align="center">[<a href="/songs/Good Times_138">ETP</a>]</td></tr>
-<tr valign="top"><td>Lost Sailor</td><td>8/4/1979</td><td>3/24/1986</td><td align="center">145</td><td align="center">37</td><td align="center">[<a href="/songs/Lost Sailor_299">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Saint Of Circumstance</td><td>8/31/1979</td><td>7/8/1995</td><td align="center">222</td><td align="center">38</td><td align="center">[<a href="/songs/Saint Of Circumstance_300">ETP</a>]</td></tr>
-<tr valign="top"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">24</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">24</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
-<tr valign="top"><td>Woman Are Smarter</td><td>7/2/1981</td><td>6/21/1995</td><td align="center">199</td><td align="center">12</td><td align="center">[<a href="/songs/Woman Are Smarter_419">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Ship Of Fools</td><td>2/22/1974</td><td>6/25/1995</td><td align="center">224</td><td align="center">16</td><td align="center">[<a href="/songs/Ship Of Fools_316">ETP</a>]</td></tr>
-<tr valign="top"><td>Eyes Of The World</td><td>2/9/1973</td><td>7/6/1995</td><td align="center">382</td><td align="center">23</td><td align="center">[<a href="/songs/Eyes Of The World_120">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">80</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">25</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Stella Blue</td><td>6/17/1972</td><td>7/6/1995</td><td align="center">328</td><td align="center">21</td><td align="center">[<a href="/songs/Stella Blue_337">ETP</a>]</td></tr>
-<tr valign="top"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">31</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">28</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top"><td>U. S. Blues</td><td>2/22/1974</td><td>7/8/1995</td><td align="center">321</td><td align="center">26</td><td align="center">[<a href="/songs/U. S. Blues_385">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, December 28, 1981
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, December 28, 1981
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1228">
+              <a href="/1981-12-28">12/28/1981 Oakland Auditorium Arena, Oakland, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1981-12-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Bertha &gt; Greatest, Peggy-O &gt; El Paso, Loser, Mama Tried &gt; Mexicali, Tennessee Jed &gt; BIODTL, Good Times, Sailor &gt; Saint
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: China Cat &gt; I Know You Rider, Woman Smarter, Ship Of Fools, Eyes &gt; Drumz &gt; Other One &gt; Stella Blue &gt; Around &gt; Good Lovin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: U. S. Blues
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('81)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Greatest Story Ever Told
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            280
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Greatest%20Story%20Ever%20Told_140">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            12/10/1973
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            265
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Peggy%20O_267">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            El Paso
+          </td>
+          <td>
+            7/14/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            387
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/El%20Paso_114">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Loser
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            344
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Loser_207">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mama Tried
+          </td>
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            301
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Mama%20Tried_215">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mexicali Blues
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            435
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/Mexicali%20Blues_223">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            433
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Tennessee%20Jed_355">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Times
+          </td>
+          <td>
+            8/28/1981
+          </td>
+          <td>
+            7/23/1990
+          </td>
+          <td align="center">
+            42
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Times_138">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Lost Sailor
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            3/24/1986
+          </td>
+          <td align="center">
+            145
+          </td>
+          <td align="center">
+            37
+          </td>
+          <td align="center">
+            [<a href="/songs/Lost%20Sailor_299">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Saint Of Circumstance
+          </td>
+          <td>
+            8/31/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            222
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td align="center">
+            [<a href="/songs/Saint%20Of%20Circumstance_300">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            China Cat Sunflower
+          </td>
+          <td>
+            1/17/1968
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            553
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/China%20Cat%20Sunflower_66">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Know You Rider
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            550
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Know%20You%20Rider_172">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Woman Are Smarter
+          </td>
+          <td>
+            7/2/1981
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            199
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Woman%20Are%20Smarter_419">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            224
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Ship%20Of%20Fools_316">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Eyes Of The World
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            382
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Eyes%20Of%20The%20World_120">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            80
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Other One
+          </td>
+          <td>
+            10/22/1967
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Other%20One_262">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Stella Blue
+          </td>
+          <td>
+            6/17/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            328
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Stella%20Blue_337">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            28
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            U. S. Blues
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            321
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/U.%20S.%20Blues_385">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

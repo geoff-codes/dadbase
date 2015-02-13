@@ -1,29 +1,120 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sunday, August 6, 1967</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sunday, August 6, 1967</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0806"></a><a href="/1967-08-06">8/6/1967 Place Ville Marie, Montreal, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-06*">Listen/Download</a>]<tr><td>Viola Lee Blues, Alligator, Dancin</td></tr>
-<tr class="notes"><td>Previous ''Dancin'' 3/18/1967 [59 shows]</i></td></tr>
-<tr class="notes"><td>List incomplete and order uncertain.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('67)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Viola Lee Blues</td><td>3/12/1966</td><td>10/31/1970</td><td align="center">32</td><td align="center">10</td><td align="center">[<a href="/songs/Viola Lee Blues_392">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Alligator</td><td>6/6/1967</td><td>4/29/1971</td><td align="center">63</td><td align="center">12</td><td align="center">[<a href="/songs/Alligator_11">ETP</a>]</td></tr>
-<tr valign="top"><td>Dancin In The Streets</td><td>7/3/1966</td><td>4/6/1987</td><td align="center">123</td><td align="center">3</td><td align="center">[<a href="/songs/Dancin In The Streets_85">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sunday, August 6, 1967
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sunday, August 6, 1967
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0806">
+              <a href="/1967-08-06">8/6/1967 Place Ville Marie, Montreal, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Alligator, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Dancin'' 3/18/1967 [59 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              List incomplete and order uncertain.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('67)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Viola Lee Blues
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/31/1970
+          </td>
+          <td align="center">
+            32
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Viola%20Lee%20Blues_392">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Alligator
+          </td>
+          <td>
+            6/6/1967
+          </td>
+          <td>
+            4/29/1971
+          </td>
+          <td align="center">
+            63
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Alligator_11">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dancin In The Streets
+          </td>
+          <td>
+            7/3/1966
+          </td>
+          <td>
+            4/6/1987
+          </td>
+          <td align="center">
+            123
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Dancin%20In%20The%20Streets_85">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

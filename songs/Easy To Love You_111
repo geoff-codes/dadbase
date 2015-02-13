@@ -1,69 +1,1108 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Easy To Love You</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Easy To Love You</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>11/30/1999</td><td>San Rafael, CA (Le Club Front)</td><td align="center">*</td><td>&mdash;&mdash;<br>Sailor<br>Stranger x2</td><td>Sailor<br>Althea<br>Alabama</td><td align="center">2790</td><td>[<a href="/0000-00-00">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/14/1979</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Passenger</td><td align="center">-1648</td><td>[<a href="/1979-08-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/31/1979</td><td>Glens Falls, NY (Glens Falls Civic Center)</td><td align="center">SI</td><td>Peggy-O</td><td>Minglewood</td><td align="center">1</td><td>[<a href="/1979-08-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/6/1979</td><td>New York, NY (Madison Square Garden)</td><td align="center">SII</td><td>I Know You Ride</td><td>Ramble On</td><td align="center">5</td><td>[<a href="/1979-09-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/24/1979</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SI</td><td>Dire Wolf</td><td>Sailor</td><td align="center">1</td><td>[<a href="/1979-10-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/27/1979</td><td>South Yarmouth, MA (Cape Cod Coliseum)</td><td align="center">SI</td><td>B. E. Women</td><td>Minglewood</td><td align="center">2</td><td>[<a href="/1979-10-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/1/1979</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Don't Ease</td><td>Promised</td><td align="center">3</td><td>[<a href="/1979-11-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/4/1979</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>Althea</td><td>B. E. Women</td><td align="center">2</td><td>[<a href="/1979-11-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/5/1979</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Althea</td><td>Eyes</td><td align="center">1</td><td>[<a href="/1979-11-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/6/1979</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Candyman</td><td>L. L. Rain</td><td align="center">1</td><td>[<a href="/1979-11-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/9/1979</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SI</td><td>Althea</td><td>Jack Straw</td><td align="center">2</td><td>[<a href="/1979-11-09">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/23/1979</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SI</td><td>Stagger Lee</td><td>L. L. Rain</td><td align="center">2</td><td>[<a href="/1979-11-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/24/1979</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SI</td><td>Cassidy</td><td>Althea</td><td align="center">1</td><td>[<a href="/1979-11-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/25/1979</td><td>Los Angeles, CA (Pauley Pavilion, U.C.L.A.)</td><td align="center">SI</td><td>Minglewood</td><td>Althea</td><td align="center">1</td><td>[<a href="/1979-11-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/29/1979</td><td>Cleveland, OH (Cleveland Public Hall)</td><td align="center">SI</td><td>Minglewood</td><td>B. E. Women</td><td align="center">1</td><td>[<a href="/1979-11-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/30/1979</td><td>Pittsburgh, PA (Stanley Theatre)</td><td align="center">SI</td><td>FOTD</td><td>El Paso</td><td align="center">1</td><td>[<a href="/1979-11-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/1/1979</td><td>Pittsburgh, PA (Stanley Theatre)</td><td align="center">SI</td><td>Loser</td><td>Minglewood</td><td align="center">1</td><td>[<a href="/1979-12-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/5/1979</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Cold Rain</td><td>Althea</td><td align="center">3</td><td>[<a href="/1979-12-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/7/1979</td><td>Indianapolis, IN (Indiana Convention Center)</td><td align="center">SI</td><td>Big RxR Blues</td><td>All Over Now</td><td align="center">1</td><td>[<a href="/1979-12-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/9/1979</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">SII</td><td>High Time</td><td>Terrapin</td><td align="center">1</td><td>[<a href="/1979-12-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/10/1979</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SII</td><td>Fire</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1979-12-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/11/1979</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SI</td><td>Althea</td><td>Minglewood</td><td align="center">1</td><td>[<a href="/1979-12-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/1/1980</td><td>Greensboro, NC (Greensboro Coliseum)</td><td align="center">SI</td><td>Althea</td><td>Minglewood</td><td align="center">12</td><td>[<a href="/1980-05-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/4/1980</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SI</td><td>El Paso</td><td>B. E. Women</td><td align="center">2</td><td>[<a href="/1980-05-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/7/1980</td><td>Ithaca, NY (Barton Hall, Cornell University)</td><td align="center">SI</td><td>El Paso</td><td>Althea</td><td align="center">2</td><td>[<a href="/1980-05-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/11/1980</td><td>Portland, ME (Cumberland County Civic Center)</td><td align="center">SI</td><td>All Over Now</td><td>Big RxR Blues</td><td align="center">3</td><td>[<a href="/1980-05-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/14/1980</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Althea</td><td>Music</td><td align="center">2</td><td>[<a href="/1980-05-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/30/1980</td><td>Milwaukee, WI (Milwaukee Auditorium)</td><td align="center">SI</td><td>Passenger</td><td>Althea</td><td align="center">4</td><td>[<a href="/1980-05-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/5/1980</td><td>Tempe, AZ (Compton Terrace Amphitheatre)</td><td align="center">SI</td><td>L. L. Rain</td><td>Althea</td><td align="center">2</td><td>[<a href="/1980-06-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/8/1980</td><td>Boulder, CO (Folsom Field, University of Color...)</td><td align="center">SI</td><td>Samson</td><td>Althea</td><td align="center">2</td><td>[<a href="/1980-06-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/20/1980</td><td>Anchorage, AK (West High Auditorium)</td><td align="center">SI</td><td>Althea</td><td>Sailor</td><td align="center">5</td><td>[<a href="/1980-06-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/29/1980</td><td>Los Angeles, CA (Pauley Pavilion, U.C.L.A.)</td><td align="center">SI</td><td>L. L. Rain</td><td>Big RxR Blues</td><td align="center">2</td><td>[<a href="/1980-06-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/16/1980</td><td>Edwardsville, IL (Mississippi River Festival)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Minglewood</td><td align="center">2</td><td>[<a href="/1980-08-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/19/1980</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Althea</td><td>Stranger</td><td align="center">2</td><td>[<a href="/1980-08-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/21/1980</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>All Over Now</td><td>Shakedown</td><td align="center">2</td><td>[<a href="/1980-08-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/30/1980</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>L. L. Rain</td><td>Althea</td><td align="center">6</td><td>[<a href="/1980-08-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/3/1980</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SI</td><td>Candyman</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1980-09-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/15/1990</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Sugaree</td><td>Walking Blues </td><td align="center">673</td><td>[<a href="/1990-03-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/22/1990</td><td>Ontario, Canada (Copps Coliseum, Hamilton)</td><td align="center">SI</td><td>West L. A.</td><td>BIODTL</td><td align="center">5</td><td>[<a href="/1990-03-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/28/1990</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Minglewood</td><td>High Time</td><td align="center">4</td><td>[<a href="/1990-03-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/2/1990</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Queen Jane</td><td>B. E. Women</td><td align="center">4</td><td>[<a href="/1990-04-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/6/1990</td><td>Carson, CA (California State U. Dominguez Hills)</td><td align="center">SI</td><td>Stranger</td><td>West L. A.</td><td align="center">3</td><td>[<a href="/1990-05-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/8/1990</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Walking Blues</td><td>Jack A Roe</td><td align="center">1</td><td>[<a href="/1990-06-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/17/1990</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Jack A Roe</td><td>Queen Jane</td><td align="center">5</td><td>[<a href="/1990-06-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/6/1990</td><td>Louisville, KY (Cardinal Stadium)</td><td align="center">SI</td><td>Sugaree</td><td>Peggy-O</td><td align="center">4</td><td>[<a href="/1990-07-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/18/1990</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Minglewood</td><td>Peggy-O</td><td align="center">6</td><td>[<a href="/1990-07-18">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Easy To Love You
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Easy To Love You
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            San Rafael, CA (Le Club Front)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+            <br>
+            Sailor
+            <br>
+            Stranger x2
+          </td>
+          <td>
+            Sailor
+            <br>
+            Althea
+            <br>
+            Alabama
+          </td>
+          <td align="center">
+            2790
+          </td>
+          <td>
+            [<a href="/0000-00-00">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/14/1979
+          </td>
+          <td>
+            Denver, CO (McNichols Sports Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Passenger
+          </td>
+          <td align="center">
+            -1648
+          </td>
+          <td>
+            [<a href="/1979-08-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/31/1979
+          </td>
+          <td>
+            Glens Falls, NY (Glens Falls Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-08-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/6/1979
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1979-09-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/24/1979
+          </td>
+          <td>
+            Springfield, MA (Springfield Civic Center Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            Sailor
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-10-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/27/1979
+          </td>
+          <td>
+            South Yarmouth, MA (Cape Cod Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1979-10-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/1/1979
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            Promised
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1979-11-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/4/1979
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1979-11-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/5/1979
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-11-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/6/1979
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            L. L. Rain
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-11-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/9/1979
+          </td>
+          <td>
+            Buffalo, NY (War Memorial Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Jack Straw
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1979-11-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/23/1979
+          </td>
+          <td>
+            San Diego, CA (Golden Hall, Community Concourse)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td>
+            L. L. Rain
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1979-11-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/24/1979
+          </td>
+          <td>
+            San Diego, CA (Golden Hall, Community Concourse)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cassidy
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-11-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/25/1979
+          </td>
+          <td>
+            Los Angeles, CA (Pauley Pavilion, U.C.L.A.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-11-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/29/1979
+          </td>
+          <td>
+            Cleveland, OH (Cleveland Public Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-11-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1979
+          </td>
+          <td>
+            Pittsburgh, PA (Stanley Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-11-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/1/1979
+          </td>
+          <td>
+            Pittsburgh, PA (Stanley Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-12-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/5/1979
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1979-12-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/7/1979
+          </td>
+          <td>
+            Indianapolis, IN (Indiana Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            All Over Now
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-12-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/9/1979
+          </td>
+          <td>
+            St. Louis, MO (Kiel Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Terrapin
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-12-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/10/1979
+          </td>
+          <td>
+            Kansas City, KS (Soldiers and Sailors Memori...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Fire
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-12-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/11/1979
+          </td>
+          <td>
+            Kansas City, KS (Soldiers and Sailors Memori...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1979-12-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/1/1980
+          </td>
+          <td>
+            Greensboro, NC (Greensboro Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1980-05-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/4/1980
+          </td>
+          <td>
+            Baltimore, MD (Baltimore Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-05-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/7/1980
+          </td>
+          <td>
+            Ithaca, NY (Barton Hall, Cornell University)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-05-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/11/1980
+          </td>
+          <td>
+            Portland, ME (Cumberland County Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            All Over Now
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-05-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/14/1980
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Music
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-05-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/30/1980
+          </td>
+          <td>
+            Milwaukee, WI (Milwaukee Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Passenger
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1980-05-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/5/1980
+          </td>
+          <td>
+            Tempe, AZ (Compton Terrace Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            L. L. Rain
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-06-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/8/1980
+          </td>
+          <td>
+            Boulder, CO (Folsom Field, University of Color...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Samson
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-06-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/20/1980
+          </td>
+          <td>
+            Anchorage, AK (West High Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Sailor
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1980-06-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/29/1980
+          </td>
+          <td>
+            Los Angeles, CA (Pauley Pavilion, U.C.L.A.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            L. L. Rain
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-06-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/16/1980
+          </td>
+          <td>
+            Edwardsville, IL (Mississippi River Festival)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-08-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/19/1980
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Stranger
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-08-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/21/1980
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            All Over Now
+          </td>
+          <td>
+            Shakedown
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-08-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/30/1980
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            L. L. Rain
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1980-08-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/3/1980
+          </td>
+          <td>
+            Springfield, MA (Springfield Civic Center Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-09-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/15/1990
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Sugaree
+          </td>
+          <td>
+            Walking Blues
+          </td>
+          <td align="center">
+            673
+          </td>
+          <td>
+            [<a href="/1990-03-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/22/1990
+          </td>
+          <td>
+            Ontario, Canada (Copps Coliseum, Hamilton)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1990-03-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/28/1990
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td>
+            High Time
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1990-03-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/2/1990
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Queen Jane
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1990-04-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/6/1990
+          </td>
+          <td>
+            Carson, CA (California State U. Dominguez Hills)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Stranger
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1990-05-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/8/1990
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Walking Blues
+          </td>
+          <td>
+            Jack A Roe
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1990-06-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/17/1990
+          </td>
+          <td>
+            Mountain View, CA (Shoreline Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Jack A Roe
+          </td>
+          <td>
+            Queen Jane
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1990-06-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/6/1990
+          </td>
+          <td>
+            Louisville, KY (Cardinal Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Sugaree
+          </td>
+          <td>
+            Peggy-O
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1990-07-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/18/1990
+          </td>
+          <td>
+            Noblesville, IN (Deer Creek Music Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Minglewood
+          </td>
+          <td>
+            Peggy-O
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1990-07-18">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

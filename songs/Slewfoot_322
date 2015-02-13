@@ -1,32 +1,249 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Slewfoot</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Slewfoot</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>6/11/1969</td><td>San Francisco, CA (California Hall)</td><td align="center">SI</td><td>Me  and  My Unc</td><td>Dire Wolf</td><td align="center">425</td><td>[<a href="/1969-06-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/21/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Cryptical</td><td>Cosmic Charlie</td><td align="center">5</td><td>[<a href="/1969-06-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/27/1969</td><td>Santa Rosa, CA (Veterans Auditorium)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Mama Tried</td><td align="center">3</td><td>[<a href="/1969-06-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/28/1969</td><td>Santa Rosa, CA (Veterans Auditorium)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Silver Threads</td><td align="center">1</td><td>[<a href="/1969-06-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/3/1969</td><td>Colorado Springs, CO (Reed's Ranch)</td><td align="center">*</td><td>Green Green Gra</td><td>Top Of The Worl</td><td align="center">2</td><td>[<a href="/1969-07-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/4/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">*</td><td>Mama Tried</td><td>Silver Threads</td><td align="center">1</td><td>[<a href="/1969-07-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/12/1969</td><td>Queens, NY (NY State Pavilion, Flushing Meadow...)</td><td align="center">*</td><td>Green Green Gra</td><td>Mountains Of Th</td><td align="center">7</td><td>[<a href="/1969-07-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/2/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Seasons</td><td>Big Boss Man</td><td align="center">2</td><td>[<a href="/1969-08-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/31/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SII</td><td>Silver Threads</td><td>Dancin</td><td align="center">51</td><td>[<a href="/1969-12-31">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Slewfoot
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Slewfoot
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            San Francisco, CA (California Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            425
+          </td>
+          <td>
+            [<a href="/1969-06-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Cosmic Charlie
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1969-06-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/27/1969
+          </td>
+          <td>
+            Santa Rosa, CA (Veterans Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-06-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/28/1969
+          </td>
+          <td>
+            Santa Rosa, CA (Veterans Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Silver Threads
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-06-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/3/1969
+          </td>
+          <td>
+            Colorado Springs, CO (Reed's Ranch)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Green Green Gra
+          </td>
+          <td>
+            Top Of The Worl
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-07-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/4/1969
+          </td>
+          <td>
+            Chicago, IL (Electric Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td>
+            Silver Threads
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-07-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1969
+          </td>
+          <td>
+            Queens, NY (NY State Pavilion, Flushing Meadow...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Green Green Gra
+          </td>
+          <td>
+            Mountains Of Th
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1969-07-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/2/1969
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Seasons
+          </td>
+          <td>
+            Big Boss Man
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-08-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1969
+          </td>
+          <td>
+            Boston, MA (Boston Tea Party)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Silver Threads
+          </td>
+          <td>
+            Dancin
+          </td>
+          <td align="center">
+            51
+          </td>
+          <td>
+            [<a href="/1969-12-31">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

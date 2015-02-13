@@ -1,27 +1,134 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Standing On The Corner</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Standing On The Corner</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>11/30/1999</td><td>(unknown), CA ((unknown))</td><td align="center">*</td><td>Good Lovin</td><td>Cream Puff War</td><td align="center">2662</td><td>[<a href="/0000-00-00">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/19/1966</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>BIODTL</td><td>Mindbender</td><td align="center">-2622</td><td>[<a href="/1966-05-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/16/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">SI</td><td>Big Boss Man</td><td>BIODTL</td><td align="center">16</td><td>[<a href="/1966-07-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/30/1966</td><td>B.C., Canada (P.N.E. Garden Auditorium, Vancou...)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>I Know You Ride</td><td align="center">3</td><td>[<a href="/1966-07-30">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Standing On The Corner
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Standing On The Corner
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            (unknown), CA ((unknown))
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            Cream Puff War
+          </td>
+          <td align="center">
+            2662
+          </td>
+          <td>
+            [<a href="/0000-00-00">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Mindbender
+          </td>
+          <td align="center">
+            -2622
+          </td>
+          <td>
+            [<a href="/1966-05-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/16/1966
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big Boss Man
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td>
+            [<a href="/1966-07-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/30/1966
+          </td>
+          <td>
+            B.C., Canada (P.N.E. Garden Auditorium, Vancou...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1966-07-30">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

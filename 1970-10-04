@@ -1,37 +1,295 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sunday, October 4, 1970</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sunday, October 4, 1970</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1004"></a><a href="/1970-10-04">10/4/1970 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-10-04*">Listen/Download</a>]<tr><td>Truckin, Till The Morning Comes <span class="setlist_small">*</span>, Brokedown, Next Time, Cold Rain, China Cat > I Know You Rider, Good Lovin > Drums > Good Lovin, Sugar Magnolia, Casey Jones, Uncle John <span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>Also: Jefferson Airplane; QMS; Hot Tuna; NRPS. Janis Joplin died on this night. TV broadcast KQED  and  FM quadraphonic simulcast KQED-San Francisco  and  KSAN-San Francisco. *appears as an "American Beauty" bonus track in "The Golden Road (1965-1973)," the latter misdated as 12-23-70. On that date a compilation multitrack tape of material from 10-04 and 10-05-70 was made. "Cold Rain and Snow" from this night is often thus incorrectly dated as well.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('70)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">23</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Till The Morning Comes</td><td>9/18/1970</td><td>12/26/1970</td><td align="center">5</td><td align="center">5</td><td align="center">[<a href="/songs/Till The Morning Comes_374">ETP</a>]</td></tr>
-<tr valign="top"><td>Brokedown Palace</td><td>8/18/1970</td><td>6/25/1995</td><td align="center">215</td><td align="center">12</td><td align="center">[<a href="/songs/Brokedown Palace_49">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Next Time</td><td>2/25/1966</td><td>5/26/1972</td><td align="center">72</td><td align="center">9</td><td align="center">[<a href="/songs/Next Time_252">ETP</a>]</td></tr>
-<tr valign="top"><td>Cold Rain And Snow</td><td>2/25/1966</td><td>6/19/1995</td><td align="center">240</td><td align="center">41</td><td align="center">[<a href="/songs/Cold Rain And Snow_75">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">57</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
-<tr valign="top"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">65</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">67</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">52</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">23</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-<tr valign="top"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">66</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Uncle John's Band</td><td>12/4/1969</td><td>6/28/1995</td><td align="center">331</td><td align="center">58</td><td align="center">[<a href="/songs/Uncle John's Band_387">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sunday, October 4, 1970
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sunday, October 4, 1970
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1004">
+              <a href="/1970-10-04">10/4/1970 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1970-10-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Truckin, Till The Morning Comes *, Brokedown, Next Time, Cold Rain, China Cat &gt; I Know You Rider, Good Lovin &gt; Drums &gt; Good Lovin, Sugar Magnolia, Casey Jones, Uncle John *
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jefferson Airplane; QMS; Hot Tuna; NRPS. Janis Joplin died on this night. TV broadcast KQED and FM quadraphonic simulcast KQED-San Francisco and KSAN-San Francisco. *appears as an "American Beauty" bonus track in "The Golden Road (1965-1973)," the latter misdated as 12-23-70. On that date a compilation multitrack tape of material from 10-04 and 10-05-70 was made. "Cold Rain and Snow" from this night is often thus incorrectly dated as well.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('70)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Truckin
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            518
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Truckin_382">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Till The Morning Comes
+          </td>
+          <td>
+            9/18/1970
+          </td>
+          <td>
+            12/26/1970
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Till%20The%20Morning%20Comes_374">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brokedown Palace
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            215
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Brokedown%20Palace_49">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Next Time
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            5/26/1972
+          </td>
+          <td align="center">
+            72
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Next%20Time_252">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cold Rain And Snow
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            6/19/1995
+          </td>
+          <td align="center">
+            240
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            [<a href="/songs/Cold%20Rain%20And%20Snow_75">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            China Cat Sunflower
+          </td>
+          <td>
+            1/17/1968
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            553
+          </td>
+          <td align="center">
+            57
+          </td>
+          <td align="center">
+            [<a href="/songs/China%20Cat%20Sunflower_66">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Know You Rider
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            550
+          </td>
+          <td align="center">
+            65
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Know%20You%20Rider_172">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            67
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drums
+          </td>
+          <td>
+            6/14/1968
+          </td>
+          <td>
+            2/26/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            52
+          </td>
+          <td align="center">
+            [<a href="/songs/Drums_106">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            6/20/1969
+          </td>
+          <td>
+            3/27/1993
+          </td>
+          <td align="center">
+            313
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            [<a href="/songs/Casey%20Jones_59">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Uncle John's Band
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            331
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            [<a href="/songs/Uncle%20John's%20Band_387">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

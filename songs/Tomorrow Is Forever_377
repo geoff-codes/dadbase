@@ -1,32 +1,249 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Tomorrow Is Forever</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Tomorrow Is Forever</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>9/24/1972</td><td>Waterbury, CT (The Palace Theater)</td><td align="center">SII</td><td>Jack Straw</td><td>Me  and  My Unc</td><td align="center">776</td><td>[<a href="/1972-09-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1972</td><td>Jersey City, NJ (Stanley Theatre)</td><td align="center">SII</td><td>Greatest</td><td>Truckin</td><td align="center">1</td><td>[<a href="/1972-09-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/2/1972</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SII</td><td>I Know You Ride</td><td>Greatest</td><td align="center">4</td><td>[<a href="/1972-10-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/23/1972</td><td>Milwaukee, WI (Performing Arts Center)</td><td align="center">SII</td><td>Bobby McGee</td><td>Sugar Magnolia</td><td align="center">6</td><td>[<a href="/1972-10-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/27/1972</td><td>Columbus, OH (Veterans Memorial Auditorium)</td><td align="center">SII</td><td>Morning Dew</td><td>Promised</td><td align="center">3</td><td>[<a href="/1972-10-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1972</td><td>Detroit, MI (Ford Auditorium)</td><td align="center">SII</td><td>Promised</td><td>Around</td><td align="center">2</td><td>[<a href="/1972-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/13/1972</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SI</td><td>El Paso</td><td>Around</td><td align="center">2</td><td>[<a href="/1972-11-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/19/1972</td><td>Houston, TX (Hofheinz Pavilion)</td><td align="center">SI</td><td>Box Of Rain</td><td>Big River</td><td align="center">5</td><td>[<a href="/1972-11-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/11/1972</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Deal</td><td>Sugar Magnolia</td><td align="center">5</td><td>[<a href="/1972-12-11">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Tomorrow Is Forever
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Tomorrow Is Forever
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/24/1972
+          </td>
+          <td>
+            Waterbury, CT (The Palace Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            776
+          </td>
+          <td>
+            [<a href="/1972-09-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1972
+          </td>
+          <td>
+            Jersey City, NJ (Stanley Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1972-09-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/2/1972
+          </td>
+          <td>
+            Springfield, MA (Springfield Civic Center Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1972-10-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/23/1972
+          </td>
+          <td>
+            Milwaukee, WI (Performing Arts Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Bobby McGee
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1972-10-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/27/1972
+          </td>
+          <td>
+            Columbus, OH (Veterans Memorial Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Morning Dew
+          </td>
+          <td>
+            Promised
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1972-10-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1972
+          </td>
+          <td>
+            Detroit, MI (Ford Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Promised
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1972-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/13/1972
+          </td>
+          <td>
+            Kansas City, KS (Soldiers and Sailors Memori...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1972-11-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/19/1972
+          </td>
+          <td>
+            Houston, TX (Hofheinz Pavilion)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Box Of Rain
+          </td>
+          <td>
+            Big River
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1972-11-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/11/1972
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Deal
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1972-12-11">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

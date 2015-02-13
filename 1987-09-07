@@ -1,47 +1,465 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, September 7, 1987</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, September 7, 1987</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0907"></a><a href="/1987-09-07">9/7/1987 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1987-09-07*">Listen/Download</a>]<tr><td>I: Stranger > Franklin's, Walking Blues, Push, Esau, Roses, Far From Me, Let It Grow</td></tr>
-<tr><td>II: Iko Iko, Saint, Ship Of Fools, Uncle John > Playin Jam > Drumz > Truckin > Spoonful > Black Peter > Around > Good Lovin > La Bamba > Good Lovin</td></tr>
-<tr><td>E: Heaven's Door</td></tr>
-<tr class="notes"><td>First ''La Bamba''; Next ''Spoonful'' 4/12/1989 [124 shows]</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('87)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Feel Like A Stranger</td><td>3/31/1980</td><td>7/5/1995</td><td align="center">207</td><td align="center">14</td><td align="center">[<a href="/songs/Feel Like A Stranger_339">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">11</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
-<tr valign="top"><td>Walkin Blues</td><td>5/28/1982</td><td>7/2/1995</td><td align="center">138</td><td align="center">14</td><td align="center">[<a href="/songs/Walkin Blues_399">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>When Push Comes To Shove</td><td>12/15/1986</td><td>7/17/1989</td><td align="center">58</td><td align="center">32</td><td align="center">[<a href="/songs/When Push Comes To Shove_276">ETP</a>]</td></tr>
-<tr valign="top"><td>Brother Esau</td><td>3/25/1983</td><td>10/3/1987</td><td align="center">104</td><td align="center">19</td><td align="center">[<a href="/songs/Brother Esau_116">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>It Must've Been The Roses</td><td>2/22/1974</td><td>6/22/1995</td><td align="center">157</td><td align="center">7</td><td align="center">[<a href="/songs/It Must've Been The Roses_293">ETP</a>]</td></tr>
-<tr valign="top"><td>Far From Me</td><td>3/30/1980</td><td>7/22/1990</td><td align="center">74</td><td align="center">17</td><td align="center">[<a href="/songs/Far From Me_122">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Let It Grow</td><td>9/7/1973</td><td>7/2/1995</td><td align="center">273</td><td align="center">16</td><td align="center">[<a href="/songs/Let It Grow_198">ETP</a>]</td></tr>
-<tr valign="top"><td>Iko Iko</td><td>5/15/1977</td><td>7/5/1995</td><td align="center">185</td><td align="center">25</td><td align="center">[<a href="/songs/Iko Iko_177">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Saint Of Circumstance</td><td>8/31/1979</td><td>7/8/1995</td><td align="center">222</td><td align="center">7</td><td align="center">[<a href="/songs/Saint Of Circumstance_300">ETP</a>]</td></tr>
-<tr valign="top"><td>Ship Of Fools</td><td>2/22/1974</td><td>6/25/1995</td><td align="center">224</td><td align="center">15</td><td align="center">[<a href="/songs/Ship Of Fools_316">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Uncle John's Band</td><td>12/4/1969</td><td>6/28/1995</td><td align="center">331</td><td align="center">13</td><td align="center">[<a href="/songs/Uncle John's Band_387">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">85</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">22</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
-<tr valign="top"><td>Spoonful</td><td>10/15/1981</td><td>12/8/1994</td><td align="center">52</td><td align="center">3</td><td align="center">[<a href="/songs/Spoonful_330">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">18</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
-<tr valign="top"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">18</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">12</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top"><td>La Bamba</td><td>9/7/1987</td><td>9/23/1987</td><td align="center">4</td><td align="center">4</td><td align="center">[<a href="/songs/La Bamba_192">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Heaven's Door</td><td>7/4/1987</td><td>7/23/1994</td><td align="center">75</td><td align="center">12</td><td align="center">[<a href="/songs/Heaven's Door_153">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, September 7, 1987
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, September 7, 1987
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0907">
+              <a href="/1987-09-07">9/7/1987 Providence Civic Center, Providence, RI</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1987-09-07*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Stranger &gt; Franklin's, Walking Blues, Push, Esau, Roses, Far From Me, Let It Grow
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Iko Iko, Saint, Ship Of Fools, Uncle John &gt; Playin Jam &gt; Drumz &gt; Truckin &gt; Spoonful &gt; Black Peter &gt; Around &gt; Good Lovin &gt; La Bamba &gt; Good Lovin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Heaven's Door
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''La Bamba''; Next ''Spoonful'' 4/12/1989 [124 shows]
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('87)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Feel Like A Stranger
+          </td>
+          <td>
+            3/31/1980
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            207
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Feel%20Like%20A%20Stranger_339">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Franklin's Tower
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            221
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Franklin's%20Tower_128">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Walkin Blues
+          </td>
+          <td>
+            5/28/1982
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            138
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Walkin%20Blues_399">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            When Push Comes To Shove
+          </td>
+          <td>
+            12/15/1986
+          </td>
+          <td>
+            7/17/1989
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            32
+          </td>
+          <td align="center">
+            [<a href="/songs/When%20Push%20Comes%20To%20Shove_276">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brother Esau
+          </td>
+          <td>
+            3/25/1983
+          </td>
+          <td>
+            10/3/1987
+          </td>
+          <td align="center">
+            104
+          </td>
+          <td align="center">
+            19
+          </td>
+          <td align="center">
+            [<a href="/songs/Brother%20Esau_116">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            It Must've Been The Roses
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            157
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/It%20Must've%20Been%20The%20Roses_293">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Far From Me
+          </td>
+          <td>
+            3/30/1980
+          </td>
+          <td>
+            7/22/1990
+          </td>
+          <td align="center">
+            74
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Far%20From%20Me_122">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Let%20It%20Grow_198">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Iko Iko
+          </td>
+          <td>
+            5/15/1977
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            185
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Iko%20Iko_177">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Saint Of Circumstance
+          </td>
+          <td>
+            8/31/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            222
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Saint%20Of%20Circumstance_300">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            224
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Ship%20Of%20Fools_316">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Uncle John's Band
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            331
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Uncle%20John's%20Band_387">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            85
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Truckin
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            518
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Truckin_382">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Spoonful
+          </td>
+          <td>
+            10/15/1981
+          </td>
+          <td>
+            12/8/1994
+          </td>
+          <td align="center">
+            52
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Spoonful_330">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Peter
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            342
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Peter_35">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            La Bamba
+          </td>
+          <td>
+            9/7/1987
+          </td>
+          <td>
+            9/23/1987
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            [<a href="/songs/La%20Bamba_192">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Heaven's Door
+          </td>
+          <td>
+            7/4/1987
+          </td>
+          <td>
+            7/23/1994
+          </td>
+          <td align="center">
+            75
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Heaven's%20Door_153">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

@@ -1,34 +1,235 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, April 21, 1972</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, April 21, 1972</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0421"></a><a href="/1972-04-21">4/21/1972 Beat Club, Bremen, West Germany</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1972-04-21*">Listen/Download</a>]<tr><td>Bertha, Playin, Mr. Charlie, Sugaree, Saturday Night, Playin, BIODTL, Truckin > Drums > Other One</td></tr>
-<tr class="notes"><td>Soundcheck: "Loser," "B. T. Wind." Videotaped for "Beat Club" TV show, but only "One More Saturday Night" was actually broadcast. Entire show except soundcheck appears on "Europe '72: The Complete Recordings."</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('72)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">41</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">79</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
-<tr valign="top"><td>Mr. Charlie</td><td>7/31/1971</td><td>5/26/1972</td><td align="center">48</td><td align="center">30</td><td align="center">[<a href="/songs/Mr. Charlie_239">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Sugaree</td><td>7/31/1971</td><td>7/8/1995</td><td align="center">358</td><td align="center">62</td><td align="center">[<a href="/songs/Sugaree_342">ETP</a>]</td></tr>
-<tr valign="top"><td>One More Saturday Night</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">338</td><td align="center">52</td><td align="center">[<a href="/songs/One More Saturday Night_306">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">63</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">59</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">33</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
-<tr valign="top"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">42</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, April 21, 1972
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, April 21, 1972
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0421">
+              <a href="/1972-04-21">4/21/1972 Beat Club, Bremen, West Germany</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1972-04-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Bertha, Playin, Mr. Charlie, Sugaree, Saturday Night, Playin, BIODTL, Truckin &gt; Drums &gt; Other One
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Soundcheck: "Loser," "B. T. Wind." Videotaped for "Beat Club" TV show, but only "One More Saturday Night" was actually broadcast. Entire show except soundcheck appears on "Europe '72: The Complete Recordings."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('72)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Playin In The Band
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            79
+          </td>
+          <td align="center">
+            [<a href="/songs/Playin%20In%20The%20Band_271">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mr. Charlie
+          </td>
+          <td>
+            7/31/1971
+          </td>
+          <td>
+            5/26/1972
+          </td>
+          <td align="center">
+            48
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Mr.%20Charlie_239">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugaree
+          </td>
+          <td>
+            7/31/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            358
+          </td>
+          <td align="center">
+            62
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugaree_342">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            One More Saturday Night
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            338
+          </td>
+          <td align="center">
+            52
+          </td>
+          <td align="center">
+            [<a href="/songs/One%20More%20Saturday%20Night_306">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            63
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Truckin
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            518
+          </td>
+          <td align="center">
+            59
+          </td>
+          <td align="center">
+            [<a href="/songs/Truckin_382">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drums
+          </td>
+          <td>
+            6/14/1968
+          </td>
+          <td>
+            2/26/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            33
+          </td>
+          <td align="center">
+            [<a href="/songs/Drums_106">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Other One
+          </td>
+          <td>
+            10/22/1967
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            42
+          </td>
+          <td align="center">
+            [<a href="/songs/Other%20One_262">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

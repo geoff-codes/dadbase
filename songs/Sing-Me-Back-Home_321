@@ -1,61 +1,918 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sing Me Back Home</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sing Me Back Home</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>4/5/1971</td><td>New York, NY (Manhattan Center)</td><td align="center">SII</td><td>Deal</td><td>NFA </td><td align="center">660</td><td>[<a href="/1971-04-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/8/1971</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Cumberland</td><td align="center">3</td><td>[<a href="/1971-04-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/10/1971</td><td>Lancaster, PA (East Hall, Franklin  and  Marsh...)</td><td align="center">SII</td><td>Truckin</td><td>Me  and  My Unc</td><td align="center">1</td><td>[<a href="/1971-04-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/14/1971</td><td>Lewisburg, PA (Bucknell University)</td><td align="center">SI</td><td>Playin</td><td>Me and My Uncle</td><td align="center">3</td><td>[<a href="/1971-04-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/15/1971</td><td>Meadville, PA (Allegheny College)</td><td align="center">SII</td><td>Next Time</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1971-04-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/17/1971</td><td>Princeton, NJ (Dillon Gym, Princeton University)</td><td align="center">SII</td><td>Bertha</td><td>GDTRFB</td><td align="center">1</td><td>[<a href="/1971-04-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/22/1971</td><td>Bangor, ME (Bangor Municipal Auditorium)</td><td align="center">SII</td><td>BIODTL</td><td>Good Lovin</td><td align="center">3</td><td>[<a href="/1971-04-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/24/1971</td><td>Durham, NC (Wallace Wade Stadium, Duke Univers...)</td><td align="center">SII</td><td>Me  and  My Unc</td><td>Greatest</td><td align="center">1</td><td>[<a href="/1971-04-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/26/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Good Lovin</td><td>NFA</td><td align="center">2</td><td>[<a href="/1971-04-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/27/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Johnny B. Goode</td><td>Uncle John </td><td align="center">1</td><td>[<a href="/1971-04-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/29/1971</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Wharf Rat</td><td>Cumberland</td><td align="center">3</td><td>[<a href="/1971-05-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/21/1971</td><td>Herouville, France (Chateau d'Herouville)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Johnny B. Goode</td><td align="center">2</td><td>[<a href="/1971-06-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/2/1971</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Mama Tried</td><td align="center">1</td><td>[<a href="/1971-07-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/7/1971</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Me and My Uncle</td><td align="center">5</td><td>[<a href="/1971-08-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/24/1971</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SII</td><td>St. Stephen </td><td>Truckin</td><td align="center">4</td><td>[<a href="/1971-08-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/6/1971</td><td>San Francisco, CA (Harding Theater)</td><td align="center">SI</td><td>Mexicali</td><td>Saturday Night</td><td align="center">12</td><td>[<a href="/1971-11-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/3/1972</td><td>Paris, France (Olympia Theater)</td><td align="center">SI</td><td>Good Lovin</td><td>Casey Jones</td><td align="center">38</td><td>[<a href="/1972-05-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/4/1972</td><td>Paris, France (Olympia Theater)</td><td align="center">SII</td><td>Sugar Magnolia </td><td>Mexicali</td><td align="center">1</td><td>[<a href="/1972-05-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/7/1972</td><td>Wigan, England (Bickershaw Festival)</td><td align="center">SII</td><td>Other One </td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1972-05-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/10/1972</td><td>Amsterdam, The Netherlands (Concertgebouw)</td><td align="center">SII</td><td>Ramble On</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1972-05-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/16/1972</td><td>Luxembourg, Luxembourg (La Grand Salle du Gran...)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1972-05-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/18/1972</td><td>Muenchen, West Germany (Kongressaal, Deutsches...)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Saturday Night </td><td align="center">1</td><td>[<a href="/1972-05-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/24/1972</td><td>London, England (The Strand Lyceum)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">2</td><td>[<a href="/1972-05-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/16/1972</td><td>Hartford, CT (Dillon Stadium)</td><td align="center">SI</td><td>Half Step</td><td>Casey Jones</td><td align="center">4</td><td>[<a href="/1972-07-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/18/1972</td><td>Jersey City, NJ (Roosevelt Stadium)</td><td align="center">SIII</td><td>Half Step</td><td>NFA</td><td align="center">1</td><td>[<a href="/1972-07-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/25/1972</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Wharf Rat</td><td>NFA</td><td align="center">3</td><td>[<a href="/1972-07-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/24/1972</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SII</td><td>Greatest</td><td>Saturday Night</td><td align="center">6</td><td>[<a href="/1972-08-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/27/1972</td><td>Veneta, OR (Old Renaissance Faire Grounds)</td><td align="center">SIII</td><td>El Paso</td><td>Sugar Magnolia</td><td align="center">2</td><td>[<a href="/1972-08-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/10/1972</td><td>Hollywood, CA (Hollywood Palladium)</td><td align="center">SII</td><td>Jack Straw</td><td>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1972-09-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/17/1972</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">3</td><td>[<a href="/1972-09-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/30/1972</td><td>Washington, DC (Soccer Field, American Univers...)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">8</td><td>[<a href="/1972-09-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/26/1972</td><td>Cincinnati, OH (Music Hall)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Saturday Night</td><td align="center">9</td><td>[<a href="/1972-10-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/14/1972</td><td>Oklahoma City, OK (Oklahoma City Music Hall)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">6</td><td>[<a href="/1972-11-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/12/1972</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Other One</td><td>Sugar Magnolia</td><td align="center">10</td><td>[<a href="/1972-12-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/31/1972</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SIII</td><td>Sugar Magnolia</td><td>Johnny B. Goode</td><td align="center">2</td><td>[<a href="/1972-12-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/24/1973</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Dark Star</td><td>Sugar Magnolia</td><td align="center">15</td><td>[<a href="/1973-03-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/28/1973</td><td>Watkins Glen, NY (Grand Prix Racecourse)</td><td align="center">Enc1<br>Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">17</td><td>[<a href="/1973-07-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1973</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SII</td><td>Playin</td><td>Me  and  My Unc</td><td align="center">13</td><td>[<a href="/1973-09-26">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sing Me Back Home
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sing Me Back Home
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/5/1971
+          </td>
+          <td>
+            New York, NY (Manhattan Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Deal
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            660
+          </td>
+          <td>
+            [<a href="/1971-04-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/8/1971
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1971-04-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/10/1971
+          </td>
+          <td>
+            Lancaster, PA (East Hall, Franklin and Marsh...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/14/1971
+          </td>
+          <td>
+            Lewisburg, PA (Bucknell University)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Playin
+          </td>
+          <td>
+            Me and My Uncle
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1971-04-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/15/1971
+          </td>
+          <td>
+            Meadville, PA (Allegheny College)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Next Time
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/17/1971
+          </td>
+          <td>
+            Princeton, NJ (Dillon Gym, Princeton University)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Bertha
+          </td>
+          <td>
+            GDTRFB
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/22/1971
+          </td>
+          <td>
+            Bangor, ME (Bangor Municipal Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1971-04-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/24/1971
+          </td>
+          <td>
+            Durham, NC (Wallace Wade Stadium, Duke Univers...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/26/1971
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1971-04-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/27/1971
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            Uncle John
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-04-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/29/1971
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1971-05-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1971
+          </td>
+          <td>
+            Herouville, France (Chateau d'Herouville)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1971-06-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/2/1971
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-07-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/7/1971
+          </td>
+          <td>
+            San Diego, CA (Golden Hall, Community Concourse)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Me and My Uncle
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1971-08-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/24/1971
+          </td>
+          <td>
+            Chicago, IL (Auditorium Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1971-08-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/6/1971
+          </td>
+          <td>
+            San Francisco, CA (Harding Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Mexicali
+          </td>
+          <td>
+            Saturday Night
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1971-11-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/3/1972
+          </td>
+          <td>
+            Paris, France (Olympia Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td>
+            [<a href="/1972-05-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/4/1972
+          </td>
+          <td>
+            Paris, France (Olympia Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Mexicali
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1972-05-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/7/1972
+          </td>
+          <td>
+            Wigan, England (Bickershaw Festival)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1972-05-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/10/1972
+          </td>
+          <td>
+            Amsterdam, The Netherlands (Concertgebouw)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1972-05-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/16/1972
+          </td>
+          <td>
+            Luxembourg, Luxembourg (La Grand Salle du Gran...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1972-05-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/18/1972
+          </td>
+          <td>
+            Muenchen, West Germany (Kongressaal, Deutsches...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Saturday Night
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1972-05-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/24/1972
+          </td>
+          <td>
+            London, England (The Strand Lyceum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1972-05-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/16/1972
+          </td>
+          <td>
+            Hartford, CT (Dillon Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Half Step
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1972-07-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/18/1972
+          </td>
+          <td>
+            Jersey City, NJ (Roosevelt Stadium)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            Half Step
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1972-07-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/25/1972
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1972-07-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/24/1972
+          </td>
+          <td>
+            Berkeley, CA (Berkeley Community Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td>
+            Saturday Night
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1972-08-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/27/1972
+          </td>
+          <td>
+            Veneta, OR (Old Renaissance Faire Grounds)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1972-08-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/10/1972
+          </td>
+          <td>
+            Hollywood, CA (Hollywood Palladium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1972-09-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/17/1972
+          </td>
+          <td>
+            Baltimore, MD (Baltimore Civic Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1972-09-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/30/1972
+          </td>
+          <td>
+            Washington, DC (Soccer Field, American Univers...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1972-09-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/26/1972
+          </td>
+          <td>
+            Cincinnati, OH (Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Saturday Night
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1972-10-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/14/1972
+          </td>
+          <td>
+            Oklahoma City, OK (Oklahoma City Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1972-11-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/12/1972
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1972-12-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1972
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1972-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/24/1973
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td>
+            [<a href="/1973-03-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/28/1973
+          </td>
+          <td>
+            Watkins Glen, NY (Grand Prix Racecourse)
+          </td>
+          <td align="center">
+            Enc1
+            <br>
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td>
+            [<a href="/1973-07-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1973
+          </td>
+          <td>
+            Buffalo, NY (War Memorial Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Playin
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1973-09-26">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

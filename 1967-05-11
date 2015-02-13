@@ -1,25 +1,53 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Thursday, May 11, 1967</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Thursday, May 11, 1967</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0511"></a><a href="/1967-05-11">5/11/1967 Marigold Ballroom, Fresno, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Lost Live Dead blog lists this as Friday the 12th, citing a review in the May 13 Fresno Bee. However, nowhere does the reviewer state that the show took place the night before. The blog claims two shows starting at 9:45 and 11:15 along with an opening band called the Road Runners, but does not cite a source for this information.  </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('67)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Thursday, May 11, 1967
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Thursday, May 11, 1967
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0511">
+              <a href="/1967-05-11">5/11/1967 Marigold Ballroom, Fresno, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Lost Live Dead blog lists this as Friday the 12th, citing a review in the May 13 Fresno Bee. However, nowhere does the reviewer state that the show took place the night before. The blog claims two shows starting at 9:45 and 11:15 along with an opening band called the Road Runners, but does not cite a source for this information.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('67)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

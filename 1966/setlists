@@ -1,412 +1,2230 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>1966 Setlists</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">1966 Setlists</div>
-
-<script language="Javascript" type="text/javascript">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      1966 Setlists
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        1966 Setlists
+      </div><script language="Javascript" type="text/javascript">
 <!--
-function showtab () {
-document.getElementById('hide').style.display = 'none';
-document.getElementById('show').style.display = 'block';
-}
-function hidetab () {
-document.getElementById('show').style.display = 'none';
-document.getElementById('hide').style.display = 'block';
-}
--->
-</script>
-<p>January:  <a href="#0107">7</a> <a href="#0108">8</a> <a href="#0113">13</a> <a href="#0114">14</a> <a href="#0115">15</a> <a href="#0116">16</a> <a href="#0122">22</a> <a href="#0123">23</a> <a href="#0128">28</a> <a href="#0129">29</a> <a href="#0129">29</a><br>
-February: <a href="#0205">5</a> <a href="#0206">6</a> <a href="#0210">10</a> <a href="#0211">11</a> <a href="#0212">12</a> <a href="#0223">23</a> <a href="#0225">25</a> <a href="#02vv">vv</a> <a href="#02ww">ww</a> <a href="#02xx">xx</a> <a href="#02yy">yy</a> <a href="#02zz">zz</a><br>
-March: <a href="#0302">2</a> <a href="#0303">3</a> <a href="#0312">12</a> <a href="#0319">19</a> <a href="#0325">25</a><br>
-April: <a href="#0422">22</a> <a href="#0423">23</a> <a href="#0424">24</a><br>
-May: <a href="#0507">7</a> <a href="#0514">14</a> <a href="#0519">19</a> <a href="#0522">22</a> <a href="#0525">25</a> <a href="#0528">28</a> <a href="#0529">29</a> <a href="#05xx">xx</a><br>
-June: <a href="#0603">3</a> <a href="#0604">4</a> <a href="#0610">10</a> <a href="#0611">11</a> <a href="#0617">17</a> <a href="#0618">18</a> <a href="#06xx">xx</a> <a href="#06yy">yy</a> <a href="#06zz">zz</a><br>
-July: <a href="#0703">3</a> <a href="#0708">8</a> <a href="#0709">9</a> <a href="#0714">14</a> <a href="#0715">15</a> <a href="#0716">16</a> <a href="#0717">17</a> <a href="#0729">29</a> <a href="#0730">30</a> <a href="#0731">31</a> <a href="#07xx">xx</a><br>
-August: <a href="#0805">5</a> <a href="#0806">6</a> <a href="#0807">7</a> <a href="#0812">12</a> <a href="#0813">13</a> <a href="#0819">19</a> <a href="#0820">20</a> <a href="#0826">26</a> <a href="#0827">27</a> <a href="#0828">28</a><br>
-September: <a href="#0902">2</a> <a href="#0904">4</a> <a href="#0905">5</a> <a href="#0911">11</a> <a href="#0916">16</a> <a href="#0917">17</a> <a href="#0923">23</a> <a href="#0924">24</a><br>
-October: <a href="#1002">2</a> <a href="#1006">6</a> <a href="#1007">7</a> <a href="#1008">8</a> <a href="#1008">8</a> <a href="#1009">9</a> <a href="#1014">14</a> <a href="#1015">15</a> <a href="#1016">16</a> <a href="#1021">21</a> <a href="#1022">22</a> <a href="#1023">23</a> <a href="#1026">26</a> <a href="#1028">28</a> <a href="#1029">29</a> <a href="#1031">31</a> <a href="#1031">31</a><br>
-November: <a href="#1104">4</a> <a href="#1105">5</a> <a href="#1109">9</a> <a href="#1112">12</a> <a href="#1113">13</a> <a href="#1118">18</a> <a href="#1119">19</a> <a href="#1120">20</a> <a href="#1127">27</a> <a href="#1128">28</a> <a href="#1129">29</a> <a href="#1130">30</a><br>
-December: <a href="#1201">1</a> <a href="#1202">2</a> <a href="#1209">9</a> <a href="#1210">10</a> <a href="#1211">11</a> <a href="#1212">12</a> <a href="#1214">14</a> <a href="#1220">20</a> <a href="#1221">21</a> <a href="#1223">23</a> <a href="#1224">24</a> <a href="#1228">28</a> <a href="#1229">29</a> <a href="#1230">30</a> <a href="#1231">31</a> <a href="#12xx">xx</a></p>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0107"></a><a href="/1966-01-07">1/7/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-07*">Listen/Download</a>]<tr><td>It's A Sin, Sick And Tired, Mindbender, On The Road Again, She Belongs To Me, I'll Go Crazy, Can't Come Down, Death Don't, Parchman Farm, Midnight Hour, The Only Time Is Now, Early Morning Rain, Baby Blue</td></tr>
-<tr class="notes"><td>First ''Baby Blue''; Only ''Can't Come Down''; First ''Death Don't''; Only ''Early Morning Rain''; Only ''I'll Go Crazy''; First ''It's A Sin''; First ''Midnight Hour''; First ''Mindbender''; First ''On The Road Again''; Only ''Parchman Farm''; First ''Rain''; First ''She Belongs To Me''; First ''Sick And Tired''; Only ''The Only Time Is Now''; Next ''She Belongs To Me'' 4/4/1985 [1543 shows]</i></td></tr>
-<tr class="notes"><td>This setlist came from Matrix soundman Peter Abram in 1983. As of 2010 no recording of this performance has surfaced, even though the other Matrix shows bearing setlists circulate. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0108"></a><a href="/1966-01-08">1/8/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-08*">Listen/Download</a>]<tr><td>King Bee, Hog For You Baby > Caution > Death Don't, Star Spangled Banner</td></tr>
-<tr class="notes"><td>First ''Caution''; First ''Hog For You Baby''; First ''King Bee''</i></td></tr>
-<tr class="notes"><td>Fillmore Acid Test. The Star Spangled Banner is done a-cappella.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0113"></a><a href="/1966-01-13">1/13/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-13*">Listen/Download</a>]<tr><td>All Of My Love, Hog For You Baby</td></tr>
-<tr class="notes"><td>Only ''All Of My Love''</i></td></tr>
-<tr class="notes"><td>Actual date of list unknown.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0114"></a><a href="/1966-01-14">1/14/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-14*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Appeal 3-benefit For S.F. Mime Troupe. Dead billed as "Grateful Dead, Formerly The Warlocks." Billing: The Great Society; The Mystery Trend; GD; The Gentlemen's Band.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0115"></a><a href="/1966-01-15">1/15/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-15*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0116"></a><a href="/1966-01-16">1/16/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-16*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0122"></a><a href="/1966-01-22">1/22/1966 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-22*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Trips Festival. Also: Big Brother  and  The Holding Co. The Dead might not have performed due to Jerry's broken guitar.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0123"></a><a href="/1966-01-23">1/23/1966 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Trips Festival.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0128"></a><a href="/1966-01-28">1/28/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Big Brother  and  The Holding Co.; The Loading Zone.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0129"></a><a href="/1966-01-29">1/29/1966 Sound City Acid Test, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-29*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0129"></a><a href="/1966-01-29">1/29/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-01-29*">Listen/Download</a>]<tr><td>I: Otis<span class="setlist_small">*</span></td></tr>
-<tr><td>II: Viola Lee Blues, I Know You Rider, Midnight Hour</td></tr>
-<tr class="notes"><td>* ends set. From undated vault reel labeled “Pauley Ballroom #2.” This is definitely from before the Dead left for Los Angeles, but no date is known for a Pauley Ballroom gig at that time.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0205"></a><a href="/1966-02-05">2/5/1966 The Questing Beast, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Rehearsal.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0206"></a><a href="/1966-02-06">2/6/1966 Northridge Unitarian Church, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-06*">Listen/Download</a>]<tr><td>Tastebud, Mindbender, BIODTL</td></tr>
-<tr class="notes"><td>DeadLists states that, according to Bear, the Northridge Acid Test took place on Saturday February 19th, and that he “formally” met the Dead at the Fillmore gig on February 11th. We are throwing this out as a possibility without any further evidence.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0210"></a><a href="/1966-02-10">2/10/1966 The Cabale, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-10*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0211"></a><a href="/1966-02-11">2/11/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Again, Bear claimed to have "formally" met the Dead at this gig, but there is no further evidence that it actually took place.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0212"></a><a href="/1966-02-12">2/12/1966 Youth Opportunities Center, Compton, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-12*">Listen/Download</a>]<tr><td>Who Cares rap, rap and jam > New Orleans, Twist and Shout</td></tr>
-<tr class="notes"><td>Watts Acid Test. Garcia plays on Twist and Shout, contradicting reports that he did not play at all.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0223"></a><a href="/1966-02-23">2/23/1966 , , </a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>There is no evidence that the Grateful Dead played anywhere on ths date, despite recordings that have circulated as such (most notably the first part of 05-19-66).</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0225"></a><a href="/1966-02-25">2/25/1966 Ivar Theater, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-25*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>First ''Cold Rain''; First ''Hey Little One''; First ''I Know You Rider''; First ''Next Time''; First ''Stealin''; Next ''On The Road Again'' 12/1/1966 [75 shows]</i></td></tr>
-<tr class="notes"><td>The songs formerly listed with this show are actually from a later date and have been moved to "07-??-66 unknown location" (David Lemieux claims this as part of 03-12-66 along with part of 05-19-66, which is what appears in DeadLists).   According to DeadLists, Bear identifies this night as the “Sunset Acid Test.”</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="02vv"></a><a href="/1966-02-vv">2/vv/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-vv*">Listen/Download</a>]<tr><td>Viola Lee Blues x10</td></tr>
-<tr class="notes"><td>Rehearsal. Took place before the Dead left for Los Angeles. Contains criticism of Pig Pen's drinking from his bandmates.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="02ww"></a><a href="/1966-02-ww">2/ww/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-ww*">Listen/Download</a>]<tr><td>Walking The Dog, You See A Broken Heart, Promised, NFA</td></tr>
-<tr class="notes"><td>Rehearsal. All tunes appear on "Rare Cuts and Oddities 1966" dated "early 1966." Jerry sings lead on "Promised." According to Ruth Pahkala, the tune was handed over to Pig Pen 
-after a short time. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="02xx"></a><a href="/1966-02-xx">2/xx/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-xx*">Listen/Download</a>]<tr><td>Big Railroad Blues, Sick And Tired, Empty Heart</td></tr>
-<tr class="notes"><td>Appears on "Rare Cuts and Oddities 1966" dated “February/March 1966.”</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="02yy"></a><a href="/1966-02-yy">2/yy/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-yy*">Listen/Download</a>]<tr><td>blues jam</td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="02zz"></a><a href="/1966-02-zz">2/zz/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-02-zz*">Listen/Download</a>]<tr><td>Good Lovin, Standing On The Corner, Cream Puff War</td></tr>
-<tr class="notes"><td>Demo recording. These tunes appear on "Rare Cuts and Oddities 1966" dated "early 1966."</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0302"></a><a href="/1966-03-02">3/2/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-03-02*">Listen/Download</a>]<tr><td>Betty & Dupree, Stealin</td></tr>
-<tr class="notes"><td>Rehearsal. Both tunes appear on "rare Cuts and Oddities 1966."</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0303"></a><a href="/1966-03-03">3/3/1966 A. I. A. A. Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-03-03*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>With the film "Psychedelic Experience."</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0312"></a><a href="/1966-03-12">3/12/1966 Danish Center, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-03-12*">Listen/Download</a>]<tr><td>Viola Lee Blues, One Kind Favor, I Know You Rider, You See A Broken Heart, It's A Sin, BIODTL, Heads Up, Next Time, blues jam, Death Don't, Midnight Hour</td></tr>
-<tr class="notes"><td>First ''BIODTL''; First ''One Kind Favor''; First ''Viola Lee Blues''; Only ''You See A Broken Heart''; Next ''Death Don't'' 12/1/1966 [73 shows]</i></td></tr>
-<tr class="notes"><td>David Lemieux has provided the following that is posted for this date on DeadLists:Cream Puff War, Teddy Bear's Picnic, Sitting On Top Of The World, Minglewood, Cold Rain and Snow, Tastebud, Silver Threads, Baby Blue, Good Lovin', You Don't Have To Ask, On The Road Again, Next Time You See Me, I Know You Rider, Hey Little One, King Bee >Caution, Stealin' However-Cream Puff War through You Don’t Have to Ask are in the same order as on the 05-19-66 Avalon tape (when Lemieux posted this Good Lovin’ online, it was the exact same version that circulates as 05-19), and the rest of it (which we previously dated as 02-25-66), sounds like it’s from much later, probably July. Most sources, because of Lemieux’s list, have moved the above set to the Pico Acid Test on 03-19, but it sounds like a regular gig rather than an Acid Test.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0319"></a><a href="/1966-03-19">3/19/1966 Carthay Studios, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-03-19*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Pico Acid Test, moved from U.C.L.A. at the last minute.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0325"></a><a href="/1966-03-25">3/25/1966 Trooper's Club, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-03-25*">Listen/Download</a>]<tr><td>Stealin, Jam, Hey Little One, Hog For You Baby, Otis, Cold Rain, Next Time</td></tr>
-<tr class="notes"><td>First ''You Don't Have To Ask''; Next ''Hog For You Baby'' 4/6/1971 [631 shows]</i></td></tr>
-<tr class="notes"><td>List incomplete. Above spelling of venue name is from the newspaper ad for this gig. An announcement made by Phil at this show has prompted DeadLists to add dates for an unknown location, or locations, on April 6 through 9. Phil’s commentary is cut before he announces what is actually happening on those dates, and even if he was announcing upcoming shows there is no further evidence that they were actually played. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0422"></a><a href="/1966-04-22">4/22/1966 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-04-22*">Listen/Download</a>]<tr><td>BIODTL, Schoolgirl> You Don't Love Me> Schoolgirl</td></tr>
-<tr class="notes"><td>"Trips 196?" Festival - "Dress The Way You Are." Also: The Loading Zone; Celebrity Drop Ins  and  Trips Regulars. Recording circulates under several other dates. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0423"></a><a href="/1966-04-23">4/23/1966 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-04-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Trips 196?" Festival - "Dress The Way You Are." Also: The Loading Zone; Celebrity Drop Ins  and  Trips Regulars.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0424"></a><a href="/1966-04-24">4/24/1966 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-04-24*">Listen/Download</a>]<tr><td>It's A Sin, Viola Lee Blues > Teddy Bear's Picnic, Midnight Hour, BIODTL, blues jam<span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>"Trips 196?" Festival - "Dress The Way You Are." Also: The Loading Zone; Celebrity Drop Ins  and  Trips Regulars. * with Jorma Kaukonen and Jack Casady.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0507"></a><a href="/1966-05-07">5/7/1966 Harmon Gym, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-07*">Listen/Download</a>]<tr><td>Midnight Hour</td></tr>
-<tr class="notes"><td>Bill Kreutzmann's 20th birthday. "Peace Rock 3." Also: The Charlatans; The Great Sciety; Billy Moses Blues Band.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0514"></a><a href="/1966-05-14">5/14/1966 Veterans Memorial Hall, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-14*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0519"></a><a href="/1966-05-19">5/19/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-19*">Listen/Download</a>]<tr><td>I: BIODTL, Standing On The Corner, Mindbender, Hurts Me Too, Viola Lee Blues, I Know You Rider, It's A Sin, Sick And Tired, Cream Puff War</td></tr>
-<tr><td>II: Teddy Bears' Picnic, Top Of The World, Minglewood, Cold Rain, Tastebud, Silver Threads, Baby Blue, Good Lovin, Otis</td></tr>
-<tr class="notes"><td>First ''Cream Puff War''; First ''Good Lovin''; First ''Hurts Me Too''; First ''Minglewood''; First ''Silver Threads''; First ''Standing On The Corner''; First ''Top Of The World''; Only ''Where My Baby''; Next ''Silver Threads'' 4/26/1969 [368 shows]; Final ''Mindbender''; Final ''Sick And Tired''</i></td></tr>
-<tr class="notes"><td>Straight Theater benefit. Also: The Wildflower; The Outfit. Cream Puff War through Otis appear on a vault tape dated 3/12/66.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0522"></a><a href="/1966-05-22">5/22/1966 Rancho Olompali, Novato, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-22*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0525"></a><a href="/1966-05-25">5/25/1966 Unknown Location, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-25*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charlatans. This may be 05-29-66.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0528"></a><a href="/1966-05-28">5/28/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Hayfever." First Family Dog production with Dead. Also: The Leaves; The Grassroots. DeadLists also has the band playing the Avalon on 05-27 based on the weekend’s poster, which a close examination of reveals a ribbon reading “Sat. only” between “Grateful” and “Dead.”</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0529"></a><a href="/1966-05-29">5/29/1966 California Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-29*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>LEMAR Benefit Ball - "Aid the end of marijuana prohibition." Also: The Charlatans.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="05xx"></a><a href="/1966-05-xx">5/xx/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-05-xx*">Listen/Download</a>]<tr><td>Viola Lee Blues, Don't Ease Me In, Tastebud</td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0603"></a><a href="/1966-06-03">6/3/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-03*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: QMS; GD; The Mothers.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0604"></a><a href="/1966-06-04">6/4/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-04*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: QMS; GD; The Mothers.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0610"></a><a href="/1966-06-10">6/10/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-10*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"The Quick and the Dead." Also: QMS; The New Tweedy Brothers.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0611"></a><a href="/1966-06-11">6/11/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"The Quick and the Dead." Also: QMS; The New Tweedy Brothers.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0617"></a><a href="/1966-06-17">6/17/1966 Veterans Hall, San Jose, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-17*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Jaywalkers.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0618"></a><a href="/1966-06-18">6/18/1966 Veterans Hall, San Jose, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-18*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Jaywalkers.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="06xx"></a><a href="/1966-06-xx">6/xx/1966 U. of Ca. Medical Center, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-xx*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>LSD Conference.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="06yy"></a><a href="/1966-06-yy">6/yy/1966 Pauley Ballroom, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-yy*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>June or July.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="06zz"></a><a href="/1966-06-zz">6/zz/1966 Buena Vista Studios, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-06-zz*">Listen/Download</a>]<tr><td>Stealin x4, I Know You Rider, Don't Ease x15, Otis On A Shakedown Cruise x3, No Left Turn Unstoned x5, Stealin, I Know You Rider, Tastebud x2, Cold Rain x2</td></tr>
-<tr class="notes"><td>Studio session for what would have been the Dead's first LP, titled "No Left Turn Unstoned." Much of this material appears on "Birth of the Dead," and some circulates mislabeled "Questing Beast 02-05-66." </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0703"></a><a href="/1966-07-03">7/3/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-03*">Listen/Download</a>]<tr><td>Dancin, I Know You Rider, Just A Hand To Hold, Next Time, Viola Lee Blues, Big Boss Man, Top Of The World, Gangster Of Love<span class="setlist_small">*</span>, Minglewood, Cold Rain, Unknown, BIODTL, Cream Puff War, Don't Mess Up A Good Thing</td></tr>
-<tr class="notes"><td>First ''Big Boss Man''; First ''Dancin''; First ''He Was A Friend''; Only ''It's A Good Thing''; First ''Unknown''; Next ''Unknown'' 12/7/1968 [294 shows]</i></td></tr>
-<tr class="notes"><td>"Independence Ball." Billing: Love; GD; Group B. * appears on Rare Cuts and Oddities 1966. Gangster of Love might actually come after Cold Rain, and the unknown tune before Minglewood. Recordings of this show have circulated with the "Stealin" and "Don't Ease Me In" from the band's first 45, "Overseas Stomp" from "Historic Dead," and "Baby Blue" from "Vintage Dead" tacked onto the end. In addition, the legitimate material from this show has circulated misdated 09-04-66. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0708"></a><a href="/1966-07-08">7/8/1966 Santa Venetia Armory, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-08*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0709"></a><a href="/1966-07-09">7/9/1966 Santa Venetia Armory, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-09*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0714"></a><a href="/1966-07-14">7/14/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-14*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"A Pleasure Dome" - Presented By The San Francisco Calliope Co. Billing: Hindustani Jazz Sextet; GD; Big Brother  and  The Holding Co.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0715"></a><a href="/1966-07-15">7/15/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-15*">Listen/Download</a>]<tr><td>One Kind Favor, Keep Rolling By<span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>Billing: Jefferson Airplane; GD. *ends set. These tunes appear on Birth of the Dead. Their date is uncertain but is likely since the Jefferson Airplane performed afterwards, neither tune is included in the 7/16 and 7/17 tapes, and Bear was no longer recording by the time of the two bands’ next joint billing. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1966-07-16">7/16/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-16*">Listen/Download</a>]<tr><td>I: I Know You Rider, Big Boss Man<span class="setlist_small">*</span>, Standing On The Corner<span class="setlist_small">*</span>, BIODTL, In The Pines<span class="setlist_small">*</span>, No Left Turn Unstoned, Nobody's Fault<span class="setlist_small">*</span>, Next Time<span class="setlist_small">*</span>, Just A Hand To Hold<span class="setlist_small">*</span>, Cream Puff War<span class="setlist_small">**</span></td></tr>
-<tr><td>II: Viola Lee Blues<span class="setlist_small">*</span>, Don't Ease<span class="setlist_small">*</span> > Pain In My Heart<span class="setlist_small">*</span>, Minglewood > Top Of The World<span class="setlist_small">*</span>, Otis<span class="setlist_small">**</span>, Cold Rain > Schoolgirl, Baby Blue<span class="setlist_small">*</span>, Dancin </td></tr>
-<tr><td>III: Midnight Hour<span class="setlist_small">***</span></td></tr>
-<tr class="notes"><td>First ''Don't Ease''; First ''Pain In My Heart''; Next ''Don't Ease'' 6/6/1967 [118 shows]</i></td></tr>
-<tr class="notes"><td>Billing: Jefferson Airplane; GD.***with Joan Baez  and  Mimi Farina. * appears on Birth of the Dead. ** appears on So Many Roads (1965-1995). Encore is not on circulating tape and may have been performed on another date.  </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0717"></a><a href="/1966-07-17">7/17/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-17*">Listen/Download</a>]<tr><td>I: </td></tr>
-<tr><td>II: Big Boss Man, Cold Rain, Baby Blue, Cream Puff War, King Bee<span class="setlist_small">*</span>, Stealin', Dancin'</td></tr>
-<tr class="notes"><td>First ''Cardboard Cowboy''; Only ''In The Pines''; First ''Nobody's Fault''; Next ''Nobody's Fault'' 9/24/1973 [796 shows]</i></td></tr>
-<tr class="notes"><td>Afternoon concert (2:00 PM). Billing: Jefferson Airplane; GD. Above is all or most of second set; the first reel of this show is no longer playable. * appears on Birth of the Dead. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0729"></a><a href="/1966-07-29">7/29/1966 P.N.E. Garden Auditorium, Vancouver, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-29*">Listen/Download</a>]<tr><td>Dancin, Cold Rain, King Bee > One Kind Favor, Otis, Hey Little One, BIODTL, Schoolgirl, Minglewood</td></tr>
-<tr class="notes"><td>Final ''Hey Little One''</i></td></tr>
-<tr class="notes"><td>British Columbia Festival - Trips Festival. List may be incomplete and may belong to the 30th. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0730"></a><a href="/1966-07-30">7/30/1966 P.N.E. Garden Auditorium, Vancouver, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-30*">Listen/Download</a>]<tr><td>I: Standing On The Corner, I Know You Rider, Next Time, Top Of The World, Otis, Big Boss Man, Stealin, No Left Turn Unstoned, Baby Blue, Cream Puff War</td></tr>
-<tr><td>II: Viola Lee Blues, BIODTL, Schoolgirl</td></tr>
-<tr class="notes"><td>Next ''Top Of The World'' 3/26/1968 [204 shows]; Final ''Cardboard Cowboy''; Final ''Standing On The Corner''; Final ''You Don't Have To Ask''</i></td></tr>
-<tr class="notes"><td>British Columbia Festival - Trips Festival. List may be incomplete and may belong to the 29th.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0731"></a><a href="/1966-07-31">7/31/1966 P.N.E. Garden Auditorium, Vancouver, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-31*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>British Columbia Festival - Trips Festival.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="07xx"></a><a href="/1966-07-xx">7/xx/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-07-xx*">Listen/Download</a>]<tr><td>On The Road Again<span class="setlist_small">*</span>, Next Time, I Know You Rider, Hey Little One<span class="setlist_small">**</span>, Cold Rain > King Bee<span class="setlist_small">**</span> > Caution<span class="setlist_small">**</span>, Stealin'</td></tr>
-<tr class="notes"><td>* appears on So Many Roads (1965-1995). ** appears on Rare Cuts and Oddities 1966. This material exists on a vault tape dated 3/12/66, but sounds more like it’s from about July.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0805"></a><a href="/1966-08-05">8/5/1966 Afterthought, Vancouver, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-05*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0806"></a><a href="/1966-08-06">8/6/1966 Afterthought, Vancouver, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-06*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0807"></a><a href="/1966-08-07">8/7/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-07*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Children's Adventure Day Camp benefit. The Dead are listed on the poster, the event took place, but the Dead did not perform.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0812"></a><a href="/1966-08-12">8/12/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-12*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Jefferson Airplane; GD.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0813"></a><a href="/1966-08-13">8/13/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Jefferson Airplane; GD.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0819"></a><a href="/1966-08-19">8/19/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-19*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Sopwith Camel.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0820"></a><a href="/1966-08-20">8/20/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Sopwith Camel.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0826"></a><a href="/1966-08-26">8/26/1966 I.D.E.S. Hall, Pescadero, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-26*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The poster for the Tour Del Mar Bicycle Race and Folk-Rock Festival lists shows on August 26, 27, and 28.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0827"></a><a href="/1966-08-27">8/27/1966 I.D.E.S. Hall, Pescadero, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-27*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Tour Del Mar Bicycle Race and Folk-Rock Festival." Also: QMS; Collosal Pomegranate.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0828"></a><a href="/1966-08-28">8/28/1966 I.D.E.S. Hall, Pescadero, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-08-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Tour Del Mar Bicycle Race and Folk-Rock Festival." Also: QMS; Collosal Pomegranate.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0902"></a><a href="/1966-09-02">9/2/1966 La Dolphine, Hillsborough, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Debutante dance.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0904"></a><a href="/1966-09-04">9/4/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-04*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; QMS; The Great Society - first Grateful Dead headline at the Fillmore.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0905"></a><a href="/1966-09-05">9/5/1966 Rancho Olompali, Novato, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-05*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0911"></a><a href="/1966-09-11">9/11/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>BOTH/AND Jazz Club Benefit - "Gigantic All-Night Jazz/Rock Dance-Concert." Billing: John Hendricks Trio; Elvin Jones; Joe Henderson Quartet; Big Mama Mae Thornton; Denny Zeitlin Trio; Jefferson Airplane; The Great Society; The Wildflower; GD.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0916"></a><a href="/1966-09-16">9/16/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-16*">Listen/Download</a>]<tr><td>I Know You Rider, Hurts Me Too, Baby Blue, Schoolgirl, Overseas Stomp, Dancin</td></tr>
-<tr><td>E: Midnight Hour</td></tr>
-<tr class="notes"><td>First ''Lindy''; Next ''Baby Blue'' 6/6/1967 [101 shows]</i></td></tr>
-<tr class="notes"><td>Also: The Oxford Circle. Actual date for list unknown, but the venue is accurate - first Kelly/Mouse skull  and  roses design for poster. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0917"></a><a href="/1966-09-17">9/17/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-17*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Oxford Circle.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0923"></a><a href="/1966-09-23">9/23/1966 Pioneer Ballroom, Suisun City, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The 13 Experience.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0924"></a><a href="/1966-09-24">9/24/1966 Pioneer Ballroom, Suisun City, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-09-24*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The 13 Experience.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1002"></a><a href="/1966-10-02">10/2/1966 Commons, S. F. State College, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>San Francisco State Trips Festival. Friday 3:00 PM to Sunday 3:00 PM. Also: Mimi Farina; The Only Alternative; The Committee; Congress Of Wonders.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1006"></a><a href="/1966-10-06">10/6/1966 Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-06*">Listen/Download</a>]<tr><td>Alice D. Millionaire</td></tr>
-<tr class="notes"><td>First ''Alice D. Millionaire''</i></td></tr>
-<tr class="notes"><td>"Love Pageant Rally" - LSD rally. Since there seems to be some question about whether the Dead actually played this event, we will point out that a Gene Anthony photo of the band playing here appears in both of his books and is identified as such in the first—"The Summer of Love."</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1007"></a><a href="/1966-10-07">10/7/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-07*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Butterfield Blues Band; Jefferson Airplane; GD. The exact venue of these performances has been the subject of debate since we changed their location. Yes, they were scheduled for Winterland (which, contrary to Terry Doherty’s statement in the Internet Archive, did exist as a concert venue by this time) as listed on the poster, but Ralph Gleason’s column in the San Francisco Chronicle the morning of October 7 mentioned these shows as taking place at the Fillmore. On the same page, the Chronicle’s “Datebook” lists this billing as “opening today” at Fillmore Auditorium and specifically states that the shows were “switched from Winterland.” The week before, Bill Graham had moved the Butterfield-Airplane-Muddy Waters shows at Winterland to the Fillmore to prove that he wouldn’t back down to racial unrest in the surrounding neighborhood.  </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1008"></a><a href="/1966-10-08">10/8/1966 Mt. Tamalpais Amphitheatre, Marin County, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon Peace Benefit - also: Bola Sete; QMS.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1008"></a><a href="/1966-10-08">10/8/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Butterfield Blues Band; Jefferson Airplane; GD. The exact venue of these performances has been the subject of debate since we changed their location. Yes, they were scheduled for Winterland (which, contrary to Terry Doherty’s statement in the Internet Archive, did exist as a concert venue by this time) as listed on the poster, but Ralph Gleason’s column in the San Francisco Chronicle the morning of October 7 mentioned these shows as taking place at the Fillmore. On the same page, the Chronicle’s “Datebook” lists this billing as “opening today” at Fillmore Auditorium and specifically states that the shows were “switched from Winterland.” The week before, Bill Graham had moved the Butterfield-Airplane-Muddy Waters shows at Winterland to the Fillmore to prove that he wouldn’t back down to racial unrest in the surrounding neighborhood. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1009"></a><a href="/1966-10-09">10/9/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-09*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon concert (2:00 PM). Billing: Butterfield Blues Band; Jefferson Airplane; GD.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1014"></a><a href="/1966-10-14">10/14/1966 TMU Deck, Stanford University, Palo Alto, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-14*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1015"></a><a href="/1966-10-15">10/15/1966 The Heliport, Sausalito, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-15*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1016"></a><a href="/1966-10-16">10/16/1966 Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Artist's Liberation Front free festival. Bob Weir's 19th birthday. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1021"></a><a href="/1966-10-21">10/21/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-21*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Lightning Hopkins; either The Loading Zone or Chocolate Watchband.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1022"></a><a href="/1966-10-22">10/22/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-22*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Lightning Hopkins; either The Loading Zone or Chocolate Watchband.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1023"></a><a href="/1966-10-23">10/23/1966 Las Lomas High School, Walnut Creek, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Originally scheduled for Walnut Creek Library. Showtime: 3 PM.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1026"></a><a href="/1966-10-26">10/26/1966 The North Face Ski Shop, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-26*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1028"></a><a href="/1966-10-28">10/28/1966 St. Mary's College, Moraga, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-28*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1029"></a><a href="/1966-10-29">10/29/1966 (unknown), Santa Clara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-29*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1966-10-31">10/31/1966 California Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-31*">Listen/Download</a>]<tr><td>Viola Lee Blues, Alice D. Millionaire</td></tr>
-<tr class="notes"><td>"Dance of Death Costume Ball." Also: QMS; Mimi Farina.The Dead did not play the Acid Test Graduation that took place at the Calliope Warehouse in San Francisco the same night.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1966-10-31">10/31/1966 Calliope Warehouse, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-10-31*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1104"></a><a href="/1966-11-04">11/4/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-04*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Oxford Circle. The handbill for this weekend lists the dates for the shows as November 3 and 4, while the poster shows them correctly as the 4th and 5th. The Family Dog shows at the Avalon customarily took place on Friday and Saturday nights at this time. Apparently Mouse and Kelley made a mistake on the poster artwork (just as they did on the Daily Flash-Country Joe & the Fish poster two weeks earlier), and the handbills were printed before this was corrected.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1105"></a><a href="/1966-11-05">11/5/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Oxford Circle. The handbill for this weekend lists the dates for the shows as November 3 and 4, while the poster shows them correctly as the 4th and 5th. The Family Dog shows at the Avalon customarily took place on Friday and Saturday nights at this time. Apparently Mouse and Kelley made a mistake on the poster artwork (just as they did on the Daily Flash-Country Joe & the Fish poster two weeks earlier), and the handbills were printed before this was corrected.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1109"></a><a href="/1966-11-09">11/9/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-09*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1112"></a><a href="/1966-11-12">11/12/1966 The Old Cheese Factory, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-12*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Anniversary Party." Also: Andrew Staples.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1113"></a><a href="/1966-11-13">11/13/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"A Zenefit" - Zen Mountain Center Benefit. Also: QMS; Big Brother  and  The Holding Co.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1118"></a><a href="/1966-11-18">11/18/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-18*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; James Cotton Blues Band; Lothar  and  The Hand People.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1119"></a><a href="/1966-11-19">11/19/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-19*">Listen/Download</a>]<tr><td>I: Cold Rain, Hi-Heel Sneakers, Pain In My Heart, BIODTL, Cream Puff War, Same Thing, Just Hand To Hold, Dancin</td></tr>
-<tr><td>II: Smokestack > King Bee, Midnight Hour</td></tr>
-<tr class="notes"><td>First ''Hi-Heel Sneakers''; First ''Same Thing''; First ''Smokestack''; Next ''Midnight Hour'' 6/6/1967 [77 shows]; Final ''Pain In My Heart''</i></td></tr>
-<tr class="notes"><td>Billing: GD; James Cotton Blues Band; Lothar  and  The Hand People. 11 beat "BIODTL." "Cold Rain," "Hi-Heel Sneakers," "Smokestack," and "King Bee" have sometimes circulated, in whole or in part, dated 02-12-67. In addition, "Cold Rain" and the "Morning Dew" which usually circulates as part of the 01-14-67 Be-In set used to be commonly tacked onto the beginning of the recording now properly identified as 10-12-68.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1120"></a><a href="/1966-11-20">11/20/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Student Non-Violent Coordinating Comittee benefit - 3:00 PM to 12:00 AM. Billing: GD; James Cotton Blues Band; Lothar  and  The Hand People; QMS; Johnny Talbot  and  De Thangs.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1127"></a><a href="/1966-11-27">11/27/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-27*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Private Thanksgiving party, postponed from the 23rd. Also: QMS; The Wildflower.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1128"></a><a href="/1966-11-28">11/28/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Jerry Pond.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1129"></a><a href="/1966-11-29">11/29/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-29*">Listen/Download</a>]<tr><td>I: Me  and  My Uncle, Same Thing, Stealin, Big Boy Pete, One Kind Favor, Early Morning Rain, Cold Rain, Viola Lee Blues</td></tr>
-<tr><td>II: Down So Long, Something On Your Mind, Overseas Stomp, Schoolgirl, I Just Want</td></tr>
-<tr class="notes"><td>First ''Big Boy Pete''; First ''Down So Long''; First ''I Just Want''; First ''Me  and  My Uncle''; First ''Something On Your Mind''; Next ''I Just Want'' 7/22/1984 [1419 shows]; Final ''Stealin''</i></td></tr>
-<tr class="notes"><td>Also: Jerry Pond. "Merry-Go-Round Broke Down" tuning after "I Just Want." </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1130"></a><a href="/1966-11-30">11/30/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-11-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Jerry Pond.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1201"></a><a href="/1966-12-01">12/1/1966 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-01*">Listen/Download</a>]<tr><td>I: Minglewood, Betty  and  Dupree, Next Time, I Know You Rider, Big Boss Man, One Kind Favor, Alice D. Millionaire, Me  and  My Uncle, Cream Puff War</td></tr>
-<tr><td>II: You Don't Love Me, BIODTL, Hurts Me Too, On The Road Again, Yonder's Wall<span class="setlist_small">*</span>, My Own Fault<span class="setlist_small">*</span>, Down So Long, Cold Rain, Viola Lee Blues</td></tr>
-<tr><td>III: Deep Elem, Something On Your Mind, Big Boy Pete, Death Don't, Overseas Stomp, Dancin, Me  and  My Uncle</td></tr>
-<tr class="notes"><td>Only ''Betty  and  Dupree''; First ''Deep Elem''; Only ''My Own Fault''; First ''Yonder's Wall''; Only ''You Don't Love Me''; Next ''Yonder's Wall'' 10/9/1968 [218 shows]; Final ''Alice D. Millionaire''; Final ''Down So Long''; Final ''Lindy''; Final ''One Kind Favor''; Final ''Something On Your Mind''</i></td></tr>
-<tr class="notes"><td>Also: Jerry Pond. *with unidentified guest. Flase start on first "Me and My Uncle." "Merry-Go-Round Broke Down" tuning after second "Me  and  My Uncle."  </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1202"></a><a href="/1966-12-02">12/2/1966 Pauley Ballroom, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Danse Macabre." Also: Country Joe  and  The Fish.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1209"></a><a href="/1966-12-09">12/9/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-09*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Big Mama Mae Thornton; Tim Rose.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1210"></a><a href="/1966-12-10">12/10/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-10*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Big Mama Mae Thornton; Tim Rose.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1211"></a><a href="/1966-12-11">12/11/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon concert (2:00 PM).Also: Big Mama Mae Thornton; Tim Rose. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1212"></a><a href="/1966-12-12">12/12/1966 San Francisco Civic Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-12*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Dead were supposed to have opened for the Beach Boys, but the Jefferson Airplane got the gig instead.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1214"></a><a href="/1966-12-14">12/14/1966 Gym, College of Marin, Kentfield, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-14*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>According to the Lost Live Dead blog, the Dead played here either this night or the next with the Sons of Champlin, as per an eyewitness.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1220"></a><a href="/1966-12-20">12/20/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Otis Redding; GD.; The Grateful Dead's 100th Show; Jerry Garcia's 100th Show; Bob Weir's 100th Show; Bill Kreutzmann's 100th Show; Ron McKernan's 100th Show</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1221"></a><a href="/1966-12-21">12/21/1966 Continental Ballroom, Santa Clara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-21*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1223"></a><a href="/1966-12-23">12/23/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Moby Grape; Steve Miller Blues Band.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1224"></a><a href="/1966-12-24">12/24/1966 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-24*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Moby Grape; Steve Miller Blues Band.; Phil Lesh's 100th Show</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1228"></a><a href="/1966-12-28">12/28/1966 Governor's Hall, Sacramento, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Beaux Arts Ball." Also: QMS.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1229"></a><a href="/1966-12-29">12/29/1966 Santa Venetia Armory, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-29*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Moby Grape; Morning Glory.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1966-12-30">12/30/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Jefferson Airplane; GD; QMS.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1231"></a><a href="/1966-12-31">12/31/1966 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-31*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"New Year's Bash" - first Bill Graham New Year's show. Billing: Jefferson Airplane; GD; QMS.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="12xx"></a><a href="/1966-12-xx">12/xx/1966 (unknown), (unknown), CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1966-12-xx*">Listen/Download</a>]<tr><td>Silver Threads.</td></tr>
-<tr class="notes"><td>Demo recording. Tune appears on "Rare Cuts and Oddities 1966" dated "late 1966."</i></td></tr>
-</table></div>
-
-</div></div>
-</div>
-</body>
+      function showtab () {
+      document.getElementById('hide').style.display = 'none';
+      document.getElementById('show').style.display = 'block';
+      }
+      function hidetab () {
+      document.getElementById('show').style.display = 'none';
+      document.getElementById('hide').style.display = 'block';
+      }
+      -->
+      </script>
+      <p>
+        January: <a href="#0107">7</a> <a href="#0108">8</a> <a href="#0113">13</a> <a href="#0114">14</a> <a href="#0115">15</a> <a href="#0116">16</a> <a href="#0122">22</a> <a href="#0123">23</a> <a href="#0128">28</a> <a href="#0129">29</a> <a href="#0129">29</a>
+        <br>
+        February: <a href="#0205">5</a> <a href="#0206">6</a> <a href="#0210">10</a> <a href="#0211">11</a> <a href="#0212">12</a> <a href="#0223">23</a> <a href="#0225">25</a> <a href="#02vv">vv</a> <a href="#02ww">ww</a> <a href="#02xx">xx</a> <a href="#02yy">yy</a> <a href="#02zz">zz</a>
+        <br>
+        March: <a href="#0302">2</a> <a href="#0303">3</a> <a href="#0312">12</a> <a href="#0319">19</a> <a href="#0325">25</a>
+        <br>
+        April: <a href="#0422">22</a> <a href="#0423">23</a> <a href="#0424">24</a>
+        <br>
+        May: <a href="#0507">7</a> <a href="#0514">14</a> <a href="#0519">19</a> <a href="#0522">22</a> <a href="#0525">25</a> <a href="#0528">28</a> <a href="#0529">29</a> <a href="#05xx">xx</a>
+        <br>
+        June: <a href="#0603">3</a> <a href="#0604">4</a> <a href="#0610">10</a> <a href="#0611">11</a> <a href="#0617">17</a> <a href="#0618">18</a> <a href="#06xx">xx</a> <a href="#06yy">yy</a> <a href="#06zz">zz</a>
+        <br>
+        July: <a href="#0703">3</a> <a href="#0708">8</a> <a href="#0709">9</a> <a href="#0714">14</a> <a href="#0715">15</a> <a href="#0716">16</a> <a href="#0717">17</a> <a href="#0729">29</a> <a href="#0730">30</a> <a href="#0731">31</a> <a href="#07xx">xx</a>
+        <br>
+        August: <a href="#0805">5</a> <a href="#0806">6</a> <a href="#0807">7</a> <a href="#0812">12</a> <a href="#0813">13</a> <a href="#0819">19</a> <a href="#0820">20</a> <a href="#0826">26</a> <a href="#0827">27</a> <a href="#0828">28</a>
+        <br>
+        September: <a href="#0902">2</a> <a href="#0904">4</a> <a href="#0905">5</a> <a href="#0911">11</a> <a href="#0916">16</a> <a href="#0917">17</a> <a href="#0923">23</a> <a href="#0924">24</a>
+        <br>
+        October: <a href="#1002">2</a> <a href="#1006">6</a> <a href="#1007">7</a> <a href="#1008">8</a> <a href="#1008">8</a> <a href="#1009">9</a> <a href="#1014">14</a> <a href="#1015">15</a> <a href="#1016">16</a> <a href="#1021">21</a> <a href="#1022">22</a> <a href="#1023">23</a> <a href="#1026">26</a> <a href="#1028">28</a> <a href="#1029">29</a> <a href="#1031">31</a> <a href="#1031">31</a>
+        <br>
+        November: <a href="#1104">4</a> <a href="#1105">5</a> <a href="#1109">9</a> <a href="#1112">12</a> <a href="#1113">13</a> <a href="#1118">18</a> <a href="#1119">19</a> <a href="#1120">20</a> <a href="#1127">27</a> <a href="#1128">28</a> <a href="#1129">29</a> <a href="#1130">30</a>
+        <br>
+        December: <a href="#1201">1</a> <a href="#1202">2</a> <a href="#1209">9</a> <a href="#1210">10</a> <a href="#1211">11</a> <a href="#1212">12</a> <a href="#1214">14</a> <a href="#1220">20</a> <a href="#1221">21</a> <a href="#1223">23</a> <a href="#1224">24</a> <a href="#1228">28</a> <a href="#1229">29</a> <a href="#1230">30</a> <a href="#1231">31</a> <a href="#12xx">xx</a>
+      </p>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0107">
+              <a href="/1966-01-07">1/7/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-07*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              It's A Sin, Sick And Tired, Mindbender, On The Road Again, She Belongs To Me, I'll Go Crazy, Can't Come Down, Death Don't, Parchman Farm, Midnight Hour, The Only Time Is Now, Early Morning Rain, Baby Blue
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Baby Blue''; Only ''Can't Come Down''; First ''Death Don't''; Only ''Early Morning Rain''; Only ''I'll Go Crazy''; First ''It's A Sin''; First ''Midnight Hour''; First ''Mindbender''; First ''On The Road Again''; Only ''Parchman Farm''; First ''Rain''; First ''She Belongs To Me''; First ''Sick And Tired''; Only ''The Only Time Is Now''; Next ''She Belongs To Me'' 4/4/1985 [1543 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              This setlist came from Matrix soundman Peter Abram in 1983. As of 2010 no recording of this performance has surfaced, even though the other Matrix shows bearing setlists circulate.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0108">
+              <a href="/1966-01-08">1/8/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              King Bee, Hog For You Baby &gt; Caution &gt; Death Don't, Star Spangled Banner
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Caution''; First ''Hog For You Baby''; First ''King Bee''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Fillmore Acid Test. The Star Spangled Banner is done a-cappella.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0113">
+              <a href="/1966-01-13">1/13/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              All Of My Love, Hog For You Baby
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Only ''All Of My Love''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Actual date of list unknown.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0114">
+              <a href="/1966-01-14">1/14/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Appeal 3-benefit For S.F. Mime Troupe. Dead billed as "Grateful Dead, Formerly The Warlocks." Billing: The Great Society; The Mystery Trend; GD; The Gentlemen's Band.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0115">
+              <a href="/1966-01-15">1/15/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0116">
+              <a href="/1966-01-16">1/16/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0122">
+              <a href="/1966-01-22">1/22/1966 Longshoreman's Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Trips Festival. Also: Big Brother and The Holding Co. The Dead might not have performed due to Jerry's broken guitar.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0123">
+              <a href="/1966-01-23">1/23/1966 Longshoreman's Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Trips Festival.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0128">
+              <a href="/1966-01-28">1/28/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Big Brother and The Holding Co.; The Loading Zone.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0129">
+              <a href="/1966-01-29">1/29/1966 Sound City Acid Test, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0129">
+              <a href="/1966-01-29">1/29/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-01-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Otis*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Viola Lee Blues, I Know You Rider, Midnight Hour
+            </td>
+          </tr>
+          <tr>
+            <td>
+              * ends set. From undated vault reel labeled ï¿½Pauley Ballroom #2.ï¿½ This is definitely from before the Dead left for Los Angeles, but no date is known for a Pauley Ballroom gig at that time.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0205">
+              <a href="/1966-02-05">2/5/1966 The Questing Beast, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0206">
+              <a href="/1966-02-06">2/6/1966 Northridge Unitarian Church, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Tastebud, Mindbender, BIODTL
+            </td>
+          </tr>
+          <tr>
+            <td>
+              DeadLists states that, according to Bear, the Northridge Acid Test took place on Saturday February 19th, and that he ï¿½formallyï¿½ met the Dead at the Fillmore gig on February 11th. We are throwing this out as a possibility without any further evidence.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0210">
+              <a href="/1966-02-10">2/10/1966 The Cabale, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0211">
+              <a href="/1966-02-11">2/11/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Again, Bear claimed to have "formally" met the Dead at this gig, but there is no further evidence that it actually took place.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0212">
+              <a href="/1966-02-12">2/12/1966 Youth Opportunities Center, Compton, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Who Cares rap, rap and jam &gt; New Orleans, Twist and Shout
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Watts Acid Test. Garcia plays on Twist and Shout, contradicting reports that he did not play at all.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0223">
+              <a href="/1966-02-23">2/23/1966 , ,</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              There is no evidence that the Grateful Dead played anywhere on ths date, despite recordings that have circulated as such (most notably the first part of 05-19-66).
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0225">
+              <a href="/1966-02-25">2/25/1966 Ivar Theater, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              First ''Cold Rain''; First ''Hey Little One''; First ''I Know You Rider''; First ''Next Time''; First ''Stealin''; Next ''On The Road Again'' 12/1/1966 [75 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              The songs formerly listed with this show are actually from a later date and have been moved to "07-??-66 unknown location" (David Lemieux claims this as part of 03-12-66 along with part of 05-19-66, which is what appears in DeadLists). According to DeadLists, Bear identifies this night as the ï¿½Sunset Acid Test.ï¿½
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="02vv">
+              <a href="/1966-02-vv">2/vv/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-vv*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues x10
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal. Took place before the Dead left for Los Angeles. Contains criticism of Pig Pen's drinking from his bandmates.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="02ww">
+              <a href="/1966-02-ww">2/ww/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-ww*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Walking The Dog, You See A Broken Heart, Promised, NFA
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal. All tunes appear on "Rare Cuts and Oddities 1966" dated "early 1966." Jerry sings lead on "Promised." According to Ruth Pahkala, the tune was handed over to Pig Pen after a short time.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="02xx">
+              <a href="/1966-02-xx">2/xx/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Big Railroad Blues, Sick And Tired, Empty Heart
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Appears on "Rare Cuts and Oddities 1966" dated ï¿½February/March 1966.ï¿½
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="02yy">
+              <a href="/1966-02-yy">2/yy/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-yy*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              blues jam
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="02zz">
+              <a href="/1966-02-zz">2/zz/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-02-zz*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Good Lovin, Standing On The Corner, Cream Puff War
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Demo recording. These tunes appear on "Rare Cuts and Oddities 1966" dated "early 1966."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0302">
+              <a href="/1966-03-02">3/2/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-03-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Betty & Dupree, Stealin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal. Both tunes appear on "rare Cuts and Oddities 1966."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0303">
+              <a href="/1966-03-03">3/3/1966 A. I. A. A. Hall, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-03-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              With the film "Psychedelic Experience."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0312">
+              <a href="/1966-03-12">3/12/1966 Danish Center, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-03-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, One Kind Favor, I Know You Rider, You See A Broken Heart, It's A Sin, BIODTL, Heads Up, Next Time, blues jam, Death Don't, Midnight Hour
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''BIODTL''; First ''One Kind Favor''; First ''Viola Lee Blues''; Only ''You See A Broken Heart''; Next ''Death Don't'' 12/1/1966 [73 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              David Lemieux has provided the following that is posted for this date on DeadLists:Cream Puff War, Teddy Bear's Picnic, Sitting On Top Of The World, Minglewood, Cold Rain and Snow, Tastebud, Silver Threads, Baby Blue, Good Lovin', You Don't Have To Ask, On The Road Again, Next Time You See Me, I Know You Rider, Hey Little One, King Bee &gt;Caution, Stealin' However-Cream Puff War through You Donï¿½t Have to Ask are in the same order as on the 05-19-66 Avalon tape (when Lemieux posted this Good Lovinï¿½ online, it was the exact same version that circulates as 05-19), and the rest of it (which we previously dated as 02-25-66), sounds like itï¿½s from much later, probably July. Most sources, because of Lemieuxï¿½s list, have moved the above set to the Pico Acid Test on 03-19, but it sounds like a regular gig rather than an Acid Test.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0319">
+              <a href="/1966-03-19">3/19/1966 Carthay Studios, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-03-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Pico Acid Test, moved from U.C.L.A. at the last minute.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0325">
+              <a href="/1966-03-25">3/25/1966 Trooper's Club, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-03-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Stealin, Jam, Hey Little One, Hog For You Baby, Otis, Cold Rain, Next Time
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''You Don't Have To Ask''; Next ''Hog For You Baby'' 4/6/1971 [631 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              List incomplete. Above spelling of venue name is from the newspaper ad for this gig. An announcement made by Phil at this show has prompted DeadLists to add dates for an unknown location, or locations, on April 6 through 9. Philï¿½s commentary is cut before he announces what is actually happening on those dates, and even if he was announcing upcoming shows there is no further evidence that they were actually played.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0422">
+              <a href="/1966-04-22">4/22/1966 Longshoreman's Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-04-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              BIODTL, Schoolgirl&gt; You Don't Love Me&gt; Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Trips 196?" Festival - "Dress The Way You Are." Also: The Loading Zone; Celebrity Drop Ins and Trips Regulars. Recording circulates under several other dates.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0423">
+              <a href="/1966-04-23">4/23/1966 Longshoreman's Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-04-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Trips 196?" Festival - "Dress The Way You Are." Also: The Loading Zone; Celebrity Drop Ins and Trips Regulars.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0424">
+              <a href="/1966-04-24">4/24/1966 Longshoreman's Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-04-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              It's A Sin, Viola Lee Blues &gt; Teddy Bear's Picnic, Midnight Hour, BIODTL, blues jam*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Trips 196?" Festival - "Dress The Way You Are." Also: The Loading Zone; Celebrity Drop Ins and Trips Regulars. * with Jorma Kaukonen and Jack Casady.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0507">
+              <a href="/1966-05-07">5/7/1966 Harmon Gym, U. of California, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-07*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Midnight Hour
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Bill Kreutzmann's 20th birthday. "Peace Rock 3." Also: The Charlatans; The Great Sciety; Billy Moses Blues Band.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0514">
+              <a href="/1966-05-14">5/14/1966 Veterans Memorial Hall, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0519">
+              <a href="/1966-05-19">5/19/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: BIODTL, Standing On The Corner, Mindbender, Hurts Me Too, Viola Lee Blues, I Know You Rider, It's A Sin, Sick And Tired, Cream Puff War
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Teddy Bears' Picnic, Top Of The World, Minglewood, Cold Rain, Tastebud, Silver Threads, Baby Blue, Good Lovin, Otis
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Cream Puff War''; First ''Good Lovin''; First ''Hurts Me Too''; First ''Minglewood''; First ''Silver Threads''; First ''Standing On The Corner''; First ''Top Of The World''; Only ''Where My Baby''; Next ''Silver Threads'' 4/26/1969 [368 shows]; Final ''Mindbender''; Final ''Sick And Tired''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Straight Theater benefit. Also: The Wildflower; The Outfit. Cream Puff War through Otis appear on a vault tape dated 3/12/66.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0522">
+              <a href="/1966-05-22">5/22/1966 Rancho Olompali, Novato, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0525">
+              <a href="/1966-05-25">5/25/1966 Unknown Location, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charlatans. This may be 05-29-66.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0528">
+              <a href="/1966-05-28">5/28/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Hayfever." First Family Dog production with Dead. Also: The Leaves; The Grassroots. DeadLists also has the band playing the Avalon on 05-27 based on the weekendï¿½s poster, which a close examination of reveals a ribbon reading ï¿½Sat. onlyï¿½ between ï¿½Gratefulï¿½ and ï¿½Dead.ï¿½
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0529">
+              <a href="/1966-05-29">5/29/1966 California Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              LEMAR Benefit Ball - "Aid the end of marijuana prohibition." Also: The Charlatans.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="05xx">
+              <a href="/1966-05-xx">5/xx/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-05-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Don't Ease Me In, Tastebud
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0603">
+              <a href="/1966-06-03">6/3/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: QMS; GD; The Mothers.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0604">
+              <a href="/1966-06-04">6/4/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: QMS; GD; The Mothers.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0610">
+              <a href="/1966-06-10">6/10/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "The Quick and the Dead." Also: QMS; The New Tweedy Brothers.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0611">
+              <a href="/1966-06-11">6/11/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "The Quick and the Dead." Also: QMS; The New Tweedy Brothers.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0617">
+              <a href="/1966-06-17">6/17/1966 Veterans Hall, San Jose, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Jaywalkers.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0618">
+              <a href="/1966-06-18">6/18/1966 Veterans Hall, San Jose, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Jaywalkers.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="06xx">
+              <a href="/1966-06-xx">6/xx/1966 U. of Ca. Medical Center, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              LSD Conference.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="06yy">
+              <a href="/1966-06-yy">6/yy/1966 Pauley Ballroom, U. of California, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-yy*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              June or July.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="06zz">
+              <a href="/1966-06-zz">6/zz/1966 Buena Vista Studios, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-06-zz*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Stealin x4, I Know You Rider, Don't Ease x15, Otis On A Shakedown Cruise x3, No Left Turn Unstoned x5, Stealin, I Know You Rider, Tastebud x2, Cold Rain x2
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Studio session for what would have been the Dead's first LP, titled "No Left Turn Unstoned." Much of this material appears on "Birth of the Dead," and some circulates mislabeled "Questing Beast 02-05-66."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0703">
+              <a href="/1966-07-03">7/3/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dancin, I Know You Rider, Just A Hand To Hold, Next Time, Viola Lee Blues, Big Boss Man, Top Of The World, Gangster Of Love*, Minglewood, Cold Rain, Unknown, BIODTL, Cream Puff War, Don't Mess Up A Good Thing
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Big Boss Man''; First ''Dancin''; First ''He Was A Friend''; Only ''It's A Good Thing''; First ''Unknown''; Next ''Unknown'' 12/7/1968 [294 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Independence Ball." Billing: Love; GD; Group B. * appears on Rare Cuts and Oddities 1966. Gangster of Love might actually come after Cold Rain, and the unknown tune before Minglewood. Recordings of this show have circulated with the "Stealin" and "Don't Ease Me In" from the band's first 45, "Overseas Stomp" from "Historic Dead," and "Baby Blue" from "Vintage Dead" tacked onto the end. In addition, the legitimate material from this show has circulated misdated 09-04-66.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0708">
+              <a href="/1966-07-08">7/8/1966 Santa Venetia Armory, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0709">
+              <a href="/1966-07-09">7/9/1966 Santa Venetia Armory, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0714">
+              <a href="/1966-07-14">7/14/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "A Pleasure Dome" - Presented By The San Francisco Calliope Co. Billing: Hindustani Jazz Sextet; GD; Big Brother and The Holding Co.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0715">
+              <a href="/1966-07-15">7/15/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              One Kind Favor, Keep Rolling By*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Jefferson Airplane; GD. *ends set. These tunes appear on Birth of the Dead. Their date is uncertain but is likely since the Jefferson Airplane performed afterwards, neither tune is included in the 7/16 and 7/17 tapes, and Bear was no longer recording by the time of the two bandsï¿½ next joint billing.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0716">
+              <a href="/1966-07-16">7/16/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: I Know You Rider, Big Boss Man*, Standing On The Corner*, BIODTL, In The Pines*, No Left Turn Unstoned, Nobody's Fault*, Next Time*, Just A Hand To Hold*, Cream Puff War**
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Viola Lee Blues*, Don't Ease* &gt; Pain In My Heart*, Minglewood &gt; Top Of The World*, Otis**, Cold Rain &gt; Schoolgirl, Baby Blue*, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              III: Midnight Hour***
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Don't Ease''; First ''Pain In My Heart''; Next ''Don't Ease'' 6/6/1967 [118 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Jefferson Airplane; GD.***with Joan Baez and Mimi Farina. * appears on Birth of the Dead. ** appears on So Many Roads (1965-1995). Encore is not on circulating tape and may have been performed on another date.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0717">
+              <a href="/1966-07-17">7/17/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I:
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Big Boss Man, Cold Rain, Baby Blue, Cream Puff War, King Bee*, Stealin', Dancin'
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Cardboard Cowboy''; Only ''In The Pines''; First ''Nobody's Fault''; Next ''Nobody's Fault'' 9/24/1973 [796 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert (2:00 PM). Billing: Jefferson Airplane; GD. Above is all or most of second set; the first reel of this show is no longer playable. * appears on Birth of the Dead.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0729">
+              <a href="/1966-07-29">7/29/1966 P.N.E. Garden Auditorium, Vancouver, B.C., Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dancin, Cold Rain, King Bee &gt; One Kind Favor, Otis, Hey Little One, BIODTL, Schoolgirl, Minglewood
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Final ''Hey Little One''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              British Columbia Festival - Trips Festival. List may be incomplete and may belong to the 30th.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0730">
+              <a href="/1966-07-30">7/30/1966 P.N.E. Garden Auditorium, Vancouver, B.C., Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Standing On The Corner, I Know You Rider, Next Time, Top Of The World, Otis, Big Boss Man, Stealin, No Left Turn Unstoned, Baby Blue, Cream Puff War
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Viola Lee Blues, BIODTL, Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Next ''Top Of The World'' 3/26/1968 [204 shows]; Final ''Cardboard Cowboy''; Final ''Standing On The Corner''; Final ''You Don't Have To Ask''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              British Columbia Festival - Trips Festival. List may be incomplete and may belong to the 29th.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0731">
+              <a href="/1966-07-31">7/31/1966 P.N.E. Garden Auditorium, Vancouver, B.C., Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              British Columbia Festival - Trips Festival.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="07xx">
+              <a href="/1966-07-xx">7/xx/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-07-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              On The Road Again*, Next Time, I Know You Rider, Hey Little One**, Cold Rain &gt; King Bee** &gt; Caution**, Stealin'
+            </td>
+          </tr>
+          <tr>
+            <td>
+              * appears on So Many Roads (1965-1995). ** appears on Rare Cuts and Oddities 1966. This material exists on a vault tape dated 3/12/66, but sounds more like itï¿½s from about July.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0805">
+              <a href="/1966-08-05">8/5/1966 Afterthought, Vancouver, B.C., Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0806">
+              <a href="/1966-08-06">8/6/1966 Afterthought, Vancouver, B.C., Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0807">
+              <a href="/1966-08-07">8/7/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-07*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Children's Adventure Day Camp benefit. The Dead are listed on the poster, the event took place, but the Dead did not perform.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0812">
+              <a href="/1966-08-12">8/12/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Jefferson Airplane; GD.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0813">
+              <a href="/1966-08-13">8/13/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Jefferson Airplane; GD.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0819">
+              <a href="/1966-08-19">8/19/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Sopwith Camel.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0820">
+              <a href="/1966-08-20">8/20/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Sopwith Camel.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0826">
+              <a href="/1966-08-26">8/26/1966 I.D.E.S. Hall, Pescadero, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The poster for the Tour Del Mar Bicycle Race and Folk-Rock Festival lists shows on August 26, 27, and 28.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0827">
+              <a href="/1966-08-27">8/27/1966 I.D.E.S. Hall, Pescadero, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Tour Del Mar Bicycle Race and Folk-Rock Festival." Also: QMS; Collosal Pomegranate.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0828">
+              <a href="/1966-08-28">8/28/1966 I.D.E.S. Hall, Pescadero, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-08-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Tour Del Mar Bicycle Race and Folk-Rock Festival." Also: QMS; Collosal Pomegranate.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0902">
+              <a href="/1966-09-02">9/2/1966 La Dolphine, Hillsborough, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Debutante dance.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0904">
+              <a href="/1966-09-04">9/4/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; QMS; The Great Society - first Grateful Dead headline at the Fillmore.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0905">
+              <a href="/1966-09-05">9/5/1966 Rancho Olompali, Novato, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0911">
+              <a href="/1966-09-11">9/11/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              BOTH/AND Jazz Club Benefit - "Gigantic All-Night Jazz/Rock Dance-Concert." Billing: John Hendricks Trio; Elvin Jones; Joe Henderson Quartet; Big Mama Mae Thornton; Denny Zeitlin Trio; Jefferson Airplane; The Great Society; The Wildflower; GD.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0916">
+              <a href="/1966-09-16">9/16/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I Know You Rider, Hurts Me Too, Baby Blue, Schoolgirl, Overseas Stomp, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Midnight Hour
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Lindy''; Next ''Baby Blue'' 6/6/1967 [101 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Oxford Circle. Actual date for list unknown, but the venue is accurate - first Kelly/Mouse skull and roses design for poster.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0917">
+              <a href="/1966-09-17">9/17/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Oxford Circle.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0923">
+              <a href="/1966-09-23">9/23/1966 Pioneer Ballroom, Suisun City, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The 13 Experience.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0924">
+              <a href="/1966-09-24">9/24/1966 Pioneer Ballroom, Suisun City, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-09-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The 13 Experience.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1002">
+              <a href="/1966-10-02">10/2/1966 Commons, S. F. State College, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              San Francisco State Trips Festival. Friday 3:00 PM to Sunday 3:00 PM. Also: Mimi Farina; The Only Alternative; The Committee; Congress Of Wonders.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1006">
+              <a href="/1966-10-06">10/6/1966 Golden Gate Park, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Alice D. Millionaire
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Alice D. Millionaire''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Love Pageant Rally" - LSD rally. Since there seems to be some question about whether the Dead actually played this event, we will point out that a Gene Anthony photo of the band playing here appears in both of his books and is identified as such in the firstï¿½"The Summer of Love."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1007">
+              <a href="/1966-10-07">10/7/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-07*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Butterfield Blues Band; Jefferson Airplane; GD. The exact venue of these performances has been the subject of debate since we changed their location. Yes, they were scheduled for Winterland (which, contrary to Terry Dohertyï¿½s statement in the Internet Archive, did exist as a concert venue by this time) as listed on the poster, but Ralph Gleasonï¿½s column in the San Francisco Chronicle the morning of October 7 mentioned these shows as taking place at the Fillmore. On the same page, the Chronicleï¿½s ï¿½Datebookï¿½ lists this billing as ï¿½opening todayï¿½ at Fillmore Auditorium and specifically states that the shows were ï¿½switched from Winterland.ï¿½ The week before, Bill Graham had moved the Butterfield-Airplane-Muddy Waters shows at Winterland to the Fillmore to prove that he wouldnï¿½t back down to racial unrest in the surrounding neighborhood.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1008">
+              <a href="/1966-10-08">10/8/1966 Mt. Tamalpais Amphitheatre, Marin County, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon Peace Benefit - also: Bola Sete; QMS.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1008">
+              <a href="/1966-10-08">10/8/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Butterfield Blues Band; Jefferson Airplane; GD. The exact venue of these performances has been the subject of debate since we changed their location. Yes, they were scheduled for Winterland (which, contrary to Terry Dohertyï¿½s statement in the Internet Archive, did exist as a concert venue by this time) as listed on the poster, but Ralph Gleasonï¿½s column in the San Francisco Chronicle the morning of October 7 mentioned these shows as taking place at the Fillmore. On the same page, the Chronicleï¿½s ï¿½Datebookï¿½ lists this billing as ï¿½opening todayï¿½ at Fillmore Auditorium and specifically states that the shows were ï¿½switched from Winterland.ï¿½ The week before, Bill Graham had moved the Butterfield-Airplane-Muddy Waters shows at Winterland to the Fillmore to prove that he wouldnï¿½t back down to racial unrest in the surrounding neighborhood.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1009">
+              <a href="/1966-10-09">10/9/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert (2:00 PM). Billing: Butterfield Blues Band; Jefferson Airplane; GD.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1014">
+              <a href="/1966-10-14">10/14/1966 TMU Deck, Stanford University, Palo Alto, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1015">
+              <a href="/1966-10-15">10/15/1966 The Heliport, Sausalito, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1016">
+              <a href="/1966-10-16">10/16/1966 Golden Gate Park, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Artist's Liberation Front free festival. Bob Weir's 19th birthday.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1021">
+              <a href="/1966-10-21">10/21/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Lightning Hopkins; either The Loading Zone or Chocolate Watchband.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1022">
+              <a href="/1966-10-22">10/22/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Lightning Hopkins; either The Loading Zone or Chocolate Watchband.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1023">
+              <a href="/1966-10-23">10/23/1966 Las Lomas High School, Walnut Creek, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Originally scheduled for Walnut Creek Library. Showtime: 3 PM.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1026">
+              <a href="/1966-10-26">10/26/1966 The North Face Ski Shop, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1028">
+              <a href="/1966-10-28">10/28/1966 St. Mary's College, Moraga, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1029">
+              <a href="/1966-10-29">10/29/1966 (unknown), Santa Clara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1031">
+              <a href="/1966-10-31">10/31/1966 California Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Alice D. Millionaire
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Dance of Death Costume Ball." Also: QMS; Mimi Farina.The Dead did not play the Acid Test Graduation that took place at the Calliope Warehouse in San Francisco the same night.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1031">
+              <a href="/1966-10-31">10/31/1966 Calliope Warehouse, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-10-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1104">
+              <a href="/1966-11-04">11/4/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Oxford Circle. The handbill for this weekend lists the dates for the shows as November 3 and 4, while the poster shows them correctly as the 4th and 5th. The Family Dog shows at the Avalon customarily took place on Friday and Saturday nights at this time. Apparently Mouse and Kelley made a mistake on the poster artwork (just as they did on the Daily Flash-Country Joe & the Fish poster two weeks earlier), and the handbills were printed before this was corrected.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1105">
+              <a href="/1966-11-05">11/5/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Oxford Circle. The handbill for this weekend lists the dates for the shows as November 3 and 4, while the poster shows them correctly as the 4th and 5th. The Family Dog shows at the Avalon customarily took place on Friday and Saturday nights at this time. Apparently Mouse and Kelley made a mistake on the poster artwork (just as they did on the Daily Flash-Country Joe & the Fish poster two weeks earlier), and the handbills were printed before this was corrected.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1109">
+              <a href="/1966-11-09">11/9/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1112">
+              <a href="/1966-11-12">11/12/1966 The Old Cheese Factory, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Anniversary Party." Also: Andrew Staples.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1113">
+              <a href="/1966-11-13">11/13/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "A Zenefit" - Zen Mountain Center Benefit. Also: QMS; Big Brother and The Holding Co.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1118">
+              <a href="/1966-11-18">11/18/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; James Cotton Blues Band; Lothar and The Hand People.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1119">
+              <a href="/1966-11-19">11/19/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Cold Rain, Hi-Heel Sneakers, Pain In My Heart, BIODTL, Cream Puff War, Same Thing, Just Hand To Hold, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Smokestack &gt; King Bee, Midnight Hour
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Hi-Heel Sneakers''; First ''Same Thing''; First ''Smokestack''; Next ''Midnight Hour'' 6/6/1967 [77 shows]; Final ''Pain In My Heart''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; James Cotton Blues Band; Lothar and The Hand People. 11 beat "BIODTL." "Cold Rain," "Hi-Heel Sneakers," "Smokestack," and "King Bee" have sometimes circulated, in whole or in part, dated 02-12-67. In addition, "Cold Rain" and the "Morning Dew" which usually circulates as part of the 01-14-67 Be-In set used to be commonly tacked onto the beginning of the recording now properly identified as 10-12-68.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1120">
+              <a href="/1966-11-20">11/20/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Student Non-Violent Coordinating Comittee benefit - 3:00 PM to 12:00 AM. Billing: GD; James Cotton Blues Band; Lothar and The Hand People; QMS; Johnny Talbot and De Thangs.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1127">
+              <a href="/1966-11-27">11/27/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Private Thanksgiving party, postponed from the 23rd. Also: QMS; The Wildflower.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1128">
+              <a href="/1966-11-28">11/28/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jerry Pond.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1129">
+              <a href="/1966-11-29">11/29/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Me and My Uncle, Same Thing, Stealin, Big Boy Pete, One Kind Favor, Early Morning Rain, Cold Rain, Viola Lee Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Down So Long, Something On Your Mind, Overseas Stomp, Schoolgirl, I Just Want
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Big Boy Pete''; First ''Down So Long''; First ''I Just Want''; First ''Me and My Uncle''; First ''Something On Your Mind''; Next ''I Just Want'' 7/22/1984 [1419 shows]; Final ''Stealin''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jerry Pond. "Merry-Go-Round Broke Down" tuning after "I Just Want."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1130">
+              <a href="/1966-11-30">11/30/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-11-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jerry Pond.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1201">
+              <a href="/1966-12-01">12/1/1966 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Minglewood, Betty and Dupree, Next Time, I Know You Rider, Big Boss Man, One Kind Favor, Alice D. Millionaire, Me and My Uncle, Cream Puff War
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: You Don't Love Me, BIODTL, Hurts Me Too, On The Road Again, Yonder's Wall*, My Own Fault*, Down So Long, Cold Rain, Viola Lee Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              III: Deep Elem, Something On Your Mind, Big Boy Pete, Death Don't, Overseas Stomp, Dancin, Me and My Uncle
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Only ''Betty and Dupree''; First ''Deep Elem''; Only ''My Own Fault''; First ''Yonder's Wall''; Only ''You Don't Love Me''; Next ''Yonder's Wall'' 10/9/1968 [218 shows]; Final ''Alice D. Millionaire''; Final ''Down So Long''; Final ''Lindy''; Final ''One Kind Favor''; Final ''Something On Your Mind''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jerry Pond. *with unidentified guest. Flase start on first "Me and My Uncle." "Merry-Go-Round Broke Down" tuning after second "Me and My Uncle."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1202">
+              <a href="/1966-12-02">12/2/1966 Pauley Ballroom, U. of California, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Danse Macabre." Also: Country Joe and The Fish.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1209">
+              <a href="/1966-12-09">12/9/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Big Mama Mae Thornton; Tim Rose.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1210">
+              <a href="/1966-12-10">12/10/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Big Mama Mae Thornton; Tim Rose.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1211">
+              <a href="/1966-12-11">12/11/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert (2:00 PM).Also: Big Mama Mae Thornton; Tim Rose.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1212">
+              <a href="/1966-12-12">12/12/1966 San Francisco Civic Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Dead were supposed to have opened for the Beach Boys, but the Jefferson Airplane got the gig instead.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1214">
+              <a href="/1966-12-14">12/14/1966 Gym, College of Marin, Kentfield, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              According to the Lost Live Dead blog, the Dead played here either this night or the next with the Sons of Champlin, as per an eyewitness.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1220">
+              <a href="/1966-12-20">12/20/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Otis Redding; GD.; The Grateful Dead's 100th Show; Jerry Garcia's 100th Show; Bob Weir's 100th Show; Bill Kreutzmann's 100th Show; Ron McKernan's 100th Show
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1221">
+              <a href="/1966-12-21">12/21/1966 Continental Ballroom, Santa Clara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1223">
+              <a href="/1966-12-23">12/23/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Moby Grape; Steve Miller Blues Band.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1224">
+              <a href="/1966-12-24">12/24/1966 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Moby Grape; Steve Miller Blues Band.; Phil Lesh's 100th Show
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1228">
+              <a href="/1966-12-28">12/28/1966 Governor's Hall, Sacramento, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Beaux Arts Ball." Also: QMS.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1229">
+              <a href="/1966-12-29">12/29/1966 Santa Venetia Armory, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Moby Grape; Morning Glory.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1230">
+              <a href="/1966-12-30">12/30/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Jefferson Airplane; GD; QMS.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1231">
+              <a href="/1966-12-31">12/31/1966 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "New Year's Bash" - first Bill Graham New Year's show. Billing: Jefferson Airplane; GD; QMS.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="12xx">
+              <a href="/1966-12-xx">12/xx/1966 (unknown), (unknown), CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1966-12-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Silver Threads.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Demo recording. Tune appears on "Rare Cuts and Oddities 1966" dated "late 1966."
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>
 </html>

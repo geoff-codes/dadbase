@@ -1,143 +1,2822 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Dancin In The Streets</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Dancin In The Streets</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>11/30/1999</td><td>San Rafael, CA (Le Club Front)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2787</td><td>[<a href="/0000-00-00">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/3/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>I Know You Ride</td><td align="center">-2736</td><td>[<a href="/1966-07-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/29/1966</td><td>B.C., Canada (P.N.E. Garden Auditorium, Vancou...)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">7</td><td>[<a href="/1966-07-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/16/1966</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">*</td><td>Overseas Stomp</td><td>&mdash;&mdash;</td><td align="center">15</td><td>[<a href="/1966-09-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/19/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">SI</td><td>Just Hand To Ho</td><td>&mdash;&mdash;</td><td align="center">24</td><td>[<a href="/1966-11-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/1/1966</td><td>San Francisco, CA (The Matrix)</td><td align="center">SIII</td><td>Overseas Stomp</td><td>Me  and  My Unc</td><td align="center">6</td><td>[<a href="/1966-12-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/18/1967</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>BIODTL</td><td>&mdash;&mdash;</td><td align="center">38</td><td>[<a href="/1967-03-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/6/1967</td><td>Montreal, Canada (Place Ville Marie)</td><td align="center">*</td><td>Alligator</td><td>&mdash;&mdash;</td><td align="center">57</td><td>[<a href="/1967-08-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/3/1967</td><td>Rio Nido, CA (Dance Hall)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Hurts Me Too</td><td align="center">10</td><td>[<a href="/1967-09-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/29/1967</td><td>San Francisco, CA (Straight Theater)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1967-09-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/3/1968</td><td>San Francisco, CA (Haight Street)</td><td align="center">*</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">34</td><td>[<a href="/1968-03-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/31/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">*</td><td>BIODTL</td><td>Caution</td><td align="center">12</td><td>[<a href="/1968-03-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/8/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Just A Hand To </td><td align="center">160</td><td>[<a href="/1969-06-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/2/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Casey Jones</td><td>Dark Star</td><td align="center">54</td><td>[<a href="/1969-11-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/5/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Cosmic Charlie</td><td>Dire Wolf</td><td align="center">6</td><td>[<a href="/1969-12-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/7/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Easy Wind</td><td>Good Lovin</td><td align="center">1</td><td>[<a href="/1969-12-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/11/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>High Time</td><td>Easy Wind</td><td align="center">2</td><td>[<a href="/1969-12-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/29/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SII</td><td>Good Lovin</td><td>Dire Wolf</td><td align="center">8</td><td>[<a href="/1969-12-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/31/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SII</td><td>Slewfoot</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1969-12-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/3/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Good Lovin</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1970-01-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/16/1970</td><td>Portland, OR (Springer's Inn)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Alligator</td><td align="center">2</td><td>[<a href="/1970-01-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/18/1970</td><td>Portland, OR (Springer's Inn)</td><td align="center">*</td><td>Black Peter</td><td>Me  and  My Unc</td><td align="center">2</td><td>[<a href="/1970-01-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/24/1970</td><td>Honolulu, HI (Honolulu Civic Auditorium)</td><td align="center">*</td><td>Good Lovin</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1970-01-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/6/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Hard To Handle</td><td>Casey Jones</td><td align="center">7</td><td>[<a href="/1970-02-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/14/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Katie Mae</td><td>China Cat</td><td align="center">9</td><td>[<a href="/1970-02-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/27/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Mama Tried</td><td>Easy Wind</td><td align="center">5</td><td>[<a href="/1970-02-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/1/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">SII</td><td>Uncle John</td><td>Baby Blue</td><td align="center">2</td><td>[<a href="/1970-03-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/21/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">*</td><td>Casey Jones</td><td>Easy Wind</td><td align="center">7</td><td>[<a href="/1970-03-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/3/1970</td><td>Cincinnati, OH (Field House, U. of Cincinnati)</td><td align="center">*</td><td>Hard To Handle</td><td>Me  and  My Unc</td><td align="center">2</td><td>[<a href="/1970-04-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/10/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>It's A Man's Wo</td><td>High Time</td><td align="center">2</td><td>[<a href="/1970-04-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/15/1970</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Dire Wolf</td><td>Lovelight</td><td align="center">3</td><td>[<a href="/1970-04-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/2/1970</td><td>Binghamton, NY (Harpur College, S.U.N.Y.)</td><td align="center">SII</td><td>It's A Man's Wo</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1970-05-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/6/1970</td><td>Cambridge, MA (Kresge Plaza, M.I.T.)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>China Cat</td><td align="center">2</td><td>[<a href="/1970-05-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/8/1970</td><td>Delhi, NY (Farrell Hall, S.U.C.N.Y.)</td><td align="center">*</td><td>Dark Star</td><td>Good Lovin</td><td align="center">2</td><td>[<a href="/1970-05-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/6/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Casey Jones</td><td>Next Time</td><td align="center">12</td><td>[<a href="/1970-06-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/12/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Other One</td><td>Lovelight</td><td align="center">16</td><td>[<a href="/1970-07-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/18/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Next Time</td><td align="center">6</td><td>[<a href="/1970-08-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/18/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Operator</td><td>St. Stephen</td><td align="center">6</td><td>[<a href="/1970-09-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/5/1970</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Good Lovin</td><td>Lovelight.</td><td align="center">6</td><td>[<a href="/1970-10-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/11/1970</td><td>Wayne, NJ (Marion Shea Aud., Paterson State Co...)</td><td align="center">*</td><td>Till The Mornin</td><td>Candyman</td><td align="center">2</td><td>[<a href="/1970-10-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/24/1970</td><td>St. Louis, MO (Kiel Opera House)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Hurts Me Too</td><td align="center">6</td><td>[<a href="/1970-10-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1970</td><td>Stony Brook, NY (Gym, S.U.N.Y.)</td><td align="center">*</td><td>Hurts Me Too</td><td>Big RxR Blues</td><td align="center">2</td><td>[<a href="/1970-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>The Main Ten</td><td>NFA</td><td align="center">6</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/21/1970</td><td>Boston, MA (Sargent Gym, Boston University)</td><td align="center">*</td><td>Good Lovin</td><td>St. Stephen</td><td align="center">9</td><td>[<a href="/1970-11-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/22/1970</td><td>Sacramento, CA (Sacramento Memorial Auditorium)</td><td align="center">SII</td><td>Truckin</td><td>Lovelight</td><td align="center">6</td><td>[<a href="/1970-12-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/31/1971</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Mr. Charlie</td><td align="center">87</td><td>[<a href="/1971-12-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/3/1976</td><td>Portland, OR (Paramount Theater)</td><td align="center">SI</td><td>Scarlet</td><td>&mdash;&mdash;</td><td align="center">203</td><td>[<a href="/1976-06-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/4/1976</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Stella Blue</td><td>U. S. Blues</td><td align="center">1</td><td>[<a href="/1976-06-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/9/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Roses</td><td>Wharf Rat</td><td align="center">1</td><td>[<a href="/1976-06-09">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/10/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Playin</td><td>U. S. Blues</td><td align="center">1</td><td>[<a href="/1976-06-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/11/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>St. Stephen</td><td>Music</td><td align="center">1</td><td>[<a href="/1976-06-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/12/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Comes A Time </td><td>Around</td><td align="center">1</td><td>[<a href="/1976-06-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/14/1976</td><td>New York, NY (Beacon Theatre)</td><td align="center">SII</td><td>Drums</td><td>Cosmic Charlie</td><td align="center">1</td><td>[<a href="/1976-06-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/15/1976</td><td>New York, NY (Beacon Theatre)</td><td align="center">SII</td><td>FOTD</td><td>Wheel</td><td align="center">1</td><td>[<a href="/1976-06-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/17/1976</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>Franklin's</td><td>Samson</td><td align="center">1</td><td>[<a href="/1976-06-17">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/19/1976</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>Let It Grow</td><td>Cosmic Charlie</td><td align="center">2</td><td>[<a href="/1976-06-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/21/1976</td><td>Upper Darby, PA (Tower Theatre)</td><td align="center">SII</td><td>Franklin's</td><td>Wharf Rat</td><td align="center">1</td><td>[<a href="/1976-06-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/22/1976</td><td>Upper Darby, PA (Tower Theatre)</td><td align="center">SIII</td><td>Eyes</td><td>Around</td><td align="center">1</td><td>[<a href="/1976-06-22">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/23/1976</td><td>Upper Darby, PA (Tower Theatre)</td><td align="center">SII</td><td>Drums</td><td>Wheel</td><td align="center">1</td><td>[<a href="/1976-06-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/24/1976</td><td>Upper Darby, PA (Tower Theatre)</td><td align="center">SII</td><td>Wharf Rat</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1976-06-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/28/1976</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SII</td><td>Drums</td><td>Wheel</td><td align="center">3</td><td>[<a href="/1976-06-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/12/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">SII</td><td>Franklin's</td><td>Wharf Rat</td><td align="center">2</td><td>[<a href="/1976-07-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/13/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1976-07-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/4/1976</td><td>Jersey City, NJ (Roosevelt Stadium)</td><td align="center">SII</td><td>Franklin's</td><td>Wheel</td><td align="center">6</td><td>[<a href="/1976-08-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/29/1976</td><td>San Rafael, CA (Le Club Front)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">1825</td><td>[<a href="/1976-08-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/23/1976</td><td>Durham, NC (Cameron Indoor Stadium, Duke U.)</td><td align="center">SII</td><td>High Time</td><td>Wharf Rat</td><td align="center">-1824</td><td>[<a href="/1976-09-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/25/1976</td><td>Landover, MD (Capital Centre)</td><td align="center">SII</td><td>Half Step</td><td>Cosmic Charlie</td><td align="center">2</td><td>[<a href="/1976-09-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/28/1976</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SII</td><td>Orange Tango Ja</td><td>Playin</td><td align="center">2</td><td>[<a href="/1976-09-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/1/1976</td><td>Indianapolis, IN (Market Square Arena)</td><td align="center">SII</td><td>Franklin's<br>Ship Of Fools</td><td>Drums<br>GDTRFB</td><td align="center">2</td><td>[<a href="/1976-10-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/2/1976</td><td>Cincinnati, OH (River Front Coliseum)</td><td align="center">SII</td><td>FOTD</td><td>Drums</td><td align="center">1</td><td>[<a href="/1976-10-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/3/1976</td><td>Detroit, MI (Cobo Arena)</td><td align="center">SII</td><td>Comes A Time<br>NFA</td><td>NFA<br>Around</td><td align="center">1</td><td>[<a href="/1976-10-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/10/1976</td><td>Oakland, CA (Oakland Coliseum Stadium)</td><td align="center">SI</td><td>FOTD<br>Wharf Rat</td><td>Wharf Rat<br>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1976-10-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/14/1976</td><td>Los Angeles, CA (Shrine Auditorium)</td><td align="center">SII</td><td>Ship Of Fools<br>Wharf Rat</td><td>Wharf Rat<br>Around</td><td align="center">1</td><td>[<a href="/1976-10-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/17/1977</td><td>(unknown), CA ((unknown))</td><td align="center">*</td><td>Samson</td><td>Sunrise</td><td align="center">1815</td><td>[<a href="/1977-02-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/26/1977</td><td>San Bernardino, CA (Swing Auditorium)</td><td align="center">SII</td><td>Eyes</td><td>Around</td><td align="center">-1812</td><td>[<a href="/1977-02-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/19/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Eyes</td><td>Wharf Rat</td><td align="center">3</td><td>[<a href="/1977-03-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/22/1977</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Roses<br>Mojo</td><td>Mojo<br>Wheel</td><td align="center">2</td><td>[<a href="/1977-04-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/26/1977</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>Half Step</td><td>Drums</td><td align="center">3</td><td>[<a href="/1977-04-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/1/1977</td><td>New York, NY (The Palladium)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>B. E. Women</td><td align="center">4</td><td>[<a href="/1977-05-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/4/1977</td><td>New York, NY (The Palladium)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1977-05-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/15/1977</td><td>St. Louis, MO (St. Louis Arena)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1977-05-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/19/1977</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1977-05-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/22/1977</td><td>Pembroke Pines, FL (Sportatorium)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1977-05-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/1/1977</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Eyes</td><td>Drums</td><td align="center">11</td><td>[<a href="/1977-10-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/7/1978</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SII</td><td>Jack Straw</td><td>Samson</td><td align="center">23</td><td>[<a href="/1978-01-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/13/1978</td><td>Santa Barbara, CA (Arlington Theater)</td><td align="center">SII</td><td>Sunrise</td><td>Drums</td><td align="center">4</td><td>[<a href="/1978-01-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/4/1978</td><td>Milwaukee, WI (Milwaukee Auditorium)</td><td align="center">SII</td><td>Dupree's </td><td>Terrapin</td><td align="center">10</td><td>[<a href="/1978-02-04">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/10/1978</td><td>Atlanta, GA (Fox Theatre)</td><td align="center">SII</td><td>Ship Of Fools</td><td>Drumz</td><td align="center">5</td><td>[<a href="/1978-04-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/14/1978</td><td>Blacksburg, VA (Cassell Coliseum, Virginia Pol...)</td><td align="center">SII</td><td>Ship Of Fools</td><td>Drumz</td><td align="center">3</td><td>[<a href="/1978-04-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/18/1978</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SII</td><td>Scarlet</td><td>Drumz</td><td align="center">3</td><td>[<a href="/1978-04-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/9/1978</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SII</td><td>Ship Of Fools</td><td>Drumz</td><td align="center">8</td><td>[<a href="/1978-05-09">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/17/1978</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SII</td><td>FOTD</td><td>Drumz</td><td align="center">6</td><td>[<a href="/1978-05-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/3/1978</td><td>St. Paul, MN (St. Paul Civic Center Arena)</td><td align="center">SII</td><td>Fire</td><td>Drumz</td><td align="center">4</td><td>[<a href="/1978-07-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/7/1978</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SII</td><td>Fire</td><td>Drumz</td><td align="center">2</td><td>[<a href="/1978-07-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/20/1978</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>Franklin's</td><td>Drumz</td><td align="center">10</td><td>[<a href="/1978-10-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/16/1978</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Stagger Lee</td><td>Deal</td><td align="center">5</td><td>[<a href="/1978-11-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/23/1978</td><td>Landover, MD (Capital Centre)</td><td align="center">SII</td><td>FOTD</td><td>Terrapin</td><td align="center">5</td><td>[<a href="/1978-11-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/12/1979</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Roses</td><td>Drumz</td><td align="center">19</td><td>[<a href="/1979-01-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/7/1979</td><td>Carbondale, IL (SIU Arena, U. of Southern Illi...)</td><td align="center">*</td><td>Stagger Lee</td><td>Drumz</td><td align="center">10</td><td>[<a href="/1979-02-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/5/1979</td><td>Baltimore, MD (Baltimore Civic Center)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1979-05-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/27/1979</td><td>South Yarmouth, MA (Cape Cod Coliseum)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">23</td><td>[<a href="/1979-10-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/30/1979</td><td>Pittsburgh, PA (Stanley Theatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Deal</td><td align="center">15</td><td>[<a href="/1979-11-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/10/1979</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Franklin's</td><td align="center">7</td><td>[<a href="/1979-12-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/7/1981</td><td>Kansas City, MO (Kansas City Municipal Auditor...)</td><td align="center">SI</td><td>Bertha</td><td>Big RxR Blues</td><td align="center">128</td><td>[<a href="/1981-07-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/24/1984</td><td>Saratoga, NY (Saratoga Performing Arts Center)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dire Wolf</td><td align="center">203</td><td>[<a href="/1984-06-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/15/1984</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bird Song</td><td align="center">12</td><td>[<a href="/1984-07-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/22/1984</td><td>Ventura, CA (County Fairgrounds)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">2</td><td>[<a href="/1984-07-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/9/1984</td><td>Worcester, MA (The Centrum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>FOTD</td><td align="center">4</td><td>[<a href="/1984-10-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/18/1984</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SII</td><td>&mdash;&mdash;</td><td>Touch</td><td align="center">6</td><td>[<a href="/1984-10-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1984</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dire Wolf</td><td align="center">4</td><td>[<a href="/1984-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/7/1985</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Bird Song</td><td>Deal</td><td align="center">26</td><td>[<a href="/1985-04-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/27/1985</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Bertha</td><td align="center">4</td><td>[<a href="/1985-04-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/14/1985</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>West L. A.</td><td align="center">2</td><td>[<a href="/1985-06-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/1/1985</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dupree's</td><td align="center">10</td><td>[<a href="/1985-07-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/1/1985</td><td>Richmond, VA (Richmond Coliseum)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Cold Rain</td><td align="center">21</td><td>[<a href="/1985-11-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/7/1985</td><td>Rochester, NY (Community War Memorial)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Dire Wolf</td><td align="center">4</td><td>[<a href="/1985-11-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/11/1986</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SI</td><td>Gimme Some Lovi</td><td>Good Times</td><td align="center">38</td><td>[<a href="/1986-05-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/29/1986</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Franklin's</td><td>B. E. Women</td><td align="center">6</td><td>[<a href="/1986-06-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/27/1986</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SII</td><td>Mighty Quinn</td><td>Black Muddy Riv</td><td align="center">9</td><td>[<a href="/1986-12-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/6/1987</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SI</td><td>&mdash;&mdash;</td><td>Franklin's</td><td align="center">21</td><td>[<a href="/1987-04-06">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Dancin In The Streets
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Dancin In The Streets
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            San Rafael, CA (Le Club Front)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2787
+          </td>
+          <td>
+            [<a href="/0000-00-00">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/3/1966
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td align="center">
+            -2736
+          </td>
+          <td>
+            [<a href="/1966-07-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/29/1966
+          </td>
+          <td>
+            B.C., Canada (P.N.E. Garden Auditorium, Vancou...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1966-07-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/16/1966
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Overseas Stomp
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td>
+            [<a href="/1966-09-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/19/1966
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Just Hand To Ho
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td>
+            [<a href="/1966-11-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/1/1966
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            Overseas Stomp
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1966-12-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/18/1967
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td>
+            [<a href="/1967-03-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/6/1967
+          </td>
+          <td>
+            Montreal, Canada (Place Ville Marie)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Alligator
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            57
+          </td>
+          <td>
+            [<a href="/1967-08-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/3/1967
+          </td>
+          <td>
+            Rio Nido, CA (Dance Hall)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Hurts Me Too
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1967-09-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/29/1967
+          </td>
+          <td>
+            San Francisco, CA (Straight Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1967-09-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/3/1968
+          </td>
+          <td>
+            San Francisco, CA (Haight Street)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            34
+          </td>
+          <td>
+            [<a href="/1968-03-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/31/1968
+          </td>
+          <td>
+            San Francisco, CA (Carousel Ballroom)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Caution
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1968-03-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/8/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Just A Hand To
+          </td>
+          <td align="center">
+            160
+          </td>
+          <td>
+            [<a href="/1969-06-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/2/1969
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td align="center">
+            54
+          </td>
+          <td>
+            [<a href="/1969-11-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/5/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cosmic Charlie
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1969-12-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/7/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Easy Wind
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-12-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/11/1969
+          </td>
+          <td>
+            Los Angeles, CA (Thelma Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Easy Wind
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-12-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/29/1969
+          </td>
+          <td>
+            Boston, MA (Boston Tea Party)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1969-12-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1969
+          </td>
+          <td>
+            Boston, MA (Boston Tea Party)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/3/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1970-01-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/16/1970
+          </td>
+          <td>
+            Portland, OR (Springer's Inn)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Alligator
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-01-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/18/1970
+          </td>
+          <td>
+            Portland, OR (Springer's Inn)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Black Peter
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-01-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/24/1970
+          </td>
+          <td>
+            Honolulu, HI (Honolulu Civic Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-01-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/6/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Hard To Handle
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1970-02-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/14/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Katie Mae
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1970-02-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/27/1970
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td>
+            Easy Wind
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1970-02-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/1/1970
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Uncle John
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-03-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/21/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            Easy Wind
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1970-03-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            Cincinnati, OH (Field House, U. of Cincinnati)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Hard To Handle
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/10/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            It's A Man's Wo
+          </td>
+          <td>
+            High Time
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-04-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/15/1970
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-04-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/2/1970
+          </td>
+          <td>
+            Binghamton, NY (Harpur College, S.U.N.Y.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            It's A Man's Wo
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1970-05-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/6/1970
+          </td>
+          <td>
+            Cambridge, MA (Kresge Plaza, M.I.T.)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-05-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/8/1970
+          </td>
+          <td>
+            Delhi, NY (Farrell Hall, S.U.C.N.Y.)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-05-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/6/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            Next Time
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1970-06-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td>
+            [<a href="/1970-07-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Next Time
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-08-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/18/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Operator
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-09-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/5/1970
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            Lovelight.
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-10-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/11/1970
+          </td>
+          <td>
+            Wayne, NJ (Marion Shea Aud., Paterson State Co...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Till The Mornin
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-10-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/24/1970
+          </td>
+          <td>
+            St. Louis, MO (Kiel Opera House)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Hurts Me Too
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-10-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1970
+          </td>
+          <td>
+            Stony Brook, NY (Gym, S.U.N.Y.)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Hurts Me Too
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            The Main Ten
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-11-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/21/1970
+          </td>
+          <td>
+            Boston, MA (Sargent Gym, Boston University)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1970-11-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/22/1970
+          </td>
+          <td>
+            Sacramento, CA (Sacramento Memorial Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-12-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1971
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Mr. Charlie
+          </td>
+          <td align="center">
+            87
+          </td>
+          <td>
+            [<a href="/1971-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Scarlet
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            203
+          </td>
+          <td>
+            [<a href="/1976-06-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/4/1976
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td>
+            U. S. Blues
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/9/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/10/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Playin
+          </td>
+          <td>
+            U. S. Blues
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/11/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td>
+            Music
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/12/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Comes A Time
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/14/1976
+          </td>
+          <td>
+            New York, NY (Beacon Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Drums
+          </td>
+          <td>
+            Cosmic Charlie
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/15/1976
+          </td>
+          <td>
+            New York, NY (Beacon Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            Wheel
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/17/1976
+          </td>
+          <td>
+            Passaic, NJ (Capitol Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            Samson
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/19/1976
+          </td>
+          <td>
+            Passaic, NJ (Capitol Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            Cosmic Charlie
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-06-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1976
+          </td>
+          <td>
+            Upper Darby, PA (Tower Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/22/1976
+          </td>
+          <td>
+            Upper Darby, PA (Tower Theatre)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/23/1976
+          </td>
+          <td>
+            Upper Darby, PA (Tower Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Drums
+          </td>
+          <td>
+            Wheel
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/24/1976
+          </td>
+          <td>
+            Upper Darby, PA (Tower Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/28/1976
+          </td>
+          <td>
+            Chicago, IL (Auditorium Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Drums
+          </td>
+          <td>
+            Wheel
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1976-06-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-07-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/13/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-07-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/4/1976
+          </td>
+          <td>
+            Jersey City, NJ (Roosevelt Stadium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            Wheel
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1976-08-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/29/1976
+          </td>
+          <td>
+            San Rafael, CA (Le Club Front)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1825
+          </td>
+          <td>
+            [<a href="/1976-08-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/23/1976
+          </td>
+          <td>
+            Durham, NC (Cameron Indoor Stadium, Duke U.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            -1824
+          </td>
+          <td>
+            [<a href="/1976-09-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/25/1976
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Half Step
+          </td>
+          <td>
+            Cosmic Charlie
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-09-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/28/1976
+          </td>
+          <td>
+            Syracuse, NY (Onondaga County War Memorial)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Orange Tango Ja
+          </td>
+          <td>
+            Playin
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-09-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/1/1976
+          </td>
+          <td>
+            Indianapolis, IN (Market Square Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+            <br>
+            Ship Of Fools
+          </td>
+          <td>
+            Drums
+            <br>
+            GDTRFB
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-10-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/2/1976
+          </td>
+          <td>
+            Cincinnati, OH (River Front Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            Drums
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-10-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/3/1976
+          </td>
+          <td>
+            Detroit, MI (Cobo Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Comes A Time
+            <br>
+            NFA
+          </td>
+          <td>
+            NFA
+            <br>
+            Around
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-10-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/10/1976
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            FOTD
+            <br>
+            Wharf Rat
+          </td>
+          <td>
+            Wharf Rat
+            <br>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-10-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/14/1976
+          </td>
+          <td>
+            Los Angeles, CA (Shrine Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ship Of Fools
+            <br>
+            Wharf Rat
+          </td>
+          <td>
+            Wharf Rat
+            <br>
+            Around
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-10-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/17/1977
+          </td>
+          <td>
+            (unknown), CA ((unknown))
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Samson
+          </td>
+          <td>
+            Sunrise
+          </td>
+          <td align="center">
+            1815
+          </td>
+          <td>
+            [<a href="/1977-02-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            San Bernardino, CA (Swing Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            -1812
+          </td>
+          <td>
+            [<a href="/1977-02-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/19/1977
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1977-03-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/22/1977
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Roses
+            <br>
+            Mojo
+          </td>
+          <td>
+            Mojo
+            <br>
+            Wheel
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1977-04-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/26/1977
+          </td>
+          <td>
+            Passaic, NJ (Capitol Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Half Step
+          </td>
+          <td>
+            Drums
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1977-04-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/1/1977
+          </td>
+          <td>
+            New York, NY (The Palladium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1977-05-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/4/1977
+          </td>
+          <td>
+            New York, NY (The Palladium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1977-05-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/15/1977
+          </td>
+          <td>
+            St. Louis, MO (St. Louis Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1977-05-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1977
+          </td>
+          <td>
+            Atlanta, GA (Fox Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1977-05-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/22/1977
+          </td>
+          <td>
+            Pembroke Pines, FL (Sportatorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1977-05-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/1/1977
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td>
+            Drums
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1977-10-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/7/1978
+          </td>
+          <td>
+            San Diego, CA (Golden Hall, Community Concourse)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            Samson
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1978-01-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/13/1978
+          </td>
+          <td>
+            Santa Barbara, CA (Arlington Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sunrise
+          </td>
+          <td>
+            Drums
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1978-01-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/4/1978
+          </td>
+          <td>
+            Milwaukee, WI (Milwaukee Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            Terrapin
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1978-02-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/10/1978
+          </td>
+          <td>
+            Atlanta, GA (Fox Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1978-04-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/14/1978
+          </td>
+          <td>
+            Blacksburg, VA (Cassell Coliseum, Virginia Pol...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1978-04-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1978
+          </td>
+          <td>
+            Pittsburgh, PA (Pittsburgh Civic Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Scarlet
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1978-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/9/1978
+          </td>
+          <td>
+            Syracuse, NY (Onondaga County War Memorial)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1978-05-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/17/1978
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1978-05-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/3/1978
+          </td>
+          <td>
+            St. Paul, MN (St. Paul Civic Center Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Fire
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1978-07-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/7/1978
+          </td>
+          <td>
+            Morrison, CO (Red Rocks Amphitheatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Fire
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1978-07-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/20/1978
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1978-10-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/16/1978
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1978-11-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/23/1978
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            Terrapin
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1978-11-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/12/1979
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            19
+          </td>
+          <td>
+            [<a href="/1979-01-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/7/1979
+          </td>
+          <td>
+            Carbondale, IL (SIU Arena, U. of Southern Illi...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1979-02-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/5/1979
+          </td>
+          <td>
+            Baltimore, MD (Baltimore Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1979-05-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/27/1979
+          </td>
+          <td>
+            South Yarmouth, MA (Cape Cod Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1979-10-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1979
+          </td>
+          <td>
+            Pittsburgh, PA (Stanley Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td>
+            [<a href="/1979-11-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/10/1979
+          </td>
+          <td>
+            Kansas City, KS (Soldiers and Sailors Memori...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1979-12-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/7/1981
+          </td>
+          <td>
+            Kansas City, MO (Kansas City Municipal Auditor...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bertha
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td align="center">
+            128
+          </td>
+          <td>
+            [<a href="/1981-07-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/24/1984
+          </td>
+          <td>
+            Saratoga, NY (Saratoga Performing Arts Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            203
+          </td>
+          <td>
+            [<a href="/1984-06-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/15/1984
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1984-07-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/22/1984
+          </td>
+          <td>
+            Ventura, CA (County Fairgrounds)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Bertha
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1984-07-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/9/1984
+          </td>
+          <td>
+            Worcester, MA (The Centrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1984-10-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/18/1984
+          </td>
+          <td>
+            East Rutherford, NJ (Meadowlands Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Touch
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1984-10-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1984
+          </td>
+          <td>
+            Berkeley, CA (Berkeley Community Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1984-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/7/1985
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td>
+            [<a href="/1985-04-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/27/1985
+          </td>
+          <td>
+            Palo Alto, CA (Frost Amphitheatre, Stanford U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Bertha
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1985-04-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/14/1985
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1985-06-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/1/1985
+          </td>
+          <td>
+            Columbia, MD (Merriweather Post Pavilion)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1985-07-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/1/1985
+          </td>
+          <td>
+            Richmond, VA (Richmond Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td>
+            [<a href="/1985-11-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/7/1985
+          </td>
+          <td>
+            Rochester, NY (Community War Memorial)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1985-11-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/11/1986
+          </td>
+          <td>
+            Palo Alto, CA (Frost Amphitheatre, Stanford U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Gimme Some Lovi
+          </td>
+          <td>
+            Good Times
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td>
+            [<a href="/1986-05-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/29/1986
+          </td>
+          <td>
+            East Troy, WI (Alpine Valley Music Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1986-06-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/27/1986
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mighty Quinn
+          </td>
+          <td>
+            Black Muddy Riv
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1986-12-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/6/1987
+          </td>
+          <td>
+            East Rutherford, NJ (Meadowlands Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td>
+            [<a href="/1987-04-06">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

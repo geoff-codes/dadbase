@@ -1,48 +1,485 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Thursday, April 4, 1985</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Thursday, April 4, 1985</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0404"></a><a href="/1985-04-04">4/4/1985 Providence Civic Center, Providence, RI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-04*">Listen/Download</a>]<tr><td>I: Alabama > Jack Straw, Dire Wolf, El Paso, She Belongs To Me, Esau, FOTD, Sailor > Saint > Deal</td></tr>
-<tr><td>II: Miracle > Crazy Fingers, Samson, He's Gone > GDTRFB > Drumz > Wheel > Black Peter > Around > Lovelight</td></tr>
-<tr><td>E: U. S. Blues</td></tr>
-<tr class="notes"><td>Previous ''Crazy Fingers'' 10/8/1983 [98 shows]; Previous ''She Belongs To Me'' 1/7/1966 [1543 shows]</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('85)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Alabama Getaway</td><td>11/4/1979</td><td>6/2/1995</td><td align="center">141</td><td align="center">6</td><td align="center">[<a href="/songs/Alabama Getaway_3">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Jack Straw</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">472</td><td align="center">12</td><td align="center">[<a href="/songs/Jack Straw_183">ETP</a>]</td></tr>
-<tr valign="top"><td>Dire Wolf</td><td>6/7/1969</td><td>7/2/1995</td><td align="center">225</td><td align="center">7</td><td align="center">[<a href="/songs/Dire Wolf_98">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>El Paso</td><td>7/14/1970</td><td>7/5/1995</td><td align="center">387</td><td align="center">9</td><td align="center">[<a href="/songs/El Paso_114">ETP</a>]</td></tr>
-<tr valign="top"><td>She Belongs To Me</td><td>1/7/1966</td><td>11/21/1985</td><td align="center">10</td><td align="center">9</td><td align="center">[<a href="/songs/She Belongs To Me_314">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Brother Esau</td><td>3/25/1983</td><td>10/3/1987</td><td align="center">104</td><td align="center">17</td><td align="center">[<a href="/songs/Brother Esau_116">ETP</a>]</td></tr>
-<tr valign="top"><td>Friend Of The Devil</td><td>3/20/1970</td><td>6/24/1995</td><td align="center">303</td><td align="center">9</td><td align="center">[<a href="/songs/Friend Of The Devil_121">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Lost Sailor</td><td>8/4/1979</td><td>3/24/1986</td><td align="center">145</td><td align="center">7</td><td align="center">[<a href="/songs/Lost Sailor_299">ETP</a>]</td></tr>
-<tr valign="top"><td>Saint Of Circumstance</td><td>8/31/1979</td><td>7/8/1995</td><td align="center">222</td><td align="center">7</td><td align="center">[<a href="/songs/Saint Of Circumstance_300">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">13</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
-<tr valign="top"><td>I Need A Miracle</td><td>8/30/1978</td><td>6/30/1995</td><td align="center">271</td><td align="center">13</td><td align="center">[<a href="/songs/I Need A Miracle_230">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">10</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
-<tr valign="top"><td>Samson And Delilah</td><td>6/3/1976</td><td>7/9/1995</td><td align="center">364</td><td align="center">17</td><td align="center">[<a href="/songs/Samson And Delilah_304">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>He's Gone</td><td>4/17/1972</td><td>7/6/1995</td><td align="center">327</td><td align="center">14</td><td align="center">[<a href="/songs/He's Gone_150">ETP</a>]</td></tr>
-<tr valign="top"><td>Goin Down The Road Feelin Bad</td><td>10/10/1970</td><td>7/5/1995</td><td align="center">293</td><td align="center">16</td><td align="center">[<a href="/songs/Goin Down The Road Feelin Bad_130">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">71</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>Wheel</td><td>6/3/1976</td><td>5/25/1995</td><td align="center">258</td><td align="center">15</td><td align="center">[<a href="/songs/Wheel_414">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">16</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
-<tr valign="top"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">17</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Turn On Your Lovelight</td><td>8/5/1967</td><td>6/19/1995</td><td align="center">341</td><td align="center">15</td><td align="center">[<a href="/songs/Turn On Your Lovelight_210">ETP</a>]</td></tr>
-<tr valign="top"><td>U. S. Blues</td><td>2/22/1974</td><td>7/8/1995</td><td align="center">321</td><td align="center">16</td><td align="center">[<a href="/songs/U. S. Blues_385">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Thursday, April 4, 1985
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Thursday, April 4, 1985
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0404">
+              <a href="/1985-04-04">4/4/1985 Providence Civic Center, Providence, RI</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1985-04-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Alabama &gt; Jack Straw, Dire Wolf, El Paso, She Belongs To Me, Esau, FOTD, Sailor &gt; Saint &gt; Deal
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Miracle &gt; Crazy Fingers, Samson, He's Gone &gt; GDTRFB &gt; Drumz &gt; Wheel &gt; Black Peter &gt; Around &gt; Lovelight
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: U. S. Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Crazy Fingers'' 10/8/1983 [98 shows]; Previous ''She Belongs To Me'' 1/7/1966 [1543 shows]
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('85)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Alabama Getaway
+          </td>
+          <td>
+            11/4/1979
+          </td>
+          <td>
+            6/2/1995
+          </td>
+          <td align="center">
+            141
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Alabama%20Getaway_3">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            472
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Jack%20Straw_183">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            6/7/1969
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            225
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Dire%20Wolf_98">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            El Paso
+          </td>
+          <td>
+            7/14/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            387
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/El%20Paso_114">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            She Belongs To Me
+          </td>
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            11/21/1985
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/She%20Belongs%20To%20Me_314">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brother Esau
+          </td>
+          <td>
+            3/25/1983
+          </td>
+          <td>
+            10/3/1987
+          </td>
+          <td align="center">
+            104
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Brother%20Esau_116">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Friend Of The Devil
+          </td>
+          <td>
+            3/20/1970
+          </td>
+          <td>
+            6/24/1995
+          </td>
+          <td align="center">
+            303
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Friend%20Of%20The%20Devil_121">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Lost Sailor
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            3/24/1986
+          </td>
+          <td align="center">
+            145
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Lost%20Sailor_299">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Saint Of Circumstance
+          </td>
+          <td>
+            8/31/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            222
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Saint%20Of%20Circumstance_300">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Deal
+          </td>
+          <td>
+            2/19/1971
+          </td>
+          <td>
+            6/18/1995
+          </td>
+          <td align="center">
+            422
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Deal_93">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Need A Miracle
+          </td>
+          <td>
+            8/30/1978
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            271
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Need%20A%20Miracle_230">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Crazy Fingers
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            144
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Crazy%20Fingers_81">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Samson And Delilah
+          </td>
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            364
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Samson%20And%20Delilah_304">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            He's Gone
+          </td>
+          <td>
+            4/17/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            327
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/He's%20Gone_150">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Goin Down The Road Feelin Bad
+          </td>
+          <td>
+            10/10/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            293
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Goin%20Down%20The%20Road%20Feelin%20Bad_130">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            71
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wheel
+          </td>
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            5/25/1995
+          </td>
+          <td align="center">
+            258
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Wheel_414">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Peter
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            342
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Peter_35">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Turn On Your Lovelight
+          </td>
+          <td>
+            8/5/1967
+          </td>
+          <td>
+            6/19/1995
+          </td>
+          <td align="center">
+            341
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Turn%20On%20Your%20Lovelight_210">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            U. S. Blues
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            321
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/U.%20S.%20Blues_385">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

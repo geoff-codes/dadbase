@@ -1,28 +1,100 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Wednesday, October 30, 1968</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Wednesday, October 30, 1968</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1030"></a><a href="/1968-10-30">10/30/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-30*">Listen/Download</a>]<tr><td>Dark Star jam > Death Letter Blues, Other One jam, St. Stephen jam > jam, Lovelight jam, jam, jam > Eleven jam > Death Don’t Have No Mercy > Jam <span class="setlist_small">*</span>, Prisoner Blues <span class="setlist_small">*</span>, blues jam, Baby Please Come Back To Me, jam, Dark Star jam <span class="setlist_small">+</span>.</td></tr>
-<tr class="notes"><td>Only ''Death Letter Blues''; Final ''Prisoner Blues''</i></td></tr>
-<tr class="notes"><td>Mickey Hart And The Hartbeats. *with Elvin Bishop +with Jack Casady. Set breaks are uncertain.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('68)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Death Letter Blues</td><td>10/30/1968</td><td>10/30/1968</td><td align="center">1</td><td align="center">1</td><td align="center">[<a href="/songs/Death Letter Blues_95">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Prisoner Blues</td><td>10/8/1968</td><td>10/30/1968</td><td align="center">2</td><td align="center">2</td><td align="center">[<a href="/songs/Prisoner Blues_274">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Wednesday, October 30, 1968
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Wednesday, October 30, 1968
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1030">
+              <a href="/1968-10-30">10/30/1968 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1968-10-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dark Star jam &gt; Death Letter Blues, Other One jam, St. Stephen jam &gt; jam, Lovelight jam, jam, jam &gt; Eleven jam &gt; Death Donï¿½t Have No Mercy &gt; Jam *, Prisoner Blues *, blues jam, Baby Please Come Back To Me, jam, Dark Star jam +.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Only ''Death Letter Blues''; Final ''Prisoner Blues''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Mickey Hart And The Hartbeats. *with Elvin Bishop +with Jack Casady. Set breaks are uncertain.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('68)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Death Letter Blues
+          </td>
+          <td>
+            10/30/1968
+          </td>
+          <td>
+            10/30/1968
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Death%20Letter%20Blues_95">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Prisoner Blues
+          </td>
+          <td>
+            10/8/1968
+          </td>
+          <td>
+            10/30/1968
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/Prisoner%20Blues_274">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

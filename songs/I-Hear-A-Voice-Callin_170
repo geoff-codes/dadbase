@@ -1,26 +1,111 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>I Hear A Voice Callin</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">I Hear A Voice Callin</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>5/15/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Katie Mae</td><td>&mdash;&mdash;</td><td align="center">562</td><td>[<a href="/1970-05-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/30/1970</td><td>San Francisco, CA (The Matrix)</td><td align="center">*</td><td>Rosalie McFall</td><td>Swing Low</td><td align="center">26</td><td>[<a href="/1970-07-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/27/1970</td><td>Pasadena, CA (KPPC Studios)</td><td align="center">*</td><td>Cold Jordan</td><td>Swing Low</td><td align="center">2136</td><td>[<a href="/1970-12-27">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      I Hear A Voice Callin
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        I Hear A Voice Callin
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/15/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Katie Mae
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            562
+          </td>
+          <td>
+            [<a href="/1970-05-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/30/1970
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Rosalie McFall
+          </td>
+          <td>
+            Swing Low
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td>
+            [<a href="/1970-07-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/27/1970
+          </td>
+          <td>
+            Pasadena, CA (KPPC Studios)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cold Jordan
+          </td>
+          <td>
+            Swing Low
+          </td>
+          <td align="center">
+            2136
+          </td>
+          <td>
+            [<a href="/1970-12-27">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

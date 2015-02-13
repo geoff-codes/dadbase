@@ -1,66 +1,1031 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Cosmic Charlie</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Cosmic Charlie</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>10/8/1968</td><td>San Francisco, CA (The Matrix)</td><td align="center">SI</td><td>Dark Star Jam</td><td>&mdash;&mdash;</td><td align="center">318</td><td>[<a href="/1968-10-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/23/1968</td><td>San Francisco, CA (The Matrix)</td><td align="center">SII</td><td>Dark Star</td><td>Jam</td><td align="center">28</td><td>[<a href="/1968-12-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/17/1969</td><td>Santa Barbara, CA ((unknown))</td><td align="center">*</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1969-01-17">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/25/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>Doin That Rag</td><td>Alligator</td><td align="center">2</td><td>[<a href="/1969-01-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/15/1969</td><td>Philadelphia, PA (Electric Factory)</td><td align="center">SII</td><td>Death Don't</td><td>Alligator</td><td align="center">16</td><td>[<a href="/1969-02-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/1/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Doin That Rag</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1969-03-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/11/1969</td><td>San Mateo, CA (Pacific Recording)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Mountains Of Th</td><td align="center">2326</td><td>[<a href="/1969-03-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/5/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>Hard To Handle</td><td>China Cat</td><td align="center">-2316</td><td>[<a href="/1969-04-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/18/1969</td><td>Lafayette, IN (Memorial Union Ballroom, Purdue...)</td><td align="center">*</td><td>Lovelight</td><td>BIODTL</td><td align="center">7</td><td>[<a href="/1969-04-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/30/1969</td><td>Portland, OR (Springer's Inn)</td><td align="center">*</td><td>Dark Star</td><td>St. Stephen</td><td align="center">21</td><td>[<a href="/1969-05-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/31/1969</td><td>Eugene, OR (McArthur Court, University of Oreg...)</td><td align="center">SII</td><td>Doin That Rag</td><td>Baby Blue</td><td align="center">1</td><td>[<a href="/1969-05-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/5/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Hard To Handle</td><td>Cryptical</td><td align="center">1</td><td>[<a href="/1969-06-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/8/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Other One</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1969-06-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/21/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Slewfoot</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1969-06-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/21/1969</td><td>Seattle, WA (Green Lake Aqua Theatre)</td><td align="center">*</td><td>Dark Star</td><td>&mdash;&mdash;</td><td align="center">19</td><td>[<a href="/1969-08-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/24/1969</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>Cryptical</td><td>Mama Tried</td><td align="center">24</td><td>[<a href="/1969-10-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/15/1969</td><td>Crockett, CA (Lanai Theater)</td><td align="center">*</td><td>Big Boss Man</td><td>Dire Wolf</td><td align="center">8</td><td>[<a href="/1969-11-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/5/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">*</td><td>Cryptical</td><td>Dancin</td><td align="center">3</td><td>[<a href="/1969-12-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/10/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1969-12-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/11/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>Cryptical </td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1969-12-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/30/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SI</td><td>Other One</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1969-12-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/2/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-01-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/3/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Cryptical</td><td>Uncle John</td><td align="center">3</td><td>[<a href="/1970-01-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/16/1970</td><td>Portland, OR (Springer's Inn)</td><td align="center">SII</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-01-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/30/1970</td><td>New Orleans, LA (The Warehouse)</td><td align="center">*</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1970-01-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/21/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">*</td><td>Katie Mae</td><td>St. Stephen</td><td align="center">29</td><td>[<a href="/1970-03-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/3/1970</td><td>Cincinnati, OH (Field House, U. of Cincinnati)</td><td align="center">*</td><td>Cryptical</td><td>NFA</td><td align="center">2</td><td>[<a href="/1970-04-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/2/1970</td><td>Binghamton, NY (Harpur College, S.U.N.Y.)</td><td align="center">SII</td><td>Cryptical</td><td>Casey Jones</td><td align="center">13</td><td>[<a href="/1970-05-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/7/1970</td><td>Cambridge, MA (Dupont Gymnasium, M.I.T.)</td><td align="center">SII</td><td>Cryptical</td><td>Casey Jones</td><td align="center">3</td><td>[<a href="/1970-05-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/7/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Top Of The Worl</td><td>Casey Jones</td><td align="center">14</td><td>[<a href="/1970-06-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/24/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">*</td><td>Cryptical</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1970-06-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/10/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Cryptical</td><td>Good Lovin> Dru</td><td align="center">8</td><td>[<a href="/1970-07-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/14/1970</td><td>San Rafael, CA (Euphoria Ballroom)</td><td align="center">SII</td><td>Cryptical</td><td>Good Lovin</td><td align="center">3</td><td>[<a href="/1970-07-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/31/1970</td><td>Stony Brook, NY (Gym, S.U.N.Y.)</td><td align="center">*</td><td>Cryptical</td><td>Big Boss Man</td><td align="center">29</td><td>[<a href="/1970-10-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/21/1970</td><td>Boston, MA (Sargent Gym, Boston University)</td><td align="center">*</td><td>Cryptical</td><td>Uncle John</td><td align="center">13</td><td>[<a href="/1970-11-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/21/1971</td><td>Davis, CA (Freeborn Hall, U. of California)</td><td align="center">SII</td><td>Other One</td><td>China Cat</td><td align="center">12</td><td>[<a href="/1971-01-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/28/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">*</td><td>Cassidy x2</td><td>&mdash;&mdash;</td><td align="center">2131</td><td>[<a href="/1976-05-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/4/1976</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Samson</td><td>Let It Grow</td><td align="center">-1846</td><td>[<a href="/1976-06-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/14/1976</td><td>New York, NY (Beacon Theatre)</td><td align="center">SII</td><td>Dancin</td><td>Help</td><td align="center">5</td><td>[<a href="/1976-06-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/19/1976</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>Dancin</td><td>Around</td><td align="center">4</td><td>[<a href="/1976-06-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/23/1976</td><td>Upper Darby, PA (Tower Theatre)</td><td align="center">SII</td><td>Let It Grow</td><td>St. Stephen</td><td align="center">3</td><td>[<a href="/1976-06-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/16/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">SII</td><td>King Solomon's </td><td>Samson</td><td align="center">9</td><td>[<a href="/1976-07-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/25/1976</td><td>Landover, MD (Capital Centre)</td><td align="center">SII</td><td>Dancin</td><td>Scarlet</td><td align="center">7</td><td>[<a href="/1976-09-25">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Cosmic Charlie
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Cosmic Charlie
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/8/1968
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Star Jam
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            318
+          </td>
+          <td>
+            [<a href="/1968-10-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/23/1968
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td>
+            Jam
+          </td>
+          <td align="center">
+            28
+          </td>
+          <td>
+            [<a href="/1968-12-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/17/1969
+          </td>
+          <td>
+            Santa Barbara, CA ((unknown))
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1969-01-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/25/1969
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Doin That Rag
+          </td>
+          <td>
+            Alligator
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-01-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/15/1969
+          </td>
+          <td>
+            Philadelphia, PA (Electric Factory)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Death Don't
+          </td>
+          <td>
+            Alligator
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td>
+            [<a href="/1969-02-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/1/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Doin That Rag
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1969-03-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/11/1969
+          </td>
+          <td>
+            San Mateo, CA (Pacific Recording)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Mountains Of Th
+          </td>
+          <td align="center">
+            2326
+          </td>
+          <td>
+            [<a href="/1969-03-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/5/1969
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Hard To Handle
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            -2316
+          </td>
+          <td>
+            [<a href="/1969-04-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1969
+          </td>
+          <td>
+            Lafayette, IN (Memorial Union Ballroom, Purdue...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1969-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/30/1969
+          </td>
+          <td>
+            Portland, OR (Springer's Inn)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td>
+            [<a href="/1969-05-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/31/1969
+          </td>
+          <td>
+            Eugene, OR (McArthur Court, University of Oreg...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Doin That Rag
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-05-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/5/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Hard To Handle
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-06-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/8/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-06-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Slewfoot
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1969-06-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/21/1969
+          </td>
+          <td>
+            Seattle, WA (Green Lake Aqua Theatre)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            19
+          </td>
+          <td>
+            [<a href="/1969-08-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/24/1969
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Mama Tried
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td>
+            [<a href="/1969-10-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/15/1969
+          </td>
+          <td>
+            Crockett, CA (Lanai Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Big Boss Man
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1969-11-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/5/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Dancin
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-12-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/10/1969
+          </td>
+          <td>
+            Los Angeles, CA (Thelma Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-12-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/11/1969
+          </td>
+          <td>
+            Los Angeles, CA (Thelma Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-12-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/30/1969
+          </td>
+          <td>
+            Boston, MA (Boston Tea Party)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1969-12-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/2/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-01-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/3/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Uncle John
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-01-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/16/1970
+          </td>
+          <td>
+            Portland, OR (Springer's Inn)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-01-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/30/1970
+          </td>
+          <td>
+            New Orleans, LA (The Warehouse)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-01-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/21/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Katie Mae
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td>
+            [<a href="/1970-03-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            Cincinnati, OH (Field House, U. of Cincinnati)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/2/1970
+          </td>
+          <td>
+            Binghamton, NY (Harpur College, S.U.N.Y.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1970-05-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/7/1970
+          </td>
+          <td>
+            Cambridge, MA (Dupont Gymnasium, M.I.T.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-05-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Top Of The Worl
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1970-06-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/24/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1970-06-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/10/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Good Lovin&gt; Dru
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1970-07-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/14/1970
+          </td>
+          <td>
+            San Rafael, CA (Euphoria Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-07-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/31/1970
+          </td>
+          <td>
+            Stony Brook, NY (Gym, S.U.N.Y.)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Big Boss Man
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td>
+            [<a href="/1970-10-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/21/1970
+          </td>
+          <td>
+            Boston, MA (Sargent Gym, Boston University)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cryptical
+          </td>
+          <td>
+            Uncle John
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1970-11-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/21/1971
+          </td>
+          <td>
+            Davis, CA (Freeborn Hall, U. of California)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Other One
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1971-01-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/28/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cassidy x2
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2131
+          </td>
+          <td>
+            [<a href="/1976-05-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/4/1976
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Samson
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            -1846
+          </td>
+          <td>
+            [<a href="/1976-06-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/14/1976
+          </td>
+          <td>
+            New York, NY (Beacon Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dancin
+          </td>
+          <td>
+            Help
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1976-06-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/19/1976
+          </td>
+          <td>
+            Passaic, NJ (Capitol Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dancin
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1976-06-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/23/1976
+          </td>
+          <td>
+            Upper Darby, PA (Tower Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            St. Stephen
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1976-06-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/16/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            King Solomon's
+          </td>
+          <td>
+            Samson
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1976-07-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/25/1976
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dancin
+          </td>
+          <td>
+            Scarlet
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1976-09-25">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

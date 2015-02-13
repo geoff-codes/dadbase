@@ -1,26 +1,111 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>She's Mine</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">She's Mine</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>4/19/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Big Breasa</td><td>Cumberland</td><td align="center">548</td><td>[<a href="/1970-04-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/15/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Candyman</td><td>Katie Mae</td><td align="center">14</td><td>[<a href="/1970-05-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/12/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Bring Me My Sho</td><td>Rosalie McFall</td><td align="center">23</td><td>[<a href="/1970-07-12">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      She's Mine
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        She's Mine
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/19/1970
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Big Breasa
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            548
+          </td>
+          <td>
+            [<a href="/1970-04-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/15/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            Katie Mae
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1970-05-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bring Me My Sho
+          </td>
+          <td>
+            Rosalie McFall
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1970-07-12">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

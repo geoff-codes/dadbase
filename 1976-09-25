@@ -1,48 +1,485 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Saturday, September 25, 1976</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Saturday, September 25, 1976</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0925"></a><a href="/1976-09-25">9/25/1976 Capital Centre, Landover, MD</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-09-25*">Listen/Download</a>]<tr><td>I: Bertha, Minglewood, Ramble On, Cassidy, B. E. Women, Mama Tried, Peggy-O, All Over Now, Loser, Let It Grow, Sugaree</td></tr>
-<tr><td>II: Lazy Lightning > Supplication, Half Step, Dancin > Cosmic Charlie, Scarlet, St. Stephen > NFA > Drums > Cloud Nine Jam > St. Stephen > Sugar Magnolia</td></tr>
-<tr class="notes"><td>Previous ''All Over Now'' 11/20/1970 [326 shows]; Final ''Cosmic Charlie''</i></td></tr>
-<tr class="notes"><td>Soundcheck: "All Over Now." Entire show except "It’s All Over Now" appears on "Dick’s Picks Volume 20." </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('76)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">5</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Minglewood Blues</td><td>5/19/1966</td><td>6/27/1995</td><td align="center">434</td><td align="center">16</td><td align="center">[<a href="/songs/Minglewood Blues_229">ETP</a>]</td></tr>
-<tr valign="top"><td>Ramble On Rose</td><td>10/19/1971</td><td>6/27/1995</td><td align="center">314</td><td align="center">6</td><td align="center">[<a href="/songs/Ramble On Rose_282">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Cassidy</td><td>3/23/1974</td><td>7/6/1995</td><td align="center">334</td><td align="center">31</td><td align="center">[<a href="/songs/Cassidy_60">ETP</a>]</td></tr>
-<tr valign="top"><td>Brown-Eyed Women</td><td>8/23/1971</td><td>7/6/1995</td><td align="center">347</td><td align="center">22</td><td align="center">[<a href="/songs/Brown Eyed Women_16">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Mama Tried</td><td>6/11/1969</td><td>6/25/1995</td><td align="center">301</td><td align="center">18</td><td align="center">[<a href="/songs/Mama Tried_215">ETP</a>]</td></tr>
-<tr valign="top"><td>Peggy-O</td><td>12/10/1973</td><td>7/5/1995</td><td align="center">265</td><td align="center">8</td><td align="center">[<a href="/songs/Peggy O_267">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>It's All Over Now</td><td>9/6/1969</td><td>7/2/1995</td><td align="center">160</td><td align="center">7</td><td align="center">[<a href="/songs/It's All Over Now_9">ETP</a>]</td></tr>
-<tr valign="top"><td>Loser</td><td>2/18/1971</td><td>6/28/1995</td><td align="center">344</td><td align="center">9</td><td align="center">[<a href="/songs/Loser_207">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Let It Grow</td><td>9/7/1973</td><td>7/2/1995</td><td align="center">273</td><td align="center">16</td><td align="center">[<a href="/songs/Let It Grow_198">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugaree</td><td>7/31/1971</td><td>7/8/1995</td><td align="center">358</td><td align="center">18</td><td align="center">[<a href="/songs/Sugaree_342">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Lazy Lightning</td><td>6/3/1976</td><td>10/31/1984</td><td align="center">111</td><td align="center">24</td><td align="center">[<a href="/songs/Lazy Lightning_195">ETP</a>]</td></tr>
-<tr valign="top"><td>Supplication</td><td>6/3/1976</td><td>5/22/1993</td><td align="center">113</td><td align="center">25</td><td align="center">[<a href="/songs/Supplication_346">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Mississippi Half-Step</td><td>7/16/1972</td><td>7/6/1995</td><td align="center">234</td><td align="center">8</td><td align="center">[<a href="/songs/Mississippi Half Step_144">ETP</a>]</td></tr>
-<tr valign="top"><td>Dancin In The Streets</td><td>7/3/1966</td><td>4/6/1987</td><td align="center">123</td><td align="center">26</td><td align="center">[<a href="/songs/Dancin In The Streets_85">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Cosmic Charlie</td><td>10/8/1968</td><td>9/25/1976</td><td align="center">41</td><td align="center">6</td><td align="center">[<a href="/songs/Cosmic Charlie_79">ETP</a>]</td></tr>
-<tr valign="top"><td>Scarlet Begonias</td><td>3/23/1974</td><td>7/2/1995</td><td align="center">316</td><td align="center">20</td><td align="center">[<a href="/songs/Scarlet Begonias_308">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>St. Stephen</td><td>5/24/1968</td><td>10/31/1983</td><td align="center">165</td><td align="center">12</td><td align="center">[<a href="/songs/St. Stephen_331">ETP</a>]</td></tr>
-<tr valign="top"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">15</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">35</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">16</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Saturday, September 25, 1976
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Saturday, September 25, 1976
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0925">
+              <a href="/1976-09-25">9/25/1976 Capital Centre, Landover, MD</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1976-09-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Bertha, Minglewood, Ramble On, Cassidy, B. E. Women, Mama Tried, Peggy-O, All Over Now, Loser, Let It Grow, Sugaree
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Lazy Lightning &gt; Supplication, Half Step, Dancin &gt; Cosmic Charlie, Scarlet, St. Stephen &gt; NFA &gt; Drums &gt; Cloud Nine Jam &gt; St. Stephen &gt; Sugar Magnolia
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''All Over Now'' 11/20/1970 [326 shows]; Final ''Cosmic Charlie''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Soundcheck: "All Over Now." Entire show except "Itï¿½s All Over Now" appears on "Dickï¿½s Picks Volume 20."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('76)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Minglewood Blues
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            434
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Minglewood%20Blues_229">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Ramble On Rose
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            314
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Ramble%20On%20Rose_282">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cassidy
+          </td>
+          <td>
+            3/23/1974
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            334
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Cassidy_60">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brown-Eyed Women
+          </td>
+          <td>
+            8/23/1971
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            347
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Brown%20Eyed%20Women_16">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mama Tried
+          </td>
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            301
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Mama%20Tried_215">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            12/10/1973
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            265
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Peggy%20O_267">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            It's All Over Now
+          </td>
+          <td>
+            9/6/1969
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            160
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/It's%20All%20Over%20Now_9">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Loser
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            344
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Loser_207">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Let%20It%20Grow_198">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugaree
+          </td>
+          <td>
+            7/31/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            358
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugaree_342">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Lazy Lightning
+          </td>
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            10/31/1984
+          </td>
+          <td align="center">
+            111
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/Lazy%20Lightning_195">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Supplication
+          </td>
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            5/22/1993
+          </td>
+          <td align="center">
+            113
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Supplication_346">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mississippi Half-Step
+          </td>
+          <td>
+            7/16/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            234
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Mississippi%20Half%20Step_144">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dancin In The Streets
+          </td>
+          <td>
+            7/3/1966
+          </td>
+          <td>
+            4/6/1987
+          </td>
+          <td align="center">
+            123
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/Dancin%20In%20The%20Streets_85">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cosmic Charlie
+          </td>
+          <td>
+            10/8/1968
+          </td>
+          <td>
+            9/25/1976
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Cosmic%20Charlie_79">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Scarlet Begonias
+          </td>
+          <td>
+            3/23/1974
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            316
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Scarlet%20Begonias_308">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            St. Stephen
+          </td>
+          <td>
+            5/24/1968
+          </td>
+          <td>
+            10/31/1983
+          </td>
+          <td align="center">
+            165
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/St.%20Stephen_331">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drums
+          </td>
+          <td>
+            6/14/1968
+          </td>
+          <td>
+            2/26/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            35
+          </td>
+          <td align="center">
+            [<a href="/songs/Drums_106">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

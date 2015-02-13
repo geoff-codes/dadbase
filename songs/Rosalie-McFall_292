@@ -1,37 +1,364 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Rosalie McFall</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Rosalie McFall</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>7/12/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>She's Mine</td><td>Cocaine Blues</td><td align="center">585</td><td>[<a href="/1970-07-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/30/1970</td><td>San Francisco, CA (The Matrix)</td><td align="center">*</td><td>Candyman</td><td>I Hear A Voice </td><td align="center">3</td><td>[<a href="/1970-07-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/18/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Operator</td><td>New Speedway</td><td align="center">3</td><td>[<a href="/1970-08-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/19/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Cocaine Blues</td><td>Cumberland</td><td align="center">1</td><td>[<a href="/1970-08-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/20/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SI</td><td>Truckin</td><td>Cumberland</td><td align="center">7</td><td>[<a href="/1970-09-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>El Paso</td><td align="center">20</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/25/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>Monkey  and  En</td><td align="center">609</td><td>[<a href="/1980-09-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>Bird Song</td><td align="center">1</td><td>[<a href="/1980-09-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/30/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>Heaven Help The</td><td align="center">3</td><td>[<a href="/1980-09-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/4/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Monkey  and  En</td><td>Dark Hollow</td><td align="center">3</td><td>[<a href="/1980-10-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/7/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>Monkey  and  En</td><td align="center">2</td><td>[<a href="/1980-10-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/11/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SI</td><td>Dark Hollow</td><td>Cassidy</td><td align="center">3</td><td>[<a href="/1980-10-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/19/1980</td><td>New Orleans, LA (Saenger Performing Arts Center)</td><td align="center">SI</td><td>Dark Hollow</td><td>Cassidy</td><td align="center">4</td><td>[<a href="/1980-10-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/27/1980</td><td>New York, NY (Radio City Music Hall)</td><td align="center">SI</td><td>Heaven Help The</td><td>On The Road Aga</td><td align="center">5</td><td>[<a href="/1980-10-27">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Rosalie McFall
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Rosalie McFall
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            She's Mine
+          </td>
+          <td>
+            Cocaine Blues
+          </td>
+          <td align="center">
+            585
+          </td>
+          <td>
+            [<a href="/1970-07-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/30/1970
+          </td>
+          <td>
+            San Francisco, CA (The Matrix)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            I Hear A Voice
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-07-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Operator
+          </td>
+          <td>
+            New Speedway
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1970-08-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/19/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cocaine Blues
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1970-08-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/20/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1970-09-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td>
+            [<a href="/1970-11-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/25/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            Monkey and En
+          </td>
+          <td align="center">
+            609
+          </td>
+          <td>
+            [<a href="/1980-09-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1980-09-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/30/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            Heaven Help The
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-09-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/4/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Monkey and En
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-10-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/7/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            Monkey and En
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-10-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/11/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            Cassidy
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-10-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/19/1980
+          </td>
+          <td>
+            New Orleans, LA (Saenger Performing Arts Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dark Hollow
+          </td>
+          <td>
+            Cassidy
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1980-10-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/27/1980
+          </td>
+          <td>
+            New York, NY (Radio City Music Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Heaven Help The
+          </td>
+          <td>
+            On The Road Aga
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1980-10-27">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

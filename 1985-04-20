@@ -1,40 +1,355 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Saturday, April 20, 1985</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Saturday, April 20, 1985</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0420"></a><a href="/1985-04-20">4/20/1985 Marin County Veterans Auditorium, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-04-20*">Listen/Download</a>]<tr><td>Cryptical > Day Job, revolution, Throwing Stones x2, Hi-Heel Sneakers > She Belongs To Me, Home On The Range <span class="setlist_small">*</span>, Day Job <span class="setlist_small">+</span>, Touch x3, Miracle > Uncle John > Comes A Time, Sailor, Goodnight Irene <span class="setlist_small">#</span>, Drumz, Goodnight Irene, Bucket, Day Job, Drumz </td></tr>
-<tr class="notes"><td>Video taping session. *sung by Lesh. +sung by Hart, #Garcia only.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('85)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Cryptical Envelopment</td><td>10/22/1967</td><td>9/3/1985</td><td align="center">132</td><td align="center">5</td><td align="center">[<a href="/songs/Cryptical Envelopment_83">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Day Job</td><td>8/28/1982</td><td>4/4/1986</td><td align="center">57</td><td align="center">18</td><td align="center">[<a href="/songs/Day Job_89">ETP</a>]</td></tr>
-<tr valign="top"><td>Revolution</td><td>10/12/1983</td><td>3/28/1990</td><td align="center">11</td><td align="center">3</td><td align="center">[<a href="/songs/Revolution_284">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Hi-Heel Sneakers</td><td>11/19/1966</td><td>8/28/1969</td><td align="center">5</td><td align="center">0</td><td align="center">[<a href="/songs/Hi Heel Sneakers_162">ETP</a>]</td></tr>
-<tr valign="top"><td>She Belongs To Me</td><td>1/7/1966</td><td>11/21/1985</td><td align="center">10</td><td align="center">9</td><td align="center">[<a href="/songs/She Belongs To Me_314">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Day Job</td><td>8/28/1982</td><td>4/4/1986</td><td align="center">57</td><td align="center">18</td><td align="center">[<a href="/songs/Day Job_89">ETP</a>]</td></tr>
-<tr valign="top"><td>I Need A Miracle</td><td>8/30/1978</td><td>6/30/1995</td><td align="center">271</td><td align="center">13</td><td align="center">[<a href="/songs/I Need A Miracle_230">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Uncle John's Band</td><td>12/4/1969</td><td>6/28/1995</td><td align="center">331</td><td align="center">6</td><td align="center">[<a href="/songs/Uncle John's Band_387">ETP</a>]</td></tr>
-<tr valign="top"><td>Comes A Time</td><td>10/19/1971</td><td>10/9/1994</td><td align="center">66</td><td align="center">11</td><td align="center">[<a href="/songs/Comes A Time_77">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Lost Sailor</td><td>8/4/1979</td><td>3/24/1986</td><td align="center">145</td><td align="center">7</td><td align="center">[<a href="/songs/Lost Sailor_299">ETP</a>]</td></tr>
-<tr valign="top"><td>Goodnight Irene</td><td>12/31/1983</td><td>12/31/1983</td><td align="center">1</td><td align="center">0</td><td align="center">[<a href="/songs/Goodnight Irene_139">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">71</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>Goodnight Irene</td><td>12/31/1983</td><td>12/31/1983</td><td align="center">1</td><td align="center">0</td><td align="center">[<a href="/songs/Goodnight Irene_139">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Hell In A Bucket</td><td>5/13/1983</td><td>6/30/1995</td><td align="center">216</td><td align="center">21</td><td align="center">[<a href="/songs/Hell In A Bucket_51">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">71</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Saturday, April 20, 1985
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Saturday, April 20, 1985
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0420">
+              <a href="/1985-04-20">4/20/1985 Marin County Veterans Auditorium, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1985-04-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Cryptical &gt; Day Job, revolution, Throwing Stones x2, Hi-Heel Sneakers &gt; She Belongs To Me, Home On The Range *, Day Job +, Touch x3, Miracle &gt; Uncle John &gt; Comes A Time, Sailor, Goodnight Irene #, Drumz, Goodnight Irene, Bucket, Day Job, Drumz
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Video taping session. *sung by Lesh. +sung by Hart, #Garcia only.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('85)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cryptical Envelopment
+          </td>
+          <td>
+            10/22/1967
+          </td>
+          <td>
+            9/3/1985
+          </td>
+          <td align="center">
+            132
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Cryptical%20Envelopment_83">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Day Job
+          </td>
+          <td>
+            8/28/1982
+          </td>
+          <td>
+            4/4/1986
+          </td>
+          <td align="center">
+            57
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Day%20Job_89">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Revolution
+          </td>
+          <td>
+            10/12/1983
+          </td>
+          <td>
+            3/28/1990
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Revolution_284">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Hi-Heel Sneakers
+          </td>
+          <td>
+            11/19/1966
+          </td>
+          <td>
+            8/28/1969
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            0
+          </td>
+          <td align="center">
+            [<a href="/songs/Hi%20Heel%20Sneakers_162">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            She Belongs To Me
+          </td>
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            11/21/1985
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/She%20Belongs%20To%20Me_314">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Day Job
+          </td>
+          <td>
+            8/28/1982
+          </td>
+          <td>
+            4/4/1986
+          </td>
+          <td align="center">
+            57
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Day%20Job_89">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Need A Miracle
+          </td>
+          <td>
+            8/30/1978
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            271
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Need%20A%20Miracle_230">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Uncle John's Band
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            331
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Uncle%20John's%20Band_387">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Comes A Time
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            10/9/1994
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Comes%20A%20Time_77">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Lost Sailor
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            3/24/1986
+          </td>
+          <td align="center">
+            145
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Lost%20Sailor_299">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Goodnight Irene
+          </td>
+          <td>
+            12/31/1983
+          </td>
+          <td>
+            12/31/1983
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            0
+          </td>
+          <td align="center">
+            [<a href="/songs/Goodnight%20Irene_139">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            71
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Goodnight Irene
+          </td>
+          <td>
+            12/31/1983
+          </td>
+          <td>
+            12/31/1983
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            0
+          </td>
+          <td align="center">
+            [<a href="/songs/Goodnight%20Irene_139">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Hell In A Bucket
+          </td>
+          <td>
+            5/13/1983
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            216
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Hell%20In%20A%20Bucket_51">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            71
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

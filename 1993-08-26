@@ -1,42 +1,380 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Thursday, August 26, 1993</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Thursday, August 26, 1993</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0826"></a><a href="/1993-08-26">8/26/1993 Shoreline Amphitheatre, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-08-26*">Listen/Download</a>]<tr><td>I: Bucket > Bertha, Wang Dang Doodle, Candyman, Tom Thumb Blues, Let It Grow > Don't Ease</td></tr>
-<tr><td>II: Crazy Fingers > Saint, Way To Go, He's Gone > Drumz > Other One > Stella Blue > Around</td></tr>
-<tr><td>E: Rain</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('93)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Hell In A Bucket</td><td>5/13/1983</td><td>6/30/1995</td><td align="center">216</td><td align="center">11</td><td align="center">[<a href="/songs/Hell In A Bucket_51">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">11</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top"><td>Wang Dang Doodle</td><td>8/26/1983</td><td>7/8/1995</td><td align="center">94</td><td align="center">17</td><td align="center">[<a href="/songs/Wang Dang Doodle_401">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Candyman</td><td>4/3/1970</td><td>6/30/1995</td><td align="center">276</td><td align="center">5</td><td align="center">[<a href="/songs/Candyman_57">ETP</a>]</td></tr>
-<tr valign="top"><td>Tom Thumb Blues</td><td>3/27/1985</td><td>6/28/1995</td><td align="center">58</td><td align="center">13</td><td align="center">[<a href="/songs/Tom Thumb Blues_376">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Let It Grow</td><td>9/7/1973</td><td>7/2/1995</td><td align="center">273</td><td align="center">7</td><td align="center">[<a href="/songs/Let It Grow_198">ETP</a>]</td></tr>
-<tr valign="top"><td>Don't Ease</td><td>7/16/1966</td><td>7/8/1995</td><td align="center">315</td><td align="center">11</td><td align="center">[<a href="/songs/Don't Ease_102">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">16</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
-<tr valign="top"><td>Saint Of Circumstance</td><td>8/31/1979</td><td>7/8/1995</td><td align="center">222</td><td align="center">12</td><td align="center">[<a href="/songs/Saint Of Circumstance_300">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Way To Go Home</td><td>2/23/1992</td><td>6/28/1995</td><td align="center">92</td><td align="center">30</td><td align="center">[<a href="/songs/Way To Go Home_407">ETP</a>]</td></tr>
-<tr valign="top"><td>He's Gone</td><td>4/17/1972</td><td>7/6/1995</td><td align="center">327</td><td align="center">15</td><td align="center">[<a href="/songs/He's Gone_150">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">81</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>Other One</td><td>10/22/1967</td><td>7/8/1995</td><td align="center">582</td><td align="center">17</td><td align="center">[<a href="/songs/Other One_262">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Stella Blue</td><td>6/17/1972</td><td>7/6/1995</td><td align="center">328</td><td align="center">13</td><td align="center">[<a href="/songs/Stella Blue_337">ETP</a>]</td></tr>
-<tr valign="top"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">10</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Rain</td><td>1/7/1966</td><td>7/9/1995</td><td align="center">731</td><td align="center">27</td><td align="center">[<a href="/songs/Rain_280">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Thursday, August 26, 1993
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Thursday, August 26, 1993
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0826">
+              <a href="/1993-08-26">8/26/1993 Shoreline Amphitheatre, Mountain View, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1993-08-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Bucket &gt; Bertha, Wang Dang Doodle, Candyman, Tom Thumb Blues, Let It Grow &gt; Don't Ease
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Crazy Fingers &gt; Saint, Way To Go, He's Gone &gt; Drumz &gt; Other One &gt; Stella Blue &gt; Around
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Rain
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('93)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Hell In A Bucket
+          </td>
+          <td>
+            5/13/1983
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            216
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Hell%20In%20A%20Bucket_51">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wang Dang Doodle
+          </td>
+          <td>
+            8/26/1983
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            94
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Wang%20Dang%20Doodle_401">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Candyman
+          </td>
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            276
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Candyman_57">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            3/27/1985
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Tom%20Thumb%20Blues_376">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Let%20It%20Grow_198">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            7/16/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            315
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Don't%20Ease_102">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Crazy Fingers
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            144
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Crazy%20Fingers_81">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Saint Of Circumstance
+          </td>
+          <td>
+            8/31/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            222
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Saint%20Of%20Circumstance_300">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Way To Go Home
+          </td>
+          <td>
+            2/23/1992
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            92
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Way%20To%20Go%20Home_407">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            He's Gone
+          </td>
+          <td>
+            4/17/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            327
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/He's%20Gone_150">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            81
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Other One
+          </td>
+          <td>
+            10/22/1967
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Other%20One_262">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Stella Blue
+          </td>
+          <td>
+            6/17/1972
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            328
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Stella%20Blue_337">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Rain
+          </td>
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            731
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td align="center">
+            [<a href="/songs/Rain_280">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

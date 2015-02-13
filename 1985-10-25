@@ -1,42 +1,380 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, October 25, 1985</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, October 25, 1985</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1025"></a><a href="/1985-10-25">10/25/1985 Sportatorium, Pembroke Pines, FL</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1985-10-25*">Listen/Download</a>]<tr><td>I: Deal, Rooster, Iko Iko, El Paso, Dire Wolf, All Over Now, Loser, Let It Grow</td></tr>
-<tr><td>II: Morning Dew, Estimated > Eyes > Drumz > Miracle > Black Peter > Sugar Magnolia</td></tr>
-<tr><td>E: Baby Blue</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('85)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">13</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Rooster</td><td>8/19/1980</td><td>7/9/1995</td><td align="center">272</td><td align="center">14</td><td align="center">[<a href="/songs/Rooster_291">ETP</a>]</td></tr>
-<tr valign="top"><td>Iko Iko</td><td>5/15/1977</td><td>7/5/1995</td><td align="center">185</td><td align="center">10</td><td align="center">[<a href="/songs/Iko Iko_177">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>El Paso</td><td>7/14/1970</td><td>7/5/1995</td><td align="center">387</td><td align="center">9</td><td align="center">[<a href="/songs/El Paso_114">ETP</a>]</td></tr>
-<tr valign="top"><td>Dire Wolf</td><td>6/7/1969</td><td>7/2/1995</td><td align="center">225</td><td align="center">7</td><td align="center">[<a href="/songs/Dire Wolf_98">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>It's All Over Now</td><td>9/6/1969</td><td>7/2/1995</td><td align="center">160</td><td align="center">10</td><td align="center">[<a href="/songs/It's All Over Now_9">ETP</a>]</td></tr>
-<tr valign="top"><td>Loser</td><td>2/18/1971</td><td>6/28/1995</td><td align="center">344</td><td align="center">5</td><td align="center">[<a href="/songs/Loser_207">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Let It Grow</td><td>9/7/1973</td><td>7/2/1995</td><td align="center">273</td><td align="center">14</td><td align="center">[<a href="/songs/Let It Grow_198">ETP</a>]</td></tr>
-<tr valign="top"><td>Morning Dew</td><td>1/14/1967</td><td>6/21/1995</td><td align="center">254</td><td align="center">7</td><td align="center">[<a href="/songs/Morning Dew_236">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Estimated Prophet</td><td>2/26/1977</td><td>6/28/1995</td><td align="center">390</td><td align="center">15</td><td align="center">[<a href="/songs/Estimated Prophet_117">ETP</a>]</td></tr>
-<tr valign="top"><td>Eyes Of The World</td><td>2/9/1973</td><td>7/6/1995</td><td align="center">382</td><td align="center">16</td><td align="center">[<a href="/songs/Eyes Of The World_120">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">71</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top"><td>I Need A Miracle</td><td>8/30/1978</td><td>6/30/1995</td><td align="center">271</td><td align="center">13</td><td align="center">[<a href="/songs/I Need A Miracle_230">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Black Peter</td><td>12/4/1969</td><td>6/22/1995</td><td align="center">342</td><td align="center">16</td><td align="center">[<a href="/songs/Black Peter_35">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">20</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Baby Blue</td><td>1/7/1966</td><td>2/19/1995</td><td align="center">141</td><td align="center">14</td><td align="center">[<a href="/songs/Baby Blue_20">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, October 25, 1985
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, October 25, 1985
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1025">
+              <a href="/1985-10-25">10/25/1985 Sportatorium, Pembroke Pines, FL</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1985-10-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Deal, Rooster, Iko Iko, El Paso, Dire Wolf, All Over Now, Loser, Let It Grow
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Morning Dew, Estimated &gt; Eyes &gt; Drumz &gt; Miracle &gt; Black Peter &gt; Sugar Magnolia
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Baby Blue
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('85)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Deal
+          </td>
+          <td>
+            2/19/1971
+          </td>
+          <td>
+            6/18/1995
+          </td>
+          <td align="center">
+            422
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/Deal_93">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Rooster
+          </td>
+          <td>
+            8/19/1980
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Rooster_291">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Iko Iko
+          </td>
+          <td>
+            5/15/1977
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            185
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Iko%20Iko_177">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            El Paso
+          </td>
+          <td>
+            7/14/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            387
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/El%20Paso_114">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            6/7/1969
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            225
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Dire%20Wolf_98">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            It's All Over Now
+          </td>
+          <td>
+            9/6/1969
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            160
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/It's%20All%20Over%20Now_9">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Loser
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            344
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Loser_207">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Let%20It%20Grow_198">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Morning Dew
+          </td>
+          <td>
+            1/14/1967
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            254
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Morning%20Dew_236">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Estimated Prophet
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            390
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Estimated%20Prophet_117">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Eyes Of The World
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            382
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Eyes%20Of%20The%20World_120">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            71
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Need A Miracle
+          </td>
+          <td>
+            8/30/1978
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            271
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Need%20A%20Miracle_230">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Peter
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            342
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Peter_35">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Baby Blue
+          </td>
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            2/19/1995
+          </td>
+          <td align="center">
+            141
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/Baby%20Blue_20">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

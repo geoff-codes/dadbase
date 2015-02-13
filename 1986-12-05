@@ -1,27 +1,95 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, December 5, 1986</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, December 5, 1986</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1205"></a><a href="/1986-12-05">12/5/1986 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1986-12-05*">Listen/Download</a>]<tr><td>Black Muddy River, Push</td></tr>
-<tr class="notes"><td>Rehearsal. Both tunes appear as "In the Dark" bonus tracks in "Beyond Description (1973-1989)."</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('86)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Black Muddy River</td><td>12/15/1986</td><td>7/9/1995</td><td align="center">66</td><td align="center">3</td><td align="center">[<a href="/songs/Black Muddy River_34">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>When Push Comes To Shove</td><td>12/15/1986</td><td>7/17/1989</td><td align="center">58</td><td align="center">6</td><td align="center">[<a href="/songs/When Push Comes To Shove_276">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, December 5, 1986
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, December 5, 1986
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1205">
+              <a href="/1986-12-05">12/5/1986 Le Club Front, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1986-12-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Black Muddy River, Push
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal. Both tunes appear as "In the Dark" bonus tracks in "Beyond Description (1973-1989)."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('86)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Muddy River
+          </td>
+          <td>
+            12/15/1986
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Muddy%20River_34">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            When Push Comes To Shove
+          </td>
+          <td>
+            12/15/1986
+          </td>
+          <td>
+            7/17/1989
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/When%20Push%20Comes%20To%20Shove_276">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

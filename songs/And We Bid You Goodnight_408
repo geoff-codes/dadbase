@@ -1,79 +1,1330 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>And We Bid You Goodnight</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">And We Bid You Goodnight</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>3/16/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">256</td><td>[<a href="/1968-03-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/31/1968</td><td>San Francisco, CA (Carousel Ballroom)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1968-03-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/22/1968</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">42</td><td>[<a href="/1968-08-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/1/1968</td><td>Chico, CA (Silver Dollar Fairgrounds)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">23</td><td>[<a href="/1968-11-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/22/1968</td><td>Columbus, OH (Veterans Hall)</td><td align="center">*</td><td>New Potato Cabo</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1968-11-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/1/1968</td><td>Detroit, MI (Grande Ballroom)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1968-12-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/7/1968</td><td>Louisville, KY (Bellarmine College)</td><td align="center">SII</td><td>Morning Dew</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1968-12-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/21/1968</td><td>Los Angeles, CA (Shrine Exhibition Hall)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1968-12-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/29/1968</td><td>Hallandale, FL (Gulfstream Park Racetrack)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1968-12-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/25/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1969-01-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/5/1969</td><td>Kansas City, MO ((unknown))</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1969-02-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/6/1969</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1969-02-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/7/1969</td><td>Pittsburgh, PA (Stanley Theatre)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1969-02-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/11/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1969-02-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/14/1969</td><td>Philadelphia, PA (Electric Factory)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1969-02-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/15/1969</td><td>Philadelphia, PA (Electric Factory)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1969-02-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/28/1969</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1969-02-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/5/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">11</td><td>[<a href="/1969-04-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/23/1969</td><td>Boston, MA (The Ark)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">11</td><td>[<a href="/1969-04-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/26/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">Enc</td><td>Feedback </td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1969-04-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/24/1969</td><td>West Hollywood, FL (Seminole Indian Village)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1969-05-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/31/1969</td><td>Eugene, OR (McArthur Court, University of Oreg...)</td><td align="center">SII</td><td>Baby Blue</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1969-05-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/3/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">27</td><td>[<a href="/1969-08-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/23/1969</td><td>St. Helens, OR (Pelletier Farm)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1969-08-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/8/1969</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">30</td><td>[<a href="/1969-11-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/12/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1969-12-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/30/1969</td><td>Boston, MA (Boston Tea Party)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1969-12-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/13/1970</td><td>New York, NY (Fillmore East)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">26</td><td>[<a href="/1970-02-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/14/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-02-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/20/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1970-03-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/21/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-03-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/3/1970</td><td>Cincinnati, OH (Field House, U. of Cincinnati)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-04-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/12/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1970-04-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/26/1970</td><td>Poynette, WI (York Farm)</td><td align="center">*</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1970-04-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/2/1970</td><td>Binghamton, NY (Harpur College, S.U.N.Y.)</td><td align="center">SIII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-05-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/18/1970</td><td>New York, NY (Fillmore East)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">44</td><td>[<a href="/1970-09-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/20/1970</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Feedback</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1970-09-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/15/1971</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">Enc</td><td>Johnny B. Goode</td><td>&mdash;&mdash;</td><td align="center">90</td><td>[<a href="/1971-08-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/28/1973</td><td>Salt Lake City, UT (Salt Palace)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">127</td><td>[<a href="/1973-02-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/2/1973</td><td>Boston, MA (Boston Garden)</td><td align="center">Enc</td><td>Johnny B. Goode</td><td>&mdash;&mdash;</td><td align="center">11</td><td>[<a href="/1973-04-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/11/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">Enc2</td><td>Johnny B. Goode</td><td>&mdash;&mdash;</td><td align="center">36</td><td>[<a href="/1973-11-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/25/1973</td><td>Tempe, AZ (Feyline Field)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1973-11-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/23/1974</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">Enc2</td><td>Johnny B. Goode</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1974-02-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/20/1974</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">Enc2</td><td>Half Step</td><td>&mdash;&mdash;</td><td align="center">38</td><td>[<a href="/1974-10-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/31/1976</td><td>Daly City, CA (Cow Palace)</td><td align="center">Enc2</td><td>Uncle John</td><td>&mdash;&mdash;</td><td align="center">45</td><td>[<a href="/1976-12-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/31/1978</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">Enc2</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">140</td><td>[<a href="/1978-12-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/6/1989</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">Enc</td><td>Johnny B. Goode</td><td>&mdash;&mdash;</td><td align="center">761</td><td>[<a href="/1989-08-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/18/1989</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">Enc2</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1989-08-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/8/1989</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1989-10-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/16/1989</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1989-10-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/26/1989</td><td>Miami, FL (Miami Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1989-10-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/27/1990</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">11</td><td>[<a href="/1990-02-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/24/1990</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1990-03-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/3/1990</td><td>Atlanta, GA (The Omni)</td><td align="center">Enc</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1990-04-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/14/1990</td><td>Foxboro, MA (Foxboro Stadium)</td><td align="center">Enc</td><td>Last Time</td><td>&mdash;&mdash;</td><td align="center">16</td><td>[<a href="/1990-07-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">Enc</td><td>Brokedown</td><td>&mdash;&mdash;</td><td align="center">107</td><td>[<a href="/1991-09-26">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      And We Bid You Goodnight
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        And We Bid You Goodnight
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/16/1968
+          </td>
+          <td>
+            San Francisco, CA (Carousel Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            256
+          </td>
+          <td>
+            [<a href="/1968-03-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/31/1968
+          </td>
+          <td>
+            San Francisco, CA (Carousel Ballroom)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1968-03-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/22/1968
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            42
+          </td>
+          <td>
+            [<a href="/1968-08-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/1/1968
+          </td>
+          <td>
+            Chico, CA (Silver Dollar Fairgrounds)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1968-11-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/22/1968
+          </td>
+          <td>
+            Columbus, OH (Veterans Hall)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            New Potato Cabo
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1968-11-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/1/1968
+          </td>
+          <td>
+            Detroit, MI (Grande Ballroom)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1968-12-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/7/1968
+          </td>
+          <td>
+            Louisville, KY (Bellarmine College)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Morning Dew
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1968-12-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/21/1968
+          </td>
+          <td>
+            Los Angeles, CA (Shrine Exhibition Hall)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1968-12-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/29/1968
+          </td>
+          <td>
+            Hallandale, FL (Gulfstream Park Racetrack)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1968-12-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/25/1969
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1969-01-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/5/1969
+          </td>
+          <td>
+            Kansas City, MO ((unknown))
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1969-02-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/6/1969
+          </td>
+          <td>
+            St. Louis, MO (Kiel Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-02-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/7/1969
+          </td>
+          <td>
+            Pittsburgh, PA (Stanley Theatre)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-02-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/11/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1969-02-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/14/1969
+          </td>
+          <td>
+            Philadelphia, PA (Electric Factory)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-02-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/15/1969
+          </td>
+          <td>
+            Philadelphia, PA (Electric Factory)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1969-02-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/28/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1969-02-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/5/1969
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1969-04-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/23/1969
+          </td>
+          <td>
+            Boston, MA (The Ark)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1969-04-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/26/1969
+          </td>
+          <td>
+            Chicago, IL (Electric Theater)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1969-04-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/24/1969
+          </td>
+          <td>
+            West Hollywood, FL (Seminole Indian Village)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1969-05-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/31/1969
+          </td>
+          <td>
+            Eugene, OR (McArthur Court, University of Oreg...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1969-05-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/3/1969
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td>
+            [<a href="/1969-08-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/23/1969
+          </td>
+          <td>
+            St. Helens, OR (Pelletier Farm)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-08-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/8/1969
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td>
+            [<a href="/1969-11-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/12/1969
+          </td>
+          <td>
+            Los Angeles, CA (Thelma Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1969-12-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/30/1969
+          </td>
+          <td>
+            Boston, MA (Boston Tea Party)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1969-12-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/13/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td>
+            [<a href="/1970-02-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/14/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-02-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/20/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1970-03-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/21/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-03-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            Cincinnati, OH (Field House, U. of Cincinnati)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/12/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1970-04-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/26/1970
+          </td>
+          <td>
+            Poynette, WI (York Farm)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1970-04-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/2/1970
+          </td>
+          <td>
+            Binghamton, NY (Harpur College, S.U.N.Y.)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-05-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/18/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td>
+            [<a href="/1970-09-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/20/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Feedback
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-09-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/15/1971
+          </td>
+          <td>
+            Berkeley, CA (Berkeley Community Theatre)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            90
+          </td>
+          <td>
+            [<a href="/1971-08-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/28/1973
+          </td>
+          <td>
+            Salt Lake City, UT (Salt Palace)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            127
+          </td>
+          <td>
+            [<a href="/1973-02-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/2/1973
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1973-04-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/11/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            Enc2
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            36
+          </td>
+          <td>
+            [<a href="/1973-11-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/25/1973
+          </td>
+          <td>
+            Tempe, AZ (Feyline Field)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1973-11-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/23/1974
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            Enc2
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1974-02-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/20/1974
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            Enc2
+          </td>
+          <td>
+            Half Step
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td>
+            [<a href="/1974-10-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1976
+          </td>
+          <td>
+            Daly City, CA (Cow Palace)
+          </td>
+          <td align="center">
+            Enc2
+          </td>
+          <td>
+            Uncle John
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            45
+          </td>
+          <td>
+            [<a href="/1976-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1978
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            Enc2
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            140
+          </td>
+          <td>
+            [<a href="/1978-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/6/1989
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            761
+          </td>
+          <td>
+            [<a href="/1989-08-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/18/1989
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            Enc2
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1989-08-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/8/1989
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1989-10-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/16/1989
+          </td>
+          <td>
+            East Rutherford, NJ (Meadowlands Arena)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1989-10-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/26/1989
+          </td>
+          <td>
+            Miami, FL (Miami Arena)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1989-10-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/27/1990
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1990-02-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/24/1990
+          </td>
+          <td>
+            Albany, NY (Knickerbocker Arena)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1990-03-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1990
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1990-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/14/1990
+          </td>
+          <td>
+            Foxboro, MA (Foxboro Stadium)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            Last Time
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td>
+            [<a href="/1990-07-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1991
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            Enc
+          </td>
+          <td>
+            Brokedown
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            107
+          </td>
+          <td>
+            [<a href="/1991-09-26">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

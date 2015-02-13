@@ -1,27 +1,95 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Wednesday, March 5, 1975</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Wednesday, March 5, 1975</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0305"></a><a href="/1975-03-05">3/5/1975 Ace's, Mill Valley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1975-03-05*">Listen/Download</a>]<tr><td>Crazy Fingers, Blues For Allah</td></tr>
-<tr class="notes"><td>Rehearsal. Above is fregmentary.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('75)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">2</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Blues For Allah</td><td>3/23/1975</td><td>8/13/1975</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Blues For Allah_41">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Wednesday, March 5, 1975
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Wednesday, March 5, 1975
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0305">
+              <a href="/1975-03-05">3/5/1975 Ace's, Mill Valley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1975-03-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Crazy Fingers, Blues For Allah
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal. Above is fregmentary.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('75)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Crazy Fingers
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            144
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/Crazy%20Fingers_81">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Blues For Allah
+          </td>
+          <td>
+            3/23/1975
+          </td>
+          <td>
+            8/13/1975
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Blues%20For%20Allah_41">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

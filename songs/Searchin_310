@@ -1,26 +1,111 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Searchin</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Searchin</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>8/29/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>New Orleans</td><td>Good Lovin </td><td align="center">453</td><td>[<a href="/1969-08-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/8/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>New Orleans</td><td>Baby Blue</td><td align="center">166</td><td>[<a href="/1970-11-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/27/1971</td><td>New York, NY (Fillmore East)</td><td align="center">SII</td><td>Dire Wolf</td><td>Riot In Cell Bl</td><td align="center">57</td><td>[<a href="/1971-04-27">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Searchin
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Searchin
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/29/1969
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            New Orleans
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            453
+          </td>
+          <td>
+            [<a href="/1969-08-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            New Orleans
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td align="center">
+            166
+          </td>
+          <td>
+            [<a href="/1970-11-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/27/1971
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            Riot In Cell Bl
+          </td>
+          <td align="center">
+            57
+          </td>
+          <td>
+            [<a href="/1971-04-27">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

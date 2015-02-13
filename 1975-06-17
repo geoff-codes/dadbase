@@ -1,41 +1,330 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Tuesday, June 17, 1975</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Tuesday, June 17, 1975</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0617"></a><a href="/1975-06-17">6/17/1975 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1975-06-17*">Listen/Download</a>]<tr><td>I: Crazy Fingers, BIODTL, Deal, Big River, Peggy-O, Me  and  My Uncle, Help > Slipknot > Franklin's</td></tr>
-<tr><td>II: Blues For Allah > Drums > King Solomon's Marbles > Blues For Allah, Sugar Magnolia</td></tr>
-<tr><td>E: U. S. Blues</td></tr>
-<tr class="notes"><td>First ''Crazy Fingers''; First ''Franklin's''; First ''Help''; Next ''Me  and  My Uncle'' 4/23/1977 [50 shows]</i></td></tr>
-<tr class="notes"><td>Bob Fried Memorial Boogie. "Help" without lyrics. Also: Kingfish; Keith  and  Donna; The Mirrors</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('75)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">2</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">2</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top"><td>Deal</td><td>2/19/1971</td><td>6/18/1995</td><td align="center">422</td><td align="center">1</td><td align="center">[<a href="/songs/Deal_93">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Big River</td><td>12/31/1971</td><td>7/6/1995</td><td align="center">395</td><td align="center">3</td><td align="center">[<a href="/songs/Big River_31">ETP</a>]</td></tr>
-<tr valign="top"><td>Peggy-O</td><td>12/10/1973</td><td>7/5/1995</td><td align="center">265</td><td align="center">1</td><td align="center">[<a href="/songs/Peggy O_267">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">1</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
-<tr valign="top"><td>Help On The Way</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">110</td><td align="center">3</td><td align="center">[<a href="/songs/Help On The Way_154">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Slipknot!</td><td>6/20/1974</td><td>6/22/1995</td><td align="center">112</td><td align="center">3</td><td align="center">[<a href="/songs/Slipknot!_323">ETP</a>]</td></tr>
-<tr valign="top"><td>Franklin's Tower</td><td>6/17/1975</td><td>6/22/1995</td><td align="center">221</td><td align="center">3</td><td align="center">[<a href="/songs/Franklin's Tower_128">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Blues For Allah</td><td>3/23/1975</td><td>8/13/1975</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Blues For Allah_41">ETP</a>]</td></tr>
-<tr valign="top"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">4</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">1</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-<tr valign="top"><td>U. S. Blues</td><td>2/22/1974</td><td>7/8/1995</td><td align="center">321</td><td align="center">2</td><td align="center">[<a href="/songs/U. S. Blues_385">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Tuesday, June 17, 1975
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Tuesday, June 17, 1975
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0617">
+              <a href="/1975-06-17">6/17/1975 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1975-06-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Crazy Fingers, BIODTL, Deal, Big River, Peggy-O, Me and My Uncle, Help &gt; Slipknot &gt; Franklin's
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Blues For Allah &gt; Drums &gt; King Solomon's Marbles &gt; Blues For Allah, Sugar Magnolia
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: U. S. Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Crazy Fingers''; First ''Franklin's''; First ''Help''; Next ''Me and My Uncle'' 4/23/1977 [50 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Bob Fried Memorial Boogie. "Help" without lyrics. Also: Kingfish; Keith and Donna; The Mirrors
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('75)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Crazy Fingers
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            144
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/Crazy%20Fingers_81">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Deal
+          </td>
+          <td>
+            2/19/1971
+          </td>
+          <td>
+            6/18/1995
+          </td>
+          <td align="center">
+            422
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Deal_93">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Big River
+          </td>
+          <td>
+            12/31/1971
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            395
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Big%20River_31">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            12/10/1973
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            265
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Peggy%20O_267">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Me And My Uncle
+          </td>
+          <td>
+            11/29/1966
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            613
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Me%20And%20My%20Uncle_221">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Help On The Way
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            110
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Help%20On%20The%20Way_154">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Slipknot!
+          </td>
+          <td>
+            6/20/1974
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            112
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Slipknot!_323">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Franklin's Tower
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            221
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Franklin's%20Tower_128">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Blues For Allah
+          </td>
+          <td>
+            3/23/1975
+          </td>
+          <td>
+            8/13/1975
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Blues%20For%20Allah_41">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drums
+          </td>
+          <td>
+            6/14/1968
+          </td>
+          <td>
+            2/26/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            [<a href="/songs/Drums_106">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            U. S. Blues
+          </td>
+          <td>
+            2/22/1974
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            321
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/U.%20S.%20Blues_385">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

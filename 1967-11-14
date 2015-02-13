@@ -1,27 +1,95 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Tuesday, November 14, 1967</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Tuesday, November 14, 1967</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1114"></a><a href="/1967-11-14">11/14/1967 American Studios, North Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-11-14*">Listen/Download</a>]<tr><td>Born Cross-Eyed, Dark Star</td></tr>
-<tr class="notes"><td>Studio sesion for "Anthem of the Sun."</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('67)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Born Cross-Eyed</td><td>1/17/1968</td><td>4/3/1968</td><td align="center">13</td><td align="center">0</td><td align="center">[<a href="/songs/Born Cross Eyed_44">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Dark Star</td><td>12/13/1967</td><td>3/30/1994</td><td align="center">219</td><td align="center">1</td><td align="center">[<a href="/songs/Dark Star_87">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Tuesday, November 14, 1967
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Tuesday, November 14, 1967
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1114">
+              <a href="/1967-11-14">11/14/1967 American Studios, North Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-11-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Born Cross-Eyed, Dark Star
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Studio sesion for "Anthem of the Sun."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('67)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Born Cross-Eyed
+          </td>
+          <td>
+            1/17/1968
+          </td>
+          <td>
+            4/3/1968
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td align="center">
+            0
+          </td>
+          <td align="center">
+            [<a href="/songs/Born%20Cross%20Eyed_44">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dark Star
+          </td>
+          <td>
+            12/13/1967
+          </td>
+          <td>
+            3/30/1994
+          </td>
+          <td align="center">
+            219
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Dark%20Star_87">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

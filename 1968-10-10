@@ -1,26 +1,75 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Thursday, October 10, 1968</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Thursday, October 10, 1968</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1010"></a><a href="/1968-10-10">10/10/1968 The Matrix, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1968-10-10*">Listen/Download</a>]<tr><td>Jam, It’s a Sin, Next Time You See Me Jam <span class="setlist_small">*</span>, Rub Jam <span class="setlist_small">*</span>, Yonder’s Wall <span class="setlist_small">*</span>, Jam > Lovelight Jam > Drums > Jam > Death Don’t, Dark Star Jam > The Eleven Jam> The Seven</td></tr>
-<tr class="notes"><td>Mickey Hart And The Hartbeats. *with Paul Butterfield and Elvin Bishop. Set breaks are uncertain. </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('68)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Drums</td><td>6/14/1968</td><td>2/26/1995</td><td align="center">273</td><td align="center">6</td><td align="center">[<a href="/songs/Drums_106">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Thursday, October 10, 1968
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Thursday, October 10, 1968
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1010">
+              <a href="/1968-10-10">10/10/1968 The Matrix, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1968-10-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jam, Itï¿½s a Sin, Next Time You See Me Jam *, Rub Jam *, Yonderï¿½s Wall *, Jam &gt; Lovelight Jam &gt; Drums &gt; Jam &gt; Death Donï¿½t, Dark Star Jam &gt; The Eleven Jam&gt; The Seven
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Mickey Hart And The Hartbeats. *with Paul Butterfield and Elvin Bishop. Set breaks are uncertain.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('68)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drums
+          </td>
+          <td>
+            6/14/1968
+          </td>
+          <td>
+            2/26/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Drums_106">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

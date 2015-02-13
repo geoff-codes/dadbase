@@ -1,49 +1,505 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, May 16, 1980</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, May 16, 1980</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0516"></a><a href="/1980-05-16">5/16/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1980-05-16*">Listen/Download</a>]<tr><td>I: Alabama > Promised, High Time <span class="setlist_small">*</span>, Me  and  My Uncle > Big River, Row Jimmy, Minglewood <span class="setlist_small">*</span>, Ramble On > L. L. Rain <span class="setlist_small">*</span>, China Cat <span class="setlist_small">*</span> > I Know You Rider<span class="setlist_small">*</span></td></tr>
-<tr><td>II: Stranger <span class="setlist_small">*</span> > Althea <span class="setlist_small">*</span> > Sailor <span class="setlist_small">*</span> > Saint <span class="setlist_small">*</span> > Eyes > Drumz > Truckin > Morning Dew > Around > Johnny B. Goode</td></tr>
-<tr><td>E: Brokedown</td></tr>
-<tr class="notes"><td>*appears on "Go to Nassau."</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('80)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Alabama Getaway</td><td>11/4/1979</td><td>6/2/1995</td><td align="center">141</td><td align="center">50</td><td align="center">[<a href="/songs/Alabama Getaway_3">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Promised Land</td><td>5/29/1971</td><td>7/9/1995</td><td align="center">427</td><td align="center">30</td><td align="center">[<a href="/songs/Promised Land_275">ETP</a>]</td></tr>
-<tr valign="top"><td>High Time</td><td>6/21/1969</td><td>3/24/1995</td><td align="center">133</td><td align="center">8</td><td align="center">[<a href="/songs/High Time_164">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">26</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
-<tr valign="top"><td>Big River</td><td>12/31/1971</td><td>7/6/1995</td><td align="center">395</td><td align="center">21</td><td align="center">[<a href="/songs/Big River_31">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Row Jimmy</td><td>2/9/1973</td><td>6/21/1995</td><td align="center">273</td><td align="center">10</td><td align="center">[<a href="/songs/Row Jimmy_294">ETP</a>]</td></tr>
-<tr valign="top"><td>Minglewood Blues</td><td>5/19/1966</td><td>6/27/1995</td><td align="center">434</td><td align="center">40</td><td align="center">[<a href="/songs/Minglewood Blues_229">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Ramble On Rose</td><td>10/19/1971</td><td>6/27/1995</td><td align="center">314</td><td align="center">15</td><td align="center">[<a href="/songs/Ramble On Rose_282">ETP</a>]</td></tr>
-<tr valign="top"><td>Looks Like Rain</td><td>3/21/1972</td><td>6/30/1995</td><td align="center">417</td><td align="center">32</td><td align="center">[<a href="/songs/Looks Like Rain_190">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">29</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
-<tr valign="top"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">29</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Feel Like A Stranger</td><td>3/31/1980</td><td>7/5/1995</td><td align="center">207</td><td align="center">41</td><td align="center">[<a href="/songs/Feel Like A Stranger_339">ETP</a>]</td></tr>
-<tr valign="top"><td>Althea</td><td>8/4/1979</td><td>7/8/1995</td><td align="center">272</td><td align="center">59</td><td align="center">[<a href="/songs/Althea_12">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Lost Sailor</td><td>8/4/1979</td><td>3/24/1986</td><td align="center">145</td><td align="center">50</td><td align="center">[<a href="/songs/Lost Sailor_299">ETP</a>]</td></tr>
-<tr valign="top"><td>Saint Of Circumstance</td><td>8/31/1979</td><td>7/8/1995</td><td align="center">222</td><td align="center">54</td><td align="center">[<a href="/songs/Saint Of Circumstance_300">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Eyes Of The World</td><td>2/9/1973</td><td>7/6/1995</td><td align="center">382</td><td align="center">18</td><td align="center">[<a href="/songs/Eyes Of The World_120">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">85</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">20</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
-<tr valign="top"><td>Morning Dew</td><td>1/14/1967</td><td>6/21/1995</td><td align="center">254</td><td align="center">4</td><td align="center">[<a href="/songs/Morning Dew_236">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">29</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top"><td>Johnny B. Goode</td><td>9/7/1969</td><td>4/5/1995</td><td align="center">284</td><td align="center">27</td><td align="center">[<a href="/songs/Johnny B. Goode_185">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Brokedown Palace</td><td>8/18/1970</td><td>6/25/1995</td><td align="center">215</td><td align="center">19</td><td align="center">[<a href="/songs/Brokedown Palace_49">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, May 16, 1980
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, May 16, 1980
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0516">
+              <a href="/1980-05-16">5/16/1980 Nassau Veterans Memorial Coliseum, Uniondale, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1980-05-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Alabama &gt; Promised, High Time *, Me and My Uncle &gt; Big River, Row Jimmy, Minglewood *, Ramble On &gt; L. L. Rain *, China Cat * &gt; I Know You Rider*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Stranger * &gt; Althea * &gt; Sailor * &gt; Saint * &gt; Eyes &gt; Drumz &gt; Truckin &gt; Morning Dew &gt; Around &gt; Johnny B. Goode
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Brokedown
+            </td>
+          </tr>
+          <tr>
+            <td>
+              *appears on "Go to Nassau."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('80)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Alabama Getaway
+          </td>
+          <td>
+            11/4/1979
+          </td>
+          <td>
+            6/2/1995
+          </td>
+          <td align="center">
+            141
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td align="center">
+            [<a href="/songs/Alabama%20Getaway_3">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Promised Land
+          </td>
+          <td>
+            5/29/1971
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            427
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Promised%20Land_275">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            High Time
+          </td>
+          <td>
+            6/21/1969
+          </td>
+          <td>
+            3/24/1995
+          </td>
+          <td align="center">
+            133
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/High%20Time_164">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Me And My Uncle
+          </td>
+          <td>
+            11/29/1966
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            613
+          </td>
+          <td align="center">
+            26
+          </td>
+          <td align="center">
+            [<a href="/songs/Me%20And%20My%20Uncle_221">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Big River
+          </td>
+          <td>
+            12/31/1971
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            395
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Big%20River_31">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Row%20Jimmy_294">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Minglewood Blues
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            434
+          </td>
+          <td align="center">
+            40
+          </td>
+          <td align="center">
+            [<a href="/songs/Minglewood%20Blues_229">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Ramble On Rose
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            314
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Ramble%20On%20Rose_282">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Looks Like Rain
+          </td>
+          <td>
+            3/21/1972
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            32
+          </td>
+          <td align="center">
+            [<a href="/songs/Looks%20Like%20Rain_190">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            China Cat Sunflower
+          </td>
+          <td>
+            1/17/1968
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            553
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td align="center">
+            [<a href="/songs/China%20Cat%20Sunflower_66">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Know You Rider
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            550
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Know%20You%20Rider_172">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Feel Like A Stranger
+          </td>
+          <td>
+            3/31/1980
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            207
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            [<a href="/songs/Feel%20Like%20A%20Stranger_339">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Althea
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            59
+          </td>
+          <td align="center">
+            [<a href="/songs/Althea_12">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Lost Sailor
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            3/24/1986
+          </td>
+          <td align="center">
+            145
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td align="center">
+            [<a href="/songs/Lost%20Sailor_299">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Saint Of Circumstance
+          </td>
+          <td>
+            8/31/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            222
+          </td>
+          <td align="center">
+            54
+          </td>
+          <td align="center">
+            [<a href="/songs/Saint%20Of%20Circumstance_300">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Eyes Of The World
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            382
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Eyes%20Of%20The%20World_120">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            85
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Truckin
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            518
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td align="center">
+            [<a href="/songs/Truckin_382">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Morning Dew
+          </td>
+          <td>
+            1/14/1967
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            254
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            [<a href="/songs/Morning%20Dew_236">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            9/7/1969
+          </td>
+          <td>
+            4/5/1995
+          </td>
+          <td align="center">
+            284
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td align="center">
+            [<a href="/songs/Johnny%20B.%20Goode_185">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brokedown Palace
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            215
+          </td>
+          <td align="center">
+            19
+          </td>
+          <td align="center">
+            [<a href="/songs/Brokedown%20Palace_49">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

@@ -1,42 +1,365 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sunday, April 2, 1995</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sunday, April 2, 1995</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0402"></a><a href="/1995-04-02">4/2/1995 The Pyramid, Memphis, TN</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1995-04-02*">Listen/Download</a>]<tr><td>I: Shakedown, Same Thing, Althea, Memphis Blues<span class="setlist_small">@</span> > Tennessee Jed, Promised</td></tr>
-<tr><td>II: H. C. Sunshine, Eternity, Crazy Fingers > Estimated > Drumz > Last Time > Wharf Rat > NFA</td></tr>
-<tr><td>E: Unbroken Chain</td></tr>
-<tr class="notes"><td>Previous ''Memphis Blues'' 7/20/1994 [60 shows]; Final ''Memphis Blues''</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('95)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Shakedown Street</td><td>8/31/1978</td><td>7/9/1995</td><td align="center">162</td><td align="center">4</td><td align="center">[<a href="/songs/Shakedown Street_313">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Same Thing</td><td>11/19/1966</td><td>7/5/1995</td><td align="center">45</td><td align="center">6</td><td align="center">[<a href="/songs/Same Thing_303">ETP</a>]</td></tr>
-<tr valign="top"><td>Althea</td><td>8/4/1979</td><td>7/8/1995</td><td align="center">272</td><td align="center">6</td><td align="center">[<a href="/songs/Althea_12">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Memphis Blues</td><td>3/17/1988</td><td>4/2/1995</td><td align="center">70</td><td align="center">1</td><td align="center">[<a href="/songs/Memphis Blues_222">ETP</a>]</td></tr>
-<tr valign="top"><td>Tennessee Jed</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">433</td><td align="center">8</td><td align="center">[<a href="/songs/Tennessee Jed_355">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Promised Land</td><td>5/29/1971</td><td>7/9/1995</td><td align="center">427</td><td align="center">11</td><td align="center">[<a href="/songs/Promised Land_275">ETP</a>]</td></tr>
-<tr valign="top"><td>Here Comes Sunshine</td><td>2/9/1973</td><td>7/2/1995</td><td align="center">64</td><td align="center">8</td><td align="center">[<a href="/songs/Here Comes Sunshine_143">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Eternity</td><td>2/21/1993</td><td>7/8/1995</td><td align="center">44</td><td align="center">9</td><td align="center">[<a href="/songs/Eternity_118">ETP</a>]</td></tr>
-<tr valign="top"><td>Crazy Fingers</td><td>6/17/1975</td><td>7/5/1995</td><td align="center">144</td><td align="center">5</td><td align="center">[<a href="/songs/Crazy Fingers_81">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Estimated Prophet</td><td>2/26/1977</td><td>6/28/1995</td><td align="center">390</td><td align="center">7</td><td align="center">[<a href="/songs/Estimated Prophet_117">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">47</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Last Time</td><td>2/25/1990</td><td>7/6/1995</td><td align="center">70</td><td align="center">8</td><td align="center">[<a href="/songs/Last Time_194">ETP</a>]</td></tr>
-<tr valign="top"><td>Wharf Rat</td><td>2/18/1971</td><td>6/25/1995</td><td align="center">393</td><td align="center">5</td><td align="center">[<a href="/songs/Wharf Rat_412">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">11</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-<tr valign="top"><td>Unbroken Chain</td><td>3/19/1995</td><td>7/9/1995</td><td align="center">10</td><td align="center">10</td><td align="center">[<a href="/songs/Unbroken Chain_386">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sunday, April 2, 1995
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sunday, April 2, 1995
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0402">
+              <a href="/1995-04-02">4/2/1995 The Pyramid, Memphis, TN</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1995-04-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Shakedown, Same Thing, Althea, Memphis Blues@ &gt; Tennessee Jed, Promised
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: H. C. Sunshine, Eternity, Crazy Fingers &gt; Estimated &gt; Drumz &gt; Last Time &gt; Wharf Rat &gt; NFA
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Unbroken Chain
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Memphis Blues'' 7/20/1994 [60 shows]; Final ''Memphis Blues''
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('95)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Shakedown Street
+          </td>
+          <td>
+            8/31/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            162
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            [<a href="/songs/Shakedown%20Street_313">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Same Thing
+          </td>
+          <td>
+            11/19/1966
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            45
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Same%20Thing_303">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Althea
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Althea_12">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Memphis Blues
+          </td>
+          <td>
+            3/17/1988
+          </td>
+          <td>
+            4/2/1995
+          </td>
+          <td align="center">
+            70
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Memphis%20Blues_222">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            433
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Tennessee%20Jed_355">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Promised Land
+          </td>
+          <td>
+            5/29/1971
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            427
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Promised%20Land_275">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Here Comes Sunshine
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            64
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Here%20Comes%20Sunshine_143">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Eternity
+          </td>
+          <td>
+            2/21/1993
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Eternity_118">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Crazy Fingers
+          </td>
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            144
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Crazy%20Fingers_81">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Estimated Prophet
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            390
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Estimated%20Prophet_117">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            47
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Last Time
+          </td>
+          <td>
+            2/25/1990
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            70
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Last%20Time_194">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wharf Rat
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            393
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td align="center">
+            [<a href="/songs/Wharf%20Rat_412">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Unbroken Chain
+          </td>
+          <td>
+            3/19/1995
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Unbroken%20Chain_386">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

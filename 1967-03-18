@@ -1,39 +1,305 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Saturday, March 18, 1967</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Saturday, March 18, 1967</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1967-03-18">3/18/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-18*">Listen/Download</a>]<tr><td>I: Me  and  My Uncle, Next Time, Just A Hand To Hold, Smokestack, Morning Dew, Hurts Me Too, BIODTL, Dancin</td></tr>
-<tr><td>II: Golden Road, Cream Puff War, Same Thing*, Cold Rain, Viola Lee Blues, Death Don't</td></tr>
-<tr class="notes"><td>First ''Golden Road''; Next ''Smokestack'' 3/3/1968 [113 shows]; Final ''Cream Puff War''</i></td></tr>
-<tr class="notes"><td>Also: Chuck Berry; Johnny Talbot  and  De Thangs. * appears on "So Many Roads (1965-1995)."</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('67)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">2</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Next Time</td><td>2/25/1966</td><td>5/26/1972</td><td align="center">72</td><td align="center">1</td><td align="center">[<a href="/songs/Next Time_252">ETP</a>]</td></tr>
-<tr valign="top"><td>Smokestack Lightnin</td><td>11/19/1966</td><td>10/18/1994</td><td align="center">60</td><td align="center">1</td><td align="center">[<a href="/songs/Smokestack Lightnin_324">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Morning Dew</td><td>1/14/1967</td><td>6/21/1995</td><td align="center">254</td><td align="center">6</td><td align="center">[<a href="/songs/Morning Dew_236">ETP</a>]</td></tr>
-<tr valign="top"><td>Hurts Me Too</td><td>5/19/1966</td><td>5/24/1972</td><td align="center">47</td><td align="center">3</td><td align="center">[<a href="/songs/Hurts Me Too_169">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">6</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top"><td>Dancin In The Streets</td><td>7/3/1966</td><td>4/6/1987</td><td align="center">123</td><td align="center">3</td><td align="center">[<a href="/songs/Dancin In The Streets_85">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Golden Road To Unlimited Devotion</td><td>3/18/1967</td><td>6/15/1967</td><td align="center">3</td><td align="center">3</td><td align="center">[<a href="/songs/Golden Road To Unlimited Devotion_135">ETP</a>]</td></tr>
-<tr valign="top"><td>Cream Puff War</td><td>5/19/1966</td><td>3/18/1967</td><td align="center">7</td><td align="center">1</td><td align="center">[<a href="/songs/Cream Puff War_82">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Cold Rain And Snow</td><td>2/25/1966</td><td>6/19/1995</td><td align="center">240</td><td align="center">8</td><td align="center">[<a href="/songs/Cold Rain And Snow_75">ETP</a>]</td></tr>
-<tr valign="top"><td>Viola Lee Blues</td><td>3/12/1966</td><td>10/31/1970</td><td align="center">32</td><td align="center">10</td><td align="center">[<a href="/songs/Viola Lee Blues_392">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Death Don't Have No Mercy</td><td>1/7/1966</td><td>4/2/1990</td><td align="center">49</td><td align="center">2</td><td align="center">[<a href="/songs/Death Don't Have No Mercy_94">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Saturday, March 18, 1967
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Saturday, March 18, 1967
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0318">
+              <a href="/1967-03-18">3/18/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Me and My Uncle, Next Time, Just A Hand To Hold, Smokestack, Morning Dew, Hurts Me Too, BIODTL, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Golden Road, Cream Puff War, Same Thing*, Cold Rain, Viola Lee Blues, Death Don't
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Golden Road''; Next ''Smokestack'' 3/3/1968 [113 shows]; Final ''Cream Puff War''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Chuck Berry; Johnny Talbot and De Thangs. * appears on "So Many Roads (1965-1995)."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('67)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Me And My Uncle
+          </td>
+          <td>
+            11/29/1966
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            613
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/Me%20And%20My%20Uncle_221">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Next Time
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            5/26/1972
+          </td>
+          <td align="center">
+            72
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Next%20Time_252">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Smokestack Lightnin
+          </td>
+          <td>
+            11/19/1966
+          </td>
+          <td>
+            10/18/1994
+          </td>
+          <td align="center">
+            60
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Smokestack%20Lightnin_324">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Morning Dew
+          </td>
+          <td>
+            1/14/1967
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            254
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Morning%20Dew_236">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Hurts Me Too
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            5/24/1972
+          </td>
+          <td align="center">
+            47
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Hurts%20Me%20Too_169">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dancin In The Streets
+          </td>
+          <td>
+            7/3/1966
+          </td>
+          <td>
+            4/6/1987
+          </td>
+          <td align="center">
+            123
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Dancin%20In%20The%20Streets_85">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Golden Road To Unlimited Devotion
+          </td>
+          <td>
+            3/18/1967
+          </td>
+          <td>
+            6/15/1967
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Golden%20Road%20To%20Unlimited%20Devotion_135">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cream Puff War
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            3/18/1967
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td align="center">
+            [<a href="/songs/Cream%20Puff%20War_82">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cold Rain And Snow
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            6/19/1995
+          </td>
+          <td align="center">
+            240
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Cold%20Rain%20And%20Snow_75">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Viola Lee Blues
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/31/1970
+          </td>
+          <td align="center">
+            32
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Viola%20Lee%20Blues_392">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Death Don't Have No Mercy
+          </td>
+          <td>
+            1/7/1966
+          </td>
+          <td>
+            4/2/1990
+          </td>
+          <td align="center">
+            49
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td align="center">
+            [<a href="/songs/Death%20Don't%20Have%20No%20Mercy_94">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

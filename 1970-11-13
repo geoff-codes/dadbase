@@ -1,33 +1,200 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, November 13, 1970</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, November 13, 1970</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1113"></a><a href="/1970-11-13">11/13/1970 46th Street Rock Palace, Brooklyn, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-11-13*">Listen/Download</a>]<tr><td>I: Casey Jones, Uncle John, Sugar Magnolia, Truckin</td></tr>
-<tr><td>II: Dark Star > St. Stephen, NFA</td></tr>
-<tr class="notes"><td>Also: NRPS. DeadLists has the above songs according to an eyewitness. If accurate it is obviously fragmentary. </i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('70)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">66</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Uncle John's Band</td><td>12/4/1969</td><td>6/28/1995</td><td align="center">331</td><td align="center">58</td><td align="center">[<a href="/songs/Uncle John's Band_387">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">23</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">23</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
-<tr valign="top"><td>Dark Star</td><td>12/13/1967</td><td>3/30/1994</td><td align="center">219</td><td align="center">22</td><td align="center">[<a href="/songs/Dark Star_87">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>St. Stephen</td><td>5/24/1968</td><td>10/31/1983</td><td align="center">165</td><td align="center">38</td><td align="center">[<a href="/songs/St. Stephen_331">ETP</a>]</td></tr>
-<tr valign="top"><td>Not Fade Away</td><td>6/19/1968</td><td>7/5/1995</td><td align="center">531</td><td align="center">49</td><td align="center">[<a href="/songs/Not Fade Away_247">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, November 13, 1970
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, November 13, 1970
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1113">
+              <a href="/1970-11-13">11/13/1970 46th Street Rock Palace, Brooklyn, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1970-11-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Casey Jones, Uncle John, Sugar Magnolia, Truckin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Dark Star &gt; St. Stephen, NFA
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: NRPS. DeadLists has the above songs according to an eyewitness. If accurate it is obviously fragmentary.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('70)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            6/20/1969
+          </td>
+          <td>
+            3/27/1993
+          </td>
+          <td align="center">
+            313
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            [<a href="/songs/Casey%20Jones_59">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Uncle John's Band
+          </td>
+          <td>
+            12/4/1969
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            331
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            [<a href="/songs/Uncle%20John's%20Band_387">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Truckin
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            518
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td align="center">
+            [<a href="/songs/Truckin_382">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dark Star
+          </td>
+          <td>
+            12/13/1967
+          </td>
+          <td>
+            3/30/1994
+          </td>
+          <td align="center">
+            219
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td align="center">
+            [<a href="/songs/Dark%20Star_87">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            St. Stephen
+          </td>
+          <td>
+            5/24/1968
+          </td>
+          <td>
+            10/31/1983
+          </td>
+          <td align="center">
+            165
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td align="center">
+            [<a href="/songs/St.%20Stephen_331">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Not Fade Away
+          </td>
+          <td>
+            6/19/1968
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            531
+          </td>
+          <td align="center">
+            49
+          </td>
+          <td align="center">
+            [<a href="/songs/Not%20Fade%20Away_247">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

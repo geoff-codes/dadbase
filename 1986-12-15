@@ -1,48 +1,485 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, December 15, 1986</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, December 15, 1986</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1215"></a><a href="/1986-12-15">12/15/1986 Oakland Coliseum Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1986-12-15*">Listen/Download</a>]<tr><td>I: Touch, C. C. Rider, Push, BIODTL > Greatest, Loser, Cassidy, Althea, Esau, Candyman, Let It Grow</td></tr>
-<tr><td>II: Iko Iko, L. L. Rain, Black Muddy River, Playin > Terrapin > Drumz, Truckin > Wharf Rat > Playin > Good Lovin</td></tr>
-<tr><td>E: Johnny B. Goode</td></tr>
-<tr class="notes"><td>First ''Black Muddy River''; First ''Push''</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('86)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Touch Of Grey</td><td>9/15/1982</td><td>7/9/1995</td><td align="center">213</td><td align="center">9</td><td align="center">[<a href="/songs/Touch Of Grey_380">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>C. C. Rider</td><td>12/1/1979</td><td>3/16/1992</td><td align="center">126</td><td align="center">12</td><td align="center">[<a href="/songs/C. C. Rider_54">ETP</a>]</td></tr>
-<tr valign="top"><td>When Push Comes To Shove</td><td>12/15/1986</td><td>7/17/1989</td><td align="center">58</td><td align="center">6</td><td align="center">[<a href="/songs/When Push Comes To Shove_276">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">8</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top"><td>Greatest Story Ever Told</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">280</td><td align="center">7</td><td align="center">[<a href="/songs/Greatest Story Ever Told_140">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Loser</td><td>2/18/1971</td><td>6/28/1995</td><td align="center">344</td><td align="center">6</td><td align="center">[<a href="/songs/Loser_207">ETP</a>]</td></tr>
-<tr valign="top"><td>Cassidy</td><td>3/23/1974</td><td>7/6/1995</td><td align="center">334</td><td align="center">9</td><td align="center">[<a href="/songs/Cassidy_60">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Althea</td><td>8/4/1979</td><td>7/8/1995</td><td align="center">272</td><td align="center">6</td><td align="center">[<a href="/songs/Althea_12">ETP</a>]</td></tr>
-<tr valign="top"><td>Brother Esau</td><td>3/25/1983</td><td>10/3/1987</td><td align="center">104</td><td align="center">8</td><td align="center">[<a href="/songs/Brother Esau_116">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Candyman</td><td>4/3/1970</td><td>6/30/1995</td><td align="center">276</td><td align="center">7</td><td align="center">[<a href="/songs/Candyman_57">ETP</a>]</td></tr>
-<tr valign="top"><td>Let It Grow</td><td>9/7/1973</td><td>7/2/1995</td><td align="center">273</td><td align="center">11</td><td align="center">[<a href="/songs/Let It Grow_198">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Iko Iko</td><td>5/15/1977</td><td>7/5/1995</td><td align="center">185</td><td align="center">12</td><td align="center">[<a href="/songs/Iko Iko_177">ETP</a>]</td></tr>
-<tr valign="top"><td>Looks Like Rain</td><td>3/21/1972</td><td>6/30/1995</td><td align="center">417</td><td align="center">11</td><td align="center">[<a href="/songs/Looks Like Rain_190">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Black Muddy River</td><td>12/15/1986</td><td>7/9/1995</td><td align="center">66</td><td align="center">3</td><td align="center">[<a href="/songs/Black Muddy River_34">ETP</a>]</td></tr>
-<tr valign="top"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">12</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Terrapin Station</td><td>2/26/1977</td><td>7/8/1995</td><td align="center">302</td><td align="center">9</td><td align="center">[<a href="/songs/Terrapin Station_356">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">46</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Truckin</td><td>8/18/1970</td><td>7/6/1995</td><td align="center">518</td><td align="center">10</td><td align="center">[<a href="/songs/Truckin_382">ETP</a>]</td></tr>
-<tr valign="top"><td>Wharf Rat</td><td>2/18/1971</td><td>6/25/1995</td><td align="center">393</td><td align="center">11</td><td align="center">[<a href="/songs/Wharf Rat_412">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">8</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top"><td>Johnny B. Goode</td><td>9/7/1969</td><td>4/5/1995</td><td align="center">284</td><td align="center">6</td><td align="center">[<a href="/songs/Johnny B. Goode_185">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, December 15, 1986
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, December 15, 1986
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1215">
+              <a href="/1986-12-15">12/15/1986 Oakland Coliseum Arena, Oakland, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1986-12-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Touch, C. C. Rider, Push, BIODTL &gt; Greatest, Loser, Cassidy, Althea, Esau, Candyman, Let It Grow
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Iko Iko, L. L. Rain, Black Muddy River, Playin &gt; Terrapin &gt; Drumz, Truckin &gt; Wharf Rat &gt; Playin &gt; Good Lovin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Johnny B. Goode
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Black Muddy River''; First ''Push''
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('86)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Touch Of Grey
+          </td>
+          <td>
+            9/15/1982
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            213
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Touch%20Of%20Grey_380">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            C. C. Rider
+          </td>
+          <td>
+            12/1/1979
+          </td>
+          <td>
+            3/16/1992
+          </td>
+          <td align="center">
+            126
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/C.%20C.%20Rider_54">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            When Push Comes To Shove
+          </td>
+          <td>
+            12/15/1986
+          </td>
+          <td>
+            7/17/1989
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/When%20Push%20Comes%20To%20Shove_276">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Greatest Story Ever Told
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            280
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Greatest%20Story%20Ever%20Told_140">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Loser
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            344
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Loser_207">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cassidy
+          </td>
+          <td>
+            3/23/1974
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            334
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Cassidy_60">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Althea
+          </td>
+          <td>
+            8/4/1979
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Althea_12">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brother Esau
+          </td>
+          <td>
+            3/25/1983
+          </td>
+          <td>
+            10/3/1987
+          </td>
+          <td align="center">
+            104
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Brother%20Esau_116">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Candyman
+          </td>
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            276
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Candyman_57">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Let It Grow
+          </td>
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Let%20It%20Grow_198">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Iko Iko
+          </td>
+          <td>
+            5/15/1977
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            185
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Iko%20Iko_177">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Looks Like Rain
+          </td>
+          <td>
+            3/21/1972
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Looks%20Like%20Rain_190">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black Muddy River
+          </td>
+          <td>
+            12/15/1986
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Muddy%20River_34">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Playin In The Band
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Playin%20In%20The%20Band_271">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Terrapin Station
+          </td>
+          <td>
+            2/26/1977
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            302
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Terrapin%20Station_356">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            46
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Truckin
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            518
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Truckin_382">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wharf Rat
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            393
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Wharf%20Rat_412">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Johnny B. Goode
+          </td>
+          <td>
+            9/7/1969
+          </td>
+          <td>
+            4/5/1995
+          </td>
+          <td align="center">
+            284
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Johnny%20B.%20Goode_185">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

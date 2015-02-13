@@ -1,453 +1,2470 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>1967 Setlists</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">1967 Setlists</div>
-
-<script language="Javascript" type="text/javascript">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      1967 Setlists
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        1967 Setlists
+      </div><script language="Javascript" type="text/javascript">
 <!--
-function showtab () {
-document.getElementById('hide').style.display = 'none';
-document.getElementById('show').style.display = 'block';
-}
-function hidetab () {
-document.getElementById('show').style.display = 'none';
-document.getElementById('hide').style.display = 'block';
-}
--->
-</script>
-<p>January:  <a href="#0101">1</a> <a href="#0106">6</a> <a href="#0113">13</a> <a href="#0113">13</a> <a href="#0114">14</a> <a href="#0114">14</a> <a href="#0115">15</a> <a href="#0120">20</a> <a href="#0124">24</a> <a href="#0127">27</a> <a href="#0128">28</a> <a href="#0129">29</a> <a href="#01xx">xx</a><br>
-February: <a href="#0202">2</a> <a href="#0205">5</a> <a href="#0210">10</a> <a href="#0212">12</a> <a href="#0224">24</a> <a href="#0225">25</a> <a href="#0226">26</a><br>
-March: <a href="#0303">3</a> <a href="#0305">5</a> <a href="#0310">10</a> <a href="#0311">11</a> <a href="#0312">12</a> <a href="#0313">13</a> <a href="#0314">14</a> <a href="#0315">15</a> <a href="#0316">16</a> <a href="#0317">17</a> <a href="#0318">18</a> <a href="#0319">19</a> <a href="#0320">20</a> <a href="#0324">24</a> <a href="#0325">25</a> <a href="#0326">26</a> <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0330">30</a> <a href="#0331">31</a><br>
-April: <a href="#0401">1</a> <a href="#0402">2</a> <a href="#0409">9</a> <a href="#0409">9</a> <a href="#0412">12</a> <a href="#0414">14</a> <a href="#0415">15</a> <a href="#0416">16</a> <a href="#0417">17</a> <a href="#0428">28</a> <a href="#0429">29</a> <a href="#0430">30</a> <a href="#0430">30</a><br>
-May: <a href="#0501">1</a> <a href="#0505">5</a> <a href="#0506">6</a> <a href="#0508">8</a> <a href="#0511">11</a> <a href="#0515">15</a> <a href="#0518">18</a> <a href="#0520">20</a> <a href="#0522">22</a> <a href="#0529">29</a> <a href="#0530">30</a><br>
-June: <a href="#0601">1</a> <a href="#0603">3</a> <a href="#0606">6</a> <a href="#0607">7</a> <a href="#0608">8</a> <a href="#0608">8</a> <a href="#0609">9</a> <a href="#0610">10</a> <a href="#0611">11</a> <a href="#0612">12</a> <a href="#0615">15</a> <a href="#0618">18</a> <a href="#0621">21</a> <a href="#0624">24</a> <a href="#0628">28</a><br>
-July: <a href="#0713">13</a> <a href="#0714">14</a> <a href="#0715">15</a> <a href="#0716">16</a> <a href="#0716">16</a> <a href="#0718">18</a> <a href="#0721">21</a> <a href="#0722">22</a> <a href="#0723">23</a> <a href="#0731">31</a><br>
-August: <a href="#0801">1</a> <a href="#0802">2</a> <a href="#0803">3</a> <a href="#0804">4</a> <a href="#0805">5</a> <a href="#0806">6</a> <a href="#0806">6</a> <a href="#0810">10</a> <a href="#0811">11</a> <a href="#0812">12</a> <a href="#0813">13</a> <a href="#0819">19</a> <a href="#0825">25</a> <a href="#0826">26</a> <a href="#0828">28</a><br>
-September: <a href="#0902">2</a> <a href="#0903">3</a> <a href="#0904">4</a> <a href="#0908">8</a> <a href="#0909">9</a> <a href="#0909">9</a> <a href="#0915">15</a> <a href="#0916">16</a> <a href="#0916">16</a> <a href="#0922">22</a> <a href="#0923">23</a> <a href="#0924">24</a> <a href="#0929">29</a> <a href="#0930">30</a> <a href="#09??">??</a><br>
-October: <a href="#1001">1</a> <a href="#1014">14</a> <a href="#1022">22</a> <a href="#1031">31</a><br>
-November: <a href="#1110">10</a> <a href="#1111">11</a> <a href="#1112">12</a> <a href="#1114">14</a> <a href="#1119">19</a><br>
-December: <a href="#1202">2</a> <a href="#1208">8</a> <a href="#1213">13</a> <a href="#1222">22</a> <a href="#1223">23</a> <a href="#1224">24</a> <a href="#1226">26</a> <a href="#1227">27</a> <a href="#1229">29</a> <a href="#1230">30</a></p>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0101"></a><a href="/1967-01-01">1/1/1967 Panhandle, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-01*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"New Year's Day Wail" - Hell's Angels thanks to Diggers. Also: Big Brother  and  The Holding Co.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0106"></a><a href="/1967-01-06">1/6/1967 Freeborn Hall, U. of California, Davis, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-06*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Big Mama Mae Thornton; GD. $2 ticket.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0113"></a><a href="/1967-01-13">1/13/1967 Berkeley Community Theatre, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: The Mama's  and  The Papa's; Jose Feliciano; Canadian Fuzz. The Dead substituted for Jose Feliciano, who arrived in time for the late show.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0113"></a><a href="/1967-01-13">1/13/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Junior Wells Chicago Blues Band; The Doors.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0114"></a><a href="/1967-01-14">1/14/1967 Polo Field, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-14*">Listen/Download</a>]<tr><td>Viola Lee Blues, Schoolgirl<span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>First ''Morning Dew''; Next ''Schoolgirl'' 7/31/1967 [74 shows]</i></td></tr>
-<tr class="notes"><td>"The Great Human Be-In." Afternoon concert. Also: Jefferson Airplane; QMS; Country Joe  and  The Fish; The Charlatans; plus numerous poets and speakers. Contrary to common belief, Big Brother did not play. *with Charles Lloyd. The Morning Dew often included with this recording belongs to a different performance of an unknown date. This recording has also circulated as each of the December 1965 Acid Tests. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0114"></a><a href="/1967-01-14">1/14/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-14*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Junior Wells Chicago Blues Band; The Doors.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0115"></a><a href="/1967-01-15">1/15/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-15*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon show (2:00 PM) - $2, kiddies free. Billing: GD; Junior Wells Chicago Blues Band; The Doors.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0120"></a><a href="/1967-01-20">1/20/1967 Santa Monica Civic Auditorium, Santa Monica, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Timothy Leary and the Grateful Dead.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0124"></a><a href="/1967-01-24">1/24/1967 , , </a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-24*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>No Grateful Dead performance is known to have taken place on this date, and the recording which has sometimes been identified as such is now listed as 10-31-67.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0127"></a><a href="/1967-01-27">1/27/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-27*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: QMS. The recording that used to circulate under this date is listed as 10-31-67, which an explanation to be found there.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0128"></a><a href="/1967-01-28">1/28/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: QMS. The recording that used to circulate under this date is listed as 10-31-67, which an explanation to be found there.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0129"></a><a href="/1967-01-29">1/29/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-29*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Mantra-Rock Dance - "Krishna Consciousness Comes West" - S.F. Krishna Temple benefit. Also: Moby Grape; Big Brother  and  The Holding Co.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="01xx"></a><a href="/1967-01-xx">1/xx/1967 RCA Studio A, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-01-xx*">Listen/Download</a>]<tr><td>King Bee, Down So Long, Minglewood, I Know You Rider, Cold Rain, Cream Puff War, Top Of The World.</td></tr>
-<tr class="notes"><td>Studio sessions for "Grateful Dead." Recording usually circulates dated 12-05-66, which is at least a month too early since the band did not travel to Los Angeles to record their debut LP until January 1967. Everything except "Cream Puff War" lacks vocals.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0202"></a><a href="/1967-02-02">2/2/1967 RCA Studio A, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-02*">Listen/Download</a>]<tr><td>Golden Road, Alice D. Millionaire <span class="setlist_small">*</span>, Overseas Stomp <span class="setlist_small">*</span>, Tastebud <span class="setlist_small">*</span>, Death Don't <span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>Studio sesions for "Grateful Dead." *appears as a "Grateful Dead" bonus track in "The Golden Road (1965-1973)." "Death Don't" lacks vocals.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0205"></a><a href="/1967-02-05">2/5/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Ralph Gleason’s 02-03-67 San Francisco Chronicle  column listed the bands at this benefit for the U.S. Strike Committee and mentioned that the Dead would join them if they were finished recording in Los Angeles. It is uncertain whether or not this actually happened. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0210"></a><a href="/1967-02-10">2/10/1967 Santa Venetia Armory, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-10*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: Sopwith Camel; Blue House Basement; Baltimore Steam Packet - The Dead substituted for Sopwith Camel.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0212"></a><a href="/1967-02-12">2/12/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-12*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Next ''Hi-Heel Sneakers'' 5/7/1969 [283 shows]</i></td></tr>
-<tr class="notes"><td>"Abe Lincoln's Birthday Party" - Council for Civic Unity benefit. Billing: GD; Moby Grape; Sly And The Family Stone; New Salvation Army Banned; Notes From The Underground. Some tunes which have circulate under this date are actually from 11/19/66, and others from the recording now listed as 10-31-67.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0224"></a><a href="/1967-02-24">2/24/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-24*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Otis Rush  and  His Chicago Blues Band; Canned Heat.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0225"></a><a href="/1967-02-25">2/25/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-25*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Otis Rush  and  His Chicago Blues Band; Canned Heat.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0226"></a><a href="/1967-02-26">2/26/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-02-26*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon concert (2:00 PM). Billing: GD; Otis Rush  and  His Chicago Blues Band; Canned Heat.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0303"></a><a href="/1967-03-03">3/3/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-03*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>First Dead Winterland show - "The First Annual Love Circus." Also: Love; Moby Grape; The Loading Zone; Blue Crumb Truck Factory.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0305"></a><a href="/1967-03-05">3/5/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>According to an item in the 02-28-67 San Francisco Chronicle, the Grateful Dead played this benefit as “guest stars” along with Big Brother & the Holding Co., Moby Grape, Country Joe & the Fish, the Sparrow, and Michael McClure. The Dead were not listed on the poster.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0310"></a><a href="/1967-03-10">3/10/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-10*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0311"></a><a href="/1967-03-11">3/11/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-11*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0312"></a><a href="/1967-03-12">3/12/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-12*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0313"></a><a href="/1967-03-13">3/13/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>This show might not have taken place.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0314"></a><a href="/1967-03-14">3/14/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-14*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0315"></a><a href="/1967-03-15">3/15/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-15*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Phil Lesh's 27th birthday.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0316"></a><a href="/1967-03-16">3/16/1967 Whiskey-A-Go-Go, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Dead might have finished their run at this venue the night before, according to the Lost Live Dead blog.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0317"></a><a href="/1967-03-17">3/17/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-17*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td> Billing: Chuck Berry; GD; Johnny Talbot  and  De Thangs. Tapes of the 11-19-66 show are sometimes misdated 3-17-67.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0318"></a><a href="/1967-03-18">3/18/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-18*">Listen/Download</a>]<tr><td>I: Me  and  My Uncle, Next Time, Just A Hand To Hold, Smokestack, Morning Dew, Hurts Me Too, BIODTL, Dancin</td></tr>
-<tr><td>II: Golden Road, Cream Puff War, Same Thing*, Cold Rain, Viola Lee Blues, Death Don't</td></tr>
-<tr class="notes"><td>First ''Golden Road''; Next ''Smokestack'' 3/3/1968 [113 shows]; Final ''Cream Puff War''</i></td></tr>
-<tr class="notes"><td>Also: Chuck Berry; Johnny Talbot  and  De Thangs. * appears on "So Many Roads (1965-1995)."</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0319"></a><a href="/1967-03-19">3/19/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-19*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon concert (2:00 PM). Billing: Chuck Berry; GD; Johnny Talbot  and  De Thangs.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0320"></a><a href="/1967-03-20">3/20/1967 Fugazi Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Album release party.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0324"></a><a href="/1967-03-24">3/24/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-24*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Johnny Hammond  and  His Screaming Nighthawks; Robert Baker. An eyewitness who attended either this show or the next states that the Dead performed Viola Lee Blues. Of course, they might very well have done it both nights. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0325"></a><a href="/1967-03-25">3/25/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-25*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Johnny Hammond  and  His Screaming Nighthawks; Robert Baker.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0326"></a><a href="/1967-03-26">3/26/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-26*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: QMS; Johnny Hammond  and  His Screaming Nighthawks; Robert Baker.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0328"></a><a href="/1967-03-28">3/28/1967 The Rock Garden, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charles Lloyd Quartet; The Mystery Trend. There is some confusion in DeadLists as to which year these gigs took place, based in part on the fact that the dates on the poster were changed and no days of the week were listed. It is common knowledge in poster collecting circles that this venue was in operation during the spring of 1967 and that its distinctive diamond-shaped posters were designed by Mike Wood in a style similar to those he did subsequently for various promoters at California Hall. Wood was not active in the poster designing field before this. For definitive proof, though, we turn to the San Francisco Chronicle, whose “Datebook” listing for March 28, 1967 had the Dead, Charles Lloyd, and the Mystery Trend opening at the Rock Garden that night. Ralph Gleason mentioned the show in his next day’s column, and the “Datebook” for Sunday April 2 had this bill as closing that night.   </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0329"></a><a href="/1967-03-29">3/29/1967 The Rock Garden, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-29*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charles Lloyd Quartet; The Mystery Trend.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0330"></a><a href="/1967-03-30">3/30/1967 The Rock Garden, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charles Lloyd Quartet; The Mystery Trend.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0331"></a><a href="/1967-03-31">3/31/1967 The Rock Garden, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-31*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charles Lloyd Quartet; The Mystery Trend.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0401"></a><a href="/1967-04-01">4/1/1967 The Rock Garden, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-01*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charles Lloyd Quartet; The Mystery Trend.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0402"></a><a href="/1967-04-02">4/2/1967 The Rock Garden, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: The Charles Lloyd Quartet; The Mystery Trend.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0409"></a><a href="/1967-04-09">4/9/1967 Panhandle, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-09*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Performance may have started at a third floor flat on Haight Street.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0409"></a><a href="/1967-04-09">4/9/1967 Longshoreman's Hall, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-09*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Week of the Angry Arts-West Mobilization" - "Spring to end the war in Vietnam" - also: Sopwith Camel; QMS; Big Brother  and  The Holding Co.; Country Joe  and  The Fish.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0412"></a><a href="/1967-04-12">4/12/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-12*">Listen/Download</a>]<tr><td>Golden Road</td></tr>
-<tr class="notes"><td>"Busted" - S.F. Mime Troupe benefit. Billing: Jefferson Airplane; GD; QMS; Moby Grape; Andrew Staples; The Loading Zone. The Charlatans also played - Mike Ferguson did not take the stage because he spilled barbecue sauce on his clean white jacket. "Golden Road" opened the set.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0414"></a><a href="/1967-04-14">4/14/1967 Kaleidoscope, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-14*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Jefferson Airplane; Canned Heat.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0415"></a><a href="/1967-04-15">4/15/1967 Kaleidoscope, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-15*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Jefferson Airplane; Canned Heat.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0416"></a><a href="/1967-04-16">4/16/1967 Kaleidoscope, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Jefferson Airplane; Canned Heat.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0417"></a><a href="/1967-04-17">4/17/1967 Banana Grove, Ambassador Hotel, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-17*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0428"></a><a href="/1967-04-28">4/28/1967 Stockton Ballroom, Stockton, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-28*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0429"></a><a href="/1967-04-29">4/29/1967 Earl Warren Showgrounds, Santa Barbara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-29*">Listen/Download</a>]<tr><td>I: </td></tr>
-<tr><td>II: Viola Lee Blues</td></tr>
-<tr class="notes"><td>Also: The Doors; UFO; Captain Speed.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0430"></a><a href="/1967-04-30">4/30/1967 The Cheetah, Santa Monica, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>3:00 PM show.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0430"></a><a href="/1967-04-30">4/30/1967 The Cheetah, Santa Monica, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-04-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>8:00 PM show.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0501"></a><a href="/1967-05-01">5/1/1967 Rendezvous Inn, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-01*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>One of the probable dates of the Dead’s Monday night residency at this San Francisco gay bar.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0505"></a><a href="/1967-05-05">5/5/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Paupers; Collage. A tape that has long circulated with this date is actually from later in the year, and is listed as 06-15-67 although it could date from as late as September.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0506"></a><a href="/1967-05-06">5/6/1967 Fillmore Auditorium, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-06*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; Paupers; Collage.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0508"></a><a href="/1967-05-08">5/8/1967 Rendezvous Inn, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>One of the probable dates of the Dead’s Monday night residency at this San Francisco gay bar.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0511"></a><a href="/1967-05-11">5/11/1967 Marigold Ballroom, Fresno, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Lost Live Dead blog lists this as Friday the 12th, citing a review in the May 13 Fresno Bee. However, nowhere does the reviewer state that the show took place the night before. The blog claims two shows starting at 9:45 and 11:15 along with an opening band called the Road Runners, but does not cite a source for this information.  </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0515"></a><a href="/1967-05-15">5/15/1967 Rendezvous Inn, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-15*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>One of the probable dates of the Dead’s Monday night residency at this San Francisco gay bar.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0518"></a><a href="/1967-05-18">5/18/1967 Awalt High School, Mountain View, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-18*">Listen/Download</a>]<tr><td>Louie Louie</td></tr>
-<tr class="notes"><td>First ''Louie Louie''; Next ''Louie Louie'' 9/7/1969 [291 shows]</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0520"></a><a href="/1967-05-20">5/20/1967 Continental Ballroom, Santa Clara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Billing: GD; The Real Thing; Autumn People.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0522"></a><a href="/1967-05-22">5/22/1967 Rendezvous Inn, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-22*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>One of the probable dates of the Dead’s Monday night residency at this San Francisco gay bar.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0529"></a><a href="/1967-05-29">5/29/1967 Napa County Fairgrounds, Napa, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-29*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Project Hope.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0530"></a><a href="/1967-05-30">5/30/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-05-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>HALO (Haight-Ashbury Legal Organization) benefit. Also: Jefferson Airplane; Big Brother  and  The Holding Co.; QMS; The Charlatans.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0601"></a><a href="/1967-06-01">6/1/1967 Tompkins Square Park, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-01*">Listen/Download</a>]<tr><td>Golden Road, Dancin', Midnight Hour, BIODTL, Schoolgirl, Cold Rain, Morning Dew, Viola Lee Blues</td></tr>
-<tr class="notes"><td>Free afternoon concert. The above comes from DeadLists according to an eyewitness.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0603"></a><a href="/1967-06-03">6/3/1967 Gym, S.U.N.Y., Stony Brook, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-03*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0606"></a><a href="/1967-06-06">6/6/1967 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-06*">Listen/Download</a>]<tr><td>King Bee, Hurts Me Too, Same Thing, Big Boss Man, Alligator, Midnight Hour, BIODTL, Me  and  My Uncle, Minglewood, Don't Ease, Cold Rain, Viola Lee Blues, Baby Blue</td></tr>
-<tr class="notes"><td>First ''Alligator''; Next ''Same Thing'' 12/31/1971 [549 shows]</i></td></tr>
-<tr class="notes"><td>Also: Luke  and  The Apostles. Above list, from an eyewitness, may be incomplete and out of order.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0607"></a><a href="/1967-06-07">6/7/1967 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-07*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1967-06-08">6/8/1967 Bandshell On The Mall, Central Park, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Free afternoon concert.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0608"></a><a href="/1967-06-08">6/8/1967 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Eric Andersen; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0609"></a><a href="/1967-06-09">6/9/1967 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-09*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Eric Andersen; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0610"></a><a href="/1967-06-10">6/10/1967 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-10*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Eric Andersen; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0611"></a><a href="/1967-06-11">6/11/1967 Cafe au Go-Go, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Eric Andersen; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0612"></a><a href="/1967-06-12">6/12/1967 The Cheetah, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-12*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0615"></a><a href="/1967-06-15">6/15/1967 Straight Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-15*">Listen/Download</a>]<tr><td>Just A Hand to Hold, Golden Road > New Potato Caboose, Alligator, </td></tr>
-<tr class="notes"><td>First ''New Potato Caboose''; Next ''He Was A Friend'' 5/9/1968 [100 shows]; Final ''Golden Road''</i></td></tr>
-<tr class="notes"><td>"Straight Theater christening. " The above list comes from a tape which long circulated as 5-5-67. The presence of Alligator dates it no earlier than June, but it could be from as late as September.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0618"></a><a href="/1967-06-18">6/18/1967 Monterey Fairgrounds, Monterey, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-18*">Listen/Download</a>]<tr><td>Viola Lee Blues, Cold Rain, Alligator > Caution</td></tr>
-<tr class="notes"><td>Monterey International Pop Festival - also: The Blues Project; Big Brother  and  The Holding Co.; The Byrds; The Band With No Name; Buffalo Springfield with David Crosby, without Neil Young; The Who; Jimi Hendrix; The Mama's  and  The Papa's; Otis Redding; Canned Heat. Speculation exists as to whether or not Alligator and Caution are from another performance, based primarily on the fact that Bill Graham tells the audience to give the band a hand afterwards. Graham was in attendance and there was no reason for him not to have done that, especially since various other luminaries announced the acts during the course of the festival. The most convincing evidence, however, is that the same unidentified person playing harmonica badly during Alligator is also audible on Cold Rain and Snow. Alligator is described in DeadLists as a primitive version without vocals, but Jerry’s, Bob’s, and Phil’s backing vocals come through loud and clear with Pig Pen barely audible in the background; it seems that his microphone was not working during this tune. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0621"></a><a href="/1967-06-21">6/21/1967 Polo Field, Golden Gate Park, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-21*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Summer Solstice Festival.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0624"></a><a href="/1967-06-24">6/24/1967 El Camino Park, Palo Alto, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-24*">Listen/Download</a>]<tr><td>Schoolgirl</td></tr>
-<tr class="notes"><td>First ''Schoolgirl''</i></td></tr>
-<tr class="notes"><td>The probable date of this gig according to the Lost Live Dead blog, whose proprietor attended at the age of nine.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0628"></a><a href="/1967-06-28">6/28/1967 Oakland Auditorium Arena, Oakland, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-06-28*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Young Rascals; Country Joe  and  The Fish; Sons of Champlin; Sparrow; Grassroots</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0713"></a><a href="/1967-07-13">7/13/1967 P.N.E. Agradome, Vancouver, B.C., Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Daily Flash; Love-In.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0714"></a><a href="/1967-07-14">7/14/1967 Dante's Inferno, Vancouver, BC, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-14*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Collectors; Painted Ship.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0715"></a><a href="/1967-07-15">7/15/1967 Dante's Inferno, Vancouver, BC, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-15*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Collectors; Painted Ship.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1967-07-16">7/16/1967 Golden Gardens Beach, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon show.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0716"></a><a href="/1967-07-16">7/16/1967 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Daily Flash; Magic Fern.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0718"></a><a href="/1967-07-18">7/18/1967 Masonic Temple, Portland, OR</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-18*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Poverty's People; U. S. Cadenza; Nigells.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0721"></a><a href="/1967-07-21">7/21/1967 Continental Ballroom, Santa Clara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-21*">Listen/Download</a>]<tr><td>I: Viola Lee Blues, Morning Dew</td></tr>
-<tr><td>II: Golden Road, Pig Pen tune, Minglewood, unknown, unknown, Midnight Hour</td></tr>
-<tr class="notes"><td>Also: Sons Of Champlin; Congress Of Wonders; Phoenix. the above fragmentary list comes from DeadLists according to an eyewitness, who attended either this night or the next. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0722"></a><a href="/1967-07-22">7/22/1967 Continental Ballroom, Santa Clara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-22*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Sons Of Champlin; Congress Of Wonders; Phoenix.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0723"></a><a href="/1967-07-23">7/23/1967 Straight Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-23*">Listen/Download</a>]<tr><td>Jam<span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>Straight Theater Opening 3rd Night. Also: Phoenix; The Wildflower; Big Brother  and  The Holding Co. *with Neal Cassady, this jam may have been from another Straight Theater show.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0731"></a><a href="/1967-07-31">7/31/1967 O'Keefe Centre, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-07-31*">Listen/Download</a>]<tr><td>Schoolgirl</td></tr>
-<tr class="notes"><td>Previous ''Schoolgirl'' 1/14/1967 [74 shows]</i></td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0801"></a><a href="/1967-08-01">8/1/1967 O'Keefe Centre, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-01*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke  and  The Apostles. Jerry Garcia's 25th birthday. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0802"></a><a href="/1967-08-02">8/2/1967 O'Keefe Centre, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Toronto." Afternoon concert. Billing: Jefferson Airplane; GD; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0803"></a><a href="/1967-08-03">8/3/1967 O'Keefe Centre, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-03*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0804"></a><a href="/1967-08-04">8/4/1967 O'Keefe Centre, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-04*">Listen/Download</a>]<tr><td>New Potato Caboose, Viola Lee Blues</td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0805"></a><a href="/1967-08-05">8/5/1967 O'Keefe Centre, Toronto, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-05*">Listen/Download</a>]<tr><td>Lovelight, Alligator</td></tr>
-<tr class="notes"><td>First ''Lovelight''</i></td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Toronto." Afternoon concert. Billing: Jefferson Airplane; GD; Luke  and  The Apostles.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0806"></a><a href="/1967-08-06">8/6/1967 Place Ville Marie, Montreal, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-06*">Listen/Download</a>]<tr><td>Viola Lee Blues, Alligator, Dancin</td></tr>
-<tr class="notes"><td>Previous ''Dancin'' 3/18/1967 [59 shows]</i></td></tr>
-<tr class="notes"><td>List incomplete and order uncertain.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0806"></a><a href="/1967-08-06">8/6/1967 Expo '67, Montreal, Canada</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-06*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0810"></a><a href="/1967-08-10">8/10/1967 Chelsea Hotel Roof, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-10*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0811"></a><a href="/1967-08-11">8/11/1967 Grande Ballroom, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-11*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Rationals; Southbound Freeway; Bishops; Ashmollyan Quintet.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0812"></a><a href="/1967-08-12">8/12/1967 Grande Ballroom, Detroit, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-12*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Rationals; Southbound Freeway; Bishops; Ashmollyan Quintet.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0813"></a><a href="/1967-08-13">8/13/1967 West Park, Ann Arbor, MI</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-13*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon concert.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0819"></a><a href="/1967-08-19">8/19/1967 American Legion Hall, South Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-19*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0825"></a><a href="/1967-08-25">8/25/1967 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-25*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Creators.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0826"></a><a href="/1967-08-26">8/26/1967 King's Beach Bowl, North Shore, Lake Tahoe, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-26*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Creators.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0828"></a><a href="/1967-08-28">8/28/1967 Lindley Meadows, Golden Gate Pk, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-08-28*">Listen/Download</a>]<tr><td>Viola Lee Blues, Schoolgirl</td></tr>
-<tr class="notes"><td>Chocolate George's wake. Also: Big Brother  and  The Holding Co. Above list from DeadLists according to an eyewitness.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0902"></a><a href="/1967-09-02">9/2/1967 Cabrillo College Stadium, Santa Cruz, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Grateful Dead are listed prominently on the poster for this two-day benefit show along with numerous other bands. If they played this gig at all, it would have been on Saturday the 2nd since two shows at the Rio Nido Dance Hall followed. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0903"></a><a href="/1967-09-03">9/3/1967 Dance Hall, Rio Nido, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-03*">Listen/Download</a>]<tr><td>Dancin, Hurts Me Too, Cold Rain, Schoolgirl, Viola Lee Blues <span class="setlist_small">**</span> , Big Boss Man, Alligator, Midnight Hour <span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>*appears on "Fallout From The Phil Zone." ** appears as a "Grateful Dead" bonus track in "The Golden Road (1965-1973)." The Dark Star jam that Robert Hunter heard at this venue was actually performed at a rehearsal/soundcheck, not a gig. Recordings of this "Midnight Hour" have sometimes been misdated 09-02-68.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0904"></a><a href="/1967-09-04">9/4/1967 Dance Hall, Rio Nido, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-04*">Listen/Download</a>]<tr><td>Caution > Feedback</td></tr>
-<tr class="notes"><td>Previous ''Caution'' 2/25/1966 [183 shows]; Previous ''Morning Dew'' 3/18/1967 [70 shows]</i></td></tr>
-<tr class="notes"><td>Above is from a vault tape apparently labeled with this date, whose accuracy is not 100% certain. The setlist formerly placed here, from a tape long known as 1-27 or 1-28-67, has now been moved to 10-31-67.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0908"></a><a href="/1967-09-08">9/8/1967 Eagle's Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Magic Fern; Fat Jack. Pigpen's 22nd birthday.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0909"></a><a href="/1967-09-09">9/9/1967 Volunteer Park, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-09*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0909"></a><a href="/1967-09-09">9/9/1967 Eagles Auditorium, Seattle, WA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-09*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Magic Fern; Fat Jack.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0915"></a><a href="/1967-09-15">9/15/1967 Hollywood Bowl, Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-15*">Listen/Download</a>]<tr><td>Viola Lee Blues, Cold Rain, BIODTL, Schoolgirl, Morning Dew, Alligator > Caution, Vaudeville Chorus</td></tr>
-<tr class="notes"><td>"Bill Graham presents The San Francisco Scene In Los Angeles." Billing: Jefferson Airplane; GD; Big Brother  and  The Holding Co. Big Brother did not perform.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0916"></a><a href="/1967-09-16">9/16/1967 Griffith Park, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Free concert. Also: Jefferson Airplane.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0916"></a><a href="/1967-09-16">9/16/1967 Las Vegas Convention Center Rotunda, Las Vegas, NV</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-16*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>With Tom Constanten, who recalls playing with the Dead in Las Vegas during this month. The Lost Live Dead blog speculates that it took place on this date after the free show in Griffith Park.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0922"></a><a href="/1967-09-22">9/22/1967 Family Dog, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-22*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Mother Earth.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0923"></a><a href="/1967-09-23">9/23/1967 Family Dog, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-23*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Mother Earth.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0924"></a><a href="/1967-09-24">9/24/1967 City Park, Denver, CO</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-24*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Afternoon concert.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0929"></a><a href="/1967-09-29">9/29/1967 Straight Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-29*">Listen/Download</a>]<tr><td>I: Dancin</td></tr>
-<tr><td>II: Alligator<span class="setlist_small">*</span> > Caution<span class="setlist_small">*</span></td></tr>
-<tr class="notes"><td>Mickey Hart's first show with the Dead. Also: Sons Of Champlin. In order to avoid permit problems these two concerts were billed as "The Straight Theater School of Dance" for both nights. *with Mickey Hart. A "China Cat," "Other One," and various other tunes have been known to circulate under this date. It must be stressed that no recording of this show is known to exist.; Mickey Hart's First Show</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0930"></a><a href="/1967-09-30">9/30/1967 Straight Theater, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-30*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Sons Of Champlin.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="09??"></a><a href="/1967-09-??">9/??/1967 (unknown), Canyon, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-09-??*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>According to DeadLists, the Grateful Dead played a benefit for Canyon’s “local hippies” who needed to rebuild their general store, this information coming from "Berkeley at War" by W. J. Rorabaugh.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1001"></a><a href="/1967-10-01">10/1/1967 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-10-01*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>"Potpourri" - "A Benefit for the Economic Opportunity Program."  Also: Charles Lloyd; Bola Sete.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1014"></a><a href="/1967-10-14">10/14/1967 Continental Ballroom, Santa Clara, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-10-14*">Listen/Download</a>]<tr><td>I: Cold Rain, Schoolgirl</td></tr>
-<tr><td>II: Alligator > Caution</td></tr>
-<tr class="notes"><td>Also: Powers Of Evil; Om.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1022"></a><a href="/1967-10-22">10/22/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-10-22*">Listen/Download</a>]<tr><td>Morning Dew, New Potato Caboose, Hurts Me Too, Cold Rain, Lovelight, BIODTL, Cryptical > Other One > Cryptical</td></tr>
-<tr class="notes"><td>First ''Cryptical''; First ''Other One''</i></td></tr>
-<tr class="notes"><td>Marijuana Defense benefit. Also: QMS; Big Brother  and  The Holding Co. An audience recording of the Morning Dew and New Potato Caboose long circulated as part of a tape dated 1-27 or 1-28-67.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1031"></a><a href="/1967-10-31">10/31/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-10-31*">Listen/Download</a>]<tr><td>Viola Lee Blues, Cold Rain, Alligator > Caution</td></tr>
-<tr class="notes"><td>"Trip or Freak." Also: QMS; Big Brother  and  The Holding Co. This audience recording has circulated for years as 1-27 or 1-28-67, but we previously moved it to 9-4-67 since the presence of Alligator>Caution argued for a later date. However, the Morning Dew and New Potato Caboose that precede Viola Lee Blues on this tape match exactly those on the soundboard recording of 10-22-67, but Cold Rain and Snow does not. It was not unknown in those days for tapers to record one or two songs at one gig, then come back the next night or the next week and record more tunes on the same tape. 10-31 was the Dead’s next gig after 10-22. Plus, two drummers are very much in evidence on this recording but the drum duet is quite brief and occurs during the Alligator jam rather than before it, which would place this recording before the November Shrine shows. The 10-31-67 date, though, should not be taken as definitive. </i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1110"></a><a href="/1967-11-10">11/10/1967 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-11-10*">Listen/Download</a>]<tr><td>Viola Lee Blues, Hurts Me Too, BIODTL, Morning Dew, Schoolgirl, Cryptical > Other One > Cryptical, Alligator > Drums > Alligator > Caution > Feedback</td></tr>
-<tr class="notes"><td>First ''Feedback''; Previous ''Hurts Me Too'' 6/6/1967 [52 shows]</i></td></tr>
-<tr class="notes"><td>"Amazing Electric Wonders." Also: Buffalo Springfield; Blue Cheer.  The Dead did not play on 11-08-67 or 11-09-67, despite the fact that parts of this show and the next night have been misdated as such in the past. While Alligator>Caution seems to have been played both nights of this run, the identical version appears on the circulating tapes of both shows.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1111"></a><a href="/1967-11-11">11/11/1967 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-11-11*">Listen/Download</a>]<tr><td>Lovelight, BIODTL, Death Don't, Schoolgirl, Cryptical > Other One > Cryptical, New Potato Caboose, Alligator > Drums > Alligator > Caution</td></tr>
-<tr class="notes"><td>Previous ''Death Don't'' 3/18/1967 [86 shows]</i></td></tr>
-<tr class="notes"><td>"Amazing Electric Wonders." Also: Buffalo Springfield; Blue Cheer. The Dead did not perform on the 8th and 9th, despite the fact that parts of this show and the night before have been misdated as such in the past.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1112"></a><a href="/1967-11-12">11/12/1967 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-11-12*">Listen/Download</a>]<tr><td>Alligator > Drums > Alligator > Caution, Cryptical > Other One > Cryptical </td></tr>
-<tr class="notes"><td>Benefit for the Bands. The above circulates as part of a studio sessions tape dated 10-20-67, but only Turn on Your Lovelight from that source is an actual studio recording. This material sounds like a live performance plagued with defective vocal mics (although Garcia’s seems to work sporadically), and seems very close in time to the November Shrine shows, hence the 11-12-67 date. But this should not be taken as definitive.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1114"></a><a href="/1967-11-14">11/14/1967 American Studios, North Hollywood, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-11-14*">Listen/Download</a>]<tr><td>Born Cross-Eyed, Dark Star</td></tr>
-<tr class="notes"><td>Studio sesion for "Anthem of the Sun."</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1119"></a><a href="/1967-11-19">11/19/1967 (unknown), San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-11-19*">Listen/Download</a>]<tr><td>Lovelight</td></tr>
-<tr class="notes"><td>Reheasal consisting of multiple versions of "Lovelight." Date might not be correct.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1202"></a><a href="/1967-12-02">12/2/1967 Atwood Hall, Clark University, Worcester, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-02*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The Lost Live Dead blog speculates that the Dead played the above venue on this date, the 7th, or the 16th, based on a comment made by Garcia at the 04-20-69 show, and on an eyewitness account.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1208"></a><a href="/1967-12-08">12/8/1967 Psychedelic Supermarket, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-08*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>There is a review of the Dead playing this venue on Friday December 8, their “Boston debut,” and the Lost Live Dead blog speculates that they played there on the 9th as well. And apparently the band returned to Boston later in the month.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1213"></a><a href="/1967-12-13">12/13/1967 Shrine Exhibition Hall, Los Angeles, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-13*">Listen/Download</a>]<tr><td>Dark Star</td></tr>
-<tr class="notes"><td>First ''Dark Star''</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1222"></a><a href="/1967-12-22">12/22/1967 Palm Gardens, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-22*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1223"></a><a href="/1967-12-23">12/23/1967 Palm Gardens, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-23*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1224"></a><a href="/1967-12-24">12/24/1967 Palm Gardens, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-24*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1226"></a><a href="/1967-12-26">12/26/1967 Village Theater, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-26*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>Also: Take Five. Venue was later renamed Fillmore East.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1227"></a><a href="/1967-12-27">12/27/1967 Village Theater, New York, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-27*">Listen/Download</a>]<tr><td>Schoolgirl</td></tr>
-<tr class="notes"><td>Also: Take Five. Venue was later renamed Fillmore East. Song is from DeadLists according to an eyewitness, who also remembers two separate shows that night.</i></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1229"></a><a href="/1967-12-29">12/29/1967 Psychedelic Supermarket, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-29*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-<div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1230"></a><a href="/1967-12-30">12/30/1967 Psychedelic Supermarket, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-12-30*">Listen/Download</a>]<tr><td></td></tr>
-</table></div>
-
-</div></div>
-</div>
-</body>
+      function showtab () {
+      document.getElementById('hide').style.display = 'none';
+      document.getElementById('show').style.display = 'block';
+      }
+      function hidetab () {
+      document.getElementById('show').style.display = 'none';
+      document.getElementById('hide').style.display = 'block';
+      }
+      -->
+      </script>
+      <p>
+        January: <a href="#0101">1</a> <a href="#0106">6</a> <a href="#0113">13</a> <a href="#0113">13</a> <a href="#0114">14</a> <a href="#0114">14</a> <a href="#0115">15</a> <a href="#0120">20</a> <a href="#0124">24</a> <a href="#0127">27</a> <a href="#0128">28</a> <a href="#0129">29</a> <a href="#01xx">xx</a>
+        <br>
+        February: <a href="#0202">2</a> <a href="#0205">5</a> <a href="#0210">10</a> <a href="#0212">12</a> <a href="#0224">24</a> <a href="#0225">25</a> <a href="#0226">26</a>
+        <br>
+        March: <a href="#0303">3</a> <a href="#0305">5</a> <a href="#0310">10</a> <a href="#0311">11</a> <a href="#0312">12</a> <a href="#0313">13</a> <a href="#0314">14</a> <a href="#0315">15</a> <a href="#0316">16</a> <a href="#0317">17</a> <a href="#0318">18</a> <a href="#0319">19</a> <a href="#0320">20</a> <a href="#0324">24</a> <a href="#0325">25</a> <a href="#0326">26</a> <a href="#0328">28</a> <a href="#0329">29</a> <a href="#0330">30</a> <a href="#0331">31</a>
+        <br>
+        April: <a href="#0401">1</a> <a href="#0402">2</a> <a href="#0409">9</a> <a href="#0409">9</a> <a href="#0412">12</a> <a href="#0414">14</a> <a href="#0415">15</a> <a href="#0416">16</a> <a href="#0417">17</a> <a href="#0428">28</a> <a href="#0429">29</a> <a href="#0430">30</a> <a href="#0430">30</a>
+        <br>
+        May: <a href="#0501">1</a> <a href="#0505">5</a> <a href="#0506">6</a> <a href="#0508">8</a> <a href="#0511">11</a> <a href="#0515">15</a> <a href="#0518">18</a> <a href="#0520">20</a> <a href="#0522">22</a> <a href="#0529">29</a> <a href="#0530">30</a>
+        <br>
+        June: <a href="#0601">1</a> <a href="#0603">3</a> <a href="#0606">6</a> <a href="#0607">7</a> <a href="#0608">8</a> <a href="#0608">8</a> <a href="#0609">9</a> <a href="#0610">10</a> <a href="#0611">11</a> <a href="#0612">12</a> <a href="#0615">15</a> <a href="#0618">18</a> <a href="#0621">21</a> <a href="#0624">24</a> <a href="#0628">28</a>
+        <br>
+        July: <a href="#0713">13</a> <a href="#0714">14</a> <a href="#0715">15</a> <a href="#0716">16</a> <a href="#0716">16</a> <a href="#0718">18</a> <a href="#0721">21</a> <a href="#0722">22</a> <a href="#0723">23</a> <a href="#0731">31</a>
+        <br>
+        August: <a href="#0801">1</a> <a href="#0802">2</a> <a href="#0803">3</a> <a href="#0804">4</a> <a href="#0805">5</a> <a href="#0806">6</a> <a href="#0806">6</a> <a href="#0810">10</a> <a href="#0811">11</a> <a href="#0812">12</a> <a href="#0813">13</a> <a href="#0819">19</a> <a href="#0825">25</a> <a href="#0826">26</a> <a href="#0828">28</a>
+        <br>
+        September: <a href="#0902">2</a> <a href="#0903">3</a> <a href="#0904">4</a> <a href="#0908">8</a> <a href="#0909">9</a> <a href="#0909">9</a> <a href="#0915">15</a> <a href="#0916">16</a> <a href="#0916">16</a> <a href="#0922">22</a> <a href="#0923">23</a> <a href="#0924">24</a> <a href="#0929">29</a> <a href="#0930">30</a> <a href="#09??">??</a>
+        <br>
+        October: <a href="#1001">1</a> <a href="#1014">14</a> <a href="#1022">22</a> <a href="#1031">31</a>
+        <br>
+        November: <a href="#1110">10</a> <a href="#1111">11</a> <a href="#1112">12</a> <a href="#1114">14</a> <a href="#1119">19</a>
+        <br>
+        December: <a href="#1202">2</a> <a href="#1208">8</a> <a href="#1213">13</a> <a href="#1222">22</a> <a href="#1223">23</a> <a href="#1224">24</a> <a href="#1226">26</a> <a href="#1227">27</a> <a href="#1229">29</a> <a href="#1230">30</a>
+      </p>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0101">
+              <a href="/1967-01-01">1/1/1967 Panhandle, Golden Gate Park, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "New Year's Day Wail" - Hell's Angels thanks to Diggers. Also: Big Brother and The Holding Co.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0106">
+              <a href="/1967-01-06">1/6/1967 Freeborn Hall, U. of California, Davis, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Big Mama Mae Thornton; GD. $2 ticket.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0113">
+              <a href="/1967-01-13">1/13/1967 Berkeley Community Theatre, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: The Mama's and The Papa's; Jose Feliciano; Canadian Fuzz. The Dead substituted for Jose Feliciano, who arrived in time for the late show.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0113">
+              <a href="/1967-01-13">1/13/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Junior Wells Chicago Blues Band; The Doors.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0114">
+              <a href="/1967-01-14">1/14/1967 Polo Field, Golden Gate Park, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Schoolgirl*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Morning Dew''; Next ''Schoolgirl'' 7/31/1967 [74 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "The Great Human Be-In." Afternoon concert. Also: Jefferson Airplane; QMS; Country Joe and The Fish; The Charlatans; plus numerous poets and speakers. Contrary to common belief, Big Brother did not play. *with Charles Lloyd. The Morning Dew often included with this recording belongs to a different performance of an unknown date. This recording has also circulated as each of the December 1965 Acid Tests.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0114">
+              <a href="/1967-01-14">1/14/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Junior Wells Chicago Blues Band; The Doors.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0115">
+              <a href="/1967-01-15">1/15/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon show (2:00 PM) - $2, kiddies free. Billing: GD; Junior Wells Chicago Blues Band; The Doors.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0120">
+              <a href="/1967-01-20">1/20/1967 Santa Monica Civic Auditorium, Santa Monica, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Timothy Leary and the Grateful Dead.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0124">
+              <a href="/1967-01-24">1/24/1967 , ,</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              No Grateful Dead performance is known to have taken place on this date, and the recording which has sometimes been identified as such is now listed as 10-31-67.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0127">
+              <a href="/1967-01-27">1/27/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: QMS. The recording that used to circulate under this date is listed as 10-31-67, which an explanation to be found there.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0128">
+              <a href="/1967-01-28">1/28/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: QMS. The recording that used to circulate under this date is listed as 10-31-67, which an explanation to be found there.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0129">
+              <a href="/1967-01-29">1/29/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Mantra-Rock Dance - "Krishna Consciousness Comes West" - S.F. Krishna Temple benefit. Also: Moby Grape; Big Brother and The Holding Co.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="01xx">
+              <a href="/1967-01-xx">1/xx/1967 RCA Studio A, Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-01-xx*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              King Bee, Down So Long, Minglewood, I Know You Rider, Cold Rain, Cream Puff War, Top Of The World.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Studio sessions for "Grateful Dead." Recording usually circulates dated 12-05-66, which is at least a month too early since the band did not travel to Los Angeles to record their debut LP until January 1967. Everything except "Cream Puff War" lacks vocals.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0202">
+              <a href="/1967-02-02">2/2/1967 RCA Studio A, Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Golden Road, Alice D. Millionaire *, Overseas Stomp *, Tastebud *, Death Don't *
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Studio sesions for "Grateful Dead." *appears as a "Grateful Dead" bonus track in "The Golden Road (1965-1973)." "Death Don't" lacks vocals.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0205">
+              <a href="/1967-02-05">2/5/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Ralph Gleasonï¿½s 02-03-67 San Francisco Chronicle column listed the bands at this benefit for the U.S. Strike Committee and mentioned that the Dead would join them if they were finished recording in Los Angeles. It is uncertain whether or not this actually happened.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0210">
+              <a href="/1967-02-10">2/10/1967 Santa Venetia Armory, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Sopwith Camel; Blue House Basement; Baltimore Steam Packet - The Dead substituted for Sopwith Camel.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0212">
+              <a href="/1967-02-12">2/12/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Next ''Hi-Heel Sneakers'' 5/7/1969 [283 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Abe Lincoln's Birthday Party" - Council for Civic Unity benefit. Billing: GD; Moby Grape; Sly And The Family Stone; New Salvation Army Banned; Notes From The Underground. Some tunes which have circulate under this date are actually from 11/19/66, and others from the recording now listed as 10-31-67.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0224">
+              <a href="/1967-02-24">2/24/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Otis Rush and His Chicago Blues Band; Canned Heat.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0225">
+              <a href="/1967-02-25">2/25/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Otis Rush and His Chicago Blues Band; Canned Heat.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0226">
+              <a href="/1967-02-26">2/26/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-02-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert (2:00 PM). Billing: GD; Otis Rush and His Chicago Blues Band; Canned Heat.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0303">
+              <a href="/1967-03-03">3/3/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              First Dead Winterland show - "The First Annual Love Circus." Also: Love; Moby Grape; The Loading Zone; Blue Crumb Truck Factory.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0305">
+              <a href="/1967-03-05">3/5/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              According to an item in the 02-28-67 San Francisco Chronicle, the Grateful Dead played this benefit as ï¿½guest starsï¿½ along with Big Brother & the Holding Co., Moby Grape, Country Joe & the Fish, the Sparrow, and Michael McClure. The Dead were not listed on the poster.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0310">
+              <a href="/1967-03-10">3/10/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0311">
+              <a href="/1967-03-11">3/11/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0312">
+              <a href="/1967-03-12">3/12/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0313">
+              <a href="/1967-03-13">3/13/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              This show might not have taken place.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0314">
+              <a href="/1967-03-14">3/14/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0315">
+              <a href="/1967-03-15">3/15/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Phil Lesh's 27th birthday.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0316">
+              <a href="/1967-03-16">3/16/1967 Whiskey-A-Go-Go, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Dead might have finished their run at this venue the night before, according to the Lost Live Dead blog.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0317">
+              <a href="/1967-03-17">3/17/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: Chuck Berry; GD; Johnny Talbot and De Thangs. Tapes of the 11-19-66 show are sometimes misdated 3-17-67.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0318">
+              <a href="/1967-03-18">3/18/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Me and My Uncle, Next Time, Just A Hand To Hold, Smokestack, Morning Dew, Hurts Me Too, BIODTL, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Golden Road, Cream Puff War, Same Thing*, Cold Rain, Viola Lee Blues, Death Don't
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Golden Road''; Next ''Smokestack'' 3/3/1968 [113 shows]; Final ''Cream Puff War''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Chuck Berry; Johnny Talbot and De Thangs. * appears on "So Many Roads (1965-1995)."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0319">
+              <a href="/1967-03-19">3/19/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert (2:00 PM). Billing: Chuck Berry; GD; Johnny Talbot and De Thangs.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0320">
+              <a href="/1967-03-20">3/20/1967 Fugazi Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Album release party.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0324">
+              <a href="/1967-03-24">3/24/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Johnny Hammond and His Screaming Nighthawks; Robert Baker. An eyewitness who attended either this show or the next states that the Dead performed Viola Lee Blues. Of course, they might very well have done it both nights.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0325">
+              <a href="/1967-03-25">3/25/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Johnny Hammond and His Screaming Nighthawks; Robert Baker.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0326">
+              <a href="/1967-03-26">3/26/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: QMS; Johnny Hammond and His Screaming Nighthawks; Robert Baker.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0328">
+              <a href="/1967-03-28">3/28/1967 The Rock Garden, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charles Lloyd Quartet; The Mystery Trend. There is some confusion in DeadLists as to which year these gigs took place, based in part on the fact that the dates on the poster were changed and no days of the week were listed. It is common knowledge in poster collecting circles that this venue was in operation during the spring of 1967 and that its distinctive diamond-shaped posters were designed by Mike Wood in a style similar to those he did subsequently for various promoters at California Hall. Wood was not active in the poster designing field before this. For definitive proof, though, we turn to the San Francisco Chronicle, whose ï¿½Datebookï¿½ listing for March 28, 1967 had the Dead, Charles Lloyd, and the Mystery Trend opening at the Rock Garden that night. Ralph Gleason mentioned the show in his next dayï¿½s column, and the ï¿½Datebookï¿½ for Sunday April 2 had this bill as closing that night.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0329">
+              <a href="/1967-03-29">3/29/1967 The Rock Garden, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charles Lloyd Quartet; The Mystery Trend.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0330">
+              <a href="/1967-03-30">3/30/1967 The Rock Garden, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charles Lloyd Quartet; The Mystery Trend.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0331">
+              <a href="/1967-03-31">3/31/1967 The Rock Garden, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charles Lloyd Quartet; The Mystery Trend.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0401">
+              <a href="/1967-04-01">4/1/1967 The Rock Garden, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charles Lloyd Quartet; The Mystery Trend.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0402">
+              <a href="/1967-04-02">4/2/1967 The Rock Garden, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Charles Lloyd Quartet; The Mystery Trend.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0409">
+              <a href="/1967-04-09">4/9/1967 Panhandle, Golden Gate Park, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Performance may have started at a third floor flat on Haight Street.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0409">
+              <a href="/1967-04-09">4/9/1967 Longshoreman's Hall, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Week of the Angry Arts-West Mobilization" - "Spring to end the war in Vietnam" - also: Sopwith Camel; QMS; Big Brother and The Holding Co.; Country Joe and The Fish.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0412">
+              <a href="/1967-04-12">4/12/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Golden Road
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Busted" - S.F. Mime Troupe benefit. Billing: Jefferson Airplane; GD; QMS; Moby Grape; Andrew Staples; The Loading Zone. The Charlatans also played - Mike Ferguson did not take the stage because he spilled barbecue sauce on his clean white jacket. "Golden Road" opened the set.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0414">
+              <a href="/1967-04-14">4/14/1967 Kaleidoscope, Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jefferson Airplane; Canned Heat.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0415">
+              <a href="/1967-04-15">4/15/1967 Kaleidoscope, Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jefferson Airplane; Canned Heat.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0416">
+              <a href="/1967-04-16">4/16/1967 Kaleidoscope, Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jefferson Airplane; Canned Heat.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0417">
+              <a href="/1967-04-17">4/17/1967 Banana Grove, Ambassador Hotel, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-17*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0428">
+              <a href="/1967-04-28">4/28/1967 Stockton Ballroom, Stockton, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0429">
+              <a href="/1967-04-29">4/29/1967 Earl Warren Showgrounds, Santa Barbara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I:
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Viola Lee Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: The Doors; UFO; Captain Speed.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0430">
+              <a href="/1967-04-30">4/30/1967 The Cheetah, Santa Monica, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              3:00 PM show.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0430">
+              <a href="/1967-04-30">4/30/1967 The Cheetah, Santa Monica, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-04-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              8:00 PM show.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0501">
+              <a href="/1967-05-01">5/1/1967 Rendezvous Inn, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              One of the probable dates of the Deadï¿½s Monday night residency at this San Francisco gay bar.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0505">
+              <a href="/1967-05-05">5/5/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Paupers; Collage. A tape that has long circulated with this date is actually from later in the year, and is listed as 06-15-67 although it could date from as late as September.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0506">
+              <a href="/1967-05-06">5/6/1967 Fillmore Auditorium, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; Paupers; Collage.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0508">
+              <a href="/1967-05-08">5/8/1967 Rendezvous Inn, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              One of the probable dates of the Deadï¿½s Monday night residency at this San Francisco gay bar.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0511">
+              <a href="/1967-05-11">5/11/1967 Marigold Ballroom, Fresno, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Lost Live Dead blog lists this as Friday the 12th, citing a review in the May 13 Fresno Bee. However, nowhere does the reviewer state that the show took place the night before. The blog claims two shows starting at 9:45 and 11:15 along with an opening band called the Road Runners, but does not cite a source for this information.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0515">
+              <a href="/1967-05-15">5/15/1967 Rendezvous Inn, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              One of the probable dates of the Deadï¿½s Monday night residency at this San Francisco gay bar.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0518">
+              <a href="/1967-05-18">5/18/1967 Awalt High School, Mountain View, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Louie Louie
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Louie Louie''; Next ''Louie Louie'' 9/7/1969 [291 shows]
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0520">
+              <a href="/1967-05-20">5/20/1967 Continental Ballroom, Santa Clara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Billing: GD; The Real Thing; Autumn People.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0522">
+              <a href="/1967-05-22">5/22/1967 Rendezvous Inn, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              One of the probable dates of the Deadï¿½s Monday night residency at this San Francisco gay bar.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0529">
+              <a href="/1967-05-29">5/29/1967 Napa County Fairgrounds, Napa, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Project Hope.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0530">
+              <a href="/1967-05-30">5/30/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-05-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              HALO (Haight-Ashbury Legal Organization) benefit. Also: Jefferson Airplane; Big Brother and The Holding Co.; QMS; The Charlatans.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0601">
+              <a href="/1967-06-01">6/1/1967 Tompkins Square Park, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Golden Road, Dancin', Midnight Hour, BIODTL, Schoolgirl, Cold Rain, Morning Dew, Viola Lee Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Free afternoon concert. The above comes from DeadLists according to an eyewitness.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0603">
+              <a href="/1967-06-03">6/3/1967 Gym, S.U.N.Y., Stony Brook, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0606">
+              <a href="/1967-06-06">6/6/1967 Cafe au Go-Go, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              King Bee, Hurts Me Too, Same Thing, Big Boss Man, Alligator, Midnight Hour, BIODTL, Me and My Uncle, Minglewood, Don't Ease, Cold Rain, Viola Lee Blues, Baby Blue
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Alligator''; Next ''Same Thing'' 12/31/1971 [549 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Luke and The Apostles. Above list, from an eyewitness, may be incomplete and out of order.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0607">
+              <a href="/1967-06-07">6/7/1967 Cafe au Go-Go, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-07*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0608">
+              <a href="/1967-06-08">6/8/1967 Bandshell On The Mall, Central Park, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Free afternoon concert.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0608">
+              <a href="/1967-06-08">6/8/1967 Cafe au Go-Go, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Eric Andersen; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0609">
+              <a href="/1967-06-09">6/9/1967 Cafe au Go-Go, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Eric Andersen; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0610">
+              <a href="/1967-06-10">6/10/1967 Cafe au Go-Go, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Eric Andersen; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0611">
+              <a href="/1967-06-11">6/11/1967 Cafe au Go-Go, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Eric Andersen; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0612">
+              <a href="/1967-06-12">6/12/1967 The Cheetah, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0615">
+              <a href="/1967-06-15">6/15/1967 Straight Theater, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Just A Hand to Hold, Golden Road &gt; New Potato Caboose, Alligator,
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''New Potato Caboose''; Next ''He Was A Friend'' 5/9/1968 [100 shows]; Final ''Golden Road''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Straight Theater christening. " The above list comes from a tape which long circulated as 5-5-67. The presence of Alligator dates it no earlier than June, but it could be from as late as September.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0618">
+              <a href="/1967-06-18">6/18/1967 Monterey Fairgrounds, Monterey, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Cold Rain, Alligator &gt; Caution
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Monterey International Pop Festival - also: The Blues Project; Big Brother and The Holding Co.; The Byrds; The Band With No Name; Buffalo Springfield with David Crosby, without Neil Young; The Who; Jimi Hendrix; The Mama's and The Papa's; Otis Redding; Canned Heat. Speculation exists as to whether or not Alligator and Caution are from another performance, based primarily on the fact that Bill Graham tells the audience to give the band a hand afterwards. Graham was in attendance and there was no reason for him not to have done that, especially since various other luminaries announced the acts during the course of the festival. The most convincing evidence, however, is that the same unidentified person playing harmonica badly during Alligator is also audible on Cold Rain and Snow. Alligator is described in DeadLists as a primitive version without vocals, but Jerryï¿½s, Bobï¿½s, and Philï¿½s backing vocals come through loud and clear with Pig Pen barely audible in the background; it seems that his microphone was not working during this tune.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0621">
+              <a href="/1967-06-21">6/21/1967 Polo Field, Golden Gate Park, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Summer Solstice Festival.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0624">
+              <a href="/1967-06-24">6/24/1967 El Camino Park, Palo Alto, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Schoolgirl''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              The probable date of this gig according to the Lost Live Dead blog, whose proprietor attended at the age of nine.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0628">
+              <a href="/1967-06-28">6/28/1967 Oakland Auditorium Arena, Oakland, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-06-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Young Rascals; Country Joe and The Fish; Sons of Champlin; Sparrow; Grassroots
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0713">
+              <a href="/1967-07-13">7/13/1967 P.N.E. Agradome, Vancouver, B.C., Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Daily Flash; Love-In.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0714">
+              <a href="/1967-07-14">7/14/1967 Dante's Inferno, Vancouver, BC, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Collectors; Painted Ship.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0715">
+              <a href="/1967-07-15">7/15/1967 Dante's Inferno, Vancouver, BC, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Collectors; Painted Ship.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0716">
+              <a href="/1967-07-16">7/16/1967 Golden Gardens Beach, Seattle, WA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon show.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0716">
+              <a href="/1967-07-16">7/16/1967 Eagles Auditorium, Seattle, WA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Daily Flash; Magic Fern.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0718">
+              <a href="/1967-07-18">7/18/1967 Masonic Temple, Portland, OR</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Poverty's People; U. S. Cadenza; Nigells.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0721">
+              <a href="/1967-07-21">7/21/1967 Continental Ballroom, Santa Clara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Viola Lee Blues, Morning Dew
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Golden Road, Pig Pen tune, Minglewood, unknown, unknown, Midnight Hour
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Sons Of Champlin; Congress Of Wonders; Phoenix. the above fragmentary list comes from DeadLists according to an eyewitness, who attended either this night or the next.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0722">
+              <a href="/1967-07-22">7/22/1967 Continental Ballroom, Santa Clara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Sons Of Champlin; Congress Of Wonders; Phoenix.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0723">
+              <a href="/1967-07-23">7/23/1967 Straight Theater, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Jam*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Straight Theater Opening 3rd Night. Also: Phoenix; The Wildflower; Big Brother and The Holding Co. *with Neal Cassady, this jam may have been from another Straight Theater show.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0731">
+              <a href="/1967-07-31">7/31/1967 O'Keefe Centre, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-07-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Schoolgirl'' 1/14/1967 [74 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0801">
+              <a href="/1967-08-01">8/1/1967 O'Keefe Centre, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke and The Apostles. Jerry Garcia's 25th birthday.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0802">
+              <a href="/1967-08-02">8/2/1967 O'Keefe Centre, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Toronto." Afternoon concert. Billing: Jefferson Airplane; GD; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0803">
+              <a href="/1967-08-03">8/3/1967 O'Keefe Centre, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0804">
+              <a href="/1967-08-04">8/4/1967 O'Keefe Centre, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              New Potato Caboose, Viola Lee Blues
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Toronto." Billing: Jefferson Airplane; GD; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0805">
+              <a href="/1967-08-05">8/5/1967 O'Keefe Centre, Toronto, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Lovelight, Alligator
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Lovelight''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Toronto." Afternoon concert. Billing: Jefferson Airplane; GD; Luke and The Apostles.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0806">
+              <a href="/1967-08-06">8/6/1967 Place Ville Marie, Montreal, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Alligator, Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Dancin'' 3/18/1967 [59 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              List incomplete and order uncertain.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0806">
+              <a href="/1967-08-06">8/6/1967 Expo '67, Montreal, Canada</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-06*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0810">
+              <a href="/1967-08-10">8/10/1967 Chelsea Hotel Roof, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0811">
+              <a href="/1967-08-11">8/11/1967 Grande Ballroom, Detroit, MI</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Rationals; Southbound Freeway; Bishops; Ashmollyan Quintet.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0812">
+              <a href="/1967-08-12">8/12/1967 Grande Ballroom, Detroit, MI</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Rationals; Southbound Freeway; Bishops; Ashmollyan Quintet.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0813">
+              <a href="/1967-08-13">8/13/1967 West Park, Ann Arbor, MI</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0819">
+              <a href="/1967-08-19">8/19/1967 American Legion Hall, South Shore, Lake Tahoe, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0825">
+              <a href="/1967-08-25">8/25/1967 King's Beach Bowl, North Shore, Lake Tahoe, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-25*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Creators.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0826">
+              <a href="/1967-08-26">8/26/1967 King's Beach Bowl, North Shore, Lake Tahoe, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Creators.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0828">
+              <a href="/1967-08-28">8/28/1967 Lindley Meadows, Golden Gate Pk, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-08-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Chocolate George's wake. Also: Big Brother and The Holding Co. Above list from DeadLists according to an eyewitness.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0902">
+              <a href="/1967-09-02">9/2/1967 Cabrillo College Stadium, Santa Cruz, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Grateful Dead are listed prominently on the poster for this two-day benefit show along with numerous other bands. If they played this gig at all, it would have been on Saturday the 2nd since two shows at the Rio Nido Dance Hall followed.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0903">
+              <a href="/1967-09-03">9/3/1967 Dance Hall, Rio Nido, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dancin, Hurts Me Too, Cold Rain, Schoolgirl, Viola Lee Blues ** , Big Boss Man, Alligator, Midnight Hour *
+            </td>
+          </tr>
+          <tr>
+            <td>
+              *appears on "Fallout From The Phil Zone." ** appears as a "Grateful Dead" bonus track in "The Golden Road (1965-1973)." The Dark Star jam that Robert Hunter heard at this venue was actually performed at a rehearsal/soundcheck, not a gig. Recordings of this "Midnight Hour" have sometimes been misdated 09-02-68.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0904">
+              <a href="/1967-09-04">9/4/1967 Dance Hall, Rio Nido, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-04*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Caution &gt; Feedback
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Caution'' 2/25/1966 [183 shows]; Previous ''Morning Dew'' 3/18/1967 [70 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Above is from a vault tape apparently labeled with this date, whose accuracy is not 100% certain. The setlist formerly placed here, from a tape long known as 1-27 or 1-28-67, has now been moved to 10-31-67.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0908">
+              <a href="/1967-09-08">9/8/1967 Eagle's Auditorium, Seattle, WA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Magic Fern; Fat Jack. Pigpen's 22nd birthday.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0909">
+              <a href="/1967-09-09">9/9/1967 Volunteer Park, Seattle, WA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0909">
+              <a href="/1967-09-09">9/9/1967 Eagles Auditorium, Seattle, WA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-09*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Magic Fern; Fat Jack.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0915">
+              <a href="/1967-09-15">9/15/1967 Hollywood Bowl, Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-15*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Cold Rain, BIODTL, Schoolgirl, Morning Dew, Alligator &gt; Caution, Vaudeville Chorus
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Bill Graham presents The San Francisco Scene In Los Angeles." Billing: Jefferson Airplane; GD; Big Brother and The Holding Co. Big Brother did not perform.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0916">
+              <a href="/1967-09-16">9/16/1967 Griffith Park, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Free concert. Also: Jefferson Airplane.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0916">
+              <a href="/1967-09-16">9/16/1967 Las Vegas Convention Center Rotunda, Las Vegas, NV</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-16*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              With Tom Constanten, who recalls playing with the Dead in Las Vegas during this month. The Lost Live Dead blog speculates that it took place on this date after the free show in Griffith Park.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0922">
+              <a href="/1967-09-22">9/22/1967 Family Dog, Denver, CO</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Mother Earth.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0923">
+              <a href="/1967-09-23">9/23/1967 Family Dog, Denver, CO</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Mother Earth.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0924">
+              <a href="/1967-09-24">9/24/1967 City Park, Denver, CO</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Afternoon concert.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0929">
+              <a href="/1967-09-29">9/29/1967 Straight Theater, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Dancin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Alligator* &gt; Caution*
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Mickey Hart's first show with the Dead. Also: Sons Of Champlin. In order to avoid permit problems these two concerts were billed as "The Straight Theater School of Dance" for both nights. *with Mickey Hart. A "China Cat," "Other One," and various other tunes have been known to circulate under this date. It must be stressed that no recording of this show is known to exist.; Mickey Hart's First Show
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0930">
+              <a href="/1967-09-30">9/30/1967 Straight Theater, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Sons Of Champlin.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="09??">
+              <a href="/1967-09-??">9/??/1967 (unknown), Canyon, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-09-??*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              According to DeadLists, the Grateful Dead played a benefit for Canyonï¿½s ï¿½local hippiesï¿½ who needed to rebuild their general store, this information coming from "Berkeley at War" by W. J. Rorabaugh.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1001">
+              <a href="/1967-10-01">10/1/1967 Greek Theatre, U. of California, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-10-01*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              "Potpourri" - "A Benefit for the Economic Opportunity Program." Also: Charles Lloyd; Bola Sete.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1014">
+              <a href="/1967-10-14">10/14/1967 Continental Ballroom, Santa Clara, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-10-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Cold Rain, Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Alligator &gt; Caution
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Powers Of Evil; Om.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1022">
+              <a href="/1967-10-22">10/22/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-10-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Morning Dew, New Potato Caboose, Hurts Me Too, Cold Rain, Lovelight, BIODTL, Cryptical &gt; Other One &gt; Cryptical
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Cryptical''; First ''Other One''
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Marijuana Defense benefit. Also: QMS; Big Brother and The Holding Co. An audience recording of the Morning Dew and New Potato Caboose long circulated as part of a tape dated 1-27 or 1-28-67.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1031">
+              <a href="/1967-10-31">10/31/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-10-31*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Cold Rain, Alligator &gt; Caution
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Trip or Freak." Also: QMS; Big Brother and The Holding Co. This audience recording has circulated for years as 1-27 or 1-28-67, but we previously moved it to 9-4-67 since the presence of Alligator&gt;Caution argued for a later date. However, the Morning Dew and New Potato Caboose that precede Viola Lee Blues on this tape match exactly those on the soundboard recording of 10-22-67, but Cold Rain and Snow does not. It was not unknown in those days for tapers to record one or two songs at one gig, then come back the next night or the next week and record more tunes on the same tape. 10-31 was the Deadï¿½s next gig after 10-22. Plus, two drummers are very much in evidence on this recording but the drum duet is quite brief and occurs during the Alligator jam rather than before it, which would place this recording before the November Shrine shows. The 10-31-67 date, though, should not be taken as definitive.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1110">
+              <a href="/1967-11-10">11/10/1967 Shrine Exhibition Hall, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-11-10*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Viola Lee Blues, Hurts Me Too, BIODTL, Morning Dew, Schoolgirl, Cryptical &gt; Other One &gt; Cryptical, Alligator &gt; Drums &gt; Alligator &gt; Caution &gt; Feedback
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Feedback''; Previous ''Hurts Me Too'' 6/6/1967 [52 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Amazing Electric Wonders." Also: Buffalo Springfield; Blue Cheer. The Dead did not play on 11-08-67 or 11-09-67, despite the fact that parts of this show and the next night have been misdated as such in the past. While Alligator&gt;Caution seems to have been played both nights of this run, the identical version appears on the circulating tapes of both shows.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1111">
+              <a href="/1967-11-11">11/11/1967 Shrine Exhibition Hall, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-11-11*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Lovelight, BIODTL, Death Don't, Schoolgirl, Cryptical &gt; Other One &gt; Cryptical, New Potato Caboose, Alligator &gt; Drums &gt; Alligator &gt; Caution
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Previous ''Death Don't'' 3/18/1967 [86 shows]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              "Amazing Electric Wonders." Also: Buffalo Springfield; Blue Cheer. The Dead did not perform on the 8th and 9th, despite the fact that parts of this show and the night before have been misdated as such in the past.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1112">
+              <a href="/1967-11-12">11/12/1967 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-11-12*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Alligator &gt; Drums &gt; Alligator &gt; Caution, Cryptical &gt; Other One &gt; Cryptical
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Benefit for the Bands. The above circulates as part of a studio sessions tape dated 10-20-67, but only Turn on Your Lovelight from that source is an actual studio recording. This material sounds like a live performance plagued with defective vocal mics (although Garciaï¿½s seems to work sporadically), and seems very close in time to the November Shrine shows, hence the 11-12-67 date. But this should not be taken as definitive.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1114">
+              <a href="/1967-11-14">11/14/1967 American Studios, North Hollywood, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-11-14*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Born Cross-Eyed, Dark Star
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Studio sesion for "Anthem of the Sun."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1119">
+              <a href="/1967-11-19">11/19/1967 (unknown), San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-11-19*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Lovelight
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Reheasal consisting of multiple versions of "Lovelight." Date might not be correct.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1202">
+              <a href="/1967-12-02">12/2/1967 Atwood Hall, Clark University, Worcester, MA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-02*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The Lost Live Dead blog speculates that the Dead played the above venue on this date, the 7th, or the 16th, based on a comment made by Garcia at the 04-20-69 show, and on an eyewitness account.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1208">
+              <a href="/1967-12-08">12/8/1967 Psychedelic Supermarket, Boston, MA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-08*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              There is a review of the Dead playing this venue on Friday December 8, their ï¿½Boston debut,ï¿½ and the Lost Live Dead blog speculates that they played there on the 9th as well. And apparently the band returned to Boston later in the month.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1213">
+              <a href="/1967-12-13">12/13/1967 Shrine Exhibition Hall, Los Angeles, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-13*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Dark Star
+            </td>
+          </tr>
+          <tr>
+            <td>
+              First ''Dark Star''
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1222">
+              <a href="/1967-12-22">12/22/1967 Palm Gardens, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-22*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1223">
+              <a href="/1967-12-23">12/23/1967 Palm Gardens, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-23*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1224">
+              <a href="/1967-12-24">12/24/1967 Palm Gardens, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-24*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1226">
+              <a href="/1967-12-26">12/26/1967 Village Theater, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-26*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              Also: Take Five. Venue was later renamed Fillmore East.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1227">
+              <a href="/1967-12-27">12/27/1967 Village Theater, New York, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-27*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Schoolgirl
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Take Five. Venue was later renamed Fillmore East. Song is from DeadLists according to an eyewitness, who also remembers two separate shows that night.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1229">
+              <a href="/1967-12-29">12/29/1967 Psychedelic Supermarket, Boston, MA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-29*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1230">
+              <a href="/1967-12-30">12/30/1967 Psychedelic Supermarket, Boston, MA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-12-30*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>
 </html>

@@ -1,25 +1,53 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sunday, March 5, 1967</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sunday, March 5, 1967</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0305"></a><a href="/1967-03-05">3/5/1967 Avalon Ballroom, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1967-03-05*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>According to an item in the 02-28-67 San Francisco Chronicle, the Grateful Dead played this benefit as “guest stars” along with Big Brother & the Holding Co., Moby Grape, Country Joe & the Fish, the Sparrow, and Michael McClure. The Dead were not listed on the poster.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('67)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sunday, March 5, 1967
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sunday, March 5, 1967
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0305">
+              <a href="/1967-03-05">3/5/1967 Avalon Ballroom, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1967-03-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              According to an item in the 02-28-67 San Francisco Chronicle, the Grateful Dead played this benefit as ï¿½guest starsï¿½ along with Big Brother & the Holding Co., Moby Grape, Country Joe & the Fish, the Sparrow, and Michael McClure. The Dead were not listed on the poster.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('67)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

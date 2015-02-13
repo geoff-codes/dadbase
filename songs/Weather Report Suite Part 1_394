@@ -1,64 +1,985 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Weather Report Suite Part 1</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Weather Report Suite Part 1</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>9/8/1973</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">843</td><td>[<a href="/1973-09-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/11/1973</td><td>Williamsburg, VA (College Of William and Mary)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-09-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/12/1973</td><td>Williamsburg, VA (College Of William and Mary)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow </td><td align="center">1</td><td>[<a href="/1973-09-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/15/1973</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-09-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/17/1973</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-09-17">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/21/1973</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1973-09-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/24/1973</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-09-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1973</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-09-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/21/1973</td><td>Omaha, NE (Omaha Civic Auditorium)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1973-10-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/23/1973</td><td>Bloomington, MN (Metropolitan Sports Center)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-10-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/25/1973</td><td>Madison, WI (Dane County Coliseum)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-10-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1973</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1973-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/1/1973</td><td>Evanston, IL (McGaw Memorial Hall, Northwester...)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/9/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/10/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/11/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/20/1973</td><td>Denver, CO (Denver Coliseum)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1973-11-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/21/1973</td><td>Denver, CO (Denver Coliseum)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/23/1973</td><td>El Paso, TX (County Coliseum)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/25/1973</td><td>Tempe, AZ (Feyline Field)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/30/1973</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-11-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/1/1973</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-12-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/2/1973</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-12-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/8/1973</td><td>Durham, NC (Cameron Indoor Stadium, Duke U.)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1973-12-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/12/1973</td><td>Atlanta, GA (The Omni)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1973-12-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/18/1973</td><td>Tampa, FL (Curtis Hixon Convention Hall)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-12-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/19/1973</td><td>Tampa, FL (Curtis Hixon Convention Hall)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1973-12-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/23/1974</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1974-02-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/24/1974</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1974-02-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/14/1974</td><td>Missoula, MT (Adams Field House, U. of Montana)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1974-05-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/19/1974</td><td>Portland, OR (Portland Memorial Coliseum)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1974-05-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/21/1974</td><td>Seattle, WA (Hec. S. Edmundson Pavilion, U. of...)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1974-05-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/23/1974</td><td>Miami, FL (Jai-Alai Fronton)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">7</td><td>[<a href="/1974-06-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/26/1974</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1974-06-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/28/1974</td><td>Boston, MA (Boston Garden)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">1</td><td>[<a href="/1974-06-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/19/1974</td><td>Fresno, CA (Selland Arena)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grown</td><td align="center">2</td><td>[<a href="/1974-07-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/25/1974</td><td>Chicago, IL (International Amphitheatre)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1974-07-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/31/1974</td><td>Hartford, CT (Dillon Stadium)</td><td align="center">SII</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">3</td><td>[<a href="/1974-07-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/10/1974</td><td>London, England (Alexandra Palace)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">5</td><td>[<a href="/1974-09-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/14/1974</td><td>Muenchen, West Germany (Olympiahalle)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1974-09-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/20/1974</td><td>Paris, France (Palais des Sports)</td><td align="center">SI</td><td>WRS Prelude</td><td>Let It Grow</td><td align="center">2</td><td>[<a href="/1974-09-20">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Weather Report Suite Part 1
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Weather Report Suite Part 1
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/8/1973
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            843
+          </td>
+          <td>
+            [<a href="/1973-09-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/11/1973
+          </td>
+          <td>
+            Williamsburg, VA (College Of William and Mary)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/12/1973
+          </td>
+          <td>
+            Williamsburg, VA (College Of William and Mary)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/15/1973
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/17/1973
+          </td>
+          <td>
+            Syracuse, NY (Onondaga County War Memorial)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/21/1973
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-09-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/24/1973
+          </td>
+          <td>
+            Pittsburgh, PA (Pittsburgh Civic Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1973
+          </td>
+          <td>
+            Buffalo, NY (War Memorial Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/21/1973
+          </td>
+          <td>
+            Omaha, NE (Omaha Civic Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1973-10-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/23/1973
+          </td>
+          <td>
+            Bloomington, MN (Metropolitan Sports Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-10-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/25/1973
+          </td>
+          <td>
+            Madison, WI (Dane County Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-10-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1973
+          </td>
+          <td>
+            St. Louis, MO (Kiel Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/1/1973
+          </td>
+          <td>
+            Evanston, IL (McGaw Memorial Hall, Northwester...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/9/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/10/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/11/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/20/1973
+          </td>
+          <td>
+            Denver, CO (Denver Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-11-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/21/1973
+          </td>
+          <td>
+            Denver, CO (Denver Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/23/1973
+          </td>
+          <td>
+            El Paso, TX (County Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/25/1973
+          </td>
+          <td>
+            Tempe, AZ (Feyline Field)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1973
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/1/1973
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/2/1973
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/8/1973
+          </td>
+          <td>
+            Durham, NC (Cameron Indoor Stadium, Duke U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-12-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/12/1973
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1973-12-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/18/1973
+          </td>
+          <td>
+            Tampa, FL (Curtis Hixon Convention Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/19/1973
+          </td>
+          <td>
+            Tampa, FL (Curtis Hixon Convention Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/23/1974
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-02-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/24/1974
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-02-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/14/1974
+          </td>
+          <td>
+            Missoula, MT (Adams Field House, U. of Montana)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1974-05-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1974
+          </td>
+          <td>
+            Portland, OR (Portland Memorial Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-05-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/21/1974
+          </td>
+          <td>
+            Seattle, WA (Hec. S. Edmundson Pavilion, U. of...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-05-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/23/1974
+          </td>
+          <td>
+            Miami, FL (Jai-Alai Fronton)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1974-06-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/26/1974
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-06-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/28/1974
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-06-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/19/1974
+          </td>
+          <td>
+            Fresno, CA (Selland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grown
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-07-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/25/1974
+          </td>
+          <td>
+            Chicago, IL (International Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-07-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/31/1974
+          </td>
+          <td>
+            Hartford, CT (Dillon Stadium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1974-07-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/10/1974
+          </td>
+          <td>
+            London, England (Alexandra Palace)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1974-09-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/14/1974
+          </td>
+          <td>
+            Muenchen, West Germany (Olympiahalle)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-09-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/20/1974
+          </td>
+          <td>
+            Paris, France (Palais des Sports)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Prelude
+          </td>
+          <td>
+            Let It Grow
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-09-20">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

@@ -1,25 +1,53 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Sunday, August 20, 1989</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Sunday, August 20, 1989</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0820"></a><a href="/1989-08-20">8/20/1989 Greek Theatre, U. of California, Berkeley, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1989-08-20*">Listen/Download</a>]<tr><td></td></tr>
-<tr class="notes"><td>The 1989 Greek shows were originally scheduled for the usual Friday through Sunday of August 18, 19 & 20, but were almost cancelled outright because the UC Berkeley administration did not want the Grateful Dead playing on oreintation day. The powers-that-be finally relented and allowed the shows to be moved back one day.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('89)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Sunday, August 20, 1989
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Sunday, August 20, 1989
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0820">
+              <a href="/1989-08-20">8/20/1989 Greek Theatre, U. of California, Berkeley, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1989-08-20*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              The 1989 Greek shows were originally scheduled for the usual Friday through Sunday of August 18, 19 & 20, but were almost cancelled outright because the UC Berkeley administration did not want the Grateful Dead playing on oreintation day. The powers-that-be finally relented and allowed the shows to be moved back one day.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('89)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

@@ -1,26 +1,75 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Friday, May 28, 1976</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Friday, May 28, 1976</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0528"></a><a href="/1976-05-28">5/28/1976 Orpheum Theatre, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1976-05-28*">Listen/Download</a>]<tr><td>Lazy Lightning x2, Attics x3, Cassidy x2, Cosmic Charlie</td></tr>
-<tr class="notes"><td>Rehearsal.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('76)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Cosmic Charlie</td><td>10/8/1968</td><td>9/25/1976</td><td align="center">41</td><td align="center">6</td><td align="center">[<a href="/songs/Cosmic Charlie_79">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Friday, May 28, 1976
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Friday, May 28, 1976
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0528">
+              <a href="/1976-05-28">5/28/1976 Orpheum Theatre, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1976-05-28*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Lazy Lightning x2, Attics x3, Cassidy x2, Cosmic Charlie
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('76)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cosmic Charlie
+          </td>
+          <td>
+            10/8/1968
+          </td>
+          <td>
+            9/25/1976
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td align="center">
+            [<a href="/songs/Cosmic%20Charlie_79">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

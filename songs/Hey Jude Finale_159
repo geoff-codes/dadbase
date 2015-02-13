@@ -1,50 +1,663 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Hey Jude Finale</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Hey Jude Finale</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>9/7/1985</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Mr. Fantasy</td><td align="center">1585</td><td>[<a href="/1985-09-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/17/1988</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>&mdash;&mdash;</td><td align="center">161</td><td>[<a href="/1988-03-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/4/1988</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1988-04-04">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/9/1988</td><td>Worcester, MA (The Centrum)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Throwing Stones</td><td align="center">4</td><td>[<a href="/1988-04-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/15/1988</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Lovelight</td><td align="center">4</td><td>[<a href="/1988-04-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/23/1988</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Stella Blue</td><td align="center">2</td><td>[<a href="/1988-04-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/26/1988</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Black Peter</td><td align="center">10</td><td>[<a href="/1988-06-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/3/1988</td><td>Oxford, ME (Oxford Plains Speedway)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1988-07-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/8/1988</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Lovelight</td><td align="center">13</td><td>[<a href="/1988-09-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/16/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Sugar Magnolia</td><td align="center">6</td><td>[<a href="/1988-09-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/22/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Lovelight</td><td align="center">4</td><td>[<a href="/1988-09-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/14/1988</td><td>Miami, FL (Miami Arena)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1988-10-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/20/1988</td><td>Houston, TX (The Summit)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Lovelight</td><td align="center">4</td><td>[<a href="/1988-10-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/11/1988</td><td>Long Beach, CA (Long Beach Arena)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Black Muddy Riv</td><td align="center">4</td><td>[<a href="/1988-12-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/2/1989</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Around</td><td align="center">14</td><td>[<a href="/1989-04-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/8/1989</td><td>Cincinnati, OH (Riverfront Arena)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Miracle</td><td align="center">4</td><td>[<a href="/1989-04-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/13/1989</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>GDTRFB</td><td align="center">4</td><td>[<a href="/1989-04-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/2/1989</td><td>Foxboro, MA (Sullivan Stadium)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Sugar Magnolia</td><td align="center">13</td><td>[<a href="/1989-07-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/18/1989</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Throwing Stones</td><td align="center">9</td><td>[<a href="/1989-07-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/9/1989</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Throwing Stones</td><td align="center">12</td><td>[<a href="/1989-10-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/19/1989</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Death Don't</td><td align="center">7</td><td>[<a href="/1989-10-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/9/1989</td><td>Inglewood, CA (Great Western Forum)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Lovelight</td><td align="center">8</td><td>[<a href="/1989-12-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/31/1989</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>GDTRFB</td><td align="center">5</td><td>[<a href="/1989-12-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/22/1990</td><td>Ontario, Canada (Copps Coliseum, Hamilton)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Sugar Magnolia</td><td align="center">10</td><td>[<a href="/1990-03-22">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/1/1990</td><td>Atlanta, GA (The Omni)</td><td align="center">SII</td><td>Mr. Fantasy </td><td>Truckin</td><td align="center">7</td><td>[<a href="/1990-04-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/9/1990</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Watchtower</td><td align="center">6</td><td>[<a href="/1990-06-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/12/1990</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SII</td><td>Mr. Fantasy</td><td>Touch</td><td align="center">11</td><td>[<a href="/1990-07-12">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Hey Jude Finale
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Hey Jude Finale
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/7/1985
+          </td>
+          <td>
+            Morrison, CO (Red Rocks Amphitheatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td align="center">
+            1585
+          </td>
+          <td>
+            [<a href="/1985-09-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/17/1988
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            161
+          </td>
+          <td>
+            [<a href="/1988-03-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/4/1988
+          </td>
+          <td>
+            Hartford, CT (Hartford Civic Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1988-04-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/9/1988
+          </td>
+          <td>
+            Worcester, MA (The Centrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Throwing Stones
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-04-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/15/1988
+          </td>
+          <td>
+            Rosemont, IL (Rosemont Horizon)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-04-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/23/1988
+          </td>
+          <td>
+            Irvine, CA (Irvine Meadows Amphitheatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1988-04-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/26/1988
+          </td>
+          <td>
+            Pittsburgh, PA (Pittsburgh Civic Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Black Peter
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1988-06-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/3/1988
+          </td>
+          <td>
+            Oxford, ME (Oxford Plains Speedway)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-07-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/8/1988
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1988-09-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/16/1988
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1988-09-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/22/1988
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-09-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/14/1988
+          </td>
+          <td>
+            Miami, FL (Miami Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1988-10-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/20/1988
+          </td>
+          <td>
+            Houston, TX (The Summit)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-10-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/11/1988
+          </td>
+          <td>
+            Long Beach, CA (Long Beach Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Black Muddy Riv
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-12-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/2/1989
+          </td>
+          <td>
+            Pittsburgh, PA (Pittsburgh Civic Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1989-04-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/8/1989
+          </td>
+          <td>
+            Cincinnati, OH (Riverfront Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Miracle
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1989-04-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/13/1989
+          </td>
+          <td>
+            Rosemont, IL (Rosemont Horizon)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            GDTRFB
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1989-04-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/2/1989
+          </td>
+          <td>
+            Foxboro, MA (Sullivan Stadium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1989-07-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/18/1989
+          </td>
+          <td>
+            East Troy, WI (Alpine Valley Music Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Throwing Stones
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1989-07-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/9/1989
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Throwing Stones
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1989-10-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/19/1989
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Death Don't
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1989-10-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/9/1989
+          </td>
+          <td>
+            Inglewood, CA (Great Western Forum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1989-12-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1989
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            GDTRFB
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1989-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/22/1990
+          </td>
+          <td>
+            Ontario, Canada (Copps Coliseum, Hamilton)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1990-03-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/1/1990
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Truckin
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1990-04-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/9/1990
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Watchtower
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1990-06-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/12/1990
+          </td>
+          <td>
+            Washington, DC (Robert F. Kennedy Stadium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Mr. Fantasy
+          </td>
+          <td>
+            Touch
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1990-07-12">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

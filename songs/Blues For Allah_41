@@ -1,34 +1,205 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Blues For Allah</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Blues For Allah</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>3/5/1975</td><td>Mill Valley, CA (Ace's)</td><td align="center">*</td><td>Crazy Fingers</td><td>&mdash;&mdash;</td><td align="center">2746</td><td>[<a href="/1975-03-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/6/1975</td><td>Mill Valley, CA (Ace's)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1975-03-06">Setlist</a>]</td></tr>
-<br />
-<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
-<tr valign="top"><td>3/21/1975</td><td>Mill Valley, CA (Ace's)</td><td align="center"></td><td></td><td></td><td align="center">3</td><td>[<a href="/1975-03-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/23/1975</td><td>San Francisco, CA (Kezar Stadium)</td><td align="center">*</td><td>&mdash;&mdash;<br>King Solomon's </td><td>King Solomon's <br>&mdash;&mdash;</td><td align="center">-1830</td><td>[<a href="/1975-03-23">Setlist</a>]</td></tr>
-<br />
-<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b> on line <b>64</b><br />
-<tr valign="top"><td>3/26/1975</td><td>Mill Valley, CA (Ace's)</td><td align="center"></td><td></td><td></td><td align="center">1831</td><td>[<a href="/1975-03-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/17/1975</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>&mdash;&mdash;<br>King Solomon's </td><td>Drums<br>Sugar Magnolia</td><td align="center">-1830</td><td>[<a href="/1975-06-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/13/1975</td><td>San Francisco, CA (Great American Music Hall)</td><td align="center">SII</td><td>U. S. Blues</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1975-08-13">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Blues For Allah
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Blues For Allah
+      </div>
+      <br>
+      <b>Warning</b>: Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b>on line <b>64</b>
+      <br>
+      <br>
+      <b>Warning</b>: Invalid argument supplied for foreach() in <b>/home/terrapin/public_html/deadbase/songs/song.php</b>on line <b>64</b>
+      <br>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/5/1975
+          </td>
+          <td>
+            Mill Valley, CA (Ace's)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Crazy Fingers
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2746
+          </td>
+          <td>
+            [<a href="/1975-03-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/6/1975
+          </td>
+          <td>
+            Mill Valley, CA (Ace's)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1975-03-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/21/1975
+          </td>
+          <td>
+            Mill Valley, CA (Ace's)
+          </td>
+          <td align="center"></td>
+          <td></td>
+          <td></td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1975-03-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/23/1975
+          </td>
+          <td>
+            San Francisco, CA (Kezar Stadium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+            <br>
+            King Solomon's
+          </td>
+          <td>
+            King Solomon's
+            <br>
+            ——
+          </td>
+          <td align="center">
+            -1830
+          </td>
+          <td>
+            [<a href="/1975-03-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/26/1975
+          </td>
+          <td>
+            Mill Valley, CA (Ace's)
+          </td>
+          <td align="center"></td>
+          <td></td>
+          <td></td>
+          <td align="center">
+            1831
+          </td>
+          <td>
+            [<a href="/1975-03-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/17/1975
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+            <br>
+            King Solomon's
+          </td>
+          <td>
+            Drums
+            <br>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            -1830
+          </td>
+          <td>
+            [<a href="/1975-06-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/13/1975
+          </td>
+          <td>
+            San Francisco, CA (Great American Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            U. S. Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1975-08-13">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

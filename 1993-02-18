@@ -1,28 +1,115 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Thursday, February 18, 1993</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Thursday, February 18, 1993</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0218"></a><a href="/1993-02-18">2/18/1993 Le Club Front, San Rafael, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1993-02-18*">Listen/Download</a>]<tr><td>Lazy River Road, Eternity, Days Between</td></tr>
-<tr class="notes"><td>Rehearsal. All appear on "So Many Roads (1965-1995)."</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('93)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Lazy River Road</td><td>2/21/1993</td><td>7/9/1995</td><td align="center">64</td><td align="center">28</td><td align="center">[<a href="/songs/Lazy River Road_196">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Eternity</td><td>2/21/1993</td><td>7/8/1995</td><td align="center">44</td><td align="center">18</td><td align="center">[<a href="/songs/Eternity_118">ETP</a>]</td></tr>
-<tr valign="top"><td>Days Between</td><td>2/22/1993</td><td>6/24/1995</td><td align="center">41</td><td align="center">18</td><td align="center">[<a href="/songs/Days Between_92">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Thursday, February 18, 1993
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Thursday, February 18, 1993
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0218">
+              <a href="/1993-02-18">2/18/1993 Le Club Front, San Rafael, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1993-02-18*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Lazy River Road, Eternity, Days Between
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Rehearsal. All appear on "So Many Roads (1965-1995)."
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('93)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Lazy River Road
+          </td>
+          <td>
+            2/21/1993
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            64
+          </td>
+          <td align="center">
+            28
+          </td>
+          <td align="center">
+            [<a href="/songs/Lazy%20River%20Road_196">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Eternity
+          </td>
+          <td>
+            2/21/1993
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            44
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Eternity_118">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Days Between
+          </td>
+          <td>
+            2/22/1993
+          </td>
+          <td>
+            6/24/1995
+          </td>
+          <td align="center">
+            41
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Days%20Between_92">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

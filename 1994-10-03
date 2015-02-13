@@ -1,45 +1,425 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, October 3, 1994</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, October 3, 1994</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1003"></a><a href="/1994-10-03">10/3/1994 Boston Garden, Boston, MA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1994-10-03*">Listen/Download</a>]<tr><td>I: Touch > BIODTL, Loose Lucy, Rooster, Childhood's End, Dire Wolf, B. T. Wind<span class="setlist_small">@</span>, Bird Song</td></tr>
-<tr><td>II: Box Of Rain, Shakedown, Cassidy > GDTRFB > Drumz > Wheel > Watchtower > Attics > Around</td></tr>
-<tr><td>E: Brokedown</td></tr>
-<tr class="notes"><td>Next ''GDTRFB'' 7/5/1995 [67 shows]; Final ''BIODTL''</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('94)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Touch Of Grey</td><td>9/15/1982</td><td>7/9/1995</td><td align="center">213</td><td align="center">12</td><td align="center">[<a href="/songs/Touch Of Grey_380">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">4</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top"><td>Loose Lucy</td><td>2/9/1973</td><td>7/5/1995</td><td align="center">97</td><td align="center">15</td><td align="center">[<a href="/songs/Loose Lucy_206">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Rooster</td><td>8/19/1980</td><td>7/9/1995</td><td align="center">272</td><td align="center">12</td><td align="center">[<a href="/songs/Rooster_291">ETP</a>]</td></tr>
-<tr valign="top"><td>Childhood's End</td><td>7/20/1994</td><td>7/9/1995</td><td align="center">11</td><td align="center">8</td><td align="center">[<a href="/songs/Childhood's End_64">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Dire Wolf</td><td>6/7/1969</td><td>7/2/1995</td><td align="center">225</td><td align="center">3</td><td align="center">[<a href="/songs/Dire Wolf_98">ETP</a>]</td></tr>
-<tr valign="top"><td>Black-Throated Wind</td><td>3/5/1972</td><td>6/28/1995</td><td align="center">158</td><td align="center">11</td><td align="center">[<a href="/songs/Black Throated Wind_17">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Bird Song</td><td>2/19/1971</td><td>6/30/1995</td><td align="center">295</td><td align="center">11</td><td align="center">[<a href="/songs/Bird Song_33">ETP</a>]</td></tr>
-<tr valign="top"><td>Box Of Rain</td><td>10/9/1972</td><td>7/9/1995</td><td align="center">161</td><td align="center">12</td><td align="center">[<a href="/songs/Box Of Rain_47">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Shakedown Street</td><td>8/31/1978</td><td>7/9/1995</td><td align="center">162</td><td align="center">7</td><td align="center">[<a href="/songs/Shakedown Street_313">ETP</a>]</td></tr>
-<tr valign="top"><td>Cassidy</td><td>3/23/1974</td><td>7/6/1995</td><td align="center">334</td><td align="center">10</td><td align="center">[<a href="/songs/Cassidy_60">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Goin Down The Road Feelin Bad</td><td>10/10/1970</td><td>7/5/1995</td><td align="center">293</td><td align="center">3</td><td align="center">[<a href="/songs/Goin Down The Road Feelin Bad_130">ETP</a>]</td></tr>
-<tr valign="top"><td>Drumz</td><td>4/6/1978</td><td>7/9/1995</td><td align="center">1265</td><td align="center">84</td><td align="center">[<a href="/songs/Drumz_107">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Wheel</td><td>6/3/1976</td><td>5/25/1995</td><td align="center">258</td><td align="center">11</td><td align="center">[<a href="/songs/Wheel_414">ETP</a>]</td></tr>
-<tr valign="top"><td>All Along The Watchtower</td><td>6/20/1987</td><td>6/22/1995</td><td align="center">119</td><td align="center">14</td><td align="center">[<a href="/songs/All Along The Watchtower_404">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Attics Of My Life</td><td>5/14/1970</td><td>7/2/1995</td><td align="center">48</td><td align="center">9</td><td align="center">[<a href="/songs/Attics Of My Life_15">ETP</a>]</td></tr>
-<tr valign="top"><td>Around And Around</td><td>11/8/1970</td><td>7/6/1995</td><td align="center">417</td><td align="center">7</td><td align="center">[<a href="/songs/Around And Around_14">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Brokedown Palace</td><td>8/18/1970</td><td>6/25/1995</td><td align="center">215</td><td align="center">11</td><td align="center">[<a href="/songs/Brokedown Palace_49">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, October 3, 1994
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, October 3, 1994
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1003">
+              <a href="/1994-10-03">10/3/1994 Boston Garden, Boston, MA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1994-10-03*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Touch &gt; BIODTL, Loose Lucy, Rooster, Childhood's End, Dire Wolf, B. T. Wind@, Bird Song
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Box Of Rain, Shakedown, Cassidy &gt; GDTRFB &gt; Drumz &gt; Wheel &gt; Watchtower &gt; Attics &gt; Around
+            </td>
+          </tr>
+          <tr>
+            <td>
+              E: Brokedown
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Next ''GDTRFB'' 7/5/1995 [67 shows]; Final ''BIODTL''
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('94)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Touch Of Grey
+          </td>
+          <td>
+            9/15/1982
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            213
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Touch%20Of%20Grey_380">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Loose Lucy
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            97
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Loose%20Lucy_206">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Rooster
+          </td>
+          <td>
+            8/19/1980
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            272
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Rooster_291">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Childhood's End
+          </td>
+          <td>
+            7/20/1994
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Childhood's%20End_64">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            6/7/1969
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            225
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Dire%20Wolf_98">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Black-Throated Wind
+          </td>
+          <td>
+            3/5/1972
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            158
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Black%20Throated%20Wind_17">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bird Song
+          </td>
+          <td>
+            2/19/1971
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            295
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Bird%20Song_33">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Box Of Rain
+          </td>
+          <td>
+            10/9/1972
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            161
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td align="center">
+            [<a href="/songs/Box%20Of%20Rain_47">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Shakedown Street
+          </td>
+          <td>
+            8/31/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            162
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Shakedown%20Street_313">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Cassidy
+          </td>
+          <td>
+            3/23/1974
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            334
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td align="center">
+            [<a href="/songs/Cassidy_60">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Goin Down The Road Feelin Bad
+          </td>
+          <td>
+            10/10/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            293
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td align="center">
+            [<a href="/songs/Goin%20Down%20The%20Road%20Feelin%20Bad_130">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Drumz
+          </td>
+          <td>
+            4/6/1978
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            1265
+          </td>
+          <td align="center">
+            84
+          </td>
+          <td align="center">
+            [<a href="/songs/Drumz_107">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wheel
+          </td>
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            5/25/1995
+          </td>
+          <td align="center">
+            258
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Wheel_414">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            All Along The Watchtower
+          </td>
+          <td>
+            6/20/1987
+          </td>
+          <td>
+            6/22/1995
+          </td>
+          <td align="center">
+            119
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td align="center">
+            [<a href="/songs/All%20Along%20The%20Watchtower_404">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Attics Of My Life
+          </td>
+          <td>
+            5/14/1970
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            48
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td align="center">
+            [<a href="/songs/Attics%20Of%20My%20Life_15">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Around And Around
+          </td>
+          <td>
+            11/8/1970
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td align="center">
+            [<a href="/songs/Around%20And%20Around_14">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brokedown Palace
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            215
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td align="center">
+            [<a href="/songs/Brokedown%20Palace_49">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

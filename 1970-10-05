@@ -1,30 +1,155 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Monday, October 5, 1970</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Monday, October 5, 1970</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="1005"></a><a href="/1970-10-05">10/5/1970 Winterland Arena, San Francisco, CA</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1970-10-05*">Listen/Download</a>]<tr><td>Casey Jones, Hard to Handle <span class="setlist_small">+</span>, Candyman <span class="setlist_small">+</span>, Me and My Uncle <span class="setlist_small">+</span>, Good Lovin> Drums > Good Lovin, Dancin<span class="setlist_small">*+</span>, Lovelight.</td></tr>
-<tr class="notes"><td>Also: Jefferson Airplane; QMS; Hot Tuna; NRPS. *appears (correctly dated) as a bonus track on "Grateful Dead Download Series: Family Dog at the Great Highway." +these tunes circulate incorrectly dated 12-23-70, since a compilation multitrack tape was made on that date consisting of material from this show and the one previous. The above list, except for the opening and closing songs, might have been performed in a different order, and there may be tunes missing. Deadlists claims two Dead sets on this night, but considering the number of bands on the bill it is highly unlikely.</i></td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('70)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">66</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Hard To Handle</td><td>3/15/1969</td><td>12/31/1982</td><td align="center">105</td><td align="center">36</td><td align="center">[<a href="/songs/Hard To Handle_148">ETP</a>]</td></tr>
-<tr valign="top"><td>Candyman</td><td>4/3/1970</td><td>6/30/1995</td><td align="center">276</td><td align="center">42</td><td align="center">[<a href="/songs/Candyman_57">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Good Lovin</td><td>5/19/1966</td><td>6/28/1995</td><td align="center">428</td><td align="center">67</td><td align="center">[<a href="/songs/Good Lovin_137">ETP</a>]</td></tr>
-<tr valign="top"><td>Dancin In The Streets</td><td>7/3/1966</td><td>4/6/1987</td><td align="center">123</td><td align="center">25</td><td align="center">[<a href="/songs/Dancin In The Streets_85">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Monday, October 5, 1970
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Monday, October 5, 1970
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="1005">
+              <a href="/1970-10-05">10/5/1970 Winterland Arena, San Francisco, CA</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1970-10-05*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Casey Jones, Hard to Handle +, Candyman +, Me and My Uncle +, Good Lovin&gt; Drums &gt; Good Lovin, Dancin*+, Lovelight.
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Also: Jefferson Airplane; QMS; Hot Tuna; NRPS. *appears (correctly dated) as a bonus track on "Grateful Dead Download Series: Family Dog at the Great Highway." +these tunes circulate incorrectly dated 12-23-70, since a compilation multitrack tape was made on that date consisting of material from this show and the one previous. The above list, except for the opening and closing songs, might have been performed in a different order, and there may be tunes missing. Deadlists claims two Dead sets on this night, but considering the number of bands on the bill it is highly unlikely.
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('70)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            6/20/1969
+          </td>
+          <td>
+            3/27/1993
+          </td>
+          <td align="center">
+            313
+          </td>
+          <td align="center">
+            66
+          </td>
+          <td align="center">
+            [<a href="/songs/Casey%20Jones_59">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Hard To Handle
+          </td>
+          <td>
+            3/15/1969
+          </td>
+          <td>
+            12/31/1982
+          </td>
+          <td align="center">
+            105
+          </td>
+          <td align="center">
+            36
+          </td>
+          <td align="center">
+            [<a href="/songs/Hard%20To%20Handle_148">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Candyman
+          </td>
+          <td>
+            4/3/1970
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            276
+          </td>
+          <td align="center">
+            42
+          </td>
+          <td align="center">
+            [<a href="/songs/Candyman_57">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            5/19/1966
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            428
+          </td>
+          <td align="center">
+            67
+          </td>
+          <td align="center">
+            [<a href="/songs/Good%20Lovin_137">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dancin In The Streets
+          </td>
+          <td>
+            7/3/1966
+          </td>
+          <td>
+            4/6/1987
+          </td>
+          <td align="center">
+            123
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td align="center">
+            [<a href="/songs/Dancin%20In%20The%20Streets_85">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

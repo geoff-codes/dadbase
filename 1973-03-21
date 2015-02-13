@@ -1,55 +1,655 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Wednesday, March 21, 1973</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Wednesday, March 21, 1973</div>
-
-	  <div class="setlist_table"><table border="0" cellspacing="0" cellpadding="0"><tr class="header"><td><span><a name="0321"></a><a href="/1973-03-21">3/21/1973 Utica Memorial Auditorium, Utica, NY</a></span> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful Dead%22%20date:1973-03-21*">Listen/Download</a>]<tr><td>I: Bertha, Me  and  My Uncle, Wave That Flag, L. L. Rain, Tennessee Jed, Box Of Rain, You Ain't Woman Enough, Jack Straw, Row Jimmy, BIODTL, H. C. Sunshine, Race Is On, Loser, El Paso, China Cat > I Know You Rider, Playin</td></tr>
-<tr><td>II: Greatest, TLEO, Mexicali, B. E. Women, Big River, Brokedown, Bobby McGee, WRS Prelude > Dark Star > Eyes > Wharf Rat, Sugar Magnolia, Casey Jones</td></tr>
-</table></div>
-<p><table border="0" cellspacing="0" cellpadding="0" class="setlist_detailtable">
-<tr class="header" valign="bottom">
-	  <td width="13%">First Played</td>
-	  <td width="13%">Last Played</td>
-	  <td width="8%" align="center">Played (ttl.)</td>
-	  <td width="8%" align="center">Played ('73)</td>
-	  <td width="12%" align="center">Every Time Played</td></tr>
-<tr valign="top"><td>Bertha</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">394</td><td align="center">30</td><td align="center">[<a href="/songs/Bertha_26">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Me  And  My Uncle</td><td>11/29/1966</td><td>7/6/1995</td><td align="center">613</td><td align="center">48</td><td align="center">[<a href="/songs/Me  And  My Uncle_221">ETP</a>]</td></tr>
-<tr valign="top"><td>Wave That Flag</td><td>2/9/1973</td><td>6/10/1973</td><td align="center">15</td><td align="center">15</td><td align="center">[<a href="/songs/Wave That Flag_405">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Looks Like Rain</td><td>3/21/1972</td><td>6/30/1995</td><td align="center">417</td><td align="center">50</td><td align="center">[<a href="/songs/Looks Like Rain_190">ETP</a>]</td></tr>
-<tr valign="top"><td>Tennessee Jed</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">433</td><td align="center">38</td><td align="center">[<a href="/songs/Tennessee Jed_355">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Box Of Rain</td><td>10/9/1972</td><td>7/9/1995</td><td align="center">161</td><td align="center">29</td><td align="center">[<a href="/songs/Box Of Rain_47">ETP</a>]</td></tr>
-<tr valign="top"><td>You Ain't Woman Enough</td><td>2/15/1973</td><td>10/21/1973</td><td align="center">15</td><td align="center">15</td><td align="center">[<a href="/songs/You Ain't Woman Enough_422">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Jack Straw</td><td>10/19/1971</td><td>7/8/1995</td><td align="center">472</td><td align="center">51</td><td align="center">[<a href="/songs/Jack Straw_183">ETP</a>]</td></tr>
-<tr valign="top"><td>Row Jimmy</td><td>2/9/1973</td><td>6/21/1995</td><td align="center">273</td><td align="center">60</td><td align="center">[<a href="/songs/Row Jimmy_294">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Beat It On Down The Line</td><td>3/12/1966</td><td>10/3/1994</td><td align="center">325</td><td align="center">48</td><td align="center">[<a href="/songs/Beat It On Down The Line_18">ETP</a>]</td></tr>
-<tr valign="top"><td>Here Comes Sunshine</td><td>2/9/1973</td><td>7/2/1995</td><td align="center">64</td><td align="center">31</td><td align="center">[<a href="/songs/Here Comes Sunshine_143">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Race Is On</td><td>6/11/1969</td><td>5/20/1995</td><td align="center">59</td><td align="center">27</td><td align="center">[<a href="/songs/Race Is On_278">ETP</a>]</td></tr>
-<tr valign="top"><td>Loser</td><td>2/18/1971</td><td>6/28/1995</td><td align="center">344</td><td align="center">24</td><td align="center">[<a href="/songs/Loser_207">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>El Paso</td><td>7/14/1970</td><td>7/5/1995</td><td align="center">387</td><td align="center">65</td><td align="center">[<a href="/songs/El Paso_114">ETP</a>]</td></tr>
-<tr valign="top"><td>China Cat Sunflower</td><td>1/17/1968</td><td>7/8/1995</td><td align="center">553</td><td align="center">52</td><td align="center">[<a href="/songs/China Cat Sunflower_66">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>I Know You Rider</td><td>2/25/1966</td><td>7/8/1995</td><td align="center">550</td><td align="center">53</td><td align="center">[<a href="/songs/I Know You Rider_172">ETP</a>]</td></tr>
-<tr valign="top"><td>Playin In The Band</td><td>2/18/1971</td><td>7/5/1995</td><td align="center">582</td><td align="center">51</td><td align="center">[<a href="/songs/Playin In The Band_271">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Greatest Story Ever Told</td><td>2/18/1971</td><td>6/27/1995</td><td align="center">280</td><td align="center">31</td><td align="center">[<a href="/songs/Greatest Story Ever Told_140">ETP</a>]</td></tr>
-<tr valign="top"><td>They Love Each Other</td><td>2/9/1973</td><td>9/27/1994</td><td align="center">227</td><td align="center">46</td><td align="center">[<a href="/songs/They Love Each Other_348">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Mexicali Blues</td><td>10/19/1971</td><td>6/25/1995</td><td align="center">435</td><td align="center">57</td><td align="center">[<a href="/songs/Mexicali Blues_223">ETP</a>]</td></tr>
-<tr valign="top"><td>Brown-Eyed Women</td><td>8/23/1971</td><td>7/6/1995</td><td align="center">347</td><td align="center">37</td><td align="center">[<a href="/songs/Brown Eyed Women_16">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Big River</td><td>12/31/1971</td><td>7/6/1995</td><td align="center">395</td><td align="center">58</td><td align="center">[<a href="/songs/Big River_31">ETP</a>]</td></tr>
-<tr valign="top"><td>Brokedown Palace</td><td>8/18/1970</td><td>6/25/1995</td><td align="center">215</td><td align="center">8</td><td align="center">[<a href="/songs/Brokedown Palace_49">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Bobby McGee</td><td>11/29/1970</td><td>12/31/1981</td><td align="center">117</td><td align="center">21</td><td align="center">[<a href="/songs/Bobby McGee_43">ETP</a>]</td></tr>
-<tr valign="top"><td>Weather Report Suite Prelude</td><td>11/19/1972</td><td>10/18/1974</td><td align="center">50</td><td align="center">30</td><td align="center">[<a href="/songs/Weather Report Suite Prelude_395">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Dark Star</td><td>12/13/1967</td><td>3/30/1994</td><td align="center">219</td><td align="center">18</td><td align="center">[<a href="/songs/Dark Star_87">ETP</a>]</td></tr>
-<tr valign="top"><td>Eyes Of The World</td><td>2/9/1973</td><td>7/6/1995</td><td align="center">382</td><td align="center">49</td><td align="center">[<a href="/songs/Eyes Of The World_120">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Wharf Rat</td><td>2/18/1971</td><td>6/25/1995</td><td align="center">393</td><td align="center">17</td><td align="center">[<a href="/songs/Wharf Rat_412">ETP</a>]</td></tr>
-<tr valign="top"><td>Sugar Magnolia</td><td>6/7/1970</td><td>7/9/1995</td><td align="center">594</td><td align="center">49</td><td align="center">[<a href="/songs/Sugar Magnolia_341">ETP</a>]</td></tr>
-<tr valign="top" class="row2"><td>Casey Jones</td><td>6/20/1969</td><td>3/27/1993</td><td align="center">313</td><td align="center">35</td><td align="center">[<a href="/songs/Casey Jones_59">ETP</a>]</td></tr>
-</table>
-
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Wednesday, March 21, 1973
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Wednesday, March 21, 1973
+      </div>
+      <div>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td id="0321">
+              <a href="/1973-03-21">3/21/1973 Utica Memorial Auditorium, Utica, NY</a> [<a href="http://www.archive.org/search.php?query=creator:%22Grateful%20Dead%22%20date:1973-03-21*">Listen/Download</a>]
+            </td>
+          </tr>
+          <tr>
+            <td>
+              I: Bertha, Me and My Uncle, Wave That Flag, L. L. Rain, Tennessee Jed, Box Of Rain, You Ain't Woman Enough, Jack Straw, Row Jimmy, BIODTL, H. C. Sunshine, Race Is On, Loser, El Paso, China Cat &gt; I Know You Rider, Playin
+            </td>
+          </tr>
+          <tr>
+            <td>
+              II: Greatest, TLEO, Mexicali, B. E. Women, Big River, Brokedown, Bobby McGee, WRS Prelude &gt; Dark Star &gt; Eyes &gt; Wharf Rat, Sugar Magnolia, Casey Jones
+            </td>
+          </tr>
+        </table>
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="bottom">
+          <td width="13%">
+            First Played
+          </td>
+          <td width="13%">
+            Last Played
+          </td>
+          <td width="8%" align="center">
+            Played (ttl.)
+          </td>
+          <td width="8%" align="center">
+            Played ('73)
+          </td>
+          <td width="12%" align="center">
+            Every Time Played
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bertha
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            394
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Bertha_26">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Me And My Uncle
+          </td>
+          <td>
+            11/29/1966
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            613
+          </td>
+          <td align="center">
+            48
+          </td>
+          <td align="center">
+            [<a href="/songs/Me%20And%20My%20Uncle_221">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wave That Flag
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            6/10/1973
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/Wave%20That%20Flag_405">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Looks Like Rain
+          </td>
+          <td>
+            3/21/1972
+          </td>
+          <td>
+            6/30/1995
+          </td>
+          <td align="center">
+            417
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td align="center">
+            [<a href="/songs/Looks%20Like%20Rain_190">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            433
+          </td>
+          <td align="center">
+            38
+          </td>
+          <td align="center">
+            [<a href="/songs/Tennessee%20Jed_355">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Box Of Rain
+          </td>
+          <td>
+            10/9/1972
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            161
+          </td>
+          <td align="center">
+            29
+          </td>
+          <td align="center">
+            [<a href="/songs/Box%20Of%20Rain_47">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            You Ain't Woman Enough
+          </td>
+          <td>
+            2/15/1973
+          </td>
+          <td>
+            10/21/1973
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td align="center">
+            [<a href="/songs/You%20Ain't%20Woman%20Enough_422">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Jack Straw
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            472
+          </td>
+          <td align="center">
+            51
+          </td>
+          <td align="center">
+            [<a href="/songs/Jack%20Straw_183">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            6/21/1995
+          </td>
+          <td align="center">
+            273
+          </td>
+          <td align="center">
+            60
+          </td>
+          <td align="center">
+            [<a href="/songs/Row%20Jimmy_294">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Beat It On Down The Line
+          </td>
+          <td>
+            3/12/1966
+          </td>
+          <td>
+            10/3/1994
+          </td>
+          <td align="center">
+            325
+          </td>
+          <td align="center">
+            48
+          </td>
+          <td align="center">
+            [<a href="/songs/Beat%20It%20On%20Down%20The%20Line_18">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Here Comes Sunshine
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/2/1995
+          </td>
+          <td align="center">
+            64
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Here%20Comes%20Sunshine_143">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Race Is On
+          </td>
+          <td>
+            6/11/1969
+          </td>
+          <td>
+            5/20/1995
+          </td>
+          <td align="center">
+            59
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td align="center">
+            [<a href="/songs/Race%20Is%20On_278">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Loser
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/28/1995
+          </td>
+          <td align="center">
+            344
+          </td>
+          <td align="center">
+            24
+          </td>
+          <td align="center">
+            [<a href="/songs/Loser_207">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            El Paso
+          </td>
+          <td>
+            7/14/1970
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            387
+          </td>
+          <td align="center">
+            65
+          </td>
+          <td align="center">
+            [<a href="/songs/El%20Paso_114">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            China Cat Sunflower
+          </td>
+          <td>
+            1/17/1968
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            553
+          </td>
+          <td align="center">
+            52
+          </td>
+          <td align="center">
+            [<a href="/songs/China%20Cat%20Sunflower_66">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            I Know You Rider
+          </td>
+          <td>
+            2/25/1966
+          </td>
+          <td>
+            7/8/1995
+          </td>
+          <td align="center">
+            550
+          </td>
+          <td align="center">
+            53
+          </td>
+          <td align="center">
+            [<a href="/songs/I%20Know%20You%20Rider_172">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Playin In The Band
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            7/5/1995
+          </td>
+          <td align="center">
+            582
+          </td>
+          <td align="center">
+            51
+          </td>
+          <td align="center">
+            [<a href="/songs/Playin%20In%20The%20Band_271">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Greatest Story Ever Told
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/27/1995
+          </td>
+          <td align="center">
+            280
+          </td>
+          <td align="center">
+            31
+          </td>
+          <td align="center">
+            [<a href="/songs/Greatest%20Story%20Ever%20Told_140">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            They Love Each Other
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            9/27/1994
+          </td>
+          <td align="center">
+            227
+          </td>
+          <td align="center">
+            46
+          </td>
+          <td align="center">
+            [<a href="/songs/They%20Love%20Each%20Other_348">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Mexicali Blues
+          </td>
+          <td>
+            10/19/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            435
+          </td>
+          <td align="center">
+            57
+          </td>
+          <td align="center">
+            [<a href="/songs/Mexicali%20Blues_223">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brown-Eyed Women
+          </td>
+          <td>
+            8/23/1971
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            347
+          </td>
+          <td align="center">
+            37
+          </td>
+          <td align="center">
+            [<a href="/songs/Brown%20Eyed%20Women_16">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Big River
+          </td>
+          <td>
+            12/31/1971
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            395
+          </td>
+          <td align="center">
+            58
+          </td>
+          <td align="center">
+            [<a href="/songs/Big%20River_31">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Brokedown Palace
+          </td>
+          <td>
+            8/18/1970
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            215
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td align="center">
+            [<a href="/songs/Brokedown%20Palace_49">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Bobby McGee
+          </td>
+          <td>
+            11/29/1970
+          </td>
+          <td>
+            12/31/1981
+          </td>
+          <td align="center">
+            117
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td align="center">
+            [<a href="/songs/Bobby%20McGee_43">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Weather Report Suite Prelude
+          </td>
+          <td>
+            11/19/1972
+          </td>
+          <td>
+            10/18/1974
+          </td>
+          <td align="center">
+            50
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td align="center">
+            [<a href="/songs/Weather%20Report%20Suite%20Prelude_395">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Dark Star
+          </td>
+          <td>
+            12/13/1967
+          </td>
+          <td>
+            3/30/1994
+          </td>
+          <td align="center">
+            219
+          </td>
+          <td align="center">
+            18
+          </td>
+          <td align="center">
+            [<a href="/songs/Dark%20Star_87">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Eyes Of The World
+          </td>
+          <td>
+            2/9/1973
+          </td>
+          <td>
+            7/6/1995
+          </td>
+          <td align="center">
+            382
+          </td>
+          <td align="center">
+            49
+          </td>
+          <td align="center">
+            [<a href="/songs/Eyes%20Of%20The%20World_120">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Wharf Rat
+          </td>
+          <td>
+            2/18/1971
+          </td>
+          <td>
+            6/25/1995
+          </td>
+          <td align="center">
+            393
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td align="center">
+            [<a href="/songs/Wharf%20Rat_412">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            6/7/1970
+          </td>
+          <td>
+            7/9/1995
+          </td>
+          <td align="center">
+            594
+          </td>
+          <td align="center">
+            49
+          </td>
+          <td align="center">
+            [<a href="/songs/Sugar%20Magnolia_341">ETP</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            6/20/1969
+          </td>
+          <td>
+            3/27/1993
+          </td>
+          <td align="center">
+            313
+          </td>
+          <td align="center">
+            35
+          </td>
+          <td align="center">
+            [<a href="/songs/Casey%20Jones_59">ETP</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

@@ -1,60 +1,893 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>I'm A King Bee</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">I'm A King Bee</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>11/30/1999</td><td>(unknown), CA ((unknown))</td><td align="center">*</td><td>Cold Rain</td><td>Caution</td><td align="center">2319</td><td>[<a href="/0000-00-00">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/30/1999</td><td>Hollywood, CA (RCA Studio A)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Down So Long</td><td align="center">356</td><td>[<a href="/0000-00-00">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/8/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Hog For You Bab</td><td align="center">-2657</td><td>[<a href="/1966-01-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/17/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">SII</td><td>Cream Puff War</td><td>Stealin'</td><td align="center">39</td><td>[<a href="/1966-07-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/29/1966</td><td>B.C., Canada (P.N.E. Garden Auditorium, Vancou...)</td><td align="center">*</td><td>Cold Rain</td><td>One Kind Favor</td><td align="center">1</td><td>[<a href="/1966-07-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/19/1966</td><td>San Francisco, CA (Fillmore Auditorium)</td><td align="center">SII</td><td>Smokestack</td><td>Midnight Hour</td><td align="center">39</td><td>[<a href="/1966-11-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/6/1967</td><td>New York, NY (Cafe au Go-Go)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Hurts Me Too</td><td align="center">76</td><td>[<a href="/1967-06-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/11/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Doin That Rag</td><td>Lovelight</td><td align="center">196</td><td>[<a href="/1969-02-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/6/1969</td><td>San Francisco, CA (Avalon Ballroom)</td><td align="center">SI</td><td>Baby Blue</td><td>&mdash;&mdash;</td><td align="center">23</td><td>[<a href="/1969-04-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/18/1969</td><td>Lafayette, IN (Memorial Union Ballroom, Purdue...)</td><td align="center">*</td><td>Top Of The Worl</td><td>Doin That Rag</td><td align="center">6</td><td>[<a href="/1969-04-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/30/1969</td><td>Portland, OR (Springer's Inn)</td><td align="center">*</td><td>Doin That Rag</td><td>Dark Star</td><td align="center">21</td><td>[<a href="/1969-05-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/20/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>&mdash;&mdash;</td><td>Cold Jordan</td><td align="center">9</td><td>[<a href="/1969-06-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/21/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Top Of The Worl</td><td>Dire Wolf</td><td align="center">3</td><td>[<a href="/1969-06-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/28/1969</td><td>Santa Rosa, CA (Veterans Auditorium)</td><td align="center">*</td><td>High Time</td><td>Top Of The Worl</td><td align="center">3</td><td>[<a href="/1969-06-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/4/1969</td><td>Chicago, IL (Electric Theater)</td><td align="center">*</td><td>Casey Jones</td><td>Top Of The Worl</td><td align="center">3</td><td>[<a href="/1969-07-04">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/29/1969</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">*</td><td>Dire Wolf</td><td>Lovelight</td><td align="center">16</td><td>[<a href="/1969-08-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/26/1969</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>The Eleven</td><td>Death Don't</td><td align="center">5</td><td>[<a href="/1969-09-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/12/1969</td><td>Los Angeles, CA (Thelma Theater)</td><td align="center">SII</td><td>Good Lovin</td><td>Uncle John</td><td align="center">30</td><td>[<a href="/1969-12-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/24/1970</td><td>Honolulu, HI (Honolulu Civic Auditorium)</td><td align="center">*</td><td>Me  and  My Unc</td><td>Mason's Childre</td><td align="center">20</td><td>[<a href="/1970-01-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/1/1970</td><td>San Francisco, CA (Family Dog at the Great Hig...)</td><td align="center">SI</td><td>Cumberland</td><td>China Cat</td><td align="center">23</td><td>[<a href="/1970-03-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/11/1970</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SI</td><td>Cold Rain</td><td>BIODTL</td><td align="center">12</td><td>[<a href="/1970-04-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/7/1970</td><td>Cambridge, MA (Dupont Gymnasium, M.I.T.)</td><td align="center">SII</td><td>Casey Jones</td><td>NFA</td><td align="center">13</td><td>[<a href="/1970-05-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/6/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Me  and  My Unc</td><td>China Cat</td><td align="center">61</td><td>[<a href="/1970-11-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/7/1970</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SIII</td><td>I Know You Ride</td><td>Good Lovin</td><td align="center">1</td><td>[<a href="/1970-11-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/16/1970</td><td>New York, NY (Fillmore East)</td><td align="center">*</td><td>Cold Rain</td><td>China Cat</td><td align="center">8</td><td>[<a href="/1970-11-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/20/1970</td><td>Rochester, NY (The Palestra, U. of Rochester)</td><td align="center">SI</td><td>NFA</td><td>Casey Jones</td><td align="center">1</td><td>[<a href="/1970-11-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/12/1970</td><td>Santa Rosa, CA (Santa Rosa Fairgrounds)</td><td align="center">SI</td><td>Big RxR Blues</td><td>Sugar Magnolia</td><td align="center">6</td><td>[<a href="/1970-12-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/23/1970</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">*</td><td>BIODTL</td><td>Me and My Uncle</td><td align="center">2</td><td>[<a href="/1970-12-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/21/1971</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Cumberland</td><td>BIODTL</td><td align="center">11</td><td>[<a href="/1971-02-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/24/1971</td><td>Port Chester, NY (Capitol Theater)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Greatest</td><td align="center">2</td><td>[<a href="/1971-02-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/3/1971</td><td>San Francisco, CA (Fillmore West)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Greatest</td><td align="center">1</td><td>[<a href="/1971-03-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/24/1971</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>Sugar Magnolia</td><td>BIODTL</td><td align="center">9</td><td>[<a href="/1971-03-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/5/1971</td><td>New York, NY (Manhattan Center)</td><td align="center">SII</td><td>Sugar Magnolia</td><td>Bertha</td><td align="center">2</td><td>[<a href="/1971-04-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/17/1971</td><td>Princeton, NJ (Dillon Gym, Princeton University)</td><td align="center">SII</td><td>BIODTL</td><td>Bertha</td><td align="center">9</td><td>[<a href="/1971-04-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/15/1971</td><td>Ann Arbor, MI (Hill Auditorium)</td><td align="center">SII</td><td>Lovelight</td><td>Mannish Boy</td><td align="center">51</td><td>[<a href="/1971-12-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/8/1993</td><td>Los Angeles, CA (Los Angeles Sports Arena)</td><td align="center">SI</td><td>LTGTR</td><td>Stagger Lee</td><td align="center">1453</td><td>[<a href="/1993-12-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/31/1994</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Touch</td><td>FOTD</td><td align="center">25</td><td>[<a href="/1994-03-31">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      I'm A King Bee
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        I'm A King Bee
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            (unknown), CA ((unknown))
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td>
+            Caution
+          </td>
+          <td align="center">
+            2319
+          </td>
+          <td>
+            [<a href="/0000-00-00">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1999
+          </td>
+          <td>
+            Hollywood, CA (RCA Studio A)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Down So Long
+          </td>
+          <td align="center">
+            356
+          </td>
+          <td>
+            [<a href="/0000-00-00">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/8/1966
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Hog For You Bab
+          </td>
+          <td align="center">
+            -2657
+          </td>
+          <td>
+            [<a href="/1966-01-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/17/1966
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cream Puff War
+          </td>
+          <td>
+            Stealin'
+          </td>
+          <td align="center">
+            39
+          </td>
+          <td>
+            [<a href="/1966-07-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/29/1966
+          </td>
+          <td>
+            B.C., Canada (P.N.E. Garden Auditorium, Vancou...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td>
+            One Kind Favor
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1966-07-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/19/1966
+          </td>
+          <td>
+            San Francisco, CA (Fillmore Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Smokestack
+          </td>
+          <td>
+            Midnight Hour
+          </td>
+          <td align="center">
+            39
+          </td>
+          <td>
+            [<a href="/1966-11-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/6/1967
+          </td>
+          <td>
+            New York, NY (Cafe au Go-Go)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Hurts Me Too
+          </td>
+          <td align="center">
+            76
+          </td>
+          <td>
+            [<a href="/1967-06-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/11/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Doin That Rag
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            196
+          </td>
+          <td>
+            [<a href="/1969-02-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/6/1969
+          </td>
+          <td>
+            San Francisco, CA (Avalon Ballroom)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Baby Blue
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1969-04-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1969
+          </td>
+          <td>
+            Lafayette, IN (Memorial Union Ballroom, Purdue...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Top Of The Worl
+          </td>
+          <td>
+            Doin That Rag
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1969-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/30/1969
+          </td>
+          <td>
+            Portland, OR (Springer's Inn)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Doin That Rag
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td align="center">
+            21
+          </td>
+          <td>
+            [<a href="/1969-05-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/20/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            ——
+          </td>
+          <td>
+            Cold Jordan
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1969-06-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/21/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Top Of The Worl
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-06-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/28/1969
+          </td>
+          <td>
+            Santa Rosa, CA (Veterans Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Top Of The Worl
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-06-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/4/1969
+          </td>
+          <td>
+            Chicago, IL (Electric Theater)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            Top Of The Worl
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1969-07-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/29/1969
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td>
+            [<a href="/1969-08-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1969
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            The Eleven
+          </td>
+          <td>
+            Death Don't
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1969-09-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/12/1969
+          </td>
+          <td>
+            Los Angeles, CA (Thelma Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td>
+            Uncle John
+          </td>
+          <td align="center">
+            30
+          </td>
+          <td>
+            [<a href="/1969-12-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/24/1970
+          </td>
+          <td>
+            Honolulu, HI (Honolulu Civic Auditorium)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td>
+            Mason's Childre
+          </td>
+          <td align="center">
+            20
+          </td>
+          <td>
+            [<a href="/1970-01-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/1/1970
+          </td>
+          <td>
+            San Francisco, CA (Family Dog at the Great Hig...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            23
+          </td>
+          <td>
+            [<a href="/1970-03-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/11/1970
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1970-04-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/7/1970
+          </td>
+          <td>
+            Cambridge, MA (Dupont Gymnasium, M.I.T.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td>
+            NFA
+          </td>
+          <td align="center">
+            13
+          </td>
+          <td>
+            [<a href="/1970-05-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/6/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Me and My Unc
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            61
+          </td>
+          <td>
+            [<a href="/1970-11-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/7/1970
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td>
+            Good Lovin
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1970-11-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/16/1970
+          </td>
+          <td>
+            New York, NY (Fillmore East)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            Cold Rain
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1970-11-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/20/1970
+          </td>
+          <td>
+            Rochester, NY (The Palestra, U. of Rochester)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            NFA
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1970-11-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/12/1970
+          </td>
+          <td>
+            Santa Rosa, CA (Santa Rosa Fairgrounds)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1970-12-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/23/1970
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            *
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Me and My Uncle
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1970-12-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/21/1971
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1971-02-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/24/1971
+          </td>
+          <td>
+            Port Chester, NY (Capitol Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1971-02-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/3/1971
+          </td>
+          <td>
+            San Francisco, CA (Fillmore West)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Greatest
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1971-03-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/24/1971
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1971-03-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/5/1971
+          </td>
+          <td>
+            New York, NY (Manhattan Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td>
+            Bertha
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1971-04-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/17/1971
+          </td>
+          <td>
+            Princeton, NJ (Dillon Gym, Princeton University)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            BIODTL
+          </td>
+          <td>
+            Bertha
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1971-04-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/15/1971
+          </td>
+          <td>
+            Ann Arbor, MI (Hill Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Lovelight
+          </td>
+          <td>
+            Mannish Boy
+          </td>
+          <td align="center">
+            51
+          </td>
+          <td>
+            [<a href="/1971-12-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/8/1993
+          </td>
+          <td>
+            Los Angeles, CA (Los Angeles Sports Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            LTGTR
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td align="center">
+            1453
+          </td>
+          <td>
+            [<a href="/1993-12-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/31/1994
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Touch
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td align="center">
+            25
+          </td>
+          <td>
+            [<a href="/1994-03-31">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>

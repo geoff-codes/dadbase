@@ -1,283 +1,6066 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head>
-<title>Let It Grow</title>
-</head>
-<body>
-<div id="main">
-	<div class="page_title">Let It Grow</div>
-
-<table border="0" cellspacing="0" cellpadding="0" class="song1_table">
-<tr valign="top" class="header">
-	<td width="11%">Date</td>
-	<td width="38%">Location</td>
-	<td width="5%">Set</td>
-	<td width="16%">Before</td>
-	<td width="16%">After</td>
-	<td width="5%">Gap</td>
-	<td width="9%">&nbsp;</td></tr>
-<tr valign="top"><td>9/7/1973</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SII</td><td>Loser</td><td>Stella Blue</td><td align="center">842</td><td>[<a href="/1973-09-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/8/1973</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>WRS Part 1</td><td>Eyes</td><td align="center">1</td><td>[<a href="/1973-09-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/11/1973</td><td>Williamsburg, VA (College Of William and Mary)</td><td align="center">SII</td><td>WRS Part 1</td><td>Row Jimmy</td><td align="center">1</td><td>[<a href="/1973-09-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/15/1973</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SII</td><td>WRS Part 1</td><td>Space </td><td align="center">2</td><td>[<a href="/1973-09-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/17/1973</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SII</td><td>WRS Part 1</td><td>Stella Blue</td><td align="center">1</td><td>[<a href="/1973-09-17">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/21/1973</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>WRS Part 1</td><td>He's Gone</td><td align="center">3</td><td>[<a href="/1973-09-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/24/1973</td><td>Pittsburgh, PA (Pittsburgh Civic Arena)</td><td align="center">SII</td><td>WRS Part 1</td><td>Sugar Magnolia </td><td align="center">1</td><td>[<a href="/1973-09-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1973</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SII</td><td>WRS Part 1</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1973-09-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/21/1973</td><td>Omaha, NE (Omaha Civic Auditorium)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1973-10-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/23/1973</td><td>Bloomington, MN (Metropolitan Sports Center)</td><td align="center">SII</td><td>WRS Part 1</td><td>Sugar Magnolia</td><td align="center">1</td><td>[<a href="/1973-10-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/25/1973</td><td>Madison, WI (Dane County Coliseum)</td><td align="center">SII</td><td>WRS Part 1</td><td>GDTRFB</td><td align="center">1</td><td>[<a href="/1973-10-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1973</td><td>St. Louis, MO (Kiel Auditorium)</td><td align="center">SII</td><td>WRS Part 1</td><td>GDTRFB</td><td align="center">3</td><td>[<a href="/1973-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/1/1973</td><td>Evanston, IL (McGaw Memorial Hall, Northwester...)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1973-11-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/9/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>WRS Part 1</td><td>Eyes</td><td align="center">1</td><td>[<a href="/1973-11-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/10/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1973-11-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/11/1973</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1973-11-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/20/1973</td><td>Denver, CO (Denver Coliseum)</td><td align="center">SI</td><td>WRS Part 1</td><td>Casey Jones</td><td align="center">3</td><td>[<a href="/1973-11-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/21/1973</td><td>Denver, CO (Denver Coliseum)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1973-11-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/23/1973</td><td>El Paso, TX (County Coliseum)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1973-11-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/25/1973</td><td>Tempe, AZ (Feyline Field)</td><td align="center">SII</td><td>WRS Part 1</td><td>Casey Jones</td><td align="center">1</td><td>[<a href="/1973-11-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/30/1973</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>WRS Part 1</td><td>Dark Star Jam</td><td align="center">1</td><td>[<a href="/1973-11-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/1/1973</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>WRS Part 1</td><td>Casey Jones</td><td align="center">1</td><td>[<a href="/1973-12-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/2/1973</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SI</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1973-12-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/8/1973</td><td>Durham, NC (Cameron Indoor Stadium, Duke U.)</td><td align="center">SI</td><td>WRS Part 1</td><td>China Cat</td><td align="center">3</td><td>[<a href="/1973-12-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/12/1973</td><td>Atlanta, GA (The Omni)</td><td align="center">SII</td><td>WRS Part 1</td><td>Wharf Rat</td><td align="center">2</td><td>[<a href="/1973-12-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/18/1973</td><td>Tampa, FL (Curtis Hixon Convention Hall)</td><td align="center">SII</td><td>WRS Part 1</td><td>Dark Star</td><td align="center">1</td><td>[<a href="/1973-12-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/19/1973</td><td>Tampa, FL (Curtis Hixon Convention Hall)</td><td align="center">SII</td><td>WRS Part 1</td><td>He's Gone</td><td align="center">1</td><td>[<a href="/1973-12-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/23/1974</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>WRS Part 1</td><td>Stella Blue</td><td align="center">2</td><td>[<a href="/1974-02-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/24/1974</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SII</td><td>WRS Part 1</td><td>Row Jimmy</td><td align="center">1</td><td>[<a href="/1974-02-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/14/1974</td><td>Missoula, MT (Adams Field House, U. of Montana)</td><td align="center">SII</td><td>WRS Part 1</td><td>Dark Star</td><td align="center">3</td><td>[<a href="/1974-05-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/19/1974</td><td>Portland, OR (Portland Memorial Coliseum)</td><td align="center">SII</td><td>WRS Part 1</td><td>Wharf Rat</td><td align="center">2</td><td>[<a href="/1974-05-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/21/1974</td><td>Seattle, WA (Hec. S. Edmundson Pavilion, U. of...)</td><td align="center">SI</td><td>WRS Part 1</td><td>China Doll</td><td align="center">1</td><td>[<a href="/1974-05-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/25/1974</td><td>Santa Barbara, CA (Campus Stadium, U.C.S.B.)</td><td align="center">SII</td><td>Space</td><td>Wharf Rat</td><td align="center">1</td><td>[<a href="/1974-05-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/23/1974</td><td>Miami, FL (Jai-Alai Fronton)</td><td align="center">SI</td><td>WRS Part 1</td><td>China Doll</td><td align="center">6</td><td>[<a href="/1974-06-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/26/1974</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>WRS Part 1</td><td>Roses</td><td align="center">1</td><td>[<a href="/1974-06-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/28/1974</td><td>Boston, MA (Boston Garden)</td><td align="center">SII</td><td>WRS Part 1</td><td>Space</td><td align="center">1</td><td>[<a href="/1974-06-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/25/1974</td><td>Chicago, IL (International Amphitheatre)</td><td align="center">SI</td><td>WRS Part 1</td><td>Around</td><td align="center">4</td><td>[<a href="/1974-07-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/31/1974</td><td>Hartford, CT (Dillon Stadium)</td><td align="center">SII</td><td>WRS Part 1</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1974-07-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/10/1974</td><td>London, England (Alexandra Palace)</td><td align="center">SI</td><td>WRS Part 1</td><td>Stella Blue</td><td align="center">5</td><td>[<a href="/1974-09-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/14/1974</td><td>Muenchen, West Germany (Olympiahalle)</td><td align="center">SI</td><td>WRS Part 1</td><td>Tennessee Jed</td><td align="center">2</td><td>[<a href="/1974-09-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/20/1974</td><td>Paris, France (Palais des Sports)</td><td align="center">SI</td><td>WRS Part 1</td><td>Stella Blue</td><td align="center">2</td><td>[<a href="/1974-09-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/3/1976</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Wharf Rat<br>Drums</td><td>Drums<br>Roses</td><td align="center">11</td><td>[<a href="/1976-06-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/4/1976</td><td>Portland, OR (Paramount Theater)</td><td align="center">SII</td><td>Cosmic Charlie<br>Drums</td><td>Drums<br>Stella Blue</td><td align="center">1</td><td>[<a href="/1976-06-04">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/9/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Eyes<br>Drums</td><td>Drums<br>B. E. Women</td><td align="center">1</td><td>[<a href="/1976-06-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/10/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Franklin's<br>Drums</td><td>Drums<br>FOTD</td><td align="center">1</td><td>[<a href="/1976-06-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/12/1976</td><td>Boston, MA (Boston Music Hall)</td><td align="center">SII</td><td>Tennessee Jed<br>Drums</td><td>Drums<br>Wharf Rat</td><td align="center">2</td><td>[<a href="/1976-06-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/15/1976</td><td>New York, NY (Beacon Theatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Might As Well</td><td align="center">2</td><td>[<a href="/1976-06-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/17/1976</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>FOTD<br>Drums</td><td>Drums<br>Wharf Rat</td><td align="center">1</td><td>[<a href="/1976-06-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/19/1976</td><td>Passaic, NJ (Capitol Theatre)</td><td align="center">SII</td><td>High Time<br>Drums</td><td>Drums<br>Dancin</td><td align="center">2</td><td>[<a href="/1976-06-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/23/1976</td><td>Upper Darby, PA (Tower Theatre)</td><td align="center">SII</td><td>Might As Well<br>Drums</td><td>Drums<br>Cosmic Charlie</td><td align="center">3</td><td>[<a href="/1976-06-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/27/1976</td><td>Chicago, IL (Auditorium Theater)</td><td align="center">SII</td><td>&mdash;&mdash;<br>Drums</td><td>Drums<br>Wharf Rat</td><td align="center">3</td><td>[<a href="/1976-06-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/13/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">SI</td><td>Crazy Fingers<br>Space</td><td>Drums<br>Might As Well</td><td align="center">4</td><td>[<a href="/1976-07-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/14/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">SII</td><td>FOTD</td><td>Eyes</td><td align="center">1</td><td>[<a href="/1976-07-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/18/1976</td><td>San Francisco, CA (Orpheum Theatre)</td><td align="center">SII</td><td>Supplication<br>Drums</td><td>Drums<br>Jam</td><td align="center">3</td><td>[<a href="/1976-07-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/25/1976</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Loser</td><td>Sugaree</td><td align="center">5</td><td>[<a href="/1976-09-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/28/1976</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SI</td><td>FOTD</td><td>GDTRFB</td><td align="center">2</td><td>[<a href="/1976-09-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/29/1977</td><td>Seattle, WA (Paramount Northwest Theatre)</td><td align="center">SI</td><td>Sugaree</td><td>Franklin's</td><td align="center">47</td><td>[<a href="/1977-09-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/2/1977</td><td>Portland, OR (Paramount Theater)</td><td align="center">SI</td><td>Dupree's</td><td>Deal</td><td align="center">2</td><td>[<a href="/1977-10-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/7/1977</td><td>Albuquerque, NM (University of New Mexico)</td><td align="center">SI</td><td>Dupree's</td><td>Deal</td><td align="center">2</td><td>[<a href="/1977-10-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/15/1977</td><td>Dallas, TX (Moody Coliseum, S.M.U.)</td><td align="center">SI</td><td>Peggy-O</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1977-10-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/29/1977</td><td>DeKalb, IL (Evans Field House, Northern Illino...)</td><td align="center">SI</td><td>Roses</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1977-10-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/4/1977</td><td>Hamilton, NY (Cotterell Gym, Colgate University)</td><td align="center">SI</td><td>Dupree's</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1977-11-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/30/1977</td><td>San Francisco, CA (Winterland Arena)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1977-12-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/7/1978</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SI</td><td>El Paso</td><td>Promised</td><td align="center">3</td><td>[<a href="/1978-01-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/11/1978</td><td>Los Angeles, CA (Shrine Auditorium)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1978-01-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>1/14/1978</td><td>Bakersfield, CA (Bakersfield Memorial Auditori...)</td><td align="center">SI</td><td>Deal</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1978-01-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>1/31/1978</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>TLEO</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1978-01-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/15/1978</td><td>Williamsburg, VA (College Of William and Mary)</td><td align="center">SI</td><td>B. E. Women</td><td>Deal</td><td align="center">12</td><td>[<a href="/1978-04-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/14/1978</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">14</td><td>[<a href="/1978-05-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/2/1979</td><td>Augusta, ME (Augusta Civic Center)</td><td align="center">SII</td><td>Terrapin</td><td>Drumz</td><td align="center">82</td><td>[<a href="/1979-09-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/10/1979</td><td>Kansas City, KS (Soldiers  and  Sailors Memori...)</td><td align="center">SII</td><td>Easy To Love Yo</td><td>He's Gone</td><td align="center">28</td><td>[<a href="/1979-12-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/14/1980</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Althea</td><td align="center">22</td><td>[<a href="/1980-05-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/29/1980</td><td>Des Moines, IA (Des Moines Civic Center)</td><td align="center">SI</td><td>Far From Me</td><td>Deal</td><td align="center">3</td><td>[<a href="/1980-05-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/13/1980</td><td>Seattle, WA (Seattle Center Arena)</td><td align="center">SII</td><td>Don't Ease</td><td>China Cat</td><td align="center">7</td><td>[<a href="/1980-06-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/20/1980</td><td>Anchorage, AK (West High Auditorium)</td><td align="center">SI</td><td>FOTD</td><td>Althea</td><td align="center">3</td><td>[<a href="/1980-06-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/20/1980</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Far From Me</td><td>Deal</td><td align="center">7</td><td>[<a href="/1980-08-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/24/1980</td><td>Grand Rapids, MI (Grand Center)</td><td align="center">SI</td><td>Althea</td><td>Deal</td><td align="center">3</td><td>[<a href="/1980-08-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/29/1980</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SII</td><td>Althea</td><td>He's Gone</td><td align="center">3</td><td>[<a href="/1980-08-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/3/1980</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SI</td><td>Easy To Love Yo</td><td>Deal</td><td align="center">4</td><td>[<a href="/1980-09-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/27/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>Althea</td><td>Deal</td><td align="center">5</td><td>[<a href="/1980-09-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/4/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>Ramble On</td><td>Deal </td><td align="center">5</td><td>[<a href="/1980-10-04">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/7/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>Don't Ease</td><td>Deal</td><td align="center">2</td><td>[<a href="/1980-10-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/11/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SIII</td><td>I Know You Ride</td><td>Drumz</td><td align="center">3</td><td>[<a href="/1980-10-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/14/1980</td><td>San Francisco, CA (Warfield Theater)</td><td align="center">SII</td><td>Tennessee Jed</td><td>Wheel</td><td align="center">2</td><td>[<a href="/1980-10-14">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/28/1980</td><td>Lakeland, FL (Lakeland Civic Center Arena)</td><td align="center">SII</td><td>To Lay Me Down</td><td>Terrapin</td><td align="center">12</td><td>[<a href="/1980-11-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/30/1980</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>Althea</td><td>Deal</td><td align="center">10</td><td>[<a href="/1980-12-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/28/1981</td><td>Chicago, IL (Uptown Theatre)</td><td align="center">SI</td><td>Althea</td><td>Deal</td><td align="center">4</td><td>[<a href="/1981-02-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/6/1981</td><td>Pittsburgh, PA (Stanley Theatre)</td><td align="center">SI</td><td>B. E. Women</td><td>Deal</td><td align="center">4</td><td>[<a href="/1981-03-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/12/1981</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>Althea</td><td>Franklin's</td><td align="center">4</td><td>[<a href="/1981-03-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/21/1981</td><td>London, England (Rainbow Theater)</td><td align="center">SI</td><td>Althea</td><td>China Cat</td><td align="center">4</td><td>[<a href="/1981-03-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/1/1981</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Deal</td><td align="center">5</td><td>[<a href="/1981-05-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/6/1981</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Big RxR Blues</td><td>Deal</td><td align="center">4</td><td>[<a href="/1981-05-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/8/1981</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Althea</td><td>Don't Ease</td><td align="center">1</td><td>[<a href="/1981-05-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/13/1981</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>Bird Song</td><td>Deal</td><td align="center">4</td><td>[<a href="/1981-05-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/16/1981</td><td>Ithaca, NY (Barton Hall, Cornell University)</td><td align="center">SI</td><td>High Time</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1981-05-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/5/1981</td><td>Oklahoma City, OK (Zoo Amphitheatre)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1981-07-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/10/1981</td><td>St. Paul, MN (St. Paul Civic Center Arena)</td><td align="center">SI</td><td>Ramble On</td><td>Don't Ease</td><td align="center">3</td><td>[<a href="/1981-07-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/15/1981</td><td>Portland, OR (Portland Memorial Coliseum)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1981-08-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/28/1981</td><td>Long Beach, CA (Long Beach Arena)</td><td align="center">SI</td><td>B. E. Women</td><td>China Cat</td><td align="center">3</td><td>[<a href="/1981-08-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/31/1981</td><td>Las Vegas, NV (Aladdin Theatre)</td><td align="center">SI</td><td>Althea</td><td>Deal</td><td align="center">2</td><td>[<a href="/1981-08-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/13/1981</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>Ramble On</td><td>Might As Well</td><td align="center">3</td><td>[<a href="/1981-09-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/26/1981</td><td>Buffalo, NY (War Memorial Auditorium)</td><td align="center">SI</td><td>B. E. Women</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1981-09-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/30/1981</td><td>Edinburgh, Scotland (The Playhouse)</td><td align="center">SI</td><td>Althea</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1981-09-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/4/1981</td><td>London, England (Rainbow Theater)</td><td align="center">SI</td><td>Row Jimmy</td><td>Deal</td><td align="center">3</td><td>[<a href="/1981-10-04">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/10/1981</td><td>Bremen, West Germany (Stadthalle IV)</td><td align="center">SI</td><td>Bird Song</td><td>Deal</td><td align="center">3</td><td>[<a href="/1981-10-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/19/1981</td><td>Barcelona, Spain (Sports Palace)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1981-10-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/30/1981</td><td>Dayton, OH (Hara Arena)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Don't Ease</td><td align="center">2</td><td>[<a href="/1981-11-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/5/1981</td><td>Indianapolis, IN (Market Square Arena)</td><td align="center">SI</td><td>Bird Song</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1981-12-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/26/1981</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1981-12-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/20/1982</td><td>San Diego, CA (Golden Hall, Community Concourse)</td><td align="center">SI</td><td>To Lay Me Down</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1982-02-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/14/1982</td><td>Davis, CA (Recreational Hall, U. of California)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1982-03-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/3/1982</td><td>Norfolk, VA (The Scope)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1982-04-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/8/1982</td><td>Syracuse, NY (Onondaga County War Memorial)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1982-04-08">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/11/1982</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1982-04-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/18/1982</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1982-04-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/23/1982</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1982-05-23">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/28/1982</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SII</td><td>Althea</td><td>He's Gone</td><td align="center">6</td><td>[<a href="/1982-07-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/3/1982</td><td>Kansas City, MO (Starlight Theatre)</td><td align="center">SII</td><td>To Lay Me Down</td><td>Drumz</td><td align="center">4</td><td>[<a href="/1982-08-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/7/1982</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1982-08-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/29/1982</td><td>Seattle, WA (Seattle Center Memorial Coliseum)</td><td align="center">SI</td><td>Roses</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1982-08-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/11/1982</td><td>West Palm Beach, FL (West Palm Beach Auditorium)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1982-09-11">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/15/1982</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Playin Jam</td><td>Day Job</td><td align="center">3</td><td>[<a href="/1982-09-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/23/1982</td><td>New Haven, CT (Veterans Memorial Coliseum)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1982-09-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/17/1982</td><td>Santa Fe, NM (Downs of Santa Fe)</td><td align="center">SI</td><td>Ramble On</td><td>Deal</td><td align="center">4</td><td>[<a href="/1982-10-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/25/1982</td><td>Freeport Zone, Jamaica (Montego Bay)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1982-11-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/27/1982</td><td>Oakland, CA (Oakland Auditorium Arena)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1982-12-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/25/1983</td><td>Tempe, AZ (Compton Terrace Amphitheatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1983-03-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/12/1983</td><td>Binghamton, NY (Broome County Arena)</td><td align="center">SI</td><td>Dupree's</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1983-04-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/17/1983</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SI</td><td>Peggy-O</td><td>Might As Well</td><td align="center">4</td><td>[<a href="/1983-04-17">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/26/1983</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Roses</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1983-04-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/13/1983</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>Bird Song</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1983-05-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/21/1983</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">14</td><td>[<a href="/1983-08-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/26/1983</td><td>Portland, OR (Portland Memorial Coliseum)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">1</td><td>[<a href="/1983-08-26">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/11/1983</td><td>Santa Fe, NM (Downs of Santa Fe)</td><td align="center">SII</td><td>Franklin's</td><td>He's Gone</td><td align="center">11</td><td>[<a href="/1983-09-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/18/1983</td><td>Grass Valley, CA (Nevada County Fairgrounds)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1983-09-18">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/9/1983</td><td>Greensboro, NC (Greensboro Coliseum)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1983-10-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/15/1983</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>Big RxR Blues</td><td>Day Job</td><td align="center">4</td><td>[<a href="/1983-10-15">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/28/1984</td><td>San Rafael, CA (Marin County Veterans Auditori...)</td><td align="center">SI</td><td>Candyman</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1984-03-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/14/1984</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1984-04-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/20/1984</td><td>Philadelphia, PA (Civic Convention Hall Audito...)</td><td align="center">SI</td><td>Roses</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1984-04-20">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/29/1984</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1984-04-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/13/1984</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SII</td><td>Ship Of Fools</td><td>Drumz</td><td align="center">8</td><td>[<a href="/1984-06-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/27/1984</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1984-06-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/6/1984</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Bird Song</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1984-07-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/9/1984</td><td>Worcester, MA (The Centrum)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1984-10-09">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1984</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1984-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/29/1984</td><td>San Francisco, CA (San Francisco Civic Auditor...)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1984-12-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/9/1985</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1985-03-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/25/1985</td><td>Springfield, MA (Springfield Civic Center Arena)</td><td align="center">SI</td><td>Roses</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1985-03-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/3/1985</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1985-04-03">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/14/1985</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SII</td><td>Stagger Lee</td><td>Deal</td><td align="center">9</td><td>[<a href="/1985-06-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/24/1985</td><td>Cincinnati, OH (River Bend Music Center)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1985-06-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/1/1985</td><td>Columbia, MD (Merriweather Post Pavilion)</td><td align="center">SI</td><td>Stagger Lee</td><td>Day Job</td><td align="center">5</td><td>[<a href="/1985-07-01">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/31/1985</td><td>Austin, TX (Manor Downs)</td><td align="center">SI</td><td>Jack A Roe</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1985-08-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/5/1985</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SI</td><td>Peggy-O</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1985-09-05">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/11/1985</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Tennessee Jed</td><td>Deal</td><td align="center">4</td><td>[<a href="/1985-09-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/25/1985</td><td>Pembroke Pines, FL (Sportatorium)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1985-10-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/2/1985</td><td>Richmond, VA (Richmond Coliseum)</td><td align="center">SI</td><td>Candyman</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1985-11-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/7/1985</td><td>Rochester, NY (Community War Memorial)</td><td align="center">SII</td><td>High Time</td><td>Drumz</td><td align="center">3</td><td>[<a href="/1985-11-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/16/1985</td><td>Long Beach, CA (Long Beach Arena)</td><td align="center">SI</td><td>West L. A.</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1985-11-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>11/22/1985</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Dupree's</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1985-11-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/31/1985</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1985-12-31">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/14/1986</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1986-02-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/21/1986</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Supplication Ja</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1986-03-21">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/3/1986</td><td>Hartford, CT (Hartford Civic Center)</td><td align="center">SI</td><td>Supplication Ja</td><td>Don't Ease</td><td align="center">9</td><td>[<a href="/1986-04-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/13/1986</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>Supplication Ja</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1986-04-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/21/1986</td><td>Berkeley, CA (Berkeley Community Theatre)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1986-04-21">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/10/1986</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1986-05-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/20/1986</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>Candyman</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1986-06-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/30/1986</td><td>Cincinnati, OH (River Bend Music Center)</td><td align="center">SI</td><td>West L. A.</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1986-06-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/6/1986</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1986-07-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/15/1986</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Candyman</td><td>&mdash;&mdash;</td><td align="center">2</td><td>[<a href="/1986-12-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/31/1986</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SII</td><td>Touch</td><td>Black Muddy Riv</td><td align="center">6</td><td>[<a href="/1986-12-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/1/1987</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1987-03-01">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/24/1987</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1987-03-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/29/1987</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Push</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1987-03-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/3/1987</td><td>Worcester, MA (The Centrum)</td><td align="center">SI</td><td>Big RxR Blues</td><td>Don't Ease</td><td align="center">4</td><td>[<a href="/1987-04-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/18/1987</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>Row Jimmy</td><td>Don't Ease</td><td align="center">8</td><td>[<a href="/1987-04-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/9/1987</td><td>Monterey, CA (Laguna Seca Recreation Area)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1987-05-09">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/13/1987</td><td>Ventura, CA (County Fairgrounds)</td><td align="center">SI</td><td>FOTD</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1987-06-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/27/1987</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1987-06-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/8/1987</td><td>Roanoke, VA (Roanoke Civic Center)</td><td align="center">SI</td><td>Big RxR Blues</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1987-07-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/19/1987</td><td>Eugene, OR (Autzen Stadium, U. of Oregon)</td><td align="center">SI</td><td>West L. A.</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1987-07-19">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/11/1987</td><td>Morrison, CO (Red Rocks Amphitheatre)</td><td align="center">SI</td><td>Push</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1987-08-11">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/7/1987</td><td>Providence, RI (Providence Civic Center)</td><td align="center">SI</td><td>Far From Me</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1987-09-07">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/16/1987</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>High Time</td><td>Don't Ease</td><td align="center">7</td><td>[<a href="/1987-09-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/2/1987</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Far From Me</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1987-10-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>11/6/1987</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Cumberland</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1987-11-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/30/1987</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>West L. A.</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1987-12-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/17/1988</td><td>Oakland, CA (Henry J. Kaiser Convention Center)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1988-03-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/27/1988</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>To Lay Me Down</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1988-03-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/8/1988</td><td>Worcester, MA (The Centrum)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1988-04-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/22/1988</td><td>Irvine, CA (Irvine Meadows Amphitheatre)</td><td align="center">SI</td><td>Push</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1988-04-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/30/1988</td><td>Palo Alto, CA (Frost Amphitheatre, Stanford U.)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1988-04-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/22/1988</td><td>East Troy, WI (Alpine Valley Music Theatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1988-06-22">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/17/1988</td><td>Berkeley, CA (Greek Theatre, U. of California)</td><td align="center">SI</td><td>Candyman</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1988-07-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/2/1988</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1988-09-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/8/1988</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Loser</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1988-09-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/14/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1988-09-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/19/1988</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1988-09-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/30/1988</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Push</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1988-09-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/15/1988</td><td>St. Petersburg, FL (Bayfront Center Arena)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1988-10-15">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/29/1988</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>To Lay Me Down</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1988-12-29">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>2/10/1989</td><td>Inglewood, CA (Great Western Forum)</td><td align="center">SI</td><td>FOTD</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1989-02-10">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/28/1989</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>Ramble On</td><td>Don't Ease</td><td align="center">4</td><td>[<a href="/1989-03-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/5/1989</td><td>Ann Arbor, MI (Crisler Arena, U. of Michigan)</td><td align="center">SI</td><td>Dupree's</td><td>U. S. Blues</td><td align="center">5</td><td>[<a href="/1989-04-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>4/12/1989</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>Cumberland</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1989-04-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/7/1989</td><td>Philadelphia, PA (John F. Kennedy Stadium)</td><td align="center">SI</td><td>Loser</td><td>Blow Away </td><td align="center">16</td><td>[<a href="/1989-07-07">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/13/1989</td><td>Washington, DC (Robert F. Kennedy Stadium)</td><td align="center">SI</td><td>To Lay Me Down</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1989-07-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/5/1989</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1989-08-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/30/1989</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1989-09-30">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/16/1989</td><td>East Rutherford, NJ (Meadowlands Arena)</td><td align="center">SI</td><td>Memphis Blues</td><td>Deal</td><td align="center">8</td><td>[<a href="/1989-10-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/23/1989</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1989-10-23">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/28/1989</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Little Light</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1989-12-28">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/25/1990</td><td>Albany, NY (Knickerbocker Arena)</td><td align="center">SI</td><td>Bird Song</td><td>&mdash;&mdash;</td><td align="center">14</td><td>[<a href="/1990-03-25">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/2/1990</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1990-04-02">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/24/1990</td><td>Eugene, OR (Autzen Stadium, U. of Oregon)</td><td align="center">SI</td><td>Candyman</td><td>&mdash;&mdash;</td><td align="center">11</td><td>[<a href="/1990-06-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/8/1990</td><td>Pittsburgh, PA (Three Rivers Stadium)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1990-07-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/16/1990</td><td>Orchard Park, NY (Rich Stadium)</td><td align="center">SI</td><td>High Time</td><td>Don't Ease</td><td align="center">4</td><td>[<a href="/1990-07-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/12/1990</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Althea</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1990-09-12">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/20/1990</td><td>Berlin, Germany (Internationales Congress Cent...)</td><td align="center">SI</td><td>Masterpiece</td><td>Jam</td><td align="center">10</td><td>[<a href="/1990-10-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>10/30/1990</td><td>London, England (Wembley Arena)</td><td align="center">SI</td><td>Row Jimmy</td><td>Jam</td><td align="center">5</td><td>[<a href="/1990-10-30">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/14/1990</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>To Lay Me Down</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1990-12-14">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/17/1991</td><td>Landover, MD (Capital Centre)</td><td align="center">SI</td><td>Reuben  and  Ch</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1991-03-17">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/28/1991</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1991-03-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>4/9/1991</td><td>Orlando, FL (Orlando Arena)</td><td align="center">SI</td><td>Roses</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1991-04-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/3/1991</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1991-05-03">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/9/1991</td><td>Hebron, OH (Buckeye Lake Music Center)</td><td align="center">SI</td><td>Reuben  and  Ch</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1991-06-09">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/16/1991</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Stagger Lee</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1991-06-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/22/1991</td><td>Chicago, IL (Soldier Field)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1991-06-22">Setlist</a>]</td></tr>
-<tr valign="top"><td>8/13/1991</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>High Time</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1991-08-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/8/1991</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1991-09-08">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/12/1991</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>&mdash;&mdash;</td><td align="center">3</td><td>[<a href="/1991-09-12">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/22/1991</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1991-09-22">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/31/1991</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1991-10-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/5/1992</td><td>Hampton, VA (Hampton Coliseum)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>&mdash;&mdash;</td><td align="center">12</td><td>[<a href="/1992-03-05">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/16/1992</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1992-03-16">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/19/1992</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1992-05-19">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/6/1992</td><td>Orchard Park, NY (Rich Stadium)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1992-06-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>6/18/1992</td><td>Charlotte, NC (Charlotte Coliseum)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>&mdash;&mdash;</td><td align="center">8</td><td>[<a href="/1992-06-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>12/2/1992</td><td>Denver, CO (McNichols Sports Arena)</td><td align="center">SI</td><td>So Many Roads</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1992-12-02">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/16/1992</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">7</td><td>[<a href="/1992-12-16">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/10/1993</td><td>Rosemont, IL (Rosemont Horizon)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1993-03-10">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/24/1993</td><td>Chapel Hill, NC (Dean Smith Center, UNC)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1993-03-24">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/31/1993</td><td>Uniondale, NY (Nassau Veterans Memorial Colise...)</td><td align="center">SI</td><td>Row Jimmy</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1993-03-31">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>5/25/1993</td><td>Sacramento, CA (Cal Expo Amphitheatre)</td><td align="center">SI</td><td>Lazy River Road</td><td>Don't Ease</td><td align="center">11</td><td>[<a href="/1993-05-25">Setlist</a>]</td></tr>
-<tr valign="top"><td>6/6/1993</td><td>East Rutherford, NJ (Giants Stadium)</td><td align="center">SI</td><td>Lazy River Road</td><td>&mdash;&mdash;</td><td align="center">4</td><td>[<a href="/1993-06-06">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>8/26/1993</td><td>Mountain View, CA (Shoreline Amphitheatre)</td><td align="center">SI</td><td>Tom Thumb Blues</td><td>Don't Ease</td><td align="center">17</td><td>[<a href="/1993-08-26">Setlist</a>]</td></tr>
-<tr valign="top"><td>9/13/1993</td><td>Philadelphia, PA (The Spectrum)</td><td align="center">SI</td><td>Dire Wolf</td><td>&mdash;&mdash;</td><td align="center">6</td><td>[<a href="/1993-09-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/6/1994</td><td>Phoenix, AZ (Desert Sky Pavilion)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">27</td><td>[<a href="/1994-03-06">Setlist</a>]</td></tr>
-<tr valign="top"><td>3/20/1994</td><td>Richfield, OH (Richfield Coliseum)</td><td align="center">SI</td><td>Lazy River Road</td><td>Don't Ease</td><td align="center">4</td><td>[<a href="/1994-03-20">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/13/1994</td><td>Highgate, VT (Franklin County Field)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">28</td><td>[<a href="/1994-07-13">Setlist</a>]</td></tr>
-<tr valign="top"><td>7/27/1994</td><td>Maryland Heights, MO (Riverport Amphitheatre)</td><td align="center">SI</td><td>Ramble On</td><td>&mdash;&mdash;</td><td align="center">9</td><td>[<a href="/1994-07-27">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>9/29/1994</td><td>Boston, MA (Boston Garden)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">11</td><td>[<a href="/1994-09-29">Setlist</a>]</td></tr>
-<tr valign="top"><td>10/13/1994</td><td>New York, NY (Madison Square Garden)</td><td align="center">SI</td><td>Loose Lucy</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1994-10-13">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>12/18/1994</td><td>Los Angeles, CA (Los Angeles Sports Arena)</td><td align="center">SI</td><td>Loose Lucy</td><td>&mdash;&mdash;</td><td align="center">15</td><td>[<a href="/1994-12-18">Setlist</a>]</td></tr>
-<tr valign="top"><td>2/24/1995</td><td>Oakland, CA (Oakland Coliseum Arena)</td><td align="center">SI</td><td>Loose Lucy</td><td>&mdash;&mdash;</td><td align="center">5</td><td>[<a href="/1995-02-24">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>3/27/1995</td><td>Atlanta, GA (The Omni)</td><td align="center">SI</td><td>So Many Roads</td><td>&mdash;&mdash;</td><td align="center">10</td><td>[<a href="/1995-03-27">Setlist</a>]</td></tr>
-<tr valign="top"><td>5/28/1995</td><td>Portland, OR (Portland Meadows)</td><td align="center">SI</td><td>B. E. Women</td><td>&mdash;&mdash;</td><td align="center">14</td><td>[<a href="/1995-05-28">Setlist</a>]</td></tr>
-<tr valign="top" class="row2"><td>7/2/1995</td><td>Noblesville, IN (Deer Creek Music Center)</td><td align="center">SI</td><td>Tennessee Jed</td><td>&mdash;&mdash;</td><td align="center">15</td><td>[<a href="/1995-07-02">Setlist</a>]</td></tr>
-</table>
-</div></div>
-</div>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Let It Grow
+    </title>
+  </head>
+  <body>
+    <div id="main">
+      <div>
+        Let It Grow
+      </div>
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="11%">
+            Date
+          </td>
+          <td width="38%">
+            Location
+          </td>
+          <td width="5%">
+            Set
+          </td>
+          <td width="16%">
+            Before
+          </td>
+          <td width="16%">
+            After
+          </td>
+          <td width="5%">
+            Gap
+          </td>
+          <td width="9%">
+             
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/7/1973
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td align="center">
+            842
+          </td>
+          <td>
+            [<a href="/1973-09-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/8/1973
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/11/1973
+          </td>
+          <td>
+            Williamsburg, VA (College Of William and Mary)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/15/1973
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Space
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1973-09-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/17/1973
+          </td>
+          <td>
+            Syracuse, NY (Onondaga County War Memorial)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/21/1973
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            He's Gone
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-09-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/24/1973
+          </td>
+          <td>
+            Pittsburgh, PA (Pittsburgh Civic Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1973
+          </td>
+          <td>
+            Buffalo, NY (War Memorial Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-09-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/21/1973
+          </td>
+          <td>
+            Omaha, NE (Omaha Civic Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1973-10-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/23/1973
+          </td>
+          <td>
+            Bloomington, MN (Metropolitan Sports Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Sugar Magnolia
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-10-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/25/1973
+          </td>
+          <td>
+            Madison, WI (Dane County Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            GDTRFB
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-10-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1973
+          </td>
+          <td>
+            St. Louis, MO (Kiel Auditorium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            GDTRFB
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/1/1973
+          </td>
+          <td>
+            Evanston, IL (McGaw Memorial Hall, Northwester...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/9/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/10/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/11/1973
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/20/1973
+          </td>
+          <td>
+            Denver, CO (Denver Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-11-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/21/1973
+          </td>
+          <td>
+            Denver, CO (Denver Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/23/1973
+          </td>
+          <td>
+            El Paso, TX (County Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/25/1973
+          </td>
+          <td>
+            Tempe, AZ (Feyline Field)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1973
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Dark Star Jam
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-11-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/1/1973
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Casey Jones
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/2/1973
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/8/1973
+          </td>
+          <td>
+            Durham, NC (Cameron Indoor Stadium, Duke U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1973-12-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/12/1973
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1973-12-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/18/1973
+          </td>
+          <td>
+            Tampa, FL (Curtis Hixon Convention Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/19/1973
+          </td>
+          <td>
+            Tampa, FL (Curtis Hixon Convention Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            He's Gone
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1973-12-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/23/1974
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-02-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/24/1974
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-02-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/14/1974
+          </td>
+          <td>
+            Missoula, MT (Adams Field House, U. of Montana)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Dark Star
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1974-05-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1974
+          </td>
+          <td>
+            Portland, OR (Portland Memorial Coliseum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-05-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/21/1974
+          </td>
+          <td>
+            Seattle, WA (Hec. S. Edmundson Pavilion, U. of...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            China Doll
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-05-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/25/1974
+          </td>
+          <td>
+            Santa Barbara, CA (Campus Stadium, U.C.S.B.)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Space
+          </td>
+          <td>
+            Wharf Rat
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-05-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/23/1974
+          </td>
+          <td>
+            Miami, FL (Jai-Alai Fronton)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            China Doll
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1974-06-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/26/1974
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Roses
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-06-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/28/1974
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Space
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1974-06-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/25/1974
+          </td>
+          <td>
+            Chicago, IL (International Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Around
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1974-07-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/31/1974
+          </td>
+          <td>
+            Hartford, CT (Dillon Stadium)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1974-07-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/10/1974
+          </td>
+          <td>
+            London, England (Alexandra Palace)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1974-09-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/14/1974
+          </td>
+          <td>
+            Muenchen, West Germany (Olympiahalle)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-09-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/20/1974
+          </td>
+          <td>
+            Paris, France (Palais des Sports)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            WRS Part 1
+          </td>
+          <td>
+            Stella Blue
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1974-09-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/3/1976
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Wharf Rat
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Roses
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1976-06-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/4/1976
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Cosmic Charlie
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Stella Blue
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/9/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Eyes
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            B. E. Women
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/10/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            FOTD
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/12/1976
+          </td>
+          <td>
+            Boston, MA (Boston Music Hall)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Tennessee Jed
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Wharf Rat
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-06-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/15/1976
+          </td>
+          <td>
+            New York, NY (Beacon Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Might As Well
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-06-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/17/1976
+          </td>
+          <td>
+            Passaic, NJ (Capitol Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            FOTD
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Wharf Rat
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-06-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/19/1976
+          </td>
+          <td>
+            Passaic, NJ (Capitol Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            High Time
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Dancin
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-06-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/23/1976
+          </td>
+          <td>
+            Upper Darby, PA (Tower Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Might As Well
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Cosmic Charlie
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1976-06-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/27/1976
+          </td>
+          <td>
+            Chicago, IL (Auditorium Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            ——
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Wharf Rat
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1976-06-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/13/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Crazy Fingers
+            <br>
+            Space
+          </td>
+          <td>
+            Drums
+            <br>
+            Might As Well
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1976-07-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/14/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            Eyes
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1976-07-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/18/1976
+          </td>
+          <td>
+            San Francisco, CA (Orpheum Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Supplication
+            <br>
+            Drums
+          </td>
+          <td>
+            Drums
+            <br>
+            Jam
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1976-07-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/25/1976
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            Sugaree
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1976-09-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/28/1976
+          </td>
+          <td>
+            Syracuse, NY (Onondaga County War Memorial)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            GDTRFB
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1976-09-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/29/1977
+          </td>
+          <td>
+            Seattle, WA (Paramount Northwest Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Sugaree
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td align="center">
+            47
+          </td>
+          <td>
+            [<a href="/1977-09-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/2/1977
+          </td>
+          <td>
+            Portland, OR (Paramount Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1977-10-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/7/1977
+          </td>
+          <td>
+            Albuquerque, NM (University of New Mexico)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1977-10-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/15/1977
+          </td>
+          <td>
+            Dallas, TX (Moody Coliseum, S.M.U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1977-10-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/29/1977
+          </td>
+          <td>
+            DeKalb, IL (Evans Field House, Northern Illino...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1977-10-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/4/1977
+          </td>
+          <td>
+            Hamilton, NY (Cotterell Gym, Colgate University)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1977-11-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/30/1977
+          </td>
+          <td>
+            San Francisco, CA (Winterland Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1977-12-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/7/1978
+          </td>
+          <td>
+            San Diego, CA (Golden Hall, Community Concourse)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            El Paso
+          </td>
+          <td>
+            Promised
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1978-01-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/11/1978
+          </td>
+          <td>
+            Los Angeles, CA (Shrine Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1978-01-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/14/1978
+          </td>
+          <td>
+            Bakersfield, CA (Bakersfield Memorial Auditori...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Deal
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1978-01-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            1/31/1978
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            TLEO
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1978-01-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/15/1978
+          </td>
+          <td>
+            Williamsburg, VA (College Of William and Mary)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1978-04-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/14/1978
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1978-05-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/2/1979
+          </td>
+          <td>
+            Augusta, ME (Augusta Civic Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Terrapin
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            82
+          </td>
+          <td>
+            [<a href="/1979-09-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/10/1979
+          </td>
+          <td>
+            Kansas City, KS (Soldiers and Sailors Memori...)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Easy To Love Yo
+          </td>
+          <td>
+            He's Gone
+          </td>
+          <td align="center">
+            28
+          </td>
+          <td>
+            [<a href="/1979-12-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/14/1980
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            22
+          </td>
+          <td>
+            [<a href="/1980-05-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/29/1980
+          </td>
+          <td>
+            Des Moines, IA (Des Moines Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Far From Me
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-05-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/13/1980
+          </td>
+          <td>
+            Seattle, WA (Seattle Center Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1980-06-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/20/1980
+          </td>
+          <td>
+            Anchorage, AK (West High Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            Althea
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-06-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/20/1980
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Far From Me
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1980-08-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/24/1980
+          </td>
+          <td>
+            Grand Rapids, MI (Grand Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-08-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/29/1980
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            He's Gone
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-08-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/3/1980
+          </td>
+          <td>
+            Springfield, MA (Springfield Civic Center Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Easy To Love Yo
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1980-09-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/27/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1980-09-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/4/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1980-10-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/7/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-10-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/11/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SIII
+          </td>
+          <td>
+            I Know You Ride
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1980-10-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/14/1980
+          </td>
+          <td>
+            San Francisco, CA (Warfield Theater)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Wheel
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1980-10-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/28/1980
+          </td>
+          <td>
+            Lakeland, FL (Lakeland Civic Center Arena)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            Terrapin
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1980-11-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/30/1980
+          </td>
+          <td>
+            Oakland, CA (Oakland Auditorium Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1980-12-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/28/1981
+          </td>
+          <td>
+            Chicago, IL (Uptown Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-02-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/6/1981
+          </td>
+          <td>
+            Pittsburgh, PA (Stanley Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-03-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/12/1981
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-03-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/21/1981
+          </td>
+          <td>
+            London, England (Rainbow Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-03-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/1/1981
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1981-05-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/6/1981
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-05-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/8/1981
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1981-05-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/13/1981
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-05-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/16/1981
+          </td>
+          <td>
+            Ithaca, NY (Barton Hall, Cornell University)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1981-05-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/5/1981
+          </td>
+          <td>
+            Oklahoma City, OK (Zoo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1981-07-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/10/1981
+          </td>
+          <td>
+            St. Paul, MN (St. Paul Civic Center Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1981-07-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/15/1981
+          </td>
+          <td>
+            Portland, OR (Portland Memorial Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1981-08-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/28/1981
+          </td>
+          <td>
+            Long Beach, CA (Long Beach Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            China Cat
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1981-08-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/31/1981
+          </td>
+          <td>
+            Las Vegas, NV (Aladdin Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1981-08-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/13/1981
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            Might As Well
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1981-09-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/26/1981
+          </td>
+          <td>
+            Buffalo, NY (War Memorial Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1981-09-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/30/1981
+          </td>
+          <td>
+            Edinburgh, Scotland (The Playhouse)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1981-09-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/4/1981
+          </td>
+          <td>
+            London, England (Rainbow Theater)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1981-10-04">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/10/1981
+          </td>
+          <td>
+            Bremen, West Germany (Stadthalle IV)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1981-10-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/19/1981
+          </td>
+          <td>
+            Barcelona, Spain (Sports Palace)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1981-10-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/30/1981
+          </td>
+          <td>
+            Dayton, OH (Hara Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1981-11-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/5/1981
+          </td>
+          <td>
+            Indianapolis, IN (Market Square Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1981-12-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/26/1981
+          </td>
+          <td>
+            Oakland, CA (Oakland Auditorium Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1981-12-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/20/1982
+          </td>
+          <td>
+            San Diego, CA (Golden Hall, Community Concourse)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1982-02-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/14/1982
+          </td>
+          <td>
+            Davis, CA (Recreational Hall, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1982-03-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1982
+          </td>
+          <td>
+            Norfolk, VA (The Scope)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1982-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/8/1982
+          </td>
+          <td>
+            Syracuse, NY (Onondaga County War Memorial)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1982-04-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/11/1982
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1982-04-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1982
+          </td>
+          <td>
+            Hartford, CT (Hartford Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1982-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/23/1982
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1982-05-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/28/1982
+          </td>
+          <td>
+            Morrison, CO (Red Rocks Amphitheatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            He's Gone
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1982-07-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/3/1982
+          </td>
+          <td>
+            Kansas City, MO (Starlight Theatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1982-08-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/7/1982
+          </td>
+          <td>
+            East Troy, WI (Alpine Valley Music Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1982-08-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/29/1982
+          </td>
+          <td>
+            Seattle, WA (Seattle Center Memorial Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1982-08-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/11/1982
+          </td>
+          <td>
+            West Palm Beach, FL (West Palm Beach Auditorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1982-09-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/15/1982
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Playin Jam
+          </td>
+          <td>
+            Day Job
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1982-09-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/23/1982
+          </td>
+          <td>
+            New Haven, CT (Veterans Memorial Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1982-09-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/17/1982
+          </td>
+          <td>
+            Santa Fe, NM (Downs of Santa Fe)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1982-10-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/25/1982
+          </td>
+          <td>
+            Freeport Zone, Jamaica (Montego Bay)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1982-11-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/27/1982
+          </td>
+          <td>
+            Oakland, CA (Oakland Auditorium Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1982-12-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/25/1983
+          </td>
+          <td>
+            Tempe, AZ (Compton Terrace Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1983-03-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/12/1983
+          </td>
+          <td>
+            Binghamton, NY (Broome County Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1983-04-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/17/1983
+          </td>
+          <td>
+            East Rutherford, NJ (Meadowlands Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            Might As Well
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1983-04-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/26/1983
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1983-04-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/13/1983
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1983-05-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/21/1983
+          </td>
+          <td>
+            Palo Alto, CA (Frost Amphitheatre, Stanford U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1983-08-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/26/1983
+          </td>
+          <td>
+            Portland, OR (Portland Memorial Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            1
+          </td>
+          <td>
+            [<a href="/1983-08-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/11/1983
+          </td>
+          <td>
+            Santa Fe, NM (Downs of Santa Fe)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Franklin's
+          </td>
+          <td>
+            He's Gone
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1983-09-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/18/1983
+          </td>
+          <td>
+            Grass Valley, CA (Nevada County Fairgrounds)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1983-09-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/9/1983
+          </td>
+          <td>
+            Greensboro, NC (Greensboro Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1983-10-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/15/1983
+          </td>
+          <td>
+            Hartford, CT (Hartford Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            Day Job
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1983-10-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/28/1984
+          </td>
+          <td>
+            San Rafael, CA (Marin County Veterans Auditori...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1984-03-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/14/1984
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1984-04-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/20/1984
+          </td>
+          <td>
+            Philadelphia, PA (Civic Convention Hall Audito...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1984-04-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/29/1984
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1984-04-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/13/1984
+          </td>
+          <td>
+            Morrison, CO (Red Rocks Amphitheatre)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Ship Of Fools
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1984-06-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/27/1984
+          </td>
+          <td>
+            Columbia, MD (Merriweather Post Pavilion)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1984-06-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/6/1984
+          </td>
+          <td>
+            East Troy, WI (Alpine Valley Music Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1984-07-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/9/1984
+          </td>
+          <td>
+            Worcester, MA (The Centrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1984-10-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1984
+          </td>
+          <td>
+            Berkeley, CA (Berkeley Community Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1984-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/29/1984
+          </td>
+          <td>
+            San Francisco, CA (San Francisco Civic Auditor...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1984-12-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/9/1985
+          </td>
+          <td>
+            Berkeley, CA (Berkeley Community Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1985-03-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/25/1985
+          </td>
+          <td>
+            Springfield, MA (Springfield Civic Center Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1985-03-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1985
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1985-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/14/1985
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1985-06-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/24/1985
+          </td>
+          <td>
+            Cincinnati, OH (River Bend Music Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1985-06-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/1/1985
+          </td>
+          <td>
+            Columbia, MD (Merriweather Post Pavilion)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td>
+            Day Job
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1985-07-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/31/1985
+          </td>
+          <td>
+            Austin, TX (Manor Downs)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Jack A Roe
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1985-08-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/5/1985
+          </td>
+          <td>
+            Morrison, CO (Red Rocks Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Peggy-O
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1985-09-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/11/1985
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1985-09-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/25/1985
+          </td>
+          <td>
+            Pembroke Pines, FL (Sportatorium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1985-10-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/2/1985
+          </td>
+          <td>
+            Richmond, VA (Richmond Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1985-11-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/7/1985
+          </td>
+          <td>
+            Rochester, NY (Community War Memorial)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Drumz
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1985-11-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/16/1985
+          </td>
+          <td>
+            Long Beach, CA (Long Beach Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1985-11-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/22/1985
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1985-11-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1985
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1985-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/14/1986
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1986-02-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/21/1986
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Supplication Ja
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1986-03-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1986
+          </td>
+          <td>
+            Hartford, CT (Hartford Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Supplication Ja
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1986-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/13/1986
+          </td>
+          <td>
+            Irvine, CA (Irvine Meadows Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Supplication Ja
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1986-04-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/21/1986
+          </td>
+          <td>
+            Berkeley, CA (Berkeley Community Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1986-04-21">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/10/1986
+          </td>
+          <td>
+            Palo Alto, CA (Frost Amphitheatre, Stanford U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1986-05-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/20/1986
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1986-06-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/30/1986
+          </td>
+          <td>
+            Cincinnati, OH (River Bend Music Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1986-06-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/6/1986
+          </td>
+          <td>
+            Washington, DC (Robert F. Kennedy Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1986-07-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/15/1986
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            2
+          </td>
+          <td>
+            [<a href="/1986-12-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/31/1986
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SII
+          </td>
+          <td>
+            Touch
+          </td>
+          <td>
+            Black Muddy Riv
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1986-12-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/1/1987
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1987-03-01">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/24/1987
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1987-03-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/29/1987
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Push
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1987-03-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/3/1987
+          </td>
+          <td>
+            Worcester, MA (The Centrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1987-04-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/18/1987
+          </td>
+          <td>
+            Irvine, CA (Irvine Meadows Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1987-04-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/9/1987
+          </td>
+          <td>
+            Monterey, CA (Laguna Seca Recreation Area)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1987-05-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/13/1987
+          </td>
+          <td>
+            Ventura, CA (County Fairgrounds)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1987-06-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/27/1987
+          </td>
+          <td>
+            East Troy, WI (Alpine Valley Music Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1987-06-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/8/1987
+          </td>
+          <td>
+            Roanoke, VA (Roanoke Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Big RxR Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1987-07-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/19/1987
+          </td>
+          <td>
+            Eugene, OR (Autzen Stadium, U. of Oregon)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1987-07-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/11/1987
+          </td>
+          <td>
+            Morrison, CO (Red Rocks Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Push
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1987-08-11">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/7/1987
+          </td>
+          <td>
+            Providence, RI (Providence Civic Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Far From Me
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1987-09-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/16/1987
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1987-09-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/2/1987
+          </td>
+          <td>
+            Mountain View, CA (Shoreline Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Far From Me
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1987-10-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            11/6/1987
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1987-11-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/30/1987
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            West L. A.
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1987-12-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/17/1988
+          </td>
+          <td>
+            Oakland, CA (Henry J. Kaiser Convention Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1988-03-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/27/1988
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-03-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/8/1988
+          </td>
+          <td>
+            Worcester, MA (The Centrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1988-04-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/22/1988
+          </td>
+          <td>
+            Irvine, CA (Irvine Meadows Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Push
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1988-04-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/30/1988
+          </td>
+          <td>
+            Palo Alto, CA (Frost Amphitheatre, Stanford U.)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1988-04-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/22/1988
+          </td>
+          <td>
+            East Troy, WI (Alpine Valley Music Theatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1988-06-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/17/1988
+          </td>
+          <td>
+            Berkeley, CA (Greek Theatre, U. of California)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1988-07-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/2/1988
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1988-09-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/8/1988
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-09-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/14/1988
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-09-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/19/1988
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-09-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/30/1988
+          </td>
+          <td>
+            Mountain View, CA (Shoreline Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Push
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1988-09-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/15/1988
+          </td>
+          <td>
+            St. Petersburg, FL (Bayfront Center Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1988-10-15">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/29/1988
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1988-12-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/10/1989
+          </td>
+          <td>
+            Inglewood, CA (Great Western Forum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            FOTD
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1989-02-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/28/1989
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1989-03-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/5/1989
+          </td>
+          <td>
+            Ann Arbor, MI (Crisler Arena, U. of Michigan)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dupree's
+          </td>
+          <td>
+            U. S. Blues
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1989-04-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/12/1989
+          </td>
+          <td>
+            Rosemont, IL (Rosemont Horizon)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Cumberland
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1989-04-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/7/1989
+          </td>
+          <td>
+            Philadelphia, PA (John F. Kennedy Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loser
+          </td>
+          <td>
+            Blow Away
+          </td>
+          <td align="center">
+            16
+          </td>
+          <td>
+            [<a href="/1989-07-07">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/13/1989
+          </td>
+          <td>
+            Washington, DC (Robert F. Kennedy Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1989-07-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/5/1989
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1989-08-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/30/1989
+          </td>
+          <td>
+            Mountain View, CA (Shoreline Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1989-09-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/16/1989
+          </td>
+          <td>
+            East Rutherford, NJ (Meadowlands Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Memphis Blues
+          </td>
+          <td>
+            Deal
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1989-10-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/23/1989
+          </td>
+          <td>
+            Charlotte, NC (Charlotte Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1989-10-23">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/28/1989
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Little Light
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1989-12-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/25/1990
+          </td>
+          <td>
+            Albany, NY (Knickerbocker Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Bird Song
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1990-03-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/2/1990
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1990-04-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/24/1990
+          </td>
+          <td>
+            Eugene, OR (Autzen Stadium, U. of Oregon)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Candyman
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1990-06-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/8/1990
+          </td>
+          <td>
+            Pittsburgh, PA (Three Rivers Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1990-07-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/16/1990
+          </td>
+          <td>
+            Orchard Park, NY (Rich Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1990-07-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/12/1990
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Althea
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1990-09-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/20/1990
+          </td>
+          <td>
+            Berlin, Germany (Internationales Congress Cent...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Masterpiece
+          </td>
+          <td>
+            Jam
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1990-10-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/30/1990
+          </td>
+          <td>
+            London, England (Wembley Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            Jam
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1990-10-30">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/14/1990
+          </td>
+          <td>
+            Denver, CO (McNichols Sports Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            To Lay Me Down
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1990-12-14">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/17/1991
+          </td>
+          <td>
+            Landover, MD (Capital Centre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Reuben and Ch
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1991-03-17">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/28/1991
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1991-03-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            4/9/1991
+          </td>
+          <td>
+            Orlando, FL (Orlando Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Roses
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1991-04-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/3/1991
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1991-05-03">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/9/1991
+          </td>
+          <td>
+            Hebron, OH (Buckeye Lake Music Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Reuben and Ch
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1991-06-09">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/16/1991
+          </td>
+          <td>
+            East Rutherford, NJ (Giants Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Stagger Lee
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1991-06-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/22/1991
+          </td>
+          <td>
+            Chicago, IL (Soldier Field)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1991-06-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/13/1991
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            High Time
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1991-08-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/8/1991
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1991-09-08">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/12/1991
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            3
+          </td>
+          <td>
+            [<a href="/1991-09-12">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/22/1991
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1991-09-22">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/31/1991
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1991-10-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/5/1992
+          </td>
+          <td>
+            Hampton, VA (Hampton Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            12
+          </td>
+          <td>
+            [<a href="/1992-03-05">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/16/1992
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1992-03-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/19/1992
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1992-05-19">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/6/1992
+          </td>
+          <td>
+            Orchard Park, NY (Rich Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1992-06-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/18/1992
+          </td>
+          <td>
+            Charlotte, NC (Charlotte Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            8
+          </td>
+          <td>
+            [<a href="/1992-06-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/2/1992
+          </td>
+          <td>
+            Denver, CO (McNichols Sports Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            So Many Roads
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1992-12-02">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/16/1992
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            7
+          </td>
+          <td>
+            [<a href="/1992-12-16">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/10/1993
+          </td>
+          <td>
+            Rosemont, IL (Rosemont Horizon)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1993-03-10">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/24/1993
+          </td>
+          <td>
+            Chapel Hill, NC (Dean Smith Center, UNC)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1993-03-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/31/1993
+          </td>
+          <td>
+            Uniondale, NY (Nassau Veterans Memorial Colise...)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Row Jimmy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1993-03-31">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/25/1993
+          </td>
+          <td>
+            Sacramento, CA (Cal Expo Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Lazy River Road
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1993-05-25">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            6/6/1993
+          </td>
+          <td>
+            East Rutherford, NJ (Giants Stadium)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Lazy River Road
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1993-06-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            8/26/1993
+          </td>
+          <td>
+            Mountain View, CA (Shoreline Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tom Thumb Blues
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            17
+          </td>
+          <td>
+            [<a href="/1993-08-26">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/13/1993
+          </td>
+          <td>
+            Philadelphia, PA (The Spectrum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Dire Wolf
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            6
+          </td>
+          <td>
+            [<a href="/1993-09-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/6/1994
+          </td>
+          <td>
+            Phoenix, AZ (Desert Sky Pavilion)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            27
+          </td>
+          <td>
+            [<a href="/1994-03-06">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/20/1994
+          </td>
+          <td>
+            Richfield, OH (Richfield Coliseum)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Lazy River Road
+          </td>
+          <td>
+            Don't Ease
+          </td>
+          <td align="center">
+            4
+          </td>
+          <td>
+            [<a href="/1994-03-20">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/13/1994
+          </td>
+          <td>
+            Highgate, VT (Franklin County Field)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            28
+          </td>
+          <td>
+            [<a href="/1994-07-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/27/1994
+          </td>
+          <td>
+            Maryland Heights, MO (Riverport Amphitheatre)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Ramble On
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            9
+          </td>
+          <td>
+            [<a href="/1994-07-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            9/29/1994
+          </td>
+          <td>
+            Boston, MA (Boston Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            11
+          </td>
+          <td>
+            [<a href="/1994-09-29">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            10/13/1994
+          </td>
+          <td>
+            New York, NY (Madison Square Garden)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loose Lucy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1994-10-13">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            12/18/1994
+          </td>
+          <td>
+            Los Angeles, CA (Los Angeles Sports Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loose Lucy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td>
+            [<a href="/1994-12-18">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            2/24/1995
+          </td>
+          <td>
+            Oakland, CA (Oakland Coliseum Arena)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Loose Lucy
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            5
+          </td>
+          <td>
+            [<a href="/1995-02-24">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            3/27/1995
+          </td>
+          <td>
+            Atlanta, GA (The Omni)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            So Many Roads
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            10
+          </td>
+          <td>
+            [<a href="/1995-03-27">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            5/28/1995
+          </td>
+          <td>
+            Portland, OR (Portland Meadows)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            B. E. Women
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            14
+          </td>
+          <td>
+            [<a href="/1995-05-28">Setlist</a>]
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            7/2/1995
+          </td>
+          <td>
+            Noblesville, IN (Deer Creek Music Center)
+          </td>
+          <td align="center">
+            SI
+          </td>
+          <td>
+            Tennessee Jed
+          </td>
+          <td>
+            ——
+          </td>
+          <td align="center">
+            15
+          </td>
+          <td>
+            [<a href="/1995-07-02">Setlist</a>]
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>
